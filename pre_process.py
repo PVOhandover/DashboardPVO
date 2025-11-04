@@ -1,12 +1,13 @@
-## This file is for pre-processing the scrapped nos_articles.json file. ##
+## This file is for pre-processing the scrapped all_articles.json file. ##
 
 ## -------------------------------------------------------------- ##
 
-## First I will load the nos_articles JSON file into a DataFrame. ##
+## First I will load the all_articles JSON file into a DataFrame. ##
 import pandas as pd
 import json
 from geo_filter import build_geo_df
 from sme_filter import run_snorkel
+from narrow_locations import apply_location_narrowing
 
 
 with open("all_articles.json", "r", encoding="utf-8") as f:
@@ -19,7 +20,13 @@ df = build_geo_df("all_articles.json", min_conf=0.6)
 df, label_model = run_snorkel(df, min_conf=0.5)
 
 sme_filtered = df[df["sme_probability"] > 0.6]
+
+# We narrow down the locations
+sme_filtered = apply_location_narrowing(sme_filtered)
+
 print(sme_filtered)
+
+
 #print(df[["title", "sme_probability", "sme_label"]].head()) # peek
 
 ## -------------------------------------------------------------- ##
