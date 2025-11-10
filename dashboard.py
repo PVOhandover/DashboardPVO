@@ -5,7 +5,7 @@ import os
 from streamlit_folium import st_folium
 import folium
 from folium.plugins import HeatMap, MarkerCluster
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 
 #streamlit help
 def _rerun():
@@ -135,9 +135,13 @@ try:
         st.session_state.location_search = p.get("location_search", "")
         dr = p.get("date_range", (_min_date, _max_date))
         if isinstance(dr, (list, tuple)) and len(dr) == 2:
-            st.session_state.date_range = (_parse_to_date(dr[0]), _parse_to_date(dr[1]))
+            dr = (_parse_to_date(dr[0]), _parse_to_date(dr[1]))
         else:
-            st.session_state.date_range = (_min_date, _max_date)
+            dr = (_min_date, _max_date)
+
+        st.session_state.date_range = dr
+        st.session_state["date_range_widget"] = dr
+
 
     #text search filter
     text_filter = st.sidebar.text_input("Search text (applies to all string columns)", key="text_filter")
@@ -184,25 +188,64 @@ try:
     # -------------------------
     date_col = "published"
     if date_col in df.columns:
-        start_d, end_d = st.session_state.get("date_range", (_min_date, _max_date))
-        start_d, end_d = _clamp_date_range(_min_date, _max_date, (start_d, end_d))
+        overall_min = _min_date
+        overall_max = _max_date
 
-        _picked = st.sidebar.date_input(
+        cur_start, cur_end = st.session_state.get("date_range", (overall_min, overall_max))
+        cur_start, cur_end = _clamp_date_range(overall_min, overall_max, (cur_start, cur_end))
+
+        st.sidebar.markdown("**Quick date presets**")
+        c1, c2, c3, c4 = st.sidebar.columns(4)
+
+        # 30d
+        if c1.button("30d"):
+            new_start = overall_max - timedelta(days=30)
+            if new_start < overall_min:
+                new_start = overall_min
+            st.session_state.date_range = (new_start, overall_max)
+            st.session_state["date_range_widget"] = st.session_state.date_range
+
+
+        #90d
+        if c2.button("90d"):
+            new_start = overall_max - timedelta(days=90)
+            if new_start < overall_min:
+                new_start = overall_min
+            st.session_state.date_range = (new_start, overall_max)
+            st.session_state["date_range_widget"] = st.session_state.date_range
+
+        # 1y
+        if c3.button("1y"):
+            new_start = overall_max - timedelta(days=365)
+            if new_start < overall_min:
+                new_start = overall_min
+            st.session_state.date_range = (new_start, overall_max)
+            st.session_state["date_range_widget"] = st.session_state.date_range
+
+        #all
+        if c4.button("All"):
+            st.session_state.date_range = (overall_min, overall_max)
+            st.session_state["date_range_widget"] = st.session_state.date_range
+
+        cur_start, cur_end = st.session_state.date_range
+
+        picked = st.sidebar.date_input(
             "Filter by date",
-            value=(start_d, end_d),
-            min_value=_min_date,
-            max_value=_max_date,
-            key="date_range_widget",
+            value=(cur_start, cur_end),
+            min_value=overall_min,
+            max_value=overall_max,
+            key="date_range_widget"
         )
 
-        if isinstance(_picked, (list, tuple)) and len(_picked) == 2:
-            start_date, end_date = _picked
+        if isinstance(picked, (list, tuple)) and len(picked) == 2:
+            start_date, end_date = picked
         else:
-            start_date = end_date = _picked
+            start_date = end_date = picked
 
-        start_date, end_date = _clamp_date_range(_min_date, _max_date, (start_date, end_date))
+        start_date, end_date = _clamp_date_range(overall_min, overall_max, (start_date, end_date))
         st.session_state.date_range = (start_date, end_date)
 
+        #filter
         tmp_dates = pd.to_datetime(filtered_df[date_col], errors="coerce")
         filtered_df = filtered_df.loc[tmp_dates.notna()].copy()
         tmp_dates = tmp_dates.loc[tmp_dates.notna()]
