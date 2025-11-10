@@ -107,6 +107,9 @@ try:
     # -------------------------
     st.sidebar.header("Filter Options")
 
+    if st.sidebar.button("Refresh data"):
+        st.cache_data.clear()
+        _rerun()
     # Column selector
     # cols_to_show = st.sidebar.multiselect(
     #     "Select columns to display",
@@ -295,6 +298,33 @@ try:
         }
         _save_presets(_presets)
         st.sidebar.success(f"Saved preset “{_new_preset}”.")
+
+
+    #confirm delete
+    if "confirm_delete_presets" not in st.session_state:
+        st.session_state.confirm_delete_presets = False
+
+    if st.sidebar.button("Delete all presets"):
+        st.session_state.confirm_delete_presets = True
+        _rerun()
+
+    if st.session_state.confirm_delete_presets:
+        st.sidebar.warning("This will remove ALL saved presets")
+        col_del, col_cancel = st.sidebar.columns(2)
+
+        with col_del:
+            if st.button("Yes, delete", key="delete_presets_yes"):
+                if os.path.exists(PRESETS_FILE):
+                    os.remove(PRESETS_FILE)
+                st.session_state.confirm_delete_presets = False
+                st.sidebar.success("All presets deleted")
+                _rerun()
+
+        with col_cancel:
+            if st.button("Cancel", key="delete_presets_cancel"):
+                st.session_state.confirm_delete_presets = False
+                _rerun()
+
 
     #reset
     if st.sidebar.button("Reset filters"):
