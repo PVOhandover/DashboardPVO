@@ -6,6 +6,7 @@ from streamlit_folium import st_folium
 import folium
 from folium.plugins import HeatMap, MarkerCluster
 from datetime import datetime, date, timedelta
+import altair as alt
 
 #streamlit help
 def _rerun():
@@ -408,7 +409,7 @@ try:
     # -------------------------
     # Top Keywords from Filtered Articles
     # -------------------------
-    st.subheader("Top Keywords (Filtered Selection)")
+    st.subheader("Top keywords (filtered selection)")
 
     def extract_keywords(df):
         all_keywords = []
@@ -431,10 +432,18 @@ try:
             .head(20)
         )
 
-        st.bar_chart(
-            data=top_keywords.set_index("word")["score"],
-            use_container_width=True
+        kw_chart = (
+            alt.Chart(top_keywords)
+            .mark_bar()
+            .encode(
+                x=alt.X("score:Q", title="Score"),
+                y=alt.Y("word:N", sort='-x', title="Keyword"),
+                tooltip=["word", "score"]
+            )
+            .properties(height=400)
         )
+        st.altair_chart(kw_chart, use_container_width=True)
+
 
         st.dataframe(top_keywords, use_container_width=True)
         st.caption("Keywords aggregated across all articles after filtering.")
