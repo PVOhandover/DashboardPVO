@@ -72,6 +72,7 @@ for g in (nl_gaz, be_gaz, de_gaz):
 import joblib
 import pandas as pd
 from location_classifier import extract_features
+from location_model_loader import is_likely_location_from_model
 try:
     bundle = joblib.load("models/location_classifier_latest.pkl")
     clf = bundle["model"]
@@ -166,12 +167,8 @@ def build_geo_df(json_path="nos_articles.json", min_conf=0.6):
     df["locations"] = df["clean_geo"].apply(detect_candidate_locations)
 
     # 4) Filter out non-location words from detected locations using the logistic-regression model:
-    def filter_predicted_locations(locs):
-        if not isinstance(locs, list):
-            return []
-        return [loc for loc in locs if is_likely_location(loc)]
-    
-    df["locations"] = df["locations"].apply(filter_predicted_locations)
+    df["locations"] = df["locations"].apply(
+    lambda locs: [loc for loc in locs if is_likely_location_from_model(loc, extract_features)])
     print("[geo_filter] Filtered non-location terms from locations column.")
 
     # 5) Get the voting per article:
