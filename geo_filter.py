@@ -43,7 +43,7 @@ def get_raw_text_geo(row):
 ## We will use spaCy to detect candidate location names. ##
 import spacy
 
-nlp = spacy.load('nl_core_news_sm')
+nlp = spacy.load('nl_core_news_sm', disable=["tagger", "parser", "lemmatizer", "attribute_ruler"])
 
 def detect_candidate_locations(text):
     doc = nlp(text)
@@ -63,6 +63,8 @@ de_gaz = load_geonames_file("geoNames/DE.txt", keep_countries={"DE"})
 gazetteer = {}
 for g in (nl_gaz, be_gaz, de_gaz):
     gazetteer.update(g)
+
+gazetteer = {k.lower(): v for k, v in gazetteer.items()}
 
 # print("Total entries in gazetteer:", len(gazetteer))
 # print(list(gazetteer.items())[:20]) # peek
@@ -164,11 +166,19 @@ def build_geo_df(json_path="nos_articles.json", min_conf=0.6):
     df["clean_geo"] = df.apply(lambda r: clean_text_geo(get_raw_text_geo(r)), axis=1)
 
     # 3) Detect candidate locations for all articles:
-    df["locations"] = df["clean_geo"].apply(detect_candidate_locations)
+    texts = df["clean_geo"].tolist()
+    docs = list(nlp.pipe(texts, batch_size=50))
+    df["locations"] = [[ent.text for ent in doc.ents if ent.label_ in {"LOC","GPE"}] for doc in docs]
 
     # 4) Filter out non-location words from detected locations using the logistic-regression model:
-    df["locations"] = df["locations"].apply(
-    lambda locs: [loc for loc in locs if is_likely_location_from_model(loc, extract_features)])
+    all_candidates = {loc for locs in df["locations"] for loc in locs}
+    if clf and len(all_candidates) > 0:
+        feat_df = pd.DataFrame([extract_features(w) for w in all_candidates])
+        feat_df["word"] = list(all_candidates)
+        feat_df = feat_df.set_index("word")
+        feat_df["is_loc"] = clf.predict_proba(feat_df[feature_cols])[:, 1] > 0.5
+        loc_dict = feat_df["is_loc"].to_dict()
+        df["locations"] = df["locations"].apply(lambda locs: [loc for loc in locs if loc_dict.get(loc, False)])
     print("[geo_filter] Filtered non-location terms from locations column.")
 
     # 5) Get the voting per article:
