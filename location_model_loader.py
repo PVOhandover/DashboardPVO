@@ -2,7 +2,8 @@
 import joblib
 import pandas as pd
 
-# This is implemented to load the logistic regression model once.
+# This is implemented to load the logistic regression model only once and 
+# not everytime the pre-process runs to not slow down the pipeline.
 try:
     bundle = joblib.load("models/location_classifier_latest.pkl")
     clf = bundle["model"]
