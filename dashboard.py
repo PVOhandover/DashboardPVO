@@ -166,25 +166,107 @@ try:
         st.session_state["date_range_widget"] = dr
 
 
+
     #text search filter
-    text_filter = st.sidebar.text_input("Search text (applies to all string columns)", key="text_filter")
+    # query search across all string-like columns (AND / OR / NOT with quotes)
+    st.sidebar.markdown("""
+    **Query search syntax**
+    - Words are default **ANDed**: `ransomware privacy`
+    - Put **OR** to search for either: `privacy OR salesforce`
+    - Exclude with minus: `-microsoft`
+    - Exact phrase in quotes: `"data leak"`
+    - Leave empty to match all
+    """)
 
-
+    query = st.sidebar.text_input(
+        "Query search (space=AND, OR=OR, -term=NOT, quotes for phrases)",
+        key="text_filter"
+    )
 
     filtered_df = df.copy()
-    if text_filter:
-        mask = pd.Series(False, index=filtered_df.index)
-        for col in filtered_df.select_dtypes(include=["object", "string"]).columns:
-            mask |= filtered_df[col].astype(str).str.contains(text_filter, case=False, na=False)
+    if query.strip():
+        import shlex
+        tokens = shlex.split(query)
+
+        include_terms, any_terms, exclude_terms = [], [], []
+        for i, t in enumerate(tokens):
+            if t.upper() in ("OR", "|"):
+                continue
+            if t.startswith("-"):
+                exclude_terms.append(t[1:])
+                continue
+            prev_is_or = i > 0 and tokens[i-1].upper() in ("OR", "|")
+            next_is_or = i < len(tokens)-1 and tokens[i+1].upper() in ("OR", "|")
+            (any_terms if (prev_is_or or next_is_or) else include_terms).append(t)
+
+        str_cols = filtered_df.select_dtypes(include=["object", "string"]).columns
+
+
+        def contains_any(series, term):
+            #case-insensitive search (lists get stringified)
+            return series.astype(str).str.contains(term, case=False, na=False, regex=False)
+
+        #all rows
+        mask = pd.Series(True, index=filtered_df.index)
+
+        # AND
+        for term in include_terms:
+            term_mask = pd.Series(False, index=filtered_df.index)
+            for c in str_cols:
+                term_mask |= contains_any(filtered_df[c], term)
+            mask &= term_mask
+
+        # OR
+        if any_terms:
+            any_mask = pd.Series(False, index=filtered_df.index)
+            for term in any_terms:
+                term_mask = pd.Series(False, index=filtered_df.index)
+                for c in str_cols:
+                    term_mask |= contains_any(filtered_df[c], term)
+                any_mask |= term_mask
+            mask &= any_mask
+
+        #NOT
+        if exclude_terms:
+            ex_mask = pd.Series(False, index=filtered_df.index)
+            for term in exclude_terms:
+                term_mask = pd.Series(False, index=filtered_df.index)
+                for c in str_cols:
+                    term_mask |= contains_any(filtered_df[c], term)
+                ex_mask |= term_mask
+            mask &= ~ex_mask
+
         filtered_df = filtered_df[mask]
+
+
 
     # Feed filter
     if "feed" in filtered_df.columns:
-        feed_options = filtered_df["feed"].dropna().unique().tolist()
+        feed_options = sorted(filtered_df["feed"].dropna().unique().tolist())
+
+    current_sel = st.session_state.get("selected_feeds", feed_options_all)
+    valid_sel = [f for f in current_sel if f in feed_options]
+
+    if not feed_options:
+        st.session_state.selected_feeds = []
+        st.sidebar.multiselect("Filter by feed", options=[], default=[], key="selected_feeds")
+    else:
+        if not valid_sel:
+            valid_sel = feed_options
+        st.session_state.selected_feeds = valid_sel
+
         selected_feeds = st.sidebar.multiselect(
-            "Filter by feed", options=feed_options, default=st.session_state.get("selected_feeds", feed_options_all), key="selected_feeds"
+            "Filter by feed",
+            options=feed_options,
+            default=valid_sel,
+            key="selected_feeds",
         )
-        filtered_df = filtered_df[filtered_df["feed"].isin(selected_feeds)]
+        if selected_feeds:
+            filtered_df = filtered_df[filtered_df["feed"].isin(selected_feeds)]
+        else:
+            filtered_df = filtered_df.iloc[0:0]
+
+
 
     # -------------------------
     # Location filter
@@ -449,8 +531,15 @@ try:
     k = 5
     sme_df = filtered_df.sort_values(by='sme_probability', ascending=False).head(k)
 
+
+
     spotlight_df = pd.concat([in_limburg_df, sme_df])
     spotlight_df = spotlight_df[~spotlight_df.index.duplicated(keep='first')]
+
+
+
+
+    # spotliht
 
     st.subheader("Spotlight")
     pretty = spotlight_df.copy()
@@ -477,7 +566,7 @@ try:
     st.dataframe(
         pretty,
         hide_index=True,
-        use_container_width=True,
+        width='stretch',
         column_config={
             "source": st.column_config.TextColumn("Source", width="small"),
             "title":  st.column_config.TextColumn("Title", width="medium"),
@@ -532,7 +621,7 @@ try:
         st.altair_chart(kw_chart, use_container_width=True)
 
 
-        st.dataframe(top_keywords, use_container_width=True)
+        st.dataframe(top_keywords, width='stretch')
         st.caption("Keywords aggregated across all articles after filtering.")
     else:
         st.info("No keywords found for the filtered selection.")
