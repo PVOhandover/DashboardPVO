@@ -8,6 +8,10 @@ from folium.plugins import HeatMap, MarkerCluster
 from datetime import datetime, date, timedelta
 import altair as alt
 
+
+# streamlit run dashboard.py
+
+
 #streamlit help
 def _rerun():
     try:
@@ -38,6 +42,21 @@ def _clamp_date_range(min_d: date, max_d: date, value):
         sd, ed = min_d, max_d
     return (sd, ed)
 
+
+
+def _time_ago(ts: pd.Timestamp) -> str:
+    if pd.isna(ts):
+        return ""
+    now = pd.Timestamp.utcnow().tz_localize(None)
+    delta = now - ts
+    d = delta.days
+    h = delta.seconds // 3600
+    m = (delta.seconds % 3600) // 60
+    if d > 0:
+        return f"{d}d {h}h"
+    if h > 0:
+        return f"{h}h {m}m"
+    return f"{m}m"
 
 
 #preset storage
@@ -432,8 +451,46 @@ try:
 
     spotlight_df = pd.concat([in_limburg_df, sme_df])
     spotlight_df = spotlight_df[~spotlight_df.index.duplicated(keep='first')]
-    st.subheader(f"Spotlight")
-    st.dataframe(spotlight_df)
+
+    st.subheader("Spotlight")
+    pretty = spotlight_df.copy()
+
+    pretty["published_dt"] = pd.to_datetime(pretty.get("published"), errors="coerce", utc=True) \
+        .dt.tz_convert(None)
+
+    pretty = pretty.rename(columns={"feed": "source"})
+
+    pretty["date"] = pretty["published_dt"].dt.strftime("%Y-%m-%d %H:%M")
+    pretty["age"] = pretty["published_dt"].apply(_time_ago)
+
+
+    if "url" not in pretty.columns:
+        pretty["url"] = ""
+
+
+
+
+    display_cols = ["source", "title", "date", "age", "url"]
+    pretty = pretty.reindex(columns=display_cols).sort_values("date", ascending=False)
+
+
+    st.dataframe(
+        pretty,
+        hide_index=True,
+        use_container_width=True,
+        column_config={
+            "source": st.column_config.TextColumn("Source", width="small"),
+            "title":  st.column_config.TextColumn("Title", width="medium"),
+            "date":   st.column_config.TextColumn("Published", width="small"),
+            "age":    st.column_config.TextColumn("Age", help="Time since publication"),
+            "url":    st.column_config.LinkColumn("Open", display_text="Open")
+        }
+    )
+
+
+
+
+
 
 
     # -------------------------
