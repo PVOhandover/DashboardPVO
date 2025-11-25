@@ -80,6 +80,7 @@ def apply_location_narrowing(df):
         - 'locations' (list of location strings)
     Returns the same DataFrame with narrowed 'locations'.
     """
+    df = df.copy()
     print(f"Applying contextual location narrowing on {len(df)} SME articles...")
 
     before_counts = df["locations"].apply(len)

@@ -8,6 +8,7 @@ import json
 from geo_filter import build_geo_df
 from sme_filter import run_snorkel
 from narrow_locations import apply_location_narrowing
+from sector_classifier import add_sector_classification
 
 
 with open("all_articles.json", "r", encoding="utf-8") as f:
@@ -23,6 +24,9 @@ sme_filtered = df[df["sme_probability"] > 0.6]
 
 # We narrow down the locations
 sme_filtered = apply_location_narrowing(sme_filtered)
+
+# SECTOR CLASSIFICATION
+sme_filtered = add_sector_classification(sme_filtered)
 
 print(sme_filtered)
 
