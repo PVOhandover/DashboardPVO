@@ -109,7 +109,7 @@ limburg = limburg_box()
 #--------------------------------
 
 FILE_PATH = "keywords\\all_articles_keywords.json"
-st.title("Dashboard Prototype (I)")
+st.title("PVO Dashboard")
 
 try:
 
@@ -179,7 +179,7 @@ try:
     """)
 
     query = st.sidebar.text_input(
-        "Query search (space=AND, OR=OR, -term=NOT, quotes for phrases)",
+        "",
         key="text_filter"
     )
 
@@ -440,7 +440,7 @@ try:
     # -------------------------
     # Map Section — Using Cached Geocoded Data
     # -------------------------
-    st.subheader("Interactive Article Map")
+    st.subheader("Interactive map")
 
     def geocode_locations_with_cache(rows, cache_file="cache/geocode_cache.json"):
         """Load cached coordinates (no warnings, no API calls)."""
@@ -484,7 +484,8 @@ try:
     # Display the map and types of it
     if geo_records:
 
-        map_mode = st.radio("Map mode", ["Heatmap", "Markers"], horizontal=True)
+        map_mode = st.radio("Map mode", ["Heatmap", "Markers"], index=1, horizontal=True)
+
 
         m = folium.Map(location=[52.1, 5.3], zoom_start=7)
 
@@ -585,7 +586,7 @@ try:
     # -------------------------
     # Top Keywords from Filtered Articles
     # -------------------------
-    st.subheader("Top keywords (filtered selection)")
+    st.subheader("Top keywords")
 
     def extract_keywords(df):
         all_keywords = []
