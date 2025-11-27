@@ -627,6 +627,62 @@ try:
     else:
         st.info("No keywords found for the filtered selection.")
 
+    st.subheader("Keyword Trends Over Time (Heatmap)")
+    
+    if not filtered_df.empty:
+        # Extract all keywords per article with published month
+        trend_rows = []
+        for _, row in filtered_df.iterrows():
+            pub = row.get("published")
+            if pub:
+                pub_date = pd.to_datetime(pub, errors="coerce")
+                if pd.notna(pub_date):
+                    month_str = pub_date.strftime("%Y-%m")
+                    kw_list = row.get("keywords", [])
+                    if isinstance(kw_list, list):
+                        for kw in kw_list:
+                            if isinstance(kw, dict) and "word" in kw:
+                                trend_rows.append({
+                                "keyword": kw["word"],
+                                "month": month_str
+                            })
+        if trend_rows:
+            trend_df = pd.DataFrame(trend_rows)
+
+            # Count keyword frequency per month
+            heat_df = (
+            trend_df.groupby(["keyword", "month"])
+            .size()
+            .reset_index(name="count")
+            )
+
+            # keep only the top 20 keywords overall for readability
+            top_20 = (
+                heat_df.groupby("keyword")["count"].sum()
+                .sort_values(ascending=False)
+                .head(20)
+                .index.tolist()
+            )
+            heat_df = heat_df[heat_df["keyword"].isin(top_20)]
+
+            # Build heatmap
+            heatmap = (
+                alt.Chart(heat_df)
+                .mark_rect()
+                .encode(
+                    x=alt.X("month:N", title="Month", sort="ascending"),
+                    y=alt.Y("keyword:N", title="Keyword"),
+                    color=alt.Color("count:Q", scale=alt.Scale(scheme="reds")),
+                    tooltip=["keyword", "month", "count"]
+                )
+            .properties(height=400)
+        )
+        st.altair_chart(heatmap, use_container_width=True)
+
+    else:
+        st.info("No keyword trend data available for the filtered selection.")       
+
+
 
     # with st.expander("Show raw JSON data"):
     #     st.json(data)
