@@ -3,13 +3,14 @@ import json
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
+
 BASE_URL = "https://api.politie.nl/v4/nieuws"
 
 # Date window for October 2025
 FROM_DATE = "20251001"
 TO_DATE = "20251031"
 
-OUTPUT_FILE = f"police_{FROM_DATE}-{TO_DATE}.json"
+OUTPUT_FILE = "scrapedArticles/politie.json"
 
 
 def convert_article(old):
@@ -48,15 +49,15 @@ def convert_article(old):
 
 
 
-def fetch_news_october_2025():
+def fetch_news(from_date, to_date):
     all_items = []
     offset = 0
     max_items = 25  # allowed values: 10 or 25
 
     while True:
         params = {
-            "fromdate": FROM_DATE,
-            "todate": TO_DATE,
+            "fromdate": from_date,
+            "todate": to_date,
             "language": "nl",
             "maxnumberofitems": max_items,
             "offset": offset
@@ -87,11 +88,74 @@ def fetch_news_october_2025():
     # Save results
     converted = [convert_article(item) for item in all_items]
 
+    return converted
+    # with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    #     json.dump(converted, f, ensure_ascii=False, indent=4)
+
+
+def scrape_1yr():
+    today = datetime.today().strftime("%Y%m%d")
+    one_year_before = datetime.today().replace(year=datetime.today().year - 1).strftime("%Y%m%d")
+
+    result = fetch_news(one_year_before, today)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(converted, f, ensure_ascii=False, indent=4)
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
 
-    print(f"Saved {len(all_items)} items to {OUTPUT_FILE}")
+def merge_and_dedupe(items, key="url"):
+    seen = set()
+    merged = []
+
+    for item in items:
+        identifier = item.get(key)
+        if identifier not in seen:
+            seen.add(identifier)
+            merged.append(item)
+
+    return merged
+
+def update_csvs():
+    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    published_str = data[0]["published"]
+    dt = datetime.strptime(published_str, "%a, %d %b %Y %H:%M:%S %Z")
+
+    update = dt.strftime("%Y%m%d")
+    today = datetime.today().strftime("%Y%m%d")
+
+    result = fetch_news(update, today)   
+
+    merged = merge_and_dedupe(result + data)
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(merged, f, indent=2)
+
+
+def buh_bye():
+    print("Bye.")
+    exit(0)
+
+def main():
+    while True:
+        print("\n=== Main Menu ===")
+        print("1) Scrape 1 year")
+        print("2) Update")
+        print("3) Exit")
+
+        choice = input("Enter your choice (1-3): ").strip()
+
+        if choice == "1":
+            scrape_1yr()
+        elif choice == "2":
+            update_csvs()
+        elif choice == "3":
+            buh_bye()
+        else:
+            print("Invalid choice. Please enter a number between 1 and 3.")
+
+
 
 if __name__ == "__main__":
-    fetch_news_october_2025()
+    # fetch_news(FROM_DATE, TO_DATE)
+    main()
