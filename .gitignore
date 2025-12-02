@@ -1,1 +1,2 @@
-__pycache__/
+scrapedArticles/cbs_crime.json
+scrapedArticles/*.json
