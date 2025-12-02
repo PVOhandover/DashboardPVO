@@ -268,6 +268,16 @@ try:
 
 
 
+    #SME probability threshold
+    if "sme_probability" in filtered_df.columns:
+        min_sme_prob = st.sidebar.slider(
+            "Min SME probability",
+            0.0, 1.0, value=0.0, step=0.05, key="min_sme_probability",
+            help="Hide articles with SME probability below this threshold"
+        )
+        filtered_df = filtered_df[filtered_df["sme_probability"].fillna(0) >= min_sme_prob]
+
+
     # -------------------------
     # Location filter
     # -------------------------
