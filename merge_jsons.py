@@ -64,5 +64,12 @@ def csv_to_json(csv_file_path, json_file_path, feed):
     print(f"✅ Successfully converted {csv_file_path} → {json_file_path}")
 
 if __name__ == "__main__":
-    csv_to_json("articles\\security_nl_articles.csv", f"{INPUT_DIR}\\security_nl_articles.json", 'security.nl')
+    csv_path = os.path.join("articles", "security_nl_articles.csv")
+    json_path = os.path.join(INPUT_DIR, "security_nl_articles.json")
+
+    if os.path.exists(csv_path):
+        csv_to_json(csv_path, json_path, "security.nl")
+    else:
+        print(f"ℹ️ CSV not found at {csv_path} — skipping CSV import.")
+
     merge_json_files(INPUT_DIR, OUTPUT_FILE)

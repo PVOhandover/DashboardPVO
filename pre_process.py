@@ -9,6 +9,7 @@ from geo_filter import build_geo_df
 from sme_filter import run_snorkel
 from narrow_locations import apply_location_narrowing
 from sector_classifier import add_sector_classification
+from narrow_locations import apply_location_narrowing
 
 ### >>> CACHING ADDED >>>
 import os
@@ -27,8 +28,16 @@ def save_cache(cache):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 def make_article_id(article):
-    key = (article.get("title", "") + article.get("date", "")).encode("utf-8")
-    return hashlib.md5(key).hexdigest()
+    url = (article.get("url") or "").strip()
+    if url:
+        key = url
+    else:
+        key = (
+                (article.get("title", "") or "") +
+                (article.get("published", "") or "") +
+                (article.get("date", "") or "")
+        )
+    return hashlib.md5(key.encode("utf-8")).hexdigest()
 ### <<< END CACHING <<<
 
 
@@ -49,7 +58,8 @@ for art in data:
         continue
 
     # Save single article to temp JSON (build_geo_df requires a file path)
-    temp_path = "_cache_single.json"
+    os.makedirs("cache", exist_ok=True)
+    temp_path = os.path.join("cache", "_cache_single.json")
     with open(temp_path, "w", encoding="utf-8") as tf:
         json.dump([art], tf, ensure_ascii=False, indent=2)
 
@@ -157,177 +167,63 @@ def word_tokenizer(example, vocab, unknown_token='<unk>'):
     return example
 ## -------------------------------------------------------------- ##
 
-## TESTING AREA ##
-## This is the where Train/Test split + vocab + word tokenization for NOS articles is being done. ##
-from sklearn.model_selection import train_test_split
-import sys
+# -------------------------
+# Dashboard keyword output
+# -------------------------
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
+from nltk.corpus import stopwords
 
-# --- after building sme_filtered ---
-if len(sme_filtered) == 0:
-    print("⚠️ No SME articles found — skipping split.")
-    sys.exit(0)
-elif len(sme_filtered) < 3:
-    print(f"⚠️ Only {len(sme_filtered)} SME article(s) found — skipping train/test split.")
-    sys.exit(0)
+# If no SME articles, still write an empty file so Actions/Streamlit don't break
+os.makedirs("keywords", exist_ok=True)
+OUT_JSON = os.path.join("keywords", "all_articles_keywords.json")
 
+if sme_filtered.empty:
+    with open(OUT_JSON, "w", encoding="utf-8") as f:
+        json.dump([], f, ensure_ascii=False, indent=2)
+    print(f"⚠️ No SME articles found. Wrote empty {OUT_JSON}.")
+    raise SystemExit(0)
 
-# 1) I split the DataFrame into train/test.
-train_df, test_df = train_test_split(sme_filtered, test_size=0.2, random_state=42)
-
-news_ds = {
-    "train": train_df.to_dict(orient="records"),
-    "test": test_df.to_dict(orient="records"),
-}
-
-# 2) Making sure that each row has a 'clean' field (uses 'full_text' if present, otherwise title+summary).
 def get_raw_text(row):
     if "full_text" in row and isinstance(row["full_text"], str) and row["full_text"].strip():
         return row["full_text"]
-    # If full_text is missing, then title + summary:
     title = row.get("title", "") or ""
     summary = row.get("summary", "") or ""
     return f"{title} {summary}".strip()
 
-for split in ["train", "test"]:
-    for row in news_ds[split]:
-        row["clean"] = clean_text(get_raw_text(row))
+# Ensure each row has 'clean'
+sme_filtered = sme_filtered.copy()
+sme_filtered["clean"] = sme_filtered.apply(lambda r: clean_text(get_raw_text(r)), axis=1)
 
-# 3) Building vocabulary from TRAIN only:
-vocab_counter = build_vocabulary(news_ds["train"])
-#print("Size of the vocabulary:", len(vocab_counter))
+# Dutch stopwords
+nltk.download("stopwords", quiet=True)
+stopword_list = stopwords.words("dutch")
 
-# 4) Limiting vocab to top-10000 most frequent terms:
-max_vocab_size = 10000
-vocab = vocab_counter.most_common(max_vocab_size)
+corpus = sme_filtered["clean"].fillna("").tolist()
 
-# 5) Casting to a plain list of words (droping their counts):
-vocab = [word for word, _ in vocab]
-#print("Final vocab size (after cutoff):", len(vocab))
-
-# 6) Tokenizing TRAIN set:
-for i in range(len(news_ds["train"])):
-    news_ds["train"][i] = word_tokenizer(news_ds["train"][i], vocab)
-
-# 6) Checking the OOV rate for the TRAIN set:
-total = 0
-oov = 0
-for row in news_ds["train"]:
-    toks = row.get("tokens", [])
-    total += len(toks)
-    oov += sum(1 for t in toks if t == "<unk>")
-#print(f"OOV rate: {oov}/{total} = {oov/total:.2%}")
-
-
-# 7) Shows first 10 examples from TRAIN set:
-#for i in range(min(10, len(news_ds["train"]))):
-    #print("Original article:")
-    #print(get_raw_text(news_ds["train"][i]))
-    #print("Tokenized article:")
-    #print(news_ds["train"][i]["tokens"])
-    #print("-" * 40)
-## -------------------------------------------------------------- ##
-
-## -------------------------------------------------------------- ##
-## TF-IDF Keyword Extraction for SME-filtered articles ##
-import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
-from nltk.corpus import stopwords
-import nltk
-
-
-print("🔧 Building TF-IDF keyword lists for SME-filtered articles...")
-
-# Download and load Dutch stopwords
-nltk.download('stopwords', quiet=True)
-stopword_list = stopwords.words('dutch')
-
-# Build corpus from 'clean' column in the SME-filtered dataset
-# (the split ensures each row already has a 'clean' field)
-corpus = [row["clean"] for row in news_ds["train"] if row.get("clean", "").strip()]
-
-# Build Bag-of-Words with stopword filtering
-vectorizer = CountVectorizer(
-    max_features=10000,
-    stop_words=stopword_list,
-)
-bows = vectorizer.fit_transform(corpus).toarray()
+vectorizer = TfidfVectorizer(max_features=10000, stop_words=stopword_list)
+tfidf = vectorizer.fit_transform(corpus)
 vocab = np.array(vectorizer.get_feature_names_out())
 
-# Calculate IDF
-def calculate_idf(bows):
-    """
-    Calculates the IDF for each word in the vocabulary.
-    Args:
-        bows: numpy array of shape (N x D)
-    Returns: numpy array of size D with IDF values for each token.
-    """
-    N = bows.shape[0]
-    df = np.count_nonzero(bows, axis=0)
-    df = np.where(df == 0, 1, df)  # avoid division by zero
-    idf = np.log10(N / df)
-    return idf
+top_k = 10
+keywords_col = []
+for i in range(tfidf.shape[0]):
+    row = tfidf[i].toarray().ravel()
+    if row.sum() == 0:
+        keywords_col.append([])
+        continue
+    top_idx = row.argsort()[-top_k:][::-1]
+    kws = [{"word": vocab[j], "score": float(row[j])} for j in top_idx if row[j] > 0]
+    keywords_col.append(kws)
 
-idf = calculate_idf(bows)
+sme_filtered["keywords"] = keywords_col
 
-# Compute TF-IDF for each document
-def compute_tfidf_matrix(bows, idf):
-    tfidf_matrix = bows * idf
-    norms = np.linalg.norm(tfidf_matrix, axis=1, keepdims=True)
-    norms[norms == 0] = 1
-    return tfidf_matrix / norms
-
-tfidf_matrix = compute_tfidf_matrix(bows, idf)
-
-# Extract top-k keywords per document
-def extract_keywords(tfidf_matrix, vocab, top_k=10):
-    keywords = []
-    for row in tfidf_matrix:
-        top_indices = row.argsort()[-top_k:][::-1]
-        top_words = vocab[top_indices]
-        top_scores = row[top_indices]
-        keywords.append(list(zip(top_words, top_scores)))
-    return keywords
-
-article_keywords = extract_keywords(tfidf_matrix, vocab, top_k=10)
-
-# Attach top keywords back to the training DataFrame
-train_df = pd.DataFrame(news_ds["train"]).copy()
-train_df["keywords"] = [
-    [{"word": w, "score": float(s)} for w, s in kws] for kws in article_keywords
-]
-
-# Save results to a new JSON file
-train_df.to_json(
-    "keywords/all_articles_keywords_NEW.json",
+sme_filtered.to_json(
+    OUT_JSON,
     orient="records",
     indent=2,
-    force_ascii=False,
+    force_ascii=False
 )
 
-print("TF-IDF keyword extraction completed.")
-print(train_df[["title", "keywords"]].head())
-## -------------------------------------------------------------- ##
-
-# TEST to see the top 20 keywords from news sources
-from collections import Counter
-
-# aggregate scores
-global_keywords = Counter()
-for kws in article_keywords:
-    for w, s in kws:
-        global_keywords[w] += float(s)
-
-# deduplicate (Counter already merges same words)
-# sort descending
-top_keywords = global_keywords.most_common(20)
-
-print("\n Top 20 overall SME keywords (deduplicated & sorted):")
-for word, score in top_keywords:
-    print(f"{word:<20} {score:.3f}")
-
-# Save keywords to JSON file for visualization
-output_file = "keywords/all_articles_top_keywords.json"
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(dict(top_keywords), f, ensure_ascii=False, indent=2)
-
-print(f"\n Saved top 20 keywords to {output_file}")
+print(f"✅ Wrote {OUT_JSON} with {len(sme_filtered)} SME articles.")
