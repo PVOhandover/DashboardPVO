@@ -140,6 +140,22 @@ limburg = limburg_box()
 FILE_PATH = "keywords\\all_articles_keywords.json"
 st.title("PVO Dashboard")
 
+
+st.markdown("""
+<style>
+.divider{
+  height: 10px;
+  background: #3b3b3b;
+  border-radius: 6px;
+  margin: 14px 0 20px;
+}
+</style>
+""", unsafe_allow_html=True)
+
+def divider():
+    st.markdown("<div class='divider'></div>", unsafe_allow_html=True)
+
+
 try:
 
     with open(FILE_PATH, "r", encoding="utf-8") as f:
@@ -513,6 +529,7 @@ try:
         f"sectors: {_sector_ct or 'all'}"
     )
     st.write(f"**{len(filtered_df)}** articles match.")
+    divider()
 
     # Downloads for filtered data
     c_dl1, c_dl2 = st.columns(2)
@@ -710,7 +727,7 @@ try:
 
         st_folium(m, width=1000, height=600)
         st.write(f"Showing {len(geo_article_records)} articles with cached coordinates")
-
+        divider()
     else:
         st.info("No cached geocoded locations found for current filter")
 
@@ -793,6 +810,7 @@ try:
     )
 
 
+    divider()
 
 
 
@@ -881,6 +899,7 @@ try:
         st.info("No keywords found for the current filter")
 
 
+    divider()
 
 
 
@@ -995,6 +1014,17 @@ try:
             focus_kw = focus_effective
             counts = counts[counts["keyword"].isin(focus_kw)]
 
+            custom_palette = ['#56B4E9', '#E69F00', '#009E73', '#CC79A7', '#D55E00']
+
+            color_enc = alt.Color(
+                "keyword:N",
+                title="Keyword",
+                scale=alt.Scale(
+                    domain=focus_kw,
+                    range=custom_palette[:len(focus_kw)]
+                )
+            )
+
             months_sorted = sorted(counts["month"].unique())
             grid = pd.MultiIndex.from_product([focus_kw, months_sorted], names=["keyword", "month"]).to_frame(index=False)
             raw = grid.merge(counts, on=["keyword", "month"], how="left").fillna({"count": 0})
@@ -1040,7 +1070,7 @@ try:
                     alt.Chart(norm).mark_line().encode(
                         x=alt.X("month:N", title="Month", sort="ascending"),
                         y=alt.Y("y_val:Q", title=y_title),
-                        color=alt.Color("keyword:N", title="Keyword"),
+                        color=color_enc,
                         tooltip=["keyword", "month", alt.Tooltip("y_val:Q", title="share%", format=".2f")]
                     ).properties(height=420)
                 )
@@ -1070,7 +1100,7 @@ try:
                     alt.Chart(raw).mark_line().encode(
                         x=alt.X("month:N", title="Month", sort="ascending"),
                         y=alt.Y("y_val:Q", title=y_title),
-                        color=alt.Color("keyword:N", title="Keyword"),
+                        color=color_enc,
                         tooltip=["keyword", "month", alt.Tooltip("y_val:Q", title="mentions", format=".2f")]
                     ).properties(height=420)
                 )
