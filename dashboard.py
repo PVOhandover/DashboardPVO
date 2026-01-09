@@ -249,8 +249,10 @@ try:
     """)
 
     query = st.sidebar.text_input(
-        "",
-        key="text_filter"
+        "Search query",
+        key="text_filter",
+        label_visibility="collapsed",
+        placeholder=''
     )
 
     filtered_df = df.copy()
@@ -595,7 +597,6 @@ try:
     st.subheader("Interactive map")
 
     def geocode_locations_with_cache(rows, cache_file="cache/geocode_cache.json"):
-        """Load cached coordinates (no warnings, no API calls)."""
         os.makedirs(os.path.dirname(cache_file), exist_ok=True)
         cache = {}
         if os.path.exists(cache_file):
@@ -632,24 +633,10 @@ try:
 
     if geo_article_records:
         #koloren
-        COLOR_HEX = {
-            "red": "#e74c3c",
-            "blue": "#2980b9",
-            "green": "#27ae60",
-            "purple": "#8e44ad",
-            "orange": "#f39c12",
-            "darkred": "#a93226",
-            "darkblue": "#1f3a93",
-            "darkgreen": "#196f3d",
-            "cadetblue": "#5f9ea0",
-            "darkpurple": "#512e5f",
-            "black": "#000000",
-            "gray": "#7f8c8d",
-        }
-        def _to_hex(cname: str) -> str:
-            if isinstance(cname, str) and cname.startswith("#"):
-                return cname
-            return COLOR_HEX.get(cname, "#7f8c8d")
+
+        MARKER_COLOR = "#ff6b6b"
+
+
 
         def _text_on(bg_hex: str) -> str:
             # WCAG relative luminance helper 3000
@@ -659,19 +646,12 @@ try:
             L = 0.2126*lin(r) + 0.7152*lin(g) + 0.0722*lin(b)
             return "#000" if L > 0.55 else "#fff"
 
+
         # palettete
-        folium_colors = [
-            "red", "blue", "green", "purple", "orange",
-            "darkred", "darkblue", "darkgreen", "cadetblue",
-            "darkpurple", "black", "gray"
-        ]
+
 
         #Map sector_code is color name
-        sector_codes_present = []
-        for r in geo_article_records:
-            if r["sector_code"] not in sector_codes_present:
-                sector_codes_present.append(r["sector_code"])
-        palette = {code: folium_colors[i % len(folium_colors)] for i, code in enumerate(sector_codes_present)}
+
 
         show_codes = bool(st.session_state.get("show_codes", False))
 
@@ -690,13 +670,19 @@ try:
             heat_data = [[lat, lon, wt] for (lat, lon), wt in by_latlon.items()]
             HeatMap(heat_data, radius=18, blur=15, max_zoom=6).add_to(m)
         else:
-            cluster = MarkerCluster().add_to(m)
+            cluster = MarkerCluster(
+                #spidey
+                options={
+                    "spiderfyOnMaxZoom": True,
+                    "disableClusteringAtZoom": 20,
+                    "showCoverageOnHover": False,
+                    "spiderfyDistanceMultiplier": 1.8,
+                }
+            ).add_to(m)
             for r in geo_article_records:
-                cname = palette.get(r["sector_code"], "gray")
-                bg = _to_hex(cname)
+                bg = MARKER_COLOR
                 fg = _text_on(bg)
                 label = f"{r['sector_name']} ({r['sector_code']})" if show_codes else r["sector_name"]
-                desc = _snippet(r.get("summary") or r.get("full_text") or "")
 
                 chip_html = (
                     f"<span style='display:inline-block;padding:2px 6px;border-radius:6px;"
@@ -707,14 +693,13 @@ try:
                 <div style="max-width:280px;font:13px/1.35 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
                   <div style="font-weight:700;font-size:15px;margin-bottom:6px;">{_e(r['title'])}</div>
                   <div style="color:#666;margin-bottom:6px;">{chip_html}<span>Source: {_e(r.get('source',''))}</span></div>
-                  {"<div style='margin-bottom:6px;color:#555;'>"+_e(desc)+"</div>" if desc else ""}
                   {f"<a href='{_e(r['url'])}' target='_blank' style='display:inline-block;padding:6px 10px;border:1px solid #ccc;border-radius:6px;text-decoration:none;'>Open</a>" if r.get("url") else ""}
                 </div>
                 """
 
                 folium.CircleMarker(
                     [r["lat"], r["lon"]],
-                    radius=6,
+                    radius=8,
                     color=bg,
                     fill=True,
                     fill_color=bg,
@@ -725,29 +710,6 @@ try:
 
         st_folium(m, width=1000, height=600)
         st.write(f"Showing {len(geo_article_records)} articles with cached coordinates")
-
-        #what a legend
-        from collections import Counter
-        counts_by_code = Counter([r["sector_code"] for r in geo_article_records])
-
-        def legend_label(code: str) -> str:
-            any_row = next((r for r in geo_article_records if r["sector_code"] == code), None)
-            name = any_row["sector_name"] if any_row else "Unclassified"
-            return f"{name} ({code})" if show_codes else name
-
-        legend_rows = []
-        for code in sector_codes_present:
-            bg = _to_hex(palette.get(code, "gray"))
-            legend_rows.append(
-                f"<div style='display:flex;align-items:center;gap:8px;margin:4px 0;'>"
-                f"<span style='display:inline-block;width:14px;height:14px;background:{bg};"
-                f"border:1px solid rgba(0,0,0,0.4);border-radius:3px;'></span>"
-                f"<span>{legend_label(code)}</span>"
-                f"</div>"
-            )
-
-        with st.expander("Sector legend", expanded=False):
-            st.markdown("".join(legend_rows), unsafe_allow_html=True)
 
     else:
         st.info("No cached geocoded locations found for current filter")
@@ -826,7 +788,7 @@ try:
 
     st.caption(
         "Why these articles are in spotlight: "
-        " located in **Limburg** and/or among the **top 5** by **SME probability**. "
+        " located in **Limburg** and/or among the **top 5** by **SME probability** "
         "Duplicates are removed"
     )
 
@@ -864,6 +826,25 @@ try:
             .sort_values(["score", "mentions"], ascending=False)
             .head(10)# cap
         )
+
+        #top 20 keywords for charts
+        kw_select = (
+            kw_df.groupby("word")
+            .agg(mentions=("word", "size"), score=("score", "sum"))
+            .reset_index()
+            .sort_values(["score", "mentions"], ascending=False)
+            .head(20)
+        )
+
+        #aplhabet sort
+        def _alphanum_sort(words):
+            return sorted(words, key=lambda w: (not w[0].isdigit(), w.lower()))
+
+        _kw_candidates = _alphanum_sort(kw_select["word"].tolist())
+
+        if "focus_keywords" not in st.session_state:
+            st.session_state["focus_keywords"] = _alphanum_sort(_kw_candidates)[:5]
+        st.session_state["kw_candidates"] = _kw_candidates
 
         #chart
         kw_chart = (
@@ -906,9 +887,28 @@ try:
     #Keyword trends over time
     st.subheader("Keyword trends over time")
 
-    st.session_state.setdefault("kw_trend_mode", "normalized")
-    st.session_state.setdefault("kw_trend_topk", 10)
-    st.session_state.setdefault("kw_trend_roll", 6)
+    if "kw_trend_mode" not in st.session_state:
+        st.session_state.kw_trend_mode = "normalized"
+    if "kw_trend_roll" not in st.session_state:
+        st.session_state.kw_trend_roll = 6
+
+    _kw_opts = st.session_state.get("kw_candidates", [])
+    _focus_sel = st.multiselect(
+        "Focus keywords (pick 2–5)",
+        options=_kw_opts,
+        default=st.session_state.get("focus_keywords", _kw_opts[:5]),
+        key="focus_keywords",
+        help="These keywords will be shown in the line and heatmap below"
+    )
+
+    # Enforce at most 5 in charts
+    focus_effective = (_focus_sel or _kw_opts[:5])[:5]
+    if len(_focus_sel) > 5:
+        st.warning("Showing the first 5 selected keywords")
+    if len(focus_effective) < 2:
+        st.info("Pick at least 2 for a useful comparison")
+        st.session_state.setdefault("kw_trend_mode", "normalized")
+        st.session_state.setdefault("kw_trend_roll", 6)
 
 
 
@@ -933,23 +933,14 @@ try:
 
 
     #sliders
-    colL, colR = st.columns([1, 1])
-    with colL:
-        trend_top_k = st.slider(
-            "Top keywords",
-            min_value=3, max_value=15,
-            value=st.session_state.kw_trend_topk,
-            key="kw_trend_topk",
-        )
-    with colR:
-        trend_roll = st.slider(
-            "Rolling window (months)",
-            min_value=0, max_value=12,
-            value=st.session_state.kw_trend_roll,
-            key="kw_trend_roll",
-            help="0 = no smoothing",
-        )
+    trend_roll = st.slider(
+        "Rolling window (months)",
+        min_value=0, max_value=12,
+        key="kw_trend_roll",
+        help="0 = no smoothing",
+    )
 
+    trend_roll = int(st.session_state.kw_trend_roll)
 
 
 
@@ -968,6 +959,9 @@ try:
             _rerun()
 
 
+    if not st.session_state.get("focus_keywords"):
+        st.info("No focus keywords available for the current filters.")
+        st.stop()
 
     #building
     if filtered_df.empty or "published" not in filtered_df.columns:
@@ -998,16 +992,11 @@ try:
             counts = base.groupby(["keyword", "month"]).size().reset_index(name="count")
 
             #top-K keywords in current date range
-            top_kw = (
-                counts.groupby("keyword")["count"].sum()
-                .sort_values(ascending=False)
-                .head(trend_top_k)
-                .index.tolist()
-            )
-            counts = counts[counts["keyword"].isin(top_kw)]
+            focus_kw = focus_effective
+            counts = counts[counts["keyword"].isin(focus_kw)]
 
             months_sorted = sorted(counts["month"].unique())
-            grid = pd.MultiIndex.from_product([top_kw, months_sorted], names=["keyword", "month"]).to_frame(index=False)
+            grid = pd.MultiIndex.from_product([focus_kw, months_sorted], names=["keyword", "month"]).to_frame(index=False)
             raw = grid.merge(counts, on=["keyword", "month"], how="left").fillna({"count": 0})
 
             #smoothing
@@ -1070,10 +1059,10 @@ try:
                 st.altair_chart(heat, use_container_width=True)
 
                 st.caption(
-                    f"Top {trend_top_k} keywords by total mentions. Showing "
-                    + ("**normalized share per month (smoothed)** with a "
-                       f"**{trend_roll}-month** rolling average" if use_smooth
-                       else "**normalized share per month (no smoothing)**")
+                    ("Showing your selected keywords - "
+                     + ("**normalized share per month (smoothed)** with a "
+                        f"**{trend_roll}-month** rolling average" if use_smooth
+                        else "**normalized share per month (no smoothing)**"))
                 )
             else:
                 y_title = "Mentions" + (" (smoothed)" if use_smooth else "")
@@ -1103,10 +1092,10 @@ try:
                 st.altair_chart(heat2, use_container_width=True)
 
                 st.caption(
-                    f"Top {trend_top_k} keywords by total mentions. Showing "
-                    + ("**raw mentions (smoothed)** with a "
-                       f"**{trend_roll}-month** rolling average" if use_smooth
-                       else "**raw mentions (no smoothing)**")
+                    ("Showing your selected keywords - "
+                     + ("**raw mentions (smoothed)** with a "
+                        f"**{trend_roll}-month** rolling average" if use_smooth
+                        else "**raw mentions (no smoothing)**"))
                 )
 
 
