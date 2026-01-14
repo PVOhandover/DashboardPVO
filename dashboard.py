@@ -64,6 +64,13 @@ def _time_ago(ts: pd.Timestamp) -> str:
         return f"{h}h {m}m"
     return f"{m}m"
 
+def _days_ago(ts: pd.Timestamp) -> str:
+    if pd.isna(ts):
+        return ""
+    now = pd.Timestamp.utcnow().tz_localize(None)
+    d = max(0, (now - ts).days)
+    return f"{d}d"
+
 
 #preset storage
 PRESETS_FILE = os.path.join("cache", "filter_presets.json")
@@ -613,6 +620,20 @@ try:
     # -------------------------
     st.subheader("Interactive map")
 
+    _GEO_BBOXES = [
+        (50.5, 3.2, 53.7, 7.3),   #Netherlands
+        (49.4, 2.5, 51.7, 6.4),   #Belgium
+        (50.3, 5.5, 52.0, 7.8),   #NRW
+    ]
+
+    def _in_any_bbox(lat, lon):
+        for south, west, north, east in _GEO_BBOXES:
+            if south <= lat <= north and west <= lon <= east:
+                return True
+        return False
+
+
+
     def geocode_locations_with_cache(rows, cache_file="cache/geocode_cache.json"):
         os.makedirs(os.path.dirname(cache_file), exist_ok=True)
         cache = {}
@@ -640,6 +661,7 @@ try:
                         "sector_code": si.get("sector_code", "unknown"),
                         "sector_name": si.get("sector_name", "Unclassified"),
                         "source": row.get("feed", ""),
+                        "published": row.get("published", ""),
                         #"summary": row.get("summary") or row.get("full_text") or "",
                     })
         return recs
@@ -647,6 +669,10 @@ try:
 
 
     geo_article_records = geocode_locations_with_cache(filtered_df)
+    geo_article_records = [
+        r for r in geo_article_records
+        if _in_any_bbox(r["lat"], r["lon"])
+    ]
 
     if geo_article_records:
         #koloren
@@ -701,6 +727,16 @@ try:
                 fg = _text_on(bg)
                 label = f"{r['sector_name']} ({r['sector_code']})" if show_codes else r["sector_name"]
 
+                age_txt = ""
+                pub_str = r.get("published")
+                if pub_str:
+                    try:
+                        pub_dt = pd.to_datetime(pub_str, errors="coerce", utc=True).tz_convert(None)
+                        if not pd.isna(pub_dt):
+                            age_txt = _days_ago(pub_dt)
+                    except Exception:
+                        pass
+
                 chip_html = (
                     f"<span style='display:inline-block;padding:2px 6px;border-radius:6px;"
                     f"background:{bg};color:{fg};border:1px solid rgba(0,0,0,.25);margin-right:6px;'>"
@@ -710,6 +746,7 @@ try:
                 <div style="max-width:280px;font:13px/1.35 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
                   <div style="font-weight:700;font-size:15px;margin-bottom:6px;">{_e(r['title'])}</div>
                   <div style="color:#666;margin-bottom:6px;">{chip_html}<span>Source: {_e(r.get('source',''))}</span></div>
+                  {f"<div style='color:#777;margin-bottom:4px;' title='{_e(pub_str)}'>Published: {age_txt} ago</div>" if age_txt else ""}
                   {f"<a href='{_e(r['url'])}' target='_blank' style='display:inline-block;padding:6px 10px;border:1px solid #ccc;border-radius:6px;text-decoration:none;'>Open</a>" if r.get("url") else ""}
                 </div>
                 """
@@ -912,6 +949,16 @@ try:
         st.session_state.kw_trend_roll = 6
 
     _kw_opts = st.session_state.get("kw_candidates", [])
+    b1, b2 = st.columns(2, gap="large")
+
+    with b1:
+        if st.button("Clear selection", use_container_width=True):
+            st.session_state["focus_keywords"] = []
+
+    with b2:
+        if st.button("Top 5 defaults", use_container_width=True):
+            _kw_candidates = st.session_state.get("kw_candidates", [])
+            st.session_state["focus_keywords"] = _kw_candidates[:5]
     _focus_sel = st.multiselect(
         "Focus keywords (pick 2–5)",
         options=_kw_opts,
