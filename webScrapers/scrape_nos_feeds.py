@@ -181,14 +181,12 @@ def parse_args():
                    help="Limit number of feeds processed.")
     p.add_argument("--max_items_per_feed", type=int, default=None,
                    help="Limit number of items per feed.")
-    p.add_argument("--out_csv", default="nos_articles.csv",
-                   help="Output CSV filename.")
-    p.add_argument("--out_json", default="nos_articles.json",
+    p.add_argument("--out_json", default="scrapedArticles\\nos_articles.json",
                    help="Output JSON filename.")
     return p.parse_args()
 
 
-def main(out_csv="nos_articles.csv", out_json="nos_articles.json",
+def main(out_json="nos_articles.json",
          max_feeds=None, max_items_per_feed=None):
     feed_links = get_feed_links()
     rows = []
@@ -230,10 +228,9 @@ def main(out_csv="nos_articles.csv", out_json="nos_articles.json",
         if rows:
             try:
                 df = pd.DataFrame(rows)
-                df.to_csv(out_csv, index=False)
                 with open(out_json, "w", encoding="utf-8") as f:
                     json.dump(rows, f, ensure_ascii=False, indent=2)
-                print(f"[DONE] Wrote {len(rows)} rows to {out_csv} and {out_json}")
+                print(f"[DONE] Wrote {len(rows)} rows to {out_json}")
             except Exception as e:
                 print(f"[ERROR] Failed to write outputs: {e}")
         else:
@@ -242,7 +239,7 @@ def main(out_csv="nos_articles.csv", out_json="nos_articles.json",
 
 if __name__ == "__main__":
     args = parse_args()
-    sys.exit(main(out_csv=args.out_csv,
+    sys.exit(main(
                   out_json=args.out_json,
                   max_feeds=args.max_feeds,
                   max_items_per_feed=args.max_items_per_feed))

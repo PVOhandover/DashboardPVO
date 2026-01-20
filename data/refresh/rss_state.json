@@ -1,0 +1,64 @@
+{
+  "feeds": {
+    "bd": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.389236Z",
+      "last_file": "bd.json",
+      "added_last_run": 0
+    },
+    "gelderlander": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.418793Z",
+      "last_file": "gelderlander.json",
+      "added_last_run": 0
+    },
+    "limburger_economie": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.463250Z",
+      "last_file": "limburger_economie.json",
+      "added_last_run": 0
+    },
+    "nos_articles_economie": {
+      "last_published_ts": "2025-09-29T16:10:23Z",
+      "last_run_ts": "2026-01-20T12:55:40.593568Z",
+      "last_file": "nos_articles_economie.json",
+      "added_last_run": 0
+    },
+    "politie": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.751530Z",
+      "last_file": "politie.json",
+      "added_last_run": 0
+    },
+    "security_nl_articles": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.895060Z",
+      "last_file": "security_nl_articles.json",
+      "added_last_run": 0
+    },
+    "nos_articles": {
+      "last_published_ts": "2026-01-19T20:08:58Z",
+      "last_run_ts": "2026-01-20T14:34:30.499372Z",
+      "last_file": "nos_articles.json",
+      "added_last_run": 0
+    },
+    "l1": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.460609Z",
+      "last_file": "l1.json",
+      "added_last_run": 6
+    },
+    "omroep_west": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.528794Z",
+      "last_file": "omroep_west.json",
+      "added_last_run": 0
+    },
+    "rtv_noord": {
+      "last_published_ts": "1970-01-01T00:00:00Z",
+      "last_run_ts": "2026-01-20T14:34:30.780097Z",
+      "last_file": "rtv_noord.json",
+      "added_last_run": 2
+    }
+  }
+}
