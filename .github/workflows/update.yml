@@ -2,34 +2,59 @@ name: update-data
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # daily at 03:00 UTC
+    - cron: "0 3 * * *"   # daily 03:00 UTC
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-data
+  cancel-in-progress: true
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.12"
+          cache: "pip"
 
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - run: python -m spacy download nl_core_news_sm || true
+      - name: Download spacy model
+        run: python -m spacy download nl_core_news_sm
 
-      - run: python update_data.py
+      - name: Run updater
+        run: python update_data.py
 
-      - name: Commit latest.json
+      - name: Commit and push changes
         run: |
           git config user.name "pvo-bot"
           git config user.email "pvo-bot@users.noreply.github.com"
-          git add cache/public/latest.json preprocess_cache.json
-          git commit -m "data: refresh" || echo "No changes"
-          git push
+
+          git add \
+            all_articles.json \
+            keywords/all_articles_keywords.json \
+            models/location_classifier_latest.pkl \
+            cache/public/latest.json \
+            preprocess_cache.json || true
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git pull --rebase --autostash origin main
+
+          git commit -m "data: refresh [skip ci]"
+          git push origin HEAD:main
