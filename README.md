@@ -124,12 +124,19 @@ python -m spacy download nl_core_news_sm
 ```
 
 
-
-
 >> Use the sidebar Reset filters button to return to the full range.
 
 >> Map shows fewer points than the number of matching articles
 >> Only articles that have cached coordinates (cache/geocode_cache.json) and fall within the configured region bounding boxes are plotted.
+
+
+## Live Dashboard
+
+The deployed dashboard is available here:
+
+https://dashboardpvo.streamlit.app/
+
+Open the link in a browser to use the application
 
 # What We Have Learned
 Through this prototype, we learned how to transform unstructured information into a usable overview that can support decision making for SMEs and organizations such as PVO Limburg. We gained hands-on experience with a full pipeline from data collection and integration (RSS and scraping, merging and deduplication) to text preprocessing and filtering for relevance.
