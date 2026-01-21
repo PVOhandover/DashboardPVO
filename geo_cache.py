@@ -12,18 +12,16 @@ import requests
 
 DEFAULT_CACHE = "cache/geocode_cache.json"
 
-# Identify your app (important for Nominatim)
+# important for Nominatim
 DEFAULT_UA = "PVO-Limburg-GeoCacheUpdater/1.0 (internal use)"
 
 _WS_RE = re.compile(r"\s+")
 
-# Optional: skip obvious non-locations that often appear in Dutch text/NER noise
 DEFAULT_SKIP = {
     "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag",
     "vandaag", "gisteren", "morgen",
 }
 
-# Your project bbox filters (Netherlands, Belgium, NRW) – same as your dashboard
 _GEO_BBOXES = [
     (50.5, 3.2, 53.7, 7.3),   # Netherlands
     (49.4, 2.5, 51.7, 6.4),   # Belgium
@@ -122,7 +120,7 @@ def geocode_nominatim(
             sleep_s = min(45.0, (2 ** attempt) + random.random())
             time.sleep(sleep_s)
 
-    # If you want debug:
+    # If debugging needed:
     # print(f"[WARN] Geocode failed for '{query}': {last_err}")
     return None
 
@@ -157,7 +155,6 @@ def update_cache(
             continue
         if loc.strip().lower() in skip_words:
             continue
-        # Optional: skip super short tokens (often noise)
         if len(loc) < 3:
             continue
         missing.append(loc)
