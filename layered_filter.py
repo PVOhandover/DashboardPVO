@@ -303,4 +303,3 @@ def old_run_snorkel(df, layer1_lfs=crime_layer, layer2_lfs=sme_layer, min_confid
     df_layer2["preds_layer2"] = preds2
 
     return df_layer2, lm2
-### named entity recognition?

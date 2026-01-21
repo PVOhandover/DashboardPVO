@@ -200,7 +200,7 @@ try:
     data = load_records()
     df = pd.json_normalize(data)
 
-    # Normalize all published dates once so all timezones/strings are consistent
+    # Normalize all published dates 
     if "published" in df.columns:
         df["published"] = df["published"].apply(_normalize_published_to_utc_iso)
 
@@ -558,16 +558,9 @@ try:
         st.session_state.date_range = (start_date, end_date)
 
         #filter
-        #st.caption(f"DEBUG before date filter: {len(filtered_df)}")
-        # Robust parsing function
-       
-                
-
-        # Apply to your DataFrame
+        #st.caption(f"DEBUG before date filter: {len(filtered_df)}") 
         tmp_dates = filtered_df[date_col].apply(robust_parse_date)
-        # Optional: keep original column and store parsed dates
         filtered_df['parsed_date'] = tmp_dates
-        # Filter by your selected date range
         filtered_df = filtered_df[
             (tmp_dates.dt.date >= start_date) & (tmp_dates.dt.date <= end_date)
         ]
@@ -575,7 +568,7 @@ try:
     # -------------------------
     # Display filtered DataFrame
     # -------------------------
-    # st.subheader("📈 Filtered DataFrame")
+    # st.subheader("Filtered DataFrame")
     # st.dataframe(filtered_df[cols_to_show])
 
 
@@ -787,7 +780,6 @@ try:
                 "published": row.get("published", ""),
             })
 
-        # One-line debug so you can see why you’re getting “4”
         st.caption(
             f"Geo debug — rows:{total_rows} | locs(list):{locs_as_list} | locs(str):{locs_as_str} | "
             f"locs(empty):{locs_empty} | any_cached:{had_any_cached} | in_bbox_cached:{had_in_bbox} | plotted:{len(recs)}"
@@ -796,8 +788,6 @@ try:
         return recs
 
 
-    # IMPORTANT: define geo_article_records here
-    # Also: double-check your file name is EXACTLY this (geocode_cache vs geocode_cache)
     geo_article_records = geocode_locations_with_cache(filtered_df, cache_file="cache/geocode_cache.json")
 
     if geo_article_records:

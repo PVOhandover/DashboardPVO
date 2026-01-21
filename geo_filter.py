@@ -21,15 +21,15 @@ def clean_text_geo(text: str) -> str:
     if not isinstance(text, str) or not text.strip():
         return ""
 
-    # 1) Stripping HTML to plain text:
+    # HTML to plain text
     text = BeautifulSoup(text, "html.parser").get_text(separator=" ")
 
-    # 2) Normalizing whitespace/dashes/quotes:
+    # Normalize
     text = unicodedata.normalize("NFKC", text)
 
     return text
 
-# Making sure that each row has a 'clean' field (uses 'full_text' if present, otherwise title+summary).
+# uses 'full_text' if present, otherwise title+summary
 def get_raw_text_geo(row):
     if row.get("full_text") and isinstance(row["full_text"], str) and row["full_text"].strip():
         return row["full_text"]
@@ -40,7 +40,7 @@ def get_raw_text_geo(row):
 
 ## -------------------------------------------------------------- ##
 
-## We will use spaCy to detect candidate location names. ##
+## Detect candidate location names  ##
 import spacy
 
 nlp = spacy.load('nl_core_news_sm', disable=["tagger", "parser", "lemmatizer", "attribute_ruler"])
@@ -51,7 +51,7 @@ def detect_candidate_locations(text):
 
 ## -------------------------------------------------------------- ##
 
-## We use the gazetteer_parser.py to create a dictionary of place names. ##
+## Create a dictionary of place names ##
 from geoNames.gazetteer_parser import load_geonames_file
 
 # Load dictionaries
@@ -79,11 +79,11 @@ try:
     bundle = joblib.load("models/location_classifier_latest.pkl")
     clf = bundle["model"]
     feature_cols = bundle["feature_columns"]
-    print("✅ Loaded location classifier model.")
+    print("Loaded location classifier model.")
 except Exception as e:
     clf = None
     feature_cols = []
-    print("⚠️ Warning: location classifier not found or failed to load:", e)
+    print("Warning: location classifier not found or failed to load:", e)
 
 
 def is_likely_location(word, threshold=0.5):
@@ -97,12 +97,12 @@ def is_likely_location(word, threshold=0.5):
 
 ## This is the voting method to know if the places mentioned in the articles are around the NL/BE/DE or not. ##
 def voting_country_from_locations(locations, gazetteer, threshold=0.6):
-    # 1) Initializing a vote counter
+    # Initializing a vote counter
     votes = {"NL": 0, "BE": 0, "DE": 0}
     evidence = [] # Evidence will store which place name matched which country.
 
-    # 2) It loops through all places spaCy found, and if the place is in the gazetteer:
-    # it gets its country code (cc)
+    # It loops through all places spaCy found, and if the place is in the gazetteer:
+    # it gets its country code
     # adds +1 to that country’s votes
     # and saves evidence.
     for loc in locations:
@@ -115,7 +115,7 @@ def voting_country_from_locations(locations, gazetteer, threshold=0.6):
     if total == 0:
         return "uncertain", 0.0, [] # If no place matched NL/BE/DE, then returns "uncertain".
 
-    # 3) Picks the country with the highest number of votes.
+    # Picks the country with the highest number of votes.
     # Confidence = proportion of votes for that winner.
     best_cc, best_val = max(votes.items(), key=lambda kv: kv[1])
     confidence = best_val / total
@@ -127,7 +127,7 @@ def voting_country_from_locations(locations, gazetteer, threshold=0.6):
 
 ## -------------------------------------------------------------- ##
 
-## This is the method to filter out articles that aren't from the region. ##
+## This is the method to filter out articles that aren't from the region ##
 TARGET_COUNTRIES = {"NL", "BE", "DE"}
 
 def filtering_articles_by_country(df, min_conf: float = 0.6):
@@ -150,27 +150,27 @@ def filtering_articles_by_country(df, min_conf: float = 0.6):
 
 ## -------------------------------------------------------------- ##
 
-## This is the method that needs to be called from pre_processing.py file. ##
+## This is the method that needs to be called from pre_processing.py file ##
 def build_geo_df(json_path="nos_articles.json", min_conf=0.6):
     """
     Load NOS articles, enrich them with geo info, 
     and return only rows confidently resolved to NL/BE/DE.
     """
     import pandas as pd, json
-    # 1) I will load the nos_articles JSON file into a DataFrame:
+    # I will load the nos_articles JSON file into a DataFrame:
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     df = pd.DataFrame(data)
 
-    # 2) Clean the JSON file:
+    # Clean the JSON file:
     df["clean_geo"] = df.apply(lambda r: clean_text_geo(get_raw_text_geo(r)), axis=1)
 
-    # 3) Detect candidate locations for all articles:
+    # 3Detect candidate locations for all articles:
     texts = df["clean_geo"].tolist()
     docs = list(nlp.pipe(texts, batch_size=50))
     df["locations"] = [[ent.text for ent in doc.ents if ent.label_ in {"LOC","GPE"}] for doc in docs]
 
-    # 4) Filter out non-location words from detected locations using the logistic-regression model:
+    # Filter out non-location words from detected locations using the logistic-regression model:
     all_candidates = {loc for locs in df["locations"] for loc in locs}
     if clf and len(all_candidates) > 0:
         feat_df = pd.DataFrame([extract_features(w) for w in all_candidates])
@@ -181,11 +181,11 @@ def build_geo_df(json_path="nos_articles.json", min_conf=0.6):
         df["locations"] = df["locations"].apply(lambda locs: [loc for loc in locs if loc_dict.get(loc, False)])
     print("[geo_filter] Filtered non-location terms from locations column.")
 
-    # 5) Get the voting per article:
+    # Get the voting per article:
     results = df["locations"].apply(lambda locs: voting_country_from_locations(locs, gazetteer))
     df[["country", "country_score", "country_evidence"]] = pd.DataFrame(results.tolist(), index=df.index)
 
-    # 6) Filter only the rows around the region:
+    # Filter only the rows around the region:
     return filtering_articles_by_country(df, min_conf=min_conf)
 ## -------------------------------------------------------------- ##
 

@@ -269,19 +269,17 @@ def merge_json_files(input_dir: str, output_file: str):
     save_json(REFRESH_STATE_FILE, state)
 
     print("\n" + "=" * 60)
-    print(f"✅ Added {len(newly_added)} new articles")
-    print(f"📊 Total articles in {output_file}: {len(all_articles)}")
-    print(f"💾 Saved seen IDs to: {SEEN_IDS_FILE}")
-    print(f"💾 Saved RSS refresh state to: {REFRESH_STATE_FILE}")
+    print(f"Added {len(newly_added)} new articles")
+    print(f"Total articles in {output_file}: {len(all_articles)}")
+    print(f"Saved seen IDs to: {SEEN_IDS_FILE}")
+    print(f"Saved RSS refresh state to: {REFRESH_STATE_FILE}")
     print("=" * 60 + "\n")
 
 
 # -------- MAIN --------
 if __name__ == "__main__":
-    # 1) Ensure security.nl CSV gets converted into a JSON file in scrapedArticles/
     csv_to_json_security_nl(SECURITY_CSV_PATH, SECURITY_JSON_PATH)
 
-    # 2) Merge + incremental refresh
     merge_json_files(INPUT_DIR, OUTPUT_FILE)
 
 

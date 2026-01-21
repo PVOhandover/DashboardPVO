@@ -141,7 +141,7 @@ def extract_companies(text: str) -> List[str]:
         
         return companies
     except Exception as e:
-        print(f"⚠️ Error extracting companies: {e}")
+        print(f"Error extracting companies: {e}")
         return []
 
 
@@ -197,7 +197,7 @@ def is_company_victim(company_name: str, text: str) -> bool:
         if indicator in context:
             return True  # Company appears to be victim
     
-    # Default: if no clear signal, assume mentioned = relevant
+    #if no clear signal, assume mentioned = relevant
     return True
 
 
@@ -214,12 +214,12 @@ def classify_single_company(company_name: str, article_text: str, check_victim: 
     Returns:
         Dictionary with 'company_name', 'sector_code', 'sector_name', and 'is_victim'
     """
-    # Check if this company is actually a victim
+    # Check if company is actually a victim
     is_victim = True
     if check_victim:
         is_victim = is_company_victim(company_name, article_text)
     
-    # If not a victim, mark as irrelevant
+    # If not,  mark as irrelevant
     if not is_victim:
         return {
             "company_name": company_name,
@@ -228,7 +228,7 @@ def classify_single_company(company_name: str, article_text: str, check_victim: 
             "is_victim": False
         }
     
-    # Prepare search text - prioritize company name with context
+    # Prepare search text prioritize company name with context
     search_text = f"{company_name.lower()} {company_name.lower()} {article_text.lower()}"
     
     # Score each sector based on keyword matches
@@ -317,7 +317,7 @@ def classify_sector_from_text(text: str, company_name: Optional[str] = None) -> 
             c['sector_code'] for c in companies_classified if c['sector_code'] != 'unknown'
         ))
     else:
-        # No companies found, classify article as a whole (fallback)
+        # fallback. classify article as a whole
         sector_scores = {}
         search_text = text.lower()
         for code, (name, keywords) in SECTOR_KEYWORDS.items():
@@ -351,9 +351,9 @@ def add_sector_classification(df):
     Returns:
         DataFrame with added sector classification columns
     """
-    print("🏢 SECTOR CLASSIFICATION STARTING...")
+    print("SECTOR CLASSIFICATION STARTING...")
     print(f"DataFrame shape: {df.shape}")
-    print("🏢 Classifying EACH company by sector with NER extraction...")
+    print("Classifying EACH company by sector with NER extraction...")
     
     primary_sectors = []
     companies_classified_list = []
@@ -397,13 +397,13 @@ def add_sector_classification(df):
     # Multi-sector articles
     multi_sector_articles = sum(1 for sectors in sectors_mentioned_list if len(sectors) > 1)
     
-    print(f"\n📊 Sector classification results:")
+    print(f"\nSector classification results:")
     print(f"  Total articles: {total_articles}")
     print(f"  Articles classified: {classified} ({classified/total_articles*100:.1f}%)")
     print(f"  Unclassified: {total_articles - classified} ({(total_articles-classified)/total_articles*100:.1f}%)")
     
     if nlp:
-        print(f"\n🏢 Company-level classification:")
+        print(f"\nCompany-level classification:")
         print(f"  Articles with companies: {articles_with_companies} ({articles_with_companies/total_articles*100:.1f}%)")
         print(f"  Total companies found: {total_companies}")
         if total_companies == 0:

@@ -2,7 +2,6 @@
 
 ## -------------------------------------------------------------- ##
 
-## First I will load the all_articles JSON file into a DataFrame. ##
 import pandas as pd
 import json
 from geo_filter import build_geo_df
@@ -36,7 +35,7 @@ def make_article_id(article):
 with open("all_articles.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-### >>> CACHING ADDED — WRAP EXPENSIVE PART >>>
+### >>> CACHING ADDED >>>
 cache = load_cache()
 processed_rows = []
 new_cache_entries = {}
@@ -101,7 +100,7 @@ if new_cache_entries:
 sme_filtered = pd.DataFrame(processed_rows)
 ### <<< END CACHING <<<
 
-# CLUSTERING - Higher threshold + stricter temporal proximity
+# CLUSTERING 
 from article_clustering import cluster_articles
 if len(sme_filtered) > 0:
     
@@ -128,7 +127,7 @@ print(sme_filtered)
 
 ## -------------------------------------------------------------- ##
 
-## This is the method to clean the cell contents in each row of the chosen column. ##
+## clean cell contents in each row of chosen column. ##
 import re
 import wordninja
 import unicodedata
@@ -138,31 +137,31 @@ def clean_text(text: str) -> str:
     if not isinstance(text, str) or not text.strip():
         return ""
 
-    # 1) Stripping HTML to plain text:
+    # Stripping HTML to plain text:
     text = BeautifulSoup(text, "html.parser").get_text(separator=" ")
 
-    # 2) Normalizing whitespace/dashes/quotes:
+    # Normalizing whitespace/dashes/quotes:
     text = unicodedata.normalize("NFKC", text)
 
-    # 3) Removing leading podcast/article number headers like "#202 - ":
+    # Removing leading podcast/article number headers like "#202 - ":
     text = re.sub(r"^\s*#?\d+\s*[-–—:]\s*", "", text)
 
-    # 4) Splitting #Hashtag/@Mentions into words (keeping the content, but not the symbol):
+    # Splitting #Hashtag/@Mentions into words (keeping the content, but not the symbol):
     def tag_handler(m):
         return " ".join(wordninja.split(m.group(1)))
     text = re.sub(r"[@#](\w+)", tag_handler, text)
     text = re.sub(r"[@#]", " ", text)  # leftover symbols
 
-    # 5) Replacing punctuation with space (keeping letters incl. accents + digits):
+    # Replacing punctuation with space (keeping letters incl. accents + digits):
     text = re.sub(r"[^0-9A-Za-zÀ-ÿ\s]", " ", text)
 
-    # 6) Collapsing multiple spaces and lowercase:
+    # Collapsing multiple spaces and lowercase:
     text = re.sub(r"\s+", " ", text).strip().lower()
 
     return text
 ## -------------------------------------------------------------- ##
 
-## This is a method that returns vocab (a collections.Counter object, which is a special kind of dictionary). ##
+## returns vocab (a collections.Counter object, which is a special kind of dictionary). ##
 ## Keys = words (tokens from the dataset) and Values = counts (how many times each word appeared) ##
 from collections import Counter
 
@@ -177,7 +176,7 @@ def build_vocabulary(dataset):
     return vocab
 ## -------------------------------------------------------------- ##
 
-## This method returns a row with an added list of tokens (words or <unk>) ##
+## returns a row with an added list of tokens (words or <unk>) ##
 def word_tokenizer(example, vocab, unknown_token='<unk>'):
     text = example['clean']
     tokens = None
@@ -204,7 +203,7 @@ elif len(sme_filtered) < 3:
     sys.exit(0)
 
 
-# 1) I split the DataFrame into train/test.
+# split the DataFrame into train/test.
 train_df, test_df = train_test_split(sme_filtered, test_size=0.2, random_state=42)
 
 news_ds = {
@@ -212,7 +211,6 @@ news_ds = {
     "test": test_df.to_dict(orient="records"),
 }
 
-# 2) Making sure that each row has a 'clean' field (uses 'full_text' if present, otherwise title+summary).
 def get_raw_text(row):
     if "full_text" in row and isinstance(row["full_text"], str) and row["full_text"].strip():
         return row["full_text"]
@@ -225,23 +223,23 @@ for split in ["train", "test"]:
     for row in news_ds[split]:
         row["clean"] = clean_text(get_raw_text(row))
 
-# 3) Building vocabulary from TRAIN only:
+# Building vocabulary from TRAIN only
 vocab_counter = build_vocabulary(news_ds["train"])
 #print("Size of the vocabulary:", len(vocab_counter))
 
-# 4) Limiting vocab to top-10000 most frequent terms:
+# Limiting vocab to top-10000 most frequent terms
 max_vocab_size = 10000
 vocab = vocab_counter.most_common(max_vocab_size)
 
-# 5) Casting to a plain list of words (droping their counts):
+# Casting to a plain list of words
 vocab = [word for word, _ in vocab]
 #print("Final vocab size (after cutoff):", len(vocab))
 
-# 6) Tokenizing TRAIN set:
+# Tokenizing TRAIN set
 for i in range(len(news_ds["train"])):
     news_ds["train"][i] = word_tokenizer(news_ds["train"][i], vocab)
 
-# 6) Checking the OOV rate for the TRAIN set:
+# Checking the OOV rate for the TRAIN set
 total = 0
 oov = 0
 for row in news_ds["train"]:
@@ -251,7 +249,7 @@ for row in news_ds["train"]:
 #print(f"OOV rate: {oov}/{total} = {oov/total:.2%}")
 
 
-# 7) Shows first 10 examples from TRAIN set:
+# Shows first 10 examples from TRAIN set
 #for i in range(min(10, len(news_ds["train"]))):
     #print("Original article:")
     #print(get_raw_text(news_ds["train"][i]))

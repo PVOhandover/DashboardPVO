@@ -65,9 +65,24 @@ def calculate_similarity_matrix(df, max_features=1000):
 # -------------------------
 # Time filtering
 # -------------------------
+from dateutil.parser import parse
+
+def robust_parse_date(s):
+    if s is None or (isinstance(s, float) and pd.isna(s)):
+        return pd.NaT
+    try:
+        dt_obj = parse(str(s), fuzzy=True)  # flexible parsing
+        # Remove timezone info for consistency
+        if dt_obj.tzinfo is not None:
+            dt_obj = dt_obj.replace(tzinfo=None)
+        return dt_obj
+    except Exception:
+        return pd.NaT
+
 
 def are_temporally_close(d1, d2, max_hours=72):
-    d1, d2 = to_datetime(d1, errors='coerce'), to_datetime(d2, errors='coerce')
+    d1, d2 = robust_parse_date(d1), robust_parse_date(d2)
+
     if isna(d1) or isna(d2):
         return True
     # Drop tz info if present
@@ -85,6 +100,7 @@ def find_clusters(df, sim_matrix, threshold=0.75, max_hours=72):
     clusters = []
     
     for i in range(n):
+        print(f"{i} of {n}")
         if i in assigned:
             continue
         
