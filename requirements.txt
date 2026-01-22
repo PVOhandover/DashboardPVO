@@ -10,7 +10,8 @@ wordninja
 numpy
 scikit-learn
 nltk
-streamlit
+streamlit>=1.40
+altair<6
 geopy
 folium
 streamlit-folium
