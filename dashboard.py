@@ -11,6 +11,8 @@ from sector_classifier import add_sector_classification
 from html import escape as _e
 import requests
 from dateutil.parser import parse
+from email.utils import parsedate_to_datetime
+import datetime as dtmod
 
 
 
@@ -43,6 +45,34 @@ def _snippet(txt, n=220):
     return (s[:n] + "…") if len(s) > n else s
 
 
+
+def parse_published_to_dt(x):
+    if x is None or (isinstance(x, float) and pd.isna(x)):
+        return pd.NaT
+    s = str(x).strip()
+    if not s:
+        return pd.NaT
+
+    try:
+        d = parsedate_to_datetime(s)
+        if d is not None:
+            if d.tzinfo is None:
+                d = d.replace(tzinfo=dtmod.timezone.utc)
+            return d.astimezone(dtmod.timezone.utc).replace(tzinfo=None)
+    except Exception:
+        pass
+
+    try:
+        d = parse(s, fuzzy=True)
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=dtmod.timezone.utc)
+        return d.astimezone(dtmod.timezone.utc).replace(tzinfo=None)
+    except Exception:
+        return pd.NaT
+
+
+
+
 def _parse_to_date(x):
     if isinstance(x, date):
         return x
@@ -65,7 +95,6 @@ def _clamp_date_range(min_d: date, max_d: date, value):
         sd, ed = min_d, max_d
     return (sd, ed)
 
-import datetime as dtmod
 
 def _normalize_published_to_utc_iso(published_value) -> str:
     if published_value is None or (isinstance(published_value, float) and pd.isna(published_value)):
@@ -200,9 +229,22 @@ try:
     data = load_records()
     df = pd.json_normalize(data)
 
-    # Normalize all published dates 
-    if "published" in df.columns:
-        df["published"] = df["published"].apply(_normalize_published_to_utc_iso)
+    FEED_MAP = {
+        "security.nl": "Security.nl",
+        "Security.nl": "Security.nl",
+        "Politie": "Politie.nl",
+        "Politie.nl": "Politie.nl",
+        "NOS Nieuws": "NOS.nl (Economie)",
+        "NOS.nl (Economie)": "NOS.nl (Economie)",
+    }
+
+    if "feed" in df.columns:
+        df["feed"] = (
+            df["feed"]
+            .astype(str)
+            .str.strip()
+            .map(lambda x: FEED_MAP.get(x, x))
+        )
 
     try:
         df = pd.DataFrame(_classify_all_articles(df.to_dict(orient="records")))
@@ -211,6 +253,10 @@ try:
     # st.subheader(f"Data loaded from: `{FILE_PATH}`")
     # st.write(f"{len(df)} Articles")
 
+    if "published" in df.columns:
+        df["published_dt"] = pd.to_datetime(df["published"].apply(parse_published_to_dt), errors="coerce")
+    else:
+        df["published_dt"] = pd.NaT
     # -------------------------
     # Filtering UI
     # -------------------------
@@ -239,12 +285,25 @@ try:
 
     #session-state defaults, global options for reset/presets
     feed_options_all = df["feed"].dropna().unique().tolist() if "feed" in df.columns else []
-    if "published" in df.columns:
-        _tmp_dates = df["published"].apply(robust_parse_date)
-        _min_date = _tmp_dates.min().date() if _tmp_dates.notna().any() else datetime.today().date()
-        _max_date = _tmp_dates.max().date() if _tmp_dates.notna().any() else datetime.today().date()
+
+
+    _tmp_dates = df["published_dt"] if "published_dt" in df.columns else pd.Series([], dtype="datetime64[ns]")
+
+    if _tmp_dates.notna().any():
+        _min_date = _tmp_dates.min().date()
+        _max_date = _tmp_dates.max().date()
     else:
         _min_date = _max_date = datetime.today().date()
+
+    cur = st.session_state.get("date_range")
+    if not (isinstance(cur, (list, tuple)) and len(cur) == 2):
+        st.session_state["date_range"] = (_min_date, _max_date)
+        st.session_state["date_range_widget"] = (_min_date, _max_date)
+    else:
+        cs, ce = cur
+        if cs < _min_date or ce > _max_date or cs > ce:
+            st.session_state["date_range"] = (_min_date, _max_date)
+            st.session_state["date_range_widget"] = (_min_date, _max_date)
 
     st.session_state.setdefault("min_sme_probability", 0.0)
     st.session_state.setdefault("selected_sectors", [])
@@ -460,9 +519,7 @@ try:
             primary_ok = isinstance(si, dict) and si.get("sector_code") in selected_sectors
             any_ok = isinstance(codes, list) and any(c in selected_sectors for c in codes)
 
-            # keep if classified and matches OR if unclassified
-            unclassified = si is None or si == {} or not codes
-            return primary_ok or any_ok or unclassified
+            return primary_ok or any_ok
         
         
 
@@ -558,12 +615,17 @@ try:
         st.session_state.date_range = (start_date, end_date)
 
         #filter
-        #st.caption(f"DEBUG before date filter: {len(filtered_df)}") 
-        tmp_dates = filtered_df[date_col].apply(robust_parse_date)
-        filtered_df['parsed_date'] = tmp_dates
-        filtered_df = filtered_df[
-            (tmp_dates.dt.date >= start_date) & (tmp_dates.dt.date <= end_date)
-        ]
+        #st.caption(f"DEBUG before date filter: {len(filtered_df)}")
+        if "published_dt" not in filtered_df.columns and "published" in filtered_df.columns:
+            filtered_df["published_dt"] = pd.to_datetime(filtered_df["published"].apply(parse_published_to_dt), errors="coerce")
+
+        if not filtered_df.empty:
+            filtered_df = filtered_df[filtered_df["published_dt"].notna()].copy()
+            if not filtered_df.empty:
+                filtered_df = filtered_df[
+                    (filtered_df["published_dt"].dt.date >= start_date) &
+                    (filtered_df["published_dt"].dt.date <= end_date)
+                ]
 
     # -------------------------
     # Display filtered DataFrame
@@ -831,8 +893,8 @@ try:
                 pub_str = r.get("published")
                 if pub_str:
                     try:
-                        pub_dt = pd.to_datetime(pub_str, errors="coerce", utc=True).tz_convert(None)
-                        if not pd.isna(pub_dt):
+                        pub_dt = parse_published_to_dt(pub_str)
+                        if pd.notna(pub_dt):
                             age_txt = _days_ago(pub_dt)
                     except Exception:
                         pass
@@ -900,11 +962,10 @@ try:
     st.subheader("Spotlight")
     pretty = spotlight_df.copy()
 
-    pretty["published_dt"] = pretty["published"].apply(robust_parse_date)
+    if "published_dt" not in pretty.columns and "published" in pretty.columns:
+        pretty["published_dt"] = pd.to_datetime(pretty["published"].apply(parse_published_to_dt), errors="coerce")
 
-    pretty["published_dt"] = pretty["published_dt"].apply(
-        lambda dt: dt.replace(tzinfo=None) if not pd.isna(dt) and dt.tzinfo is not None else dt
-        )
+    pretty = pretty[pretty["published_dt"].notna()].copy()
     pretty = pretty.rename(columns={"feed": "source"})
 
 
@@ -1063,10 +1124,20 @@ try:
         if st.button("Top 5 defaults", use_container_width=True):
             _kw_candidates = st.session_state.get("kw_candidates", [])
             st.session_state["focus_keywords"] = _kw_candidates[:5]
+    if not _kw_opts:
+        st.info("No keywords available for the current filters")
+        st.stop()
+
+    cur_focus = st.session_state.get("focus_keywords", [])
+    cur_focus = [k for k in cur_focus if k in _kw_opts]
+    if len(cur_focus) < 2:
+        cur_focus = _kw_opts[:5]
+    st.session_state["focus_keywords"] = cur_focus
+
     _focus_sel = st.multiselect(
         "Focus keywords (pick 2–5)",
         options=_kw_opts,
-        default=st.session_state.get("focus_keywords", _kw_opts[:5]),
+        default=cur_focus,
         key="focus_keywords",
         help="These keywords will be shown in the line and heatmap below"
     )
@@ -1139,10 +1210,7 @@ try:
     else:
         trend_rows = []
         for _, row in filtered_df.iterrows():
-            pub = row.get("published")
-            if not pub:
-                continue
-            pub_date = robust_parse_date(pub)
+            pub_date = row.get("published_dt")
             if pd.isna(pub_date):
                 continue
             month_str = pub_date.strftime("%Y-%m")

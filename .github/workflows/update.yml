@@ -37,6 +37,9 @@ jobs:
       - name: Run updater
         run: python update_data.py
 
+      - name: Update geocode cache
+        run: python geo_cache.py --articles cache/public/latest.json --cache cache/geocode_cache.json
+
       - name: Commit and push changes
         run: |
           git config user.name "pvo-bot"
@@ -49,7 +52,8 @@ jobs:
             cache/public/latest.json \
             preprocess_cache.json \
             data/refresh/rss_state.json \
-            data/refresh/seen_article_ids.json || true
+            data/refresh/seen_article_ids.json \
+            cache/geocode_cache.json || true
 
           if git diff --cached --quiet; then
             echo "No changes"

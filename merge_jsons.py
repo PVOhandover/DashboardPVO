@@ -236,6 +236,26 @@ def merge_json_files(input_dir: str, output_file: str):
             item["published_ts"] = pub_dt.isoformat().replace("+00:00", "Z") if pub_dt else None
             item.setdefault("source_type", "rss")
 
+            feed = (item.get("feed") or "").strip()
+            norm_map = {
+                "NOS Nieuws": "NOS.nl (Economie)",
+                "NOS Economie": "NOS.nl (Economie)",
+                "NOS.nl": "NOS.nl (Economie)",
+                "NOS.nl (Economie)": "NOS.nl (Economie)",
+                "Brabants Dagblad - Economie": "Brabants Dagblad - Economie",
+                "De Gelderlander - Economie": "De Gelderlander - Economie",
+                "Omroep West - Economie": "Omroep West - Economie",
+                "L1 Nieuws": "L1 Nieuws",
+                "RTV Noord": "RTV Noord",
+                "Politie": "Politie.nl",
+                "Politie.nl": "Politie.nl",
+                "security.nl": "Security.nl",
+                "Security.nl": "Security.nl",
+            }
+            if feed in norm_map:
+                item["feed"] = norm_map[feed]
+            # ---------------------------------------
+
             newly_added.append(item)
             seen_ids.add(article_id)
             added_for_file += 1
