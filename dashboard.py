@@ -232,19 +232,23 @@ try:
     FEED_MAP = {
         "security.nl": "Security.nl",
         "Security.nl": "Security.nl",
+
         "Politie": "Politie.nl",
         "Politie.nl": "Politie.nl",
-        "NOS Nieuws": "NOS.nl (Economie)",
+
+        "NOS Nieuws": "NOS Nieuws",
+        "NOS Economie": "NOS.nl (Economie)",
         "NOS.nl (Economie)": "NOS.nl (Economie)",
+
+        "L1 Nieuws": "L1 Nieuws",
+        "RTV Noord": "RTV Noord",
+        "Omroep West - Economie": "Omroep West - Economie",
+        "Brabants Dagblad - Economie": "Brabants Dagblad - Economie",
+        "De Gelderlander - Economie": "De Gelderlander - Economie",
     }
 
     if "feed" in df.columns:
-        df["feed"] = (
-            df["feed"]
-            .astype(str)
-            .str.strip()
-            .map(lambda x: FEED_MAP.get(x, x))
-        )
+        df["feed"] = df["feed"].astype(str).str.strip().map(lambda x: FEED_MAP.get(x, x))
 
     try:
         df = pd.DataFrame(_classify_all_articles(df.to_dict(orient="records")))
@@ -286,6 +290,8 @@ try:
     #session-state defaults, global options for reset/presets
     feed_options_all = df["feed"].dropna().unique().tolist() if "feed" in df.columns else []
 
+    if "selected_feeds" in st.session_state:
+        st.session_state["selected_feeds"] = [f for f in st.session_state["selected_feeds"] if f in feed_options_all]
 
     _tmp_dates = df["published_dt"] if "published_dt" in df.columns else pd.Series([], dtype="datetime64[ns]")
 
