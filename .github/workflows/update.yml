@@ -47,7 +47,7 @@ jobs:
             keywords/all_articles_keywords.json \
             models/location_classifier_latest.pkl \
             cache/public/latest.json \
-            preprocess_cache.json || true
+            preprocess_cache.json \
             data/refresh/rss_state.json \
             data/refresh/seen_article_ids.json || true
 
