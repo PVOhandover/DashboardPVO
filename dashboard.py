@@ -20,7 +20,7 @@ import unicodedata
 DATA_URL = os.getenv("DATA_URL", "").strip()
 FILE_PATH = os.getenv("FILE_PATH", os.path.join("keywords", "all_articles_keywords.json"))
 
-FEED_KEY = "selected_feeds_v2"
+FEED_KEY = "selected_feeds_v3"
 
 @st.cache_data(ttl=300, show_spinner=False)
 def load_records():
@@ -36,35 +36,41 @@ def load_records():
 
 def normalize_feed(x: object) -> str:
     s = "" if x is None else str(x)
-    s = unicodedata.normalize("NFKC", s)
-    s = re.sub(r"\s+", " ", s).strip()
 
+    s = unicodedata.normalize("NFKC", s)
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Cf")
+
+    s = re.sub(r"\s+", " ", s).strip()
     key = s.casefold()
 
-    mapping = {
-        # Security
-        "security.nl": "Security.nl",
+    if "security" in key:
+        return "Security.nl"
 
-        # Politie
-        "politie": "Politie.nl",
-        "politie.nl": "Politie.nl",
+    if key.startswith("politie"):
+        return "Politie.nl"
 
-        # NOS
-        "nos nieuws": "NOS.nl (Economie)",
-        "nos economie": "NOS.nl (Economie)",
-        "nos.nl": "NOS.nl (Economie)",
-        "nos.nl (economie)": "NOS.nl (Economie)",
+    if key.startswith("nos"):
+        return "NOS.nl (Economie)"
 
-        # Others
-        "l1 nieuws": "L1 Nieuws",
-        "rtv noord": "RTV Noord",
-        "omroep west - economie": "Omroep West - Economie",
-        "brabants dagblad - economie": "Brabants Dagblad - Economie",
-        "de gelderlander - economie": "De Gelderlander - Economie",
-        "de limburger": "De Limburger",
-    }
+    if "l1" in key:
+        return "L1 Nieuws"
 
-    return mapping.get(key, s)
+    if "rtv noord" in key or "rtvnoord" in key:
+        return "RTV Noord"
+
+    if "omroep west" in key:
+        return "Omroep West - Economie"
+
+    if "brabants dagblad" in key:
+        return "Brabants Dagblad - Economie"
+
+    if "gelderlander" in key:
+        return "De Gelderlander - Economie"
+
+    if "limburger" in key:
+        return "De Limburger"
+
+    return s
 
 
 #streamlit help
@@ -274,6 +280,10 @@ try:
     # st.subheader(f"Data loaded from: `{FILE_PATH}`")
     # st.write(f"{len(df)} Articles")
 
+    if "feed" in df.columns:
+        df["feed"] = df["feed"].apply(normalize_feed)
+
+
     if "published" in df.columns:
         df["published_dt"] = pd.to_datetime(df["published"].apply(parse_published_to_dt), errors="coerce")
     else:
@@ -305,8 +315,10 @@ try:
 
 
     #session-state defaults, global options for reset/presets
-    feed_options_all = df["feed"].dropna().unique().tolist() if "feed" in df.columns else []
-    feed_options_all = sorted(dict.fromkeys(normalize_feed(x) for x in feed_options_all))
+    feed_options_all = (
+        sorted(dict.fromkeys(df["feed"].dropna().tolist()))
+        if "feed" in df.columns else []
+    )
 
     if FEED_KEY in st.session_state and isinstance(st.session_state[FEED_KEY], list):
         cleaned = []
