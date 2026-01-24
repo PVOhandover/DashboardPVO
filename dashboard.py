@@ -13,11 +13,14 @@ import requests
 from dateutil.parser import parse
 from email.utils import parsedate_to_datetime
 import datetime as dtmod
-
+import re
+import unicodedata
 
 
 DATA_URL = os.getenv("DATA_URL", "").strip()
 FILE_PATH = os.getenv("FILE_PATH", os.path.join("keywords", "all_articles_keywords.json"))
+
+FEED_KEY = "selected_feeds_v2"
 
 @st.cache_data(ttl=300, show_spinner=False)
 def load_records():
@@ -30,6 +33,38 @@ def load_records():
 
 
 # streamlit run dashboard.py     this is to run
+
+def normalize_feed(x: object) -> str:
+    s = "" if x is None else str(x)
+    s = unicodedata.normalize("NFKC", s)
+    s = re.sub(r"\s+", " ", s).strip()
+
+    key = s.casefold()
+
+    mapping = {
+        # Security
+        "security.nl": "Security.nl",
+
+        # Politie
+        "politie": "Politie.nl",
+        "politie.nl": "Politie.nl",
+
+        # NOS
+        "nos nieuws": "NOS.nl (Economie)",
+        "nos economie": "NOS.nl (Economie)",
+        "nos.nl": "NOS.nl (Economie)",
+        "nos.nl (economie)": "NOS.nl (Economie)",
+
+        # Others
+        "l1 nieuws": "L1 Nieuws",
+        "rtv noord": "RTV Noord",
+        "omroep west - economie": "Omroep West - Economie",
+        "brabants dagblad - economie": "Brabants Dagblad - Economie",
+        "de gelderlander - economie": "De Gelderlander - Economie",
+        "de limburger": "De Limburger",
+    }
+
+    return mapping.get(key, s)
 
 
 #streamlit help
@@ -157,7 +192,7 @@ def _save_presets(presets: dict):
 
 def _reset_all_filters(feed_options_all, _min_date, _max_date):
     st.session_state["text_filter"] = ""
-    st.session_state["selected_feeds"] = list(feed_options_all)
+    st.session_state[FEED_KEY] = list(feed_options_all)
     st.session_state["location_search"] = ""
     dr = (_min_date, _max_date)
     st.session_state["date_range"] = dr
@@ -229,26 +264,8 @@ try:
     data = load_records()
     df = pd.json_normalize(data)
 
-    FEED_MAP = {
-        "security.nl": "Security.nl",
-        "Security.nl": "Security.nl",
-
-        "Politie": "Politie.nl",
-        "Politie.nl": "Politie.nl",
-
-        "NOS Nieuws": "NOS Nieuws",
-        "NOS Economie": "NOS.nl (Economie)",
-        "NOS.nl (Economie)": "NOS.nl (Economie)",
-
-        "L1 Nieuws": "L1 Nieuws",
-        "RTV Noord": "RTV Noord",
-        "Omroep West - Economie": "Omroep West - Economie",
-        "Brabants Dagblad - Economie": "Brabants Dagblad - Economie",
-        "De Gelderlander - Economie": "De Gelderlander - Economie",
-    }
-
     if "feed" in df.columns:
-        df["feed"] = df["feed"].astype(str).str.strip().map(lambda x: FEED_MAP.get(x, x))
+        df["feed"] = df["feed"].apply(normalize_feed)
 
     try:
         df = pd.DataFrame(_classify_all_articles(df.to_dict(orient="records")))
@@ -289,9 +306,17 @@ try:
 
     #session-state defaults, global options for reset/presets
     feed_options_all = df["feed"].dropna().unique().tolist() if "feed" in df.columns else []
+    feed_options_all = sorted(dict.fromkeys(normalize_feed(x) for x in feed_options_all))
 
-    if "selected_feeds" in st.session_state:
-        st.session_state["selected_feeds"] = [f for f in st.session_state["selected_feeds"] if f in feed_options_all]
+    if FEED_KEY in st.session_state and isinstance(st.session_state[FEED_KEY], list):
+        cleaned = []
+        seen = set()
+        for f in st.session_state[FEED_KEY]:
+            nf = normalize_feed(f)
+            if nf in feed_options_all and nf not in seen:
+                cleaned.append(nf)
+                seen.add(nf)
+        st.session_state[FEED_KEY] = cleaned
 
     _tmp_dates = df["published_dt"] if "published_dt" in df.columns else pd.Series([], dtype="datetime64[ns]")
 
@@ -318,14 +343,17 @@ try:
 
 
     if "text_filter" not in st.session_state: st.session_state.text_filter = ""
-    if "selected_feeds" not in st.session_state: st.session_state.selected_feeds = feed_options_all
+    if FEED_KEY not in st.session_state:
+        st.session_state[FEED_KEY] = list(feed_options_all)
     if "location_search" not in st.session_state: st.session_state.location_search = ""
     if "date_range" not in st.session_state: st.session_state.date_range = (_min_date, _max_date)
 
     p = st.session_state.pop("_pending_preset", None)
     if p:
         st.session_state.text_filter     = p.get("text_filter",     st.session_state.get("text_filter", ""))
-        st.session_state.selected_feeds  = p.get("selected_feeds",  st.session_state.get("selected_feeds", feed_options_all))
+        _raw = [normalize_feed(x) for x in p.get("selected_feeds", feed_options_all)]
+        _raw = [f for f in _raw if f in feed_options_all]
+        st.session_state[FEED_KEY] = list(dict.fromkeys(_raw))
         st.session_state.location_search = p.get("location_search", st.session_state.get("location_search", ""))
 
         try:
@@ -442,21 +470,15 @@ try:
 
         filtered_df = filtered_df[mask]
 
-        
-    # Feed filter
-    if "feed" in df.columns:
-        feed_options = sorted(df["feed"].dropna().unique().tolist())
-    else:
-        feed_options = []
 
-    if "selected_feeds" not in st.session_state or not isinstance(st.session_state.selected_feeds, list):
-        st.session_state.selected_feeds = feed_options_all
+
+
 
     selected_feeds = st.sidebar.multiselect(
         "Filter by feed",
-        options=feed_options,
-        default=st.session_state.selected_feeds,
-        key="selected_feeds",
+        options=sorted(feed_options_all),
+        default=st.session_state[FEED_KEY],
+        key=FEED_KEY,
     )
 
     if selected_feeds:
@@ -644,7 +666,7 @@ try:
     _sd, _ed = st.session_state.get("date_range", (_min_date, _max_date))
     _sector_ct = len(st.session_state.get("selected_sectors", []))
     st.markdown(
-        f"**Current filters:** {len(st.session_state.get('selected_feeds', []))} feed(s) • "
+        f"**Current filters:** {len(st.session_state.get(FEED_KEY, []))} feed(s) • "
         f"{_sd} → {_ed} • search: “{st.session_state.get('text_filter','')}” • "
         f"locations: “{st.session_state.get('location_search','')}” • "
         f"sectors: {_sector_ct or 'all'}"
@@ -682,7 +704,7 @@ try:
     if st.sidebar.button("Save preset") and _new_preset:
         _presets[_new_preset] = {
             "text_filter":        st.session_state.get("text_filter", ""),
-            "selected_feeds":     st.session_state.get("selected_feeds", []),
+            "selected_feeds":     st.session_state.get(FEED_KEY, []),
             "location_search":    st.session_state.get("location_search", ""),
             "date_range":         list(st.session_state.get("date_range", (_min_date, _max_date))),
             "min_sme_probability": float(st.session_state.get("min_sme_probability", 0.0)),
