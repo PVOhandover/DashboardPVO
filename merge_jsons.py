@@ -20,6 +20,30 @@ SECURITY_JSON_PATH = os.path.join(INPUT_DIR, "security_nl_articles.json")
 
 
 # -------- HELPERS --------
+FEED_CANON = {
+    "NOS Nieuws": "NOS.nl (Economie)",
+    "NOS Economie": "NOS.nl (Economie)",
+    "NOS.nl": "NOS.nl (Economie)",
+    "NOS.nl (Economie)": "NOS.nl (Economie)",
+
+    "Brabants Dagblad - Economie": "Brabants Dagblad - Economie",
+    "De Gelderlander - Economie": "De Gelderlander - Economie",
+    "Omroep West - Economie": "Omroep West - Economie",
+    "L1 Nieuws": "L1 Nieuws",
+    "RTV Noord": "RTV Noord",
+
+    "Politie": "Politie.nl",
+    "Politie.nl": "Politie.nl",
+
+    "security.nl": "Security.nl",
+    "Security.nl": "Security.nl",
+}
+
+def normalize_feed(feed: str) -> str:
+    f = (feed or "").strip()
+    return FEED_CANON.get(f, f)
+
+
 def ensure_parent_dir(path: str) -> None:
     parent = os.path.dirname(path)
     if parent:
@@ -140,7 +164,7 @@ def csv_to_json_security_nl(csv_file_path: str, json_file_path: str) -> bool:
         return dt.strftime("%a, %d %b %Y %H:%M:%S %z")  # includes +0000
 
     df["published"] = df.apply(to_rss_with_tz, axis=1)
-    df["feed"] = "security.nl"
+    df["feed"] = "Security.nl"
 
     # keep only the needed columns (same as other source JSONs)
     out_df = df[["published", "title", "url", "full_text", "feed"]].copy()
@@ -158,6 +182,10 @@ def merge_json_files(input_dir: str, output_file: str):
     all_articles = load_json_safe(output_file, [])
     if not isinstance(all_articles, list):
         all_articles = []
+
+    for a in all_articles:
+        if isinstance(a, dict):
+            a["feed"] = normalize_feed(a.get("feed"))
 
     # Load refresh state and seen IDs
     state = load_json_safe(REFRESH_STATE_FILE, {"feeds": {}})
@@ -213,6 +241,8 @@ def merge_json_files(input_dir: str, output_file: str):
             if not isinstance(item, dict):
                 continue
 
+            item["feed"] = normalize_feed(item.get("feed"))
+
             url = item.get("url")
             if not url:
                 continue
@@ -236,24 +266,6 @@ def merge_json_files(input_dir: str, output_file: str):
             item["published_ts"] = pub_dt.isoformat().replace("+00:00", "Z") if pub_dt else None
             item.setdefault("source_type", "rss")
 
-            feed = (item.get("feed") or "").strip()
-            norm_map = {
-                "NOS Nieuws": "NOS.nl (Economie)",
-                "NOS Economie": "NOS.nl (Economie)",
-                "NOS.nl": "NOS.nl (Economie)",
-                "NOS.nl (Economie)": "NOS.nl (Economie)",
-                "Brabants Dagblad - Economie": "Brabants Dagblad - Economie",
-                "De Gelderlander - Economie": "De Gelderlander - Economie",
-                "Omroep West - Economie": "Omroep West - Economie",
-                "L1 Nieuws": "L1 Nieuws",
-                "RTV Noord": "RTV Noord",
-                "Politie": "Politie.nl",
-                "Politie.nl": "Politie.nl",
-                "security.nl": "Security.nl",
-                "Security.nl": "Security.nl",
-            }
-            if feed in norm_map:
-                item["feed"] = norm_map[feed]
             # ---------------------------------------
 
             newly_added.append(item)
