@@ -46542,5 +46542,146 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "25fccc696b00e1a41f1a5aa1ce84c095": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt 21 personen aan bij actie in het kader van de Wet op de kansspelen",
+    "url": "https://www.politie.nl/nieuws/2026/januari/27/02-arnhem---politie-houdt-21-personen-aan-bij-actie-in-het-kader-van-de-wet-op-de-kansspelen.html",
+    "published": "Tue, 27 Jan 2026 17:00:00 GMT",
+    "summary": "In de nacht van maandag 26 op dinsdag 27 januari hield de politie samen met de Kansspelautoriteit twintig mannen en een vrouw aan bij een actie in het kader van de wet op de kansspelen. Zij viel daarbij binnen bij een horecabedrijf aan de Lange Wal in Arnhem.",
+    "full_text": "Signalen In de afgelopen tijd kreeg de politie meerdere signalen uit diverse bronnen dat er bij het bedrijf mogelijk illegaal zou worden gegokt. In de kelder van het pand trof de politie diverse zaken aan die wijzen op mogelijk illegale gokactiviteiten. Veel contanten De politie hield alle in het pand aanwezig personen aan en nam een groot bedrag aan contanten in beslag van de aanwezige personen. De politie doorzocht auto’s en het pand en nam diverse zaken in beslag. De negentien bezoekers werden na onderzoek heengezonden. Zij worden verdacht van het deelnemen aan illegale gokactiviteiten. Nog twee personen vast De 38-jarige vrouw en een 59-jarige man, beiden uit Arnhem, zitten nog vast. Zij worden verdacht van het organiseren van illegale gokactiviteiten. Stomerij Bij de actie werd per abuis ook een deur geforceerd van de naastgelegen stomerij maar de stomerij had niets met de inval te maken. Overzicht van aangehouden personen: 41-jarige man uit Utrecht 45-jarige man uit Maarssen 53-jarige man uit Leerdam 41-jarige man uit Almere 28-jarige man uit Budel 37-jarige man uit Hengelo (O) 55-jarige man uit Ahaus (Duitsland) 33-jarige man uit Ede 40-jarige man uit Nieuwegein 47-jarige man uit Den Haag 61-jarige man uit Arnhem 49-jarige man uit Eindhoven 55-jarige man uit Zeist 38-jarige man uit Hengelo 42-jarige man uit Lelystad 33-jarige man uit Ede 45-jarige man uit Arnhem 37-jarige man uit Arnhem 37-jarige man uit Arnhem (2025482893/hk)",
+    "scraped_at": "2026-01-28T05:02:31.634177Z",
+    "id": "a1b8b1b06d162c6455ea7f2b937eb7259568650427f57cbd80f02bbb4b52350a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/januari/27/02-arnhem---politie-houdt-21-personen-aan-bij-actie-in-het-kader-van-de-wet-op-de-kansspelen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Signalen In de afgelopen tijd kreeg de politie meerdere signalen uit diverse bronnen dat er bij het bedrijf mogelijk illegaal zou worden gegokt. In de kelder van het pand trof de politie diverse zaken aan die wijzen op mogelijk illegale gokactiviteiten. Veel contanten De politie hield alle in het pand aanwezig personen aan en nam een groot bedrag aan contanten in beslag van de aanwezige personen. De politie doorzocht auto’s en het pand en nam diverse zaken in beslag. De negentien bezoekers werden na onderzoek heengezonden. Zij worden verdacht van het deelnemen aan illegale gokactiviteiten. Nog twee personen vast De 38-jarige vrouw en een 59-jarige man, beiden uit Arnhem, zitten nog vast. Zij worden verdacht van het organiseren van illegale gokactiviteiten. Stomerij Bij de actie werd per abuis ook een deur geforceerd van de naastgelegen stomerij maar de stomerij had niets met de inval te maken. Overzicht van aangehouden personen: 41-jarige man uit Utrecht 45-jarige man uit Maarssen 53-jarige man uit Leerdam 41-jarige man uit Almere 28-jarige man uit Budel 37-jarige man uit Hengelo (O) 55-jarige man uit Ahaus (Duitsland) 33-jarige man uit Ede 40-jarige man uit Nieuwegein 47-jarige man uit Den Haag 61-jarige man uit Arnhem 49-jarige man uit Eindhoven 55-jarige man uit Zeist 38-jarige man uit Hengelo 42-jarige man uit Lelystad 33-jarige man uit Ede 45-jarige man uit Arnhem 37-jarige man uit Arnhem 37-jarige man uit Arnhem (2025482893/hk)",
+    "locations": [
+      "Arnhem"
+    ],
+    "country": "NL",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Leerdam",
+        "NL"
+      ],
+      [
+        "Hengelo",
+        "NL"
+      ],
+      [
+        "Ahaus",
+        "DE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Zeist",
+        "NL"
+      ],
+      [
+        "Hengelo",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "a51d21694513ff8b73db90a982e20f3b": {
+    "feed": "Politie.nl",
+    "title": "Aanhoudingen voor zware mishandeling Brabanthallen",
+    "url": "https://www.politie.nl/nieuws/2026/januari/27/09-aanhoudingen-voor-zware-mishandeling-brabanthallen.html",
+    "published": "Tue, 27 Jan 2026 11:00:00 GMT",
+    "summary": "In de nacht van 24 op 25 oktober raakte een 55-jarige man zwaargewond bij een mishandeling tijdens een evenement in de Brabanthallen in Den Bosch. Na langdurig onderzoek hielden we maandagavond drie verdachten aan. Het drietal zit vast voor nader verhoor.",
+    "full_text": "Die nacht rond 00:30 uur ontving de politie een melding van een vechtpartij tijdens de Nacht van Brabant in de Brabanthallen aan de Diezekade, waarbij één persoon zwaargewond raakte. Hij was van achteren neergeslagen en viel daardoor frontaal op zijn gezicht. Het slachtoffer werd per ambulance naar het ziekenhuis gebracht voor behandeling. Hij moest een levensreddende operatie ondergaan en heeft waarschijnlijk blijvende hersenschade. Tijdens het incident waren er veel getuigen aanwezig. Aanhoudingen De beelden die van het incident beschikbaar zijn, werden uitgebreid geanalyseerd. Inmiddels zijn er ook al meerdere getuigen gehoord. Uiteindelijk is een deel van deze beelden maandag getoond in Opsporing Verzocht. Mede dankzij deze uitzending konden we nog diezelfde avond drie mannen uit Den Bosch aanhouden (32, 34 en 41 jaar). Twee van de verdachten hielden we in de woning van één van hen aan. De derde man werd bij hem thuis opgepakt. We verdenken het drietal van betrokkenheid bij deze geweldpleging. Hun rol is onderwerp van verder onderzoek. Blonde vrouw Ondanks de aanhoudingen van maandag gaat het onderzoek onverminderd voort. We zijn nog altijd op zoek naar een blonde vrouw, die voor ons een belangrijke getuige kan zijn. Bekijk de beelden van Opsporing Verzocht en neem contact op als je een vermoeden hebt wie zij is. Maar ook komen we nog altijd graag in contact met mensen die toen iets hebben gezien of meer weten, maar met wie we nog niet hebben gesproken. Dat geldt ook voor mensen die misschien iets van het incident hebben gefilmd en dat nog niet met ons hebben gedeeld. Tips of beelden Heb jij informatie of beelden? Neem dan contact op via de Opsporingstiplijn (0800-6070) of het tipformulier op onze website. Anoniem melden kan ook via Meld Misdaad Anoniem (0800-7000).",
+    "scraped_at": "2026-01-28T05:02:31.635566Z",
+    "id": "0b7f0a48aadf01ec7bc33ef76278055c55c53f85a91abc0e091a6e71bce8fca7",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/januari/27/09-aanhoudingen-voor-zware-mishandeling-brabanthallen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Die nacht rond 00:30 uur ontving de politie een melding van een vechtpartij tijdens de Nacht van Brabant in de Brabanthallen aan de Diezekade, waarbij één persoon zwaargewond raakte. Hij was van achteren neergeslagen en viel daardoor frontaal op zijn gezicht. Het slachtoffer werd per ambulance naar het ziekenhuis gebracht voor behandeling. Hij moest een levensreddende operatie ondergaan en heeft waarschijnlijk blijvende hersenschade. Tijdens het incident waren er veel getuigen aanwezig. Aanhoudingen De beelden die van het incident beschikbaar zijn, werden uitgebreid geanalyseerd. Inmiddels zijn er ook al meerdere getuigen gehoord. Uiteindelijk is een deel van deze beelden maandag getoond in Opsporing Verzocht. Mede dankzij deze uitzending konden we nog diezelfde avond drie mannen uit Den Bosch aanhouden (32, 34 en 41 jaar). Twee van de verdachten hielden we in de woning van één van hen aan. De derde man werd bij hem thuis opgepakt. We verdenken het drietal van betrokkenheid bij deze geweldpleging. Hun rol is onderwerp van verder onderzoek. Blonde vrouw Ondanks de aanhoudingen van maandag gaat het onderzoek onverminderd voort. We zijn nog altijd op zoek naar een blonde vrouw, die voor ons een belangrijke getuige kan zijn. Bekijk de beelden van Opsporing Verzocht en neem contact op als je een vermoeden hebt wie zij is. Maar ook komen we nog altijd graag in contact met mensen die toen iets hebben gezien of meer weten, maar met wie we nog niet hebben gesproken. Dat geldt ook voor mensen die misschien iets van het incident hebben gefilmd en dat nog niet met ons hebben gedeeld. Tips of beelden Heb jij informatie of beelden? Neem dan contact op via de Opsporingstiplijn (0800-6070) of het tipformulier op onze website. Anoniem melden kan ook via Meld Misdaad Anoniem (0800-7000).",
+    "locations": [
+      "Den Bosch"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Bosch",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304614602696039,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Tips",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
