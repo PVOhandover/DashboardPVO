@@ -46683,5 +46683,38 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "b933e0214180ac29004766764aef13c0": {
+    "feed": "L1 Nieuws",
+    "title": "A2 bij Eindhoven woensdagavond dicht: onderzoek naar ongeval met twee motoragenten",
+    "url": "https://www.l1nieuws.nl/nieuws/3082819/a2-bij-eindhoven-woensdagavond-dicht-onderzoek-naar-ongeval-met-twee-motoragenten",
+    "published": "Wed, 28 Jan 2026 11:21:33 GMT",
+    "summary": "De A2 bij Eindhoven wordt woensdagavond afgesloten in noordelijke richting voor politie-onderzoek naar een ongeval in oktober vorig jaar.",
+    "full_text": "Op 29 oktober achtervolgde de politie op de A2 een gestolen auto. De bestuurder reed daarbij twee politieauto's en twee politiemotoren aan. Hij vluchtte en kon pas op 13 november 2025 opgepakt worden in het Belgische Turnhout. Bij het ongeval raakten twee motoragenten zwaargewond.",
+    "scraped_at": "2026-01-29T05:37:27.891313Z",
+    "id": "4dfb21a8ef013233586590a4b5d20da79e0efdb2306e9babc6d41f99fedc7e11",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3082819/a2-bij-eindhoven-woensdagavond-dicht-onderzoek-naar-ongeval-met-twee-motoragenten",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op 29 oktober achtervolgde de politie op de A2 een gestolen auto. De bestuurder reed daarbij twee politieauto's en twee politiemotoren aan. Hij vluchtte en kon pas op 13 november 2025 opgepakt worden in het Belgische Turnhout. Bij het ongeval raakten twee motoragenten zwaargewond.",
+    "locations": [
+      "Turnhout"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Turnhout",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
