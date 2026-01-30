@@ -46716,5 +46716,188 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "a5eeda29d98f93e246421a29147f1807": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen na verdachte overdracht en achtervolging",
+    "url": "https://www.politie.nl/nieuws/2026/januari/29/12---twee-aanhoudingen-na-verdachte-overdracht-en-achtervolging.html",
+    "published": "Thu, 29 Jan 2026 12:26:00 GMT",
+    "summary": "Agenten van de Landelijke Expertise en Operaties vonden maandagmiddag 26 januari meerdere kilo’s drugs na een verdachte overdracht in Rotterdam. Twee mannen werden aangehouden.",
+    "full_text": "Maandagmiddag 26 januari zagen agenten van de Landelijke Expertise en Operaties een verdachte situatie in Rotterdam, waarbij een tas door twee personen werd overgedragen in een auto met een buitenlands kenteken. De auto reed weg richting België. De politie besloot met meerdere SIV’s (Snelle Interventie Voertuigen) het voertuig te achtervolgen. De verdachte ging er met volle snelheid vandoor en ramde tijdens zijn vlucht meerdere politievoertuigen. De man haalde met zijn auto snelheden tot 200 km/h. Uiteindelijk kon de politie het voertuig de A16 vlakbij afrit Rijsbergen klemzetten en de 55-jarige bestuurder uit Badhoevedorp aanhouden. In de auto werd de tas aangetroffen, met daarin enkele kilo’s xtc-pillen. Later op de avond deed de politie een instap in de woning van de persoon die de tas overdroeg in de auto. In de woning in Rotterdam werd nog enkele kilo’s aan diverse soorten drugs aangetroffen, evenals zwaar vuurwerk. De 36-jarige man uit Rotterdam is aangehouden. Alle goederen zijn in beslag genomen en worden vernietigd. De recherche van de LX doet verder onderzoek naar de zaak.",
+    "scraped_at": "2026-01-30T05:41:32.455817Z",
+    "id": "90c49a4e5173ea254e31e5dd15fc508c4091a6d109deaead9e7afd86d6e9e378",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/januari/29/12---twee-aanhoudingen-na-verdachte-overdracht-en-achtervolging.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Maandagmiddag 26 januari zagen agenten van de Landelijke Expertise en Operaties een verdachte situatie in Rotterdam, waarbij een tas door twee personen werd overgedragen in een auto met een buitenlands kenteken. De auto reed weg richting België. De politie besloot met meerdere SIV’s (Snelle Interventie Voertuigen) het voertuig te achtervolgen. De verdachte ging er met volle snelheid vandoor en ramde tijdens zijn vlucht meerdere politievoertuigen. De man haalde met zijn auto snelheden tot 200 km/h. Uiteindelijk kon de politie het voertuig de A16 vlakbij afrit Rijsbergen klemzetten en de 55-jarige bestuurder uit Badhoevedorp aanhouden. In de auto werd de tas aangetroffen, met daarin enkele kilo’s xtc-pillen. Later op de avond deed de politie een instap in de woning van de persoon die de tas overdroeg in de auto. In de woning in Rotterdam werd nog enkele kilo’s aan diverse soorten drugs aangetroffen, evenals zwaar vuurwerk. De 36-jarige man uit Rotterdam is aangehouden. Alle goederen zijn in beslag genomen en worden vernietigd. De recherche van de LX doet verder onderzoek naar de zaak.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Landelijke Expertise",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "SIV",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Snelle Interventie Voertuigen",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "A16",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "2780fffd7b0d12185f5e7ef4efd15e1f": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in bedrijfspand Capelle aan den IJssel na aantreffen tientallen kilo's harddrugs",
+    "url": "https://www.politie.nl/nieuws/2026/januari/28/07-aanhouding-in-bedrijfspand-capelle-aan-den-ijssel-na-aantreffen-tientallen-kilos-harddrugs.html",
+    "published": "Wed, 28 Jan 2026 16:13:00 GMT",
+    "summary": "Vanochtend vroeg kreeg de politie een melding van een inbraakalarm in een kantoorpand aan de Rivium 2e straat in Capelle aan den IJssel.",
+    "full_text": "De politie trof daar een 31-jarige man uit Den Haag aan in een van de kantoorpanden, een vuurwapen, munitie en enkele tientallen kilo’s harddrugs. Het vermoeden is dat het om een versnijdingspand gaat. In samenwerking met de douane is de drugs veiliggesteld en vernietigd. Er raakte niemand gewond. De verdachte is aangehouden. De gemeente heeft het kantoorpand waar de verdachte is aangetroffen gesloten. De politie doet verder onderzoek.",
+    "scraped_at": "2026-01-30T05:41:32.457041Z",
+    "id": "72f6b184cb1f8a6d0fae69267edf0d5bba1e1ba4931e8f4a90d895863e7f5eea",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/januari/28/07-aanhouding-in-bedrijfspand-capelle-aan-den-ijssel-na-aantreffen-tientallen-kilos-harddrugs.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie trof daar een 31-jarige man uit Den Haag aan in een van de kantoorpanden, een vuurwapen, munitie en enkele tientallen kilo’s harddrugs. Het vermoeden is dat het om een versnijdingspand gaat. In samenwerking met de douane is de drugs veiliggesteld en vernietigd. Er raakte niemand gewond. De verdachte is aangehouden. De gemeente heeft het kantoorpand waar de verdachte is aangetroffen gesloten. De politie doet verder onderzoek.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "96",
+      "sector_name": "Other personal service activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "96"
+    ]
+  },
+  "db2906c900bf77e5866e41204c350f1a": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen na vondst verdovende middelen in autobumpers",
+    "url": "https://www.politie.nl/nieuws/2026/januari/28/12-twee-aanhoudingen-na-vondst-verdovende-middelen-in-autobumpers.html",
+    "published": "Wed, 28 Jan 2026 14:22:00 GMT",
+    "summary": "In de nacht van 26 op 27 januari deden de agenten van de Eenheid Landelijke Expertise en Operaties een opmerkelijke vondst in een huurauto. Bij een controle van het voertuig zagen zij pakketten met wit poeder, verstopt in de voorbumper van de auto. Twee mannen werden aangehouden.",
+    "full_text": "In de nacht van 26 op 27 januari zagen agenten van de Landelijke Expertise en Operaties (LX) tijdens hun surveillance op de A16 bij Breda een huurauto met een buitenlands kenteken rijden. De agenten zetten de huurauto aan de kant voor een algemene controle. Bij de technische controle van het voertuig werd de motorkap geopend. Onder de motorkap zagen de alerte agenten op een paar ongebruikelijke plekken zwarte tape zitten. Bij nadere inspectie hiervan troffen ze in de voorbumper van de auto meerdere pakketten aan met daarin wit poeder. De twee inzittenden (een 32-jarige en een 33-jarige man uit Colombia) werden direct aangehouden. De auto werd meegenomen naar het bureau, alwaar de politie nog meer pakketten wit poeder vond. In totaal werden 25 zakken met vermoedelijke verdovende middelen gevonden. De recherche van de LX doet verder onderzoek naar de zaak.",
+    "scraped_at": "2026-01-30T05:41:32.457645Z",
+    "id": "12306527029cb341115c086514d2dc62a0c2f80d6cd057e1477bafc60f73f32e",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/januari/28/12-twee-aanhoudingen-na-vondst-verdovende-middelen-in-autobumpers.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In de nacht van 26 op 27 januari zagen agenten van de Landelijke Expertise en Operaties (LX) tijdens hun surveillance op de A16 bij Breda een huurauto met een buitenlands kenteken rijden. De agenten zetten de huurauto aan de kant voor een algemene controle. Bij de technische controle van het voertuig werd de motorkap geopend. Onder de motorkap zagen de alerte agenten op een paar ongebruikelijke plekken zwarte tape zitten. Bij nadere inspectie hiervan troffen ze in de voorbumper van de auto meerdere pakketten aan met daarin wit poeder. De twee inzittenden (een 32-jarige en een 33-jarige man uit Colombia) werden direct aangehouden. De auto werd meegenomen naar het bureau, alwaar de politie nog meer pakketten wit poeder vond. In totaal werden 25 zakken met vermoedelijke verdovende middelen gevonden. De recherche van de LX doet verder onderzoek naar de zaak.",
+    "locations": [
+      "Breda"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breda",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Landelijke Expertise",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "da73db0c316277a0ffc8a5a86a4929f5": {
+    "feed": "Politie.nl",
+    "title": "Politie laat geweldsincident Bollendak toetsen",
+    "url": "https://www.politie.nl/nieuws/2026/januari/28/03-politie-laat-geweldsincident-bollendak-toetsen.html",
+    "published": "Wed, 28 Jan 2026 11:44:00 GMT",
+    "summary": "Bij een optreden op maandag 26 januari in Utrecht onder het Bollendak is politiegeweld gebruikt. Op diverse social media platforms circuleren beelden van dit incident. Wij realiseren ons dat deze beelden heftig zijn en vragen oproepen. Deze signalen nemen we serieus. Mede op basis van de beschikbare beelden wordt nader onderzoek gedaan, ook naar de aanloop van het incident. Het optreden wordt daarbij getoetst en beoordeeld. Dat gaat volgens een standaard en zorgvuldig beoordelingsproces.",
+    "full_text": "Die dag omstreeks 17.00 uur hield de politie een persoon staande vanwege een overlastincident onder het Bollendak, waarbij een groep van ongeveer 20 betrokkenen aanwezig was. Daarop werd een van de betrokken politiemedewerkers door een vrouw uitgescholden en beledigd. De agent hield daarop een 23-jarige verdachte uit De Koog aan op verdenking van belediging. Een 39-jarige verdachte uit Rotterdam wilde de aanhouding voorkomen en beledigde de agent. Ook deze verdachte is aangehouden. Hij wordt verdacht van belediging en belemmering. Beide verdachten moeten zich op een later moment verantwoorden. Wil jij meer weten over hoe geweldgebruik van de politie wordt beoordeeld? Kijk dan op politie.nl/politiegeweld",
+    "scraped_at": "2026-01-30T05:41:32.457841Z",
+    "id": "148165680afcf8e2cef30ca1aadf5f8726f43a0f98d7780f7af4333315577675",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/januari/28/03-politie-laat-geweldsincident-bollendak-toetsen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Die dag omstreeks 17.00 uur hield de politie een persoon staande vanwege een overlastincident onder het Bollendak, waarbij een groep van ongeveer 20 betrokkenen aanwezig was. Daarop werd een van de betrokken politiemedewerkers door een vrouw uitgescholden en beledigd. De agent hield daarop een 23-jarige verdachte uit De Koog aan op verdenking van belediging. Een 39-jarige verdachte uit Rotterdam wilde de aanhouding voorkomen en beledigde de agent. Ook deze verdachte is aangehouden. Hij wordt verdacht van belediging en belemmering. Beide verdachten moeten zich op een later moment verantwoorden. Wil jij meer weten over hoe geweldgebruik van de politie wordt beoordeeld? Kijk dan op politie.nl/politiegeweld",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
