@@ -1170,5 +1170,9 @@
   "Zuid-Holland": {
     "lat": 51.9966792,
     "lon": 4.5597397
+  },
+  "gemeente Noordoostpolder": {
+    "lat": 52.7115768,
+    "lon": 5.8638928
   }
 }
