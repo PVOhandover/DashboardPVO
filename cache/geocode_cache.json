@@ -1174,5 +1174,9 @@
   "gemeente Noordoostpolder": {
     "lat": 52.7115768,
     "lon": 5.8638928
+  },
+  "Stedum": {
+    "lat": 53.3226462,
+    "lon": 6.6932005
   }
 }
