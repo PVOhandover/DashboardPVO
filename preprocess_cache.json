@@ -48577,5 +48577,94 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "5fc77340a7d055506f7695960969c9f2": {
+    "feed": "Politie.nl",
+    "title": "Hond doodgereden bij ongeluk in Den Helder",
+    "url": "https://www.politie.nl/nieuws/2026/februari/15/04-hond-doodgereden-bij-ongeluk-in-den%E2%80%AFhelder.html",
+    "published": "Sun, 15 Feb 2026 15:00:00 GMT",
+    "summary": "De politie zoekt getuigen van een aanrijding waarbij een hond op een voetgangersoversteekplaats werd doodgereden. De bestuurder van een vermoedelijk witkleurige Citroen C3 Picasso reed door na het ongeval op de Torplaan in Den Helder.",
+    "full_text": "Dodelijke aanrijding Het ongeval gebeurde op zondag 15 februari omstreeks 07:50 uur. De voetganger stak met zijn hond over op de Torplaan, gelegen tussen de Walvisvaardersweg en de Jan Aarensz Prinsstraat in Den Helder. Een voertuig reed hierbij de hond dood. De bestuurder stopte niet, maar verliet de locatie. Zoektocht naar witte Citroen Het voertuig dat de aanrijding veroorzaakte, liet enkele onderdelen achter op de plek van het incident. De politie heeft deze onderdelen veiliggesteld voor onderzoek. Uit dit onderzoek blijkt dat de stukken vermoedelijk toebehoren aan een witkleurige Citroen C3 Picasso. De identiteit van de bestuurder is nog onbekend. Informatie delen De politie zoekt getuigen en informatie over de bestuurder of het voertuig. Heb jij iets gezien of gehoord op zondagochtend 15 februari rond 07:50 uur? Beschik je over dashcambeelden of andere informatie? Deel je tip via het online tipformulier op politie.nl. Bel 0900-8844 (geen spoed). 2026036009",
+    "scraped_at": "2026-02-16T06:47:33.907377Z",
+    "id": "71e5af9a05db77e12db93d29a1ab425d184327749de67b9617ba0d6e164fb121",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/15/04-hond-doodgereden-bij-ongeluk-in-den%E2%80%AFhelder.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dodelijke aanrijding Het ongeval gebeurde op zondag 15 februari omstreeks 07:50 uur. De voetganger stak met zijn hond over op de Torplaan, gelegen tussen de Walvisvaardersweg en de Jan Aarensz Prinsstraat in Den Helder. Een voertuig reed hierbij de hond dood. De bestuurder stopte niet, maar verliet de locatie. Zoektocht naar witte Citroen Het voertuig dat de aanrijding veroorzaakte, liet enkele onderdelen achter op de plek van het incident. De politie heeft deze onderdelen veiliggesteld voor onderzoek. Uit dit onderzoek blijkt dat de stukken vermoedelijk toebehoren aan een witkleurige Citroen C3 Picasso. De identiteit van de bestuurder is nog onbekend. Informatie delen De politie zoekt getuigen en informatie over de bestuurder of het voertuig. Heb jij iets gezien of gehoord op zondagochtend 15 februari rond 07:50 uur? Beschik je over dashcambeelden of andere informatie? Deel je tip via het online tipformulier op politie.nl. Bel 0900-8844 (geen spoed). 2026036009",
+    "locations": [
+      "Den Helder"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Helder",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Jan Aarensz Prinsstraat",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Citroen C3 Picasso",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Beschik",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "c4459e2a28206538d5597d2f1bd8657d": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt man aan met gestolen fietsaccu",
+    "url": "https://www.politie.nl/nieuws/2026/februari/15/04-politie-houdt-man-aan-met-gestolen-fietsaccu.html",
+    "published": "Sun, 15 Feb 2026 08:24:00 GMT",
+    "summary": "De politie heeft zaterdagavond 14 februari 2026 een man aangehouden op verdenking van heling van een fietsaccu. Dit gebeurde op de Kruisweg in Haarlem.",
+    "full_text": "Agenten zagen de man rond 23:10 uur rijden op een gewone fiets. De man droeg in zijn hand een accu voor een elektrische fiets. Omdat dit type accu’s vaak gestolen wordt, hield de politie de man staande voor controle. De 25-jarige man uit Haarlem werd na controle aangehouden op verdenking van heling. De accu is door de politie in beslag genomen. Oproep aan de eigenaar De politie stelt een onderzoek in naar de herkomst van de fietsaccu. De eigenaar of personen die weten wie de eigenaar is, worden verzocht aangifte van diefstal te doen of zich te melden. 2026035568",
+    "scraped_at": "2026-02-16T06:47:33.908974Z",
+    "id": "1792812ecf6fb7c60ef4bf29c2949049732b69f0d15fe91491b87e0d9892d5d3",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/15/04-politie-houdt-man-aan-met-gestolen-fietsaccu.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten zagen de man rond 23:10 uur rijden op een gewone fiets. De man droeg in zijn hand een accu voor een elektrische fiets. Omdat dit type accu’s vaak gestolen wordt, hield de politie de man staande voor controle. De 25-jarige man uit Haarlem werd na controle aangehouden op verdenking van heling. De accu is door de politie in beslag genomen. Oproep aan de eigenaar De politie stelt een onderzoek in naar de herkomst van de fietsaccu. De eigenaar of personen die weten wie de eigenaar is, worden verzocht aangifte van diefstal te doen of zich te melden. 2026035568",
+    "locations": [
+      "Haarlem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Haarlem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
