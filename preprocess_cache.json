@@ -48993,5 +48993,40 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "ff76b30ca29fbefc4789b8a9423b0048": {
+    "feed": "Politie.nl",
+    "title": "Aanhoudingen na schietincident",
+    "url": "https://www.politie.nl/nieuws/2026/februari/18/06-aanhoudingen-na-schietincident.html",
+    "published": "Wed, 18 Feb 2026 16:51:00 GMT",
+    "summary": "Bij een portiek aan de Rijnauwenstraat heeft in de nacht van dinsdag 17 op woensdag 18 februari een schietincident plaatsgevonden. Een 49-jarige man uit ’s-Gravenzande is aangehouden.",
+    "full_text": "Het schietincident werd omstreeks 03.30 uur bij de politie gemeld. Aan het schietincident ging een langer lopend conflict vooraf. Ter plaatse troffen agenten hulzen en een vuurwapen aan. Er wordt nog onderzocht om wat voor vuurwapen het gaat. Voor zover bekend raakte niemand gewond. Verdachte De verdachte is even later in de omgeving aangehouden. Het gaat om een 49-jarige man uit ’s-Gravenzande. Het onderzoek naar de toedracht is in volle gang. In dit onderzoek zijn later nog twee verdachten aangehouden. Het gaat om een 35-jarige man en vrouw uit Den Haag. Zij worden verdacht van het plegen van meerdere vernielingen.",
+    "scraped_at": "2026-02-19T06:19:49.009054Z",
+    "id": "7ef436dd9fe7a18b00a2296bf5378191663ee2f990278137713cee239d14643c",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/18/06-aanhoudingen-na-schietincident.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het schietincident werd omstreeks 03.30 uur bij de politie gemeld. Aan het schietincident ging een langer lopend conflict vooraf. Ter plaatse troffen agenten hulzen en een vuurwapen aan. Er wordt nog onderzocht om wat voor vuurwapen het gaat. Voor zover bekend raakte niemand gewond. Verdachte De verdachte is even later in de omgeving aangehouden. Het gaat om een 49-jarige man uit ’s-Gravenzande. Het onderzoek naar de toedracht is in volle gang. In dit onderzoek zijn later nog twee verdachten aangehouden. Het gaat om een 35-jarige man en vrouw uit Den Haag. Zij worden verdacht van het plegen van meerdere vernielingen.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
