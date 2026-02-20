@@ -49028,5 +49028,138 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "5c6cad86702f0703158e0ca8fcfb512f": {
+    "feed": "Politie.nl",
+    "title": "Drie verdachten aangehouden voor betrokkenheid bij overval juwelier Oosterstraat",
+    "url": "https://www.politie.nl/nieuws/2026/februari/19/drie-verdachten-aangehouden-voor-betrokkenheid-bij-overval-juwelier-oosterstraat.html",
+    "published": "Thu, 19 Feb 2026 11:04:00 GMT",
+    "summary": "De politie heeft drie verdachten aangehouden op verdenking van betrokkenheid bij een overval op een juwelier aan de Oosterstraat in Groningen op maandag 19 januari.",
+    "full_text": "De juwelier werd die dag door twee personen overvallen. Een van deze personen heeft hierbij een vuurwapen of vuurwapen gelijkend voorwerp op de eigenaar gericht. Er werden meerdere vitrines vernield. Niemand raakte gewond. De verdachten gingen er met een buit vandoor. De politie startte direct een onderzoek. In dit onderzoek werd onder meer sporenonderzoek gedaan in- en rondom de juwelier. Daarnaast bekeken we camerabeelden, zijn getuigen gehoord en verspreidden we online een getuigenoproep. Dit onderzoek leidde deze week tot de aanhouding van deze drie verdachten. Meerdere aanhoudingen Twee verdachten, minderjarige jongens uit Appingedam en Groningen, werden afgelopen dinsdag aangehouden. Zij werden vandaag voorgeleid aan de rechter-commissaris en blijven 14 dagen langer vastzitten. Gisteren heeft de politie een derde verdachte aangehouden en een woning doorzocht. Dit gaat om een 18-jarige man uit Groningen. Hij zit vast, wordt verhoord en zal morgen worden voorgeleid aan de rechter-commissaris. Vermoedelijk deel buit aangetroffen Bij de doorzoeking werden gegevensdragers in beslag genomen voor verder onderzoek. Daarnaast hebben we vermoedelijk een deel van de weggenomen goederen aangetroffen.",
+    "scraped_at": "2026-02-20T06:13:32.306217Z",
+    "id": "a530b2c02301ce8b4973e671014af294a0ec5d6a1a3e550cf604b7e841df12cc",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/19/drie-verdachten-aangehouden-voor-betrokkenheid-bij-overval-juwelier-oosterstraat.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De juwelier werd die dag door twee personen overvallen. Een van deze personen heeft hierbij een vuurwapen of vuurwapen gelijkend voorwerp op de eigenaar gericht. Er werden meerdere vitrines vernield. Niemand raakte gewond. De verdachten gingen er met een buit vandoor. De politie startte direct een onderzoek. In dit onderzoek werd onder meer sporenonderzoek gedaan in- en rondom de juwelier. Daarnaast bekeken we camerabeelden, zijn getuigen gehoord en verspreidden we online een getuigenoproep. Dit onderzoek leidde deze week tot de aanhouding van deze drie verdachten. Meerdere aanhoudingen Twee verdachten, minderjarige jongens uit Appingedam en Groningen, werden afgelopen dinsdag aangehouden. Zij werden vandaag voorgeleid aan de rechter-commissaris en blijven 14 dagen langer vastzitten. Gisteren heeft de politie een derde verdachte aangehouden en een woning doorzocht. Dit gaat om een 18-jarige man uit Groningen. Hij zit vast, wordt verhoord en zal morgen worden voorgeleid aan de rechter-commissaris. Vermoedelijk deel buit aangetroffen Bij de doorzoeking werden gegevensdragers in beslag genomen voor verder onderzoek. Daarnaast hebben we vermoedelijk een deel van de weggenomen goederen aangetroffen.",
+    "locations": [
+      "Appingedam",
+      "Groningen",
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Appingedam",
+        "NL"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "37778a4cacdd62593eba1542874d75f4": {
+    "feed": "L1 Nieuws",
+    "title": "Honderdduizenden verkeersboetes: hier staan de flitspalen met de meeste boetes",
+    "url": "https://www.l1nieuws.nl/nieuws/3109348/honderdduizenden-verkeersboetes-hier-staan-de-flitspalen-met-de-meeste-boetes",
+    "published": "Thu, 19 Feb 2026 10:25:36 GMT",
+    "summary": "In 2025 zijn er in Limburg 196.139 boetes uitgeschreven via vaste flitspalen. En nog eens dik 100.000 bekeuringen via andere soorten snelheidscontroles.",
+    "full_text": "Naast vaste flitspalen zijn er nog andere manieren waarop de overheid je kan flitsen. In Limburg gebeurde dit in 2025 nog eens meer dan 100.000 keer: 15.356 boetes via flexflitspalen (een tijdelijke flitspaal) 32.821 boetes via mobiele radarsets (politie, doormiddel van handheld flitser of radar) Bijna de helft (570.420) van alle landelijke snelheidsovertredingen via mobiele radarsets zijn door de Landelijke Eenheid geconstateerd. Dit is niet te specificeren per provincie, maar een deel kan dus wel in Limburg zijn gebeurd. In totaal waren trajectcontroles goed voor 55.775 bekeuringen in Limburg: A2 (Maastricht tunnel): 37.572 N564 (Weert - Belgische grens): 4.559 N275 (Koningslust - Nederweert): 3.463 N277 (Vredepeel - Ysselsteyn ): 5.441 N270 (Ysselsteyn - Venray): 4.740",
+    "scraped_at": "2026-02-20T06:13:42.414211Z",
+    "id": "4ff4326b902ad39d38a781a3ac6d996f894a5eada359e7ccbc1ade57b1c5477b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3109348/honderdduizenden-verkeersboetes-hier-staan-de-flitspalen-met-de-meeste-boetes",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Naast vaste flitspalen zijn er nog andere manieren waarop de overheid je kan flitsen. In Limburg gebeurde dit in 2025 nog eens meer dan 100.000 keer: 15.356 boetes via flexflitspalen (een tijdelijke flitspaal) 32.821 boetes via mobiele radarsets (politie, doormiddel van handheld flitser of radar) Bijna de helft (570.420) van alle landelijke snelheidsovertredingen via mobiele radarsets zijn door de Landelijke Eenheid geconstateerd. Dit is niet te specificeren per provincie, maar een deel kan dus wel in Limburg zijn gebeurd. In totaal waren trajectcontroles goed voor 55.775 bekeuringen in Limburg: A2 (Maastricht tunnel): 37.572 N564 (Weert - Belgische grens): 4.559 N275 (Koningslust - Nederweert): 3.463 N277 (Vredepeel - Ysselsteyn ): 5.441 N270 (Ysselsteyn - Venray): 4.740",
+    "locations": [
+      "Limburg",
+      "Limburg",
+      "Limburg",
+      "Maastricht"
+    ],
+    "country": "DE",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "96",
+      "sector_name": "Other personal service activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Landelijke Eenheid",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koningslust",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Nederweert",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Ysselsteyn ):",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Ysselsteyn - Venray):",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "96"
+    ]
   }
 }
