@@ -49161,5 +49161,59 @@
     "all_sectors_in_article": [
       "96"
     ]
+  },
+  "f676c6a28e0fbbb383eb12d649b80a95": {
+    "feed": "Politie.nl",
+    "title": "8 aanhoudingen tijdens demonstratie tegen opvangcentrum Sportlaan in Den Haag",
+    "url": "https://www.politie.nl/nieuws/2026/februari/21/06-aanhoudingen-tijdens-demonstratie-tegen-opvangcentrum-sportlaan-in-den-haag.html",
+    "published": "Sat, 21 Feb 2026 16:39:00 GMT",
+    "summary": "Tijdens een demonstratie op de Sportlaan in Den Haag zijn op zaterdag 21 februari 8 personen aangehouden. Er werd gedemonstreerd tegen het aankomende opvangcentrum in het voormalig Haga Ziekenhuis aan de Sportlaan. De aangehouden personen worden verdacht van verschillende strafbare feiten.",
+    "full_text": "De demonstratie betrof een bijeenkomst op de Sportlaan die rond 13.30 uur startte en van tevoren niet was aangemeld bij de gemeente. Op basis van beschikbare informatie vanuit de politie heeft de burgemeester het gebied rondom de Sportlaan aangewezen als veiligheidsrisicogebied van 12:00 uur tot 22:00 uur. Ook werd in het gebied het dragen van gezichtsbedekkende kleding niet toegestaan. Tijdens de demonstratie heeft de Mobiele Eenheid meerdere keren moeten optreden. Rond 14:30 uur kwam de demonstratie tot een einde. Aanhoudingen Tijdens de demonstratie zijn 8 personen aangehouden voor verschillende feiten zoals het verstoren van de openbare orde, mishandeling en belediging. Mishandeling politieagent Tijdens de demonstratie is een politieagent mishandeld en gewond geraakt. De agent werd met een voorwerp op het achterhoofd geslagen en moest worden nagekeken door een ambulance. Voor deze mishandeling is één persoon aangehouden. Veiligheidsrisicogebied De burgemeester had om de veiligheid en openbare orde te waarborgen het gebied rondom de Sportlaan in Den Haag tot veiligheidsrisicogebied aangewezen van 10.00 uur tot 22.00 uur. De officier van justitie heeft vervolgens een last tot preventief fouilleren afgegeven, op basis waarvan de politie dit in het veiligheidsrisicogebied mocht doen. Politie treedt op bij strafbare feiten Het begeleiden van demonstraties, zorgen voor een veilig verloop en het handhaven van de openbare orde horen bij ons werk. Daarom waren we ook zichtbaar aanwezig bij de demonstratie van vandaag. Demonstreren is een grondrecht en moet gebeuren binnen de grenzen van de wet. Onze inzet is er altijd op gericht om eventuele problemen te voorkomen. We treden op wanneer er strafbare feiten worden gepleegd, wanneer gemaakte afspraken rondom de demonstratie niet worden nagekomen of wanneer de veiligheid van demonstranten of omstanders in het geding komt. De burgemeester en het Openbaar Ministerie bepalen als lokaal bevoegd gezag de kaders van ons optreden.",
+    "scraped_at": "2026-02-22T04:53:33.679849Z",
+    "id": "bf5c3b2c34413f5753d6d88e16ebae5d232cbec174d06559e57fb2db8a9cabea",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/21/06-aanhoudingen-tijdens-demonstratie-tegen-opvangcentrum-sportlaan-in-den-haag.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De demonstratie betrof een bijeenkomst op de Sportlaan die rond 13.30 uur startte en van tevoren niet was aangemeld bij de gemeente. Op basis van beschikbare informatie vanuit de politie heeft de burgemeester het gebied rondom de Sportlaan aangewezen als veiligheidsrisicogebied van 12:00 uur tot 22:00 uur. Ook werd in het gebied het dragen van gezichtsbedekkende kleding niet toegestaan. Tijdens de demonstratie heeft de Mobiele Eenheid meerdere keren moeten optreden. Rond 14:30 uur kwam de demonstratie tot een einde. Aanhoudingen Tijdens de demonstratie zijn 8 personen aangehouden voor verschillende feiten zoals het verstoren van de openbare orde, mishandeling en belediging. Mishandeling politieagent Tijdens de demonstratie is een politieagent mishandeld en gewond geraakt. De agent werd met een voorwerp op het achterhoofd geslagen en moest worden nagekeken door een ambulance. Voor deze mishandeling is één persoon aangehouden. Veiligheidsrisicogebied De burgemeester had om de veiligheid en openbare orde te waarborgen het gebied rondom de Sportlaan in Den Haag tot veiligheidsrisicogebied aangewezen van 10.00 uur tot 22.00 uur. De officier van justitie heeft vervolgens een last tot preventief fouilleren afgegeven, op basis waarvan de politie dit in het veiligheidsrisicogebied mocht doen. Politie treedt op bij strafbare feiten Het begeleiden van demonstraties, zorgen voor een veilig verloop en het handhaven van de openbare orde horen bij ons werk. Daarom waren we ook zichtbaar aanwezig bij de demonstratie van vandaag. Demonstreren is een grondrecht en moet gebeuren binnen de grenzen van de wet. Onze inzet is er altijd op gericht om eventuele problemen te voorkomen. We treden op wanneer er strafbare feiten worden gepleegd, wanneer gemaakte afspraken rondom de demonstratie niet worden nagekomen of wanneer de veiligheid van demonstranten of omstanders in het geding komt. De burgemeester en het Openbaar Ministerie bepalen als lokaal bevoegd gezag de kaders van ons optreden.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Mobiele Eenheid",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Aanhoudingen",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie bepalen",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
