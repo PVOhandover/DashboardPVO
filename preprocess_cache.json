@@ -49322,5 +49322,47 @@
     "all_sectors_in_article": [
       "86"
     ]
+  },
+  "28395cc140d55ad5a914d0c1a457305c": {
+    "feed": "Politie.nl",
+    "title": "Aanrijding met meerdere gewonden J.M. den Uylweg in Zaandam",
+    "url": "https://www.politie.nl/nieuws/2026/februari/23/aanrijding-met-meerdere-gewonden-j.m.-den-uylweg-in-zaandam.html",
+    "published": "Mon, 23 Feb 2026 10:30:00 GMT",
+    "summary": "Zondag 22 februari, rond 20:15 uur, botsten twee voertuigen op de kruising J.M. den Uylweg / Thorbeckeweg in Zaandam. Er raakten acht mensen gewond. Een aantal betrokkenen is naar het ziekenhuis gebracht.",
+    "full_text": "Aanrijding op kruising Twee voertuigen kwamen rond 20:15 uur met elkaar in botsing. Dit gebeurde op de kruising J.M. den Uylweg / Thorbeckeweg in Zaandam. Beide auto’s hebben flinke schade opgelopen door het incident. Meerdere gewonden Acht personen raakten gewond bij de aanrijding. Meerdere betrokkenen zijn met onbekend letsel naar het ziekenhuis vervoerd. De weg is een paar uur afgesloten geweest voor hulpverlening en onderzoek. De politie doet onderzoek. Er zijn mobiele telefoons in beslag genomen en er wordt  bekeken of één van de voertuigen door een rood verkeerslicht is gereden. Ook worden de voertuigen onderzocht. Geen alcoholgebruik De politie heeft de bestuurders gecontroleerd op het gebruik van alcohol. Bij beide bestuurders is geen indicatie van alcoholgebruik geconstateerd. Getuigenoproep De politie zoekt mensen die de aanrijding hebben gezien. Ook beelden van bijvoorbeeld dashcams zijn welkom voor het onderzoek. Heeft u informatie? Bel dan met de politie via 0900-8844. Zaaknummer: 2026042205",
+    "scraped_at": "2026-02-24T04:57:14.510131Z",
+    "id": "dd50f1b51a8aaf9f4ec4b9191e4b5db135ebbb0885705c20ce17e342dfd1dc95",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/23/aanrijding-met-meerdere-gewonden-j.m.-den-uylweg-in-zaandam.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Aanrijding op kruising Twee voertuigen kwamen rond 20:15 uur met elkaar in botsing. Dit gebeurde op de kruising J.M. den Uylweg / Thorbeckeweg in Zaandam. Beide auto’s hebben flinke schade opgelopen door het incident. Meerdere gewonden Acht personen raakten gewond bij de aanrijding. Meerdere betrokkenen zijn met onbekend letsel naar het ziekenhuis vervoerd. De weg is een paar uur afgesloten geweest voor hulpverlening en onderzoek. De politie doet onderzoek. Er zijn mobiele telefoons in beslag genomen en er wordt  bekeken of één van de voertuigen door een rood verkeerslicht is gereden. Ook worden de voertuigen onderzocht. Geen alcoholgebruik De politie heeft de bestuurders gecontroleerd op het gebruik van alcohol. Bij beide bestuurders is geen indicatie van alcoholgebruik geconstateerd. Getuigenoproep De politie zoekt mensen die de aanrijding hebben gezien. Ook beelden van bijvoorbeeld dashcams zijn welkom voor het onderzoek. Heeft u informatie? Bel dan met de politie via 0900-8844. Zaaknummer: 2026042205",
+    "locations": [
+      "Zaandam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zaandam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Acht",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
   }
 }
