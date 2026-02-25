@@ -49364,5 +49364,154 @@
     "all_sectors_in_article": [
       "86"
     ]
+  },
+  "4a86f5b4e324f77478a557a8cdc14729": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen na explosie woning Haarlem",
+    "url": "https://www.politie.nl/nieuws/2026/februari/24/04-twee-aanhoudingen-na-explosie-woning-haarlem.html",
+    "published": "Tue, 24 Feb 2026 16:56:00 GMT",
+    "summary": "In het onderzoek naar een explosie bij een woning op de Archimedeskade in Haarlem op 12 november 2025, heeft de politie twee verdachten aangehouden. De verdachten, twee jongemannen van 15 en 18 jaar uit Maassluis, zijn op dinsdag 24 februari aangehouden. Op de avond van de explosie hield de politie al een minderjarige verdachte aan. De recherche vermoedt dat er sprake is van criminele uitbuiting waarbij de verdachten zijn gedwongen of verleid om strafbare feiten te plegen. Meer aanhoudingen worden niet uitgesloten.",
+    "full_text": "Op woensdag 12 november 2025 vond tussen 22.40 uur en 22.55 uur een explosie door zwaar vuurwerk plaats bij een woning op de Archimedeskade in Haarlem. De voordeur van de woning raakte hierdoor beschadigd. Niemand raakte bij de explosie gewond. Eerste aanhouding Die avond werd al snel een verdachte aangehouden. De inmiddels 14-jarige verdachte zit op dit moment niet meer vast maar is nog steeds een verdachte in het onderzoek. Criminele uitbuiting De politie vermoedt dat bij deze explosie meerdere personen in de vorm van opdrachtgevers en uitvoerders betrokken zijn geweest. Ook vermoedt de politie dat er sprake is van criminele uitbuiting. Er is sprake van criminele uitbuiting als iemand gedwongen of verleid wordt om strafbare feiten te plegen ten behoeve van (financieel) voordeel voor een ander. Denk hierbij bijvoorbeeld aan het gedwongen verkopen van drugs, mensen oplichten of zoals in deze zaak het veroorzaken van explosies. Meer aanhoudingen niet uitgesloten De recherche zet het onderzoek naar de explosie op de Archimedeskade in Haarlem voort en sluit meer aanhoudingen niet uit. Oproep Heeft u informatie over deze zaak en nog niet met de politie gesproken? Neem dan contact op met de politie via het tipformulier of bel 0900-8844. Liever anoniem tippen? Neem dan contact op met Meld Misdaad Anoniem via 0800-7000. Graag onder vermelding van zaaknummer: PL100-2025265266 Hoe kan ik criminele uitbuiting melden? Omdat criminele uitbuiting (mensenhandel) een complex en veelal ‘verborgen’ misdrijf is, is het belangrijk dat de politie zo veel mogelijk signalen van mensenhandel ontvangt. Heeft u bijvoorbeeld als ouder, hulpverlener, leraar, vriend/vriendin informatie over mogelijke signalen van mensenhandel , dan kunt u dit als volgt melden: Indien er sprake is van spoed, bel dan direct 112 Vul het tipformulier in Bel 0900 - 8844 en vraag naar het Team Migratiecriminaliteit en Mensenhandel Anoniem melden kan ook bij Meld Misdaad Anoniem via 0800-7000",
+    "scraped_at": "2026-02-25T04:57:49.517502Z",
+    "id": "6ca68f22925890ba3f74aa5fb06f056dfbfa0b6286f75efd860d93165a20bd36",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/24/04-twee-aanhoudingen-na-explosie-woning-haarlem.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op woensdag 12 november 2025 vond tussen 22.40 uur en 22.55 uur een explosie door zwaar vuurwerk plaats bij een woning op de Archimedeskade in Haarlem. De voordeur van de woning raakte hierdoor beschadigd. Niemand raakte bij de explosie gewond. Eerste aanhouding Die avond werd al snel een verdachte aangehouden. De inmiddels 14-jarige verdachte zit op dit moment niet meer vast maar is nog steeds een verdachte in het onderzoek. Criminele uitbuiting De politie vermoedt dat bij deze explosie meerdere personen in de vorm van opdrachtgevers en uitvoerders betrokken zijn geweest. Ook vermoedt de politie dat er sprake is van criminele uitbuiting. Er is sprake van criminele uitbuiting als iemand gedwongen of verleid wordt om strafbare feiten te plegen ten behoeve van (financieel) voordeel voor een ander. Denk hierbij bijvoorbeeld aan het gedwongen verkopen van drugs, mensen oplichten of zoals in deze zaak het veroorzaken van explosies. Meer aanhoudingen niet uitgesloten De recherche zet het onderzoek naar de explosie op de Archimedeskade in Haarlem voort en sluit meer aanhoudingen niet uit. Oproep Heeft u informatie over deze zaak en nog niet met de politie gesproken? Neem dan contact op met de politie via het tipformulier of bel 0900-8844. Liever anoniem tippen? Neem dan contact op met Meld Misdaad Anoniem via 0800-7000. Graag onder vermelding van zaaknummer: PL100-2025265266 Hoe kan ik criminele uitbuiting melden? Omdat criminele uitbuiting (mensenhandel) een complex en veelal ‘verborgen’ misdrijf is, is het belangrijk dat de politie zo veel mogelijk signalen van mensenhandel ontvangt. Heeft u bijvoorbeeld als ouder, hulpverlener, leraar, vriend/vriendin informatie over mogelijke signalen van mensenhandel , dan kunt u dit als volgt melden: Indien er sprake is van spoed, bel dan direct 112 Vul het tipformulier in Bel 0900 - 8844 en vraag naar het Team Migratiecriminaliteit en Mensenhandel Anoniem melden kan ook bij Meld Misdaad Anoniem via 0800-7000",
+    "locations": [
+      "Haarlem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Haarlem",
+        "NL"
+      ],
+      [
+        "Haarlem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Team Migratiecriminaliteit",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "817436f35e2ebd0cf9c80b0ae437fcac": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen in onderzoek naar explosie in Roermond",
+    "url": "https://www.politie.nl/nieuws/2026/februari/24/twee-aanhoudingen-in-onderzoek-naar-explosie-in-roermond.html",
+    "published": "Tue, 24 Feb 2026 16:05:00 GMT",
+    "summary": "In het onderzoek naar de explosie die plaatsvond op 14 oktober 2025 zijn vandaag op dinsdag 23 februari twee verdachten aangehouden.",
+    "full_text": "Beide verdachten zijn minderjarig en zijn vanochtend aangehouden in Amsterdam. Zij worden verdacht van betrokkenheid bij de explosie aan Gebroek bij sportschool Fitletic. Vanwege hun leeftijd zijn wij terughoudend in het verstrekken van verdere informatie. Vorig jaar op 16 december werd in dit onderzoek ook al een minderjarige verdachte in Amsterdam aangehouden. Hij is destijds voorgeleid bij de rechter-commissaris. Hij zit niet meer vast maar blijft verdachte in deze zaak. De recherche onderzoekt de zaak.",
+    "scraped_at": "2026-02-25T04:57:49.518654Z",
+    "id": "07e780c4558a793a50b5a2d24c31895d2318f9dad5ed2fd1eeeb5e296b3ed3ae",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/24/twee-aanhoudingen-in-onderzoek-naar-explosie-in-roermond.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Beide verdachten zijn minderjarig en zijn vanochtend aangehouden in Amsterdam. Zij worden verdacht van betrokkenheid bij de explosie aan Gebroek bij sportschool Fitletic. Vanwege hun leeftijd zijn wij terughoudend in het verstrekken van verdere informatie. Vorig jaar op 16 december werd in dit onderzoek ook al een minderjarige verdachte in Amsterdam aangehouden. Hij is destijds voorgeleid bij de rechter-commissaris. Hij zit niet meer vast maar blijft verdachte in deze zaak. De recherche onderzoekt de zaak.",
+    "locations": [
+      "Gebroek"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Gebroek",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "96",
+      "sector_name": "Other personal service activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "96"
+    ]
+  },
+  "1bbe2b0ccfc97c11dfe31420ccfb79ed": {
+    "feed": "L1 Nieuws",
+    "title": "Twee minderjarigen aangehouden in Amsterdam vanwege explosie in Roermond",
+    "url": "https://www.l1nieuws.nl/nieuws/3112956/twee-minderjarigen-aangehouden-in-amsterdam-vanwege-explosie-in-roermond",
+    "published": "Tue, 24 Feb 2026 15:23:59 GMT",
+    "summary": "Twee minderjarigen zijn dinsdagochtend aangehouden in Amsterdam. Ze worden verdacht van de explosies bij sportschool Fitletic in Roermond, in oktober.",
+    "full_text": "Een explosie richtte vorig jaar op 14 oktober serieuze schade aan een toegangsdeur van de sportschool. De gemeente plaatste uit voorzorg camera's bij het fitnesscentrum aan het Gebroek. In december werd al een eerste minderjarige Amsterdammer aangehouden. Hij werd toen voorgeleid bij de rechter-commissaris, maar later vrijgelaten. Toch blijft hij verdachte in de zaak. De politie bevestigt nu dat er nog twee andere minderjarige Amsterdammers zijn opgepakt.",
+    "scraped_at": "2026-02-25T04:57:53.896518Z",
+    "id": "58e1df67dd739d2c6eec05c5bd11583650a1bd45802d010fec1f5dd5e726dac9",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3112956/twee-minderjarigen-aangehouden-in-amsterdam-vanwege-explosie-in-roermond",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een explosie richtte vorig jaar op 14 oktober serieuze schade aan een toegangsdeur van de sportschool. De gemeente plaatste uit voorzorg camera's bij het fitnesscentrum aan het Gebroek. In december werd al een eerste minderjarige Amsterdammer aangehouden. Hij werd toen voorgeleid bij de rechter-commissaris, maar later vrijgelaten. Toch blijft hij verdachte in de zaak. De politie bevestigt nu dat er nog twee andere minderjarige Amsterdammers zijn opgepakt.",
+    "locations": [
+      "Gebroek"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Gebroek",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "96",
+      "sector_name": "Other personal service activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Amsterdammers",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "96"
+    ]
   }
 }
