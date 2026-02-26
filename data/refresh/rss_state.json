@@ -2,19 +2,19 @@
   "feeds": {
     "bd": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.151777Z",
+      "last_run_ts": "2026-02-26T04:57:00.473927Z",
       "last_file": "bd.json",
       "added_last_run": 2
     },
     "gelderlander": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.200500Z",
+      "last_run_ts": "2026-02-26T04:57:00.473206Z",
       "last_file": "gelderlander.json",
-      "added_last_run": 2
+      "added_last_run": 3
     },
     "limburger_economie": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.235140Z",
+      "last_run_ts": "2026-02-26T04:57:00.474424Z",
       "last_file": "limburger_economie.json",
       "added_last_run": 0
     },
@@ -26,39 +26,39 @@
     },
     "politie": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.198671Z",
+      "last_run_ts": "2026-02-26T04:57:00.470615Z",
       "last_file": "politie.json",
-      "added_last_run": 13
+      "added_last_run": 8
     },
     "security_nl_articles": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.233371Z",
+      "last_run_ts": "2026-02-26T04:57:00.427437Z",
       "last_file": "security_nl_articles.json",
       "added_last_run": 0
     },
     "nos_articles": {
-      "last_published_ts": "2026-02-24T21:16:57Z",
-      "last_run_ts": "2026-02-25T04:58:58.236178Z",
+      "last_published_ts": "2026-02-25T23:43:15Z",
+      "last_run_ts": "2026-02-26T04:57:00.473546Z",
       "last_file": "nos_articles.json",
-      "added_last_run": 5
+      "added_last_run": 4
     },
     "l1": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.201178Z",
+      "last_run_ts": "2026-02-26T04:57:00.472725Z",
       "last_file": "l1.json",
       "added_last_run": 15
     },
     "omroep_west": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.234472Z",
+      "last_run_ts": "2026-02-26T04:57:00.395879Z",
       "last_file": "omroep_west.json",
       "added_last_run": 0
     },
     "rtv_noord": {
       "last_published_ts": "1970-01-01T00:00:00Z",
-      "last_run_ts": "2026-02-25T04:58:58.235806Z",
+      "last_run_ts": "2026-02-26T04:57:00.429803Z",
       "last_file": "rtv_noord.json",
-      "added_last_run": 21
+      "added_last_run": 14
     }
   }
 }

@@ -49513,5 +49513,54 @@
     "all_sectors_in_article": [
       "96"
     ]
+  },
+  "75e4aa6e8252761757bc6d593cdcda50": {
+    "feed": "L1 Nieuws",
+    "title": "Verwaarloosde honden, konijnen en een kraai in beslag genomen bij illegaal bewoonde loods",
+    "url": "https://www.l1nieuws.nl/nieuws/3113770/verwaarloosde-honden-konijnen-en-een-kraai-in-beslag-genomen-bij-illegaal-bewoonde-loods",
+    "published": "Wed, 25 Feb 2026 16:16:35 GMT",
+    "summary": "In het buitengebied van Grashoek heeft een interventieteam dinsdag een loods gevonden die illegaal bewoond werd. Daarin werden meerdere verwaarloosde dieren aangetroffen. Het gaat om 9 honden, 14 konijnen en een kraai.",
+    "full_text": "Het ACT! Interventieteam, een samenwerking van de Limburgse gemeenten, is opgericht om misstanden en criminele activiteiten op te sporen en op te lossen. Het team vond in samenwerking met de LID en de politie dinsdag in de loods in Grashoek meerdere verwaarloosde dieren. Die verbleven in kleine verblijven, zonder daglicht en ventilatie. Die dieren zijn in beslag genomen. Tegen de eigenaar wordt proces-verbaal opgemaakt.",
+    "scraped_at": "2026-02-26T04:55:43.170777Z",
+    "id": "b15913068dff947c5f3abc1228c2cde619687d0f6c230de76454bf63745b5286",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3113770/verwaarloosde-honden-konijnen-en-een-kraai-in-beslag-genomen-bij-illegaal-bewoonde-loods",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het ACT! Interventieteam, een samenwerking van de Limburgse gemeenten, is opgericht om misstanden en criminele activiteiten op te sporen en op te lossen. Het team vond in samenwerking met de LID en de politie dinsdag in de loods in Grashoek meerdere verwaarloosde dieren. Die verbleven in kleine verblijven, zonder daglicht en ventilatie. Die dieren zijn in beslag genomen. Tegen de eigenaar wordt proces-verbaal opgemaakt.",
+    "locations": [
+      "Grashoek"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Grashoek",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "ACT!",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "LID",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
   }
 }
