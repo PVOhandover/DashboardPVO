@@ -49562,5 +49562,214 @@
       "not_affected",
       "00"
     ]
+  },
+  "d9ee8c0f4e4338840cbe656ca5643931": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen na achtervolging in Zwanenburg",
+    "url": "https://www.politie.nl/nieuws/2026/februari/26/04-twee-aanhoudingen-na-achtervolging-in-zwanenburg.html",
+    "published": "Thu, 26 Feb 2026 15:00:00 GMT",
+    "summary": "Op woensdag 25 februari kreeg de politie melding van twee gestolen voertuigen in Zwanenburg. De politie achtervolgde één van de voertuigen en hield kort daarna twee mannen van 45 en 37 jaar zonder vaste woon- of verblijfplaats aan. Beide mannen zitten nog vast en hun rol is in onderzoek.",
+    "full_text": "Na de melding kwam de politie rond 15.30 uur ter plaatse op de Populierenlaan, daar reed één van de gestolen voertuigen net weg. De politie zette daarop een achtervolging in. Vanuit Zwanenburg ging de achtervolging via Lijnden naar Badhoevedorp. Onderweg werd door de bestuurder gevaarlijk rijgedrag vertoond. Op een drukke weg werd maar liefst 130 kilometer per uur gereden. Ook werd door de verdachten in hun vlucht een tegenligger geramd. Hierbij raakte gelukkig niemand gewond. Uiteindelijk trof de politie het voertuig aan op het parkeerterrein naast Sportpark De Schuilhoeve in Badhoevedorp. De inzittenden waren gevlucht. Niet veel later wist de politie twee aanhoudingen te verrichten op de Plesmanlaan in Badhoevedorp. Tegen de bestuurder wordt een proces verbaal opgemaakt voor roekeloos rijgedrag. Ook doet de politie verder onderzoek naar de aanrijding met het geramde voertuig. Tegen de twee inzittenden wordt heling ten laste gelegd. De verdachten zitten nog vast. Heeft u een tip over deze zaak? De politie doet onderzoek en is nog op zoek naar bruikbare informatie en getuigen. Heeft u woensdag 25 februari rond 15.30 uur iets gezien, heeft u camerabeelden of heeft u anderszins bruikbare informatie? Neem dan contact op met de politie via 0900-8844 of tip anoniem via Meld Misdaad Anoniem 0800-7000. PL1100-2026044545",
+    "scraped_at": "2026-02-27T04:50:43.852223Z",
+    "id": "84187eecf24496dd257982b0dac4469ed1e7bbbc2669afbf2b752dc3d44aab76",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/26/04-twee-aanhoudingen-na-achtervolging-in-zwanenburg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Na de melding kwam de politie rond 15.30 uur ter plaatse op de Populierenlaan, daar reed één van de gestolen voertuigen net weg. De politie zette daarop een achtervolging in. Vanuit Zwanenburg ging de achtervolging via Lijnden naar Badhoevedorp. Onderweg werd door de bestuurder gevaarlijk rijgedrag vertoond. Op een drukke weg werd maar liefst 130 kilometer per uur gereden. Ook werd door de verdachten in hun vlucht een tegenligger geramd. Hierbij raakte gelukkig niemand gewond. Uiteindelijk trof de politie het voertuig aan op het parkeerterrein naast Sportpark De Schuilhoeve in Badhoevedorp. De inzittenden waren gevlucht. Niet veel later wist de politie twee aanhoudingen te verrichten op de Plesmanlaan in Badhoevedorp. Tegen de bestuurder wordt een proces verbaal opgemaakt voor roekeloos rijgedrag. Ook doet de politie verder onderzoek naar de aanrijding met het geramde voertuig. Tegen de twee inzittenden wordt heling ten laste gelegd. De verdachten zitten nog vast. Heeft u een tip over deze zaak? De politie doet onderzoek en is nog op zoek naar bruikbare informatie en getuigen. Heeft u woensdag 25 februari rond 15.30 uur iets gezien, heeft u camerabeelden of heeft u anderszins bruikbare informatie? Neem dan contact op met de politie via 0900-8844 of tip anoniem via Meld Misdaad Anoniem 0800-7000. PL1100-2026044545",
+    "locations": [
+      "Lijnden"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zwanenburg",
+        "NL"
+      ],
+      [
+        "Lijnden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Sportpark De Schuilhoeve",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3",
+      "not_affected"
+    ]
+  },
+  "2cfd517f821a4b35b8e92af544f23952": {
+    "feed": "Politie.nl",
+    "title": "Één aanhouding na achtervolging door Assendelft en Beverwijk",
+    "url": "https://www.politie.nl/nieuws/2026/februari/26/een-aanhouding-na-achtervolging-door-beverwijk.html",
+    "published": "Thu, 26 Feb 2026 09:22:00 GMT",
+    "summary": "Als de politie in de nacht van donderdag 26 februari een auto wil controleren in Assendelft, gaat deze er met hoge snelheid vandoor. Na een achtervolging is de bestuurder aangehouden voor poging tot doodslag op een politieambtenaar.",
+    "full_text": "Om 02.39 uur wilde de politie een auto die op een parkeerplaats stond bij de Dorpssttraat in Assendelft controleren. In plaats van mee te werken, reed de bestuurder van de auto zonder verlichting met hoge snelheid door de struiken het parkeerterrein af. De achtervolging ging vanaf Assendelft via de Communicatieweg in de richting van Heemskerk en eindigde op de Numanstraat te Beverwijk. Op de Communicatieweg reed de auto met hoge snelheid op een politieauto af. De politieauto kon net een aanrijding voorkomen, gelukkig is er niemand gewond geraakt. Op het moment dat de auto op de Numanstraat in Beverwijk tot stilstand kwam, renden er vier personen uit het voertuig. Drie daarvan zijn achterhaald, waaronder de bestuurder. Gevaarlijk rijgedrag De bestuurder, een 17-jarige jongeman uit Beverwijk, is aangehouden. Een eerste test gaf aanwijzing dat de bestuurder drugs had gebruikt. Ook doet de politie onderzoek naar gevaarlijk rijgedrag en rijden zonder rijbewijs door de verdachte.",
+    "scraped_at": "2026-02-27T04:50:43.854367Z",
+    "id": "cde8549f600221efc28f24dfd606b10f89b72f9281d44d8198e175ff41e7536b",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/26/een-aanhouding-na-achtervolging-door-beverwijk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Om 02.39 uur wilde de politie een auto die op een parkeerplaats stond bij de Dorpssttraat in Assendelft controleren. In plaats van mee te werken, reed de bestuurder van de auto zonder verlichting met hoge snelheid door de struiken het parkeerterrein af. De achtervolging ging vanaf Assendelft via de Communicatieweg in de richting van Heemskerk en eindigde op de Numanstraat te Beverwijk. Op de Communicatieweg reed de auto met hoge snelheid op een politieauto af. De politieauto kon net een aanrijding voorkomen, gelukkig is er niemand gewond geraakt. Op het moment dat de auto op de Numanstraat in Beverwijk tot stilstand kwam, renden er vier personen uit het voertuig. Drie daarvan zijn achterhaald, waaronder de bestuurder. Gevaarlijk rijgedrag De bestuurder, een 17-jarige jongeman uit Beverwijk, is aangehouden. Een eerste test gaf aanwijzing dat de bestuurder drugs had gebruikt. Ook doet de politie onderzoek naar gevaarlijk rijgedrag en rijden zonder rijbewijs door de verdachte.",
+    "locations": [
+      "Beverwijk"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Assendelft",
+        "NL"
+      ],
+      [
+        "Assendelft",
+        "NL"
+      ],
+      [
+        "Heemskerk",
+        "NL"
+      ],
+      [
+        "Beverwijk",
+        "NL"
+      ],
+      [
+        "Beverwijk",
+        "NL"
+      ],
+      [
+        "Beverwijk",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "achterhaald",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "a2ab451292651169f96777daed99107d": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Kun je checken of je Odido-data gelekt zijn en drie andere vragen",
+    "url": "https://nos.nl/l/2604142",
+    "published": "Thu, 26 Feb 2026 20:00:02 +0100",
+    "summary": "<p>De afgelopen dagen is telecombedrijf Odido veel in het nieuws geweest vanwege de gegevens <a href=\"https://nos.nl/artikel/2602080-hack-bij-odido-gegevens-miljoenen-klanten-in-handen-van-criminelen\">die gehackt zijn</a> door de hackergroep ShinyHunters. Miljoenen gegevens zijn buitgemaakt, en de groep eiste dat Odido losgeld zou betalen, anders zou ze gevoelige informatie publiceren.</p>\n        <p>Het bedrijf had tot vandaag dat te doen, maar het maakte bekend dat het <a href=\"https://nos.nl/artikel/2604072-odido-betaalt-geen-losgeld-criminelen-publiceren-deel-gestolen-klantgegevens\">geen losgeld</a> zal betalen. ShinyHunters heeft als reactie daarop een deel van de buitgemaakte gegevens gepubliceerd. Vier vragen over de gestolen data.</p>\n        <h2>Hoe weet ik of ik in die data voorkom?</h2>\n        <p>Het is vrijwel onmogelijk om te checken of je voorkomt in de gegevens die vandaag openbaar zijn gemaakt. Dan zou je toegang moeten hebben tot het 'dark web', vervolgens deze specifieke site moeten vinden en daarna overweg moeten kunnen met een tekstbestand van 10 gigabyte. Dat bestand is ook opgesteld in een technisch<strong> </strong>format dat niet direct om te zetten is in een begrijpelijke tabel.</p>\n        <p>Bovendien is het downloaden van de data strafbaar, zegt een woordvoerder van de politie.</p>\n        <p>De politie heeft de website '<a href=\"https://www.politie.nl/informatie/checkjehack.html\">Check Je Hack</a>', waarop burgers kunnen controleren welke data van hen gelekt zijn. Daar zal de informatie uit deze hack op een gegeven moment ook verschijnen; wanneer is onbekend.</p>\n        <p>Ook zegt Odido in contact te zullen treden met klanten van wie de data vandaag naar buiten gebracht zijn.</p>\n        <h2>Wie gaat er nu met die data aan de haal en wat kunnen ze daarmee uitrichten?</h2>\n        <p>De gegevens over 430.000 consumenten en 290.000 bedrijven die vandaag openbaar zijn gemaakt, gaan alleen over naam, adres en eventuele aantekeningen die door Odido zijn gemaakt. Dat zijn aantekeningen zoals 'heeft deze klant een betalingsachterstand?'</p>\n        <p>Gevoeliger materie zoals paspoortdata, mailadressen, telefoonnummers en geboortedata houden de hackers nog achter. De criminelen zeggen die later te kunnen publiceren, als Odido niet alsnog over de brug komt.</p>\n        <p>Met zulke informatie is in theorie identiteitsfraude te plegen: het aanvragen van diensten of het doen van aankopen in naam van iemand die er niets van weet. Dit wordt echter steeds moeilijker, aangezien steeds meer bedrijven en overheidsorganisaties extra controles inbouwen waarmee iemand zijn identiteit moet bewijzen, bijvoorbeeld via DigiD.</p>\n        <p>Hoe dan ook is het met deze gegevens voor criminelen al een stuk makkelijker geworden om burgers op te lichten: die kunnen via mail of telefoon benaderd worden om op een link te klikken of een andere handeling te verrichten waarmee geld kan worden afgetroggeld.</p>\n        <p>Ook bevatten de gelekte gegevens enkele tientallen btw-nummers van bedrijven. Dat is riskant als het om een eenmanszaak gaat. Tot 2020 bestonden de btw-nummers van die bedrijven uit het bsn-nummer van de ondernemer, vroeger bekend als het sofinummer.</p>\n        <p>En omdat de gegevens in de gelekte bestanden soms oud zijn, kunnen hier dus bsn-nummers van personen tussen staan. Inmiddels wordt voor de btw-nummers van eenmanszaken niet meer het bsn-nummer gebruikt. De Autoriteit Persoonsgegevens heeft dit in 2018 verboden.</p>\n        <h2>Hoeveel geld wordt er van Odido geëist? En was het niet beter geweest als er was betaald?</h2>\n        <p>Eerder deze week noemde de hackersgroep nog \"een bedrag met zeven cijfers\" als voorwaarde om de data niet te verspreiden, oftewel: iets tussen 1 en 10 miljoen euro. Gisteren meldde een van de daders aan de NOS dat ze <a href=\"https://nos.nl/artikel/2603981-ook-gevoelige-informatie-over-kwetsbare-klanten-in-handen-van-odido-criminelen\">\"ook wel akkoord gaan met een half miljoen\"</a>.</p>\n        <p>Volgens de politie is het onverstandig losgeld te betalen in een zaak als deze, omdat zo een verdienmodel voor criminelen in stand wordt gehouden: elke hackactie die geld oplevert is immers weer motivatie voor de volgende. Bovendien is er geen garantie dat de data niet alsnog onderhands verpatst worden aan andere criminelen, of op een andere manier verspreid worden.</p>\n        <p>Cybercrime-experts <a href=\"https://nos.nl/artikel/2603902-gaat-odido-nu-betalen-hangt-ervan-af-hoe-betrouwbaar-de-hackers-zijn\">zeiden eerder wel tegen de NOS</a> dat deze groep, ShinyHunters, de reputatie heeft te doen wat ze beloofd heeft als er eenmaal geld is overgemaakt. Zij wijzen er ook op dat het voor een bedrijf een 'simpele kosten-batenanalyse' is: wegen de kosten van het losgeld op tegen de reputatieschade voor het bedrijf, en de schade die hun klanten ondervinden? In dat geval kan het voor het bedrijf de moeite waard zijn om te betalen.</p>\n        <p>Volgens cybersecurity-expert Joey Fennis betaalde ruim een kwart van de bij soortgelijke hacks getroffen bedrijven in Nederland daarom het afgelopen jaar geld aan de afpersers, in weerwil van het advies van de politie.</p>\n        <h2>Kun je nu als klant een schadevergoeding claimen?</h2>\n        <p>Odido schrijft zelf in antwoord op <a href=\"https://www.odido.nl/veiligheid\">veelgestelde vragen</a> dat een datalek niet automatisch recht geeft op compensatie. Volgens het bedrijf is er op dit moment ook geen aanleiding om te denken dat eventuele schade het gevolg is van het datalek.</p>\n        <p>De Autoriteit Persoonsgegevens wil niet op dit specifieke geval ingaan, maar een woordvoerder laat weten dat schadevergoedingen onder bepaalde voorwaarden mogelijk zijn. Je moet bijvoorbeeld kunnen aantonen dat je schade hebt geleden, dat er een oorzakelijk verband is tussen het gegevenslek en de schade en dat het bedrijf je gegevens niet goed heeft beschermd.</p>",
+    "full_text": "NOS Nieuws • gisteren, 20:00 De afgelopen dagen is telecombedrijf Odido veel in het nieuws geweest vanwege de gegevens die gehackt zijn door de hackergroep ShinyHunters. Miljoenen gegevens zijn buitgemaakt, en de groep eiste dat Odido losgeld zou betalen, anders zou ze gevoelige informatie publiceren. Het bedrijf had tot vandaag dat te doen, maar het maakte bekend dat het geen losgeld zal betalen. ShinyHunters heeft als reactie daarop een deel van de buitgemaakte gegevens gepubliceerd. Vier vragen over de gestolen data. Hoe weet ik of ik in die data voorkom? Het is vrijwel onmogelijk om te checken of je voorkomt in de gegevens die vandaag openbaar zijn gemaakt. Dan zou je toegang moeten hebben tot het 'dark web', vervolgens deze specifieke site moeten vinden en daarna overweg moeten kunnen met een tekstbestand van 10 gigabyte. Dat bestand is ook opgesteld in een technisch format dat niet direct om te zetten is in een begrijpelijke tabel. Bovendien is het downloaden van de data strafbaar, zegt een woordvoerder van de politie. De politie heeft de website ' Check Je Hack ', waarop burgers kunnen controleren welke data van hen gelekt zijn. Daar zal de informatie uit deze hack op een gegeven moment ook verschijnen; wanneer is onbekend. Ook zegt Odido in contact te zullen treden met klanten van wie de data vandaag naar buiten gebracht zijn. Wie gaat er nu met die data aan de haal en wat kunnen ze daarmee uitrichten? De gegevens over 430.000 consumenten en 290.000 bedrijven die vandaag openbaar zijn gemaakt, gaan alleen over naam, adres en eventuele aantekeningen die door Odido zijn gemaakt. Dat zijn aantekeningen zoals 'heeft deze klant een betalingsachterstand?' Gevoeliger materie zoals paspoortdata, mailadressen, telefoonnummers en geboortedata houden de hackers nog achter. De criminelen zeggen die later te kunnen publiceren, als Odido niet alsnog over de brug komt. Met zulke informatie is in theorie identiteitsfraude te plegen: het aanvragen van diensten of het doen van aankopen in naam van iemand die er niets van weet. Dit wordt echter steeds moeilijker, aangezien steeds meer bedrijven en overheidsorganisaties extra controles inbouwen waarmee iemand zijn identiteit moet bewijzen, bijvoorbeeld via DigiD. Hoe dan ook is het met deze gegevens voor criminelen al een stuk makkelijker geworden om burgers op te lichten: die kunnen via mail of telefoon benaderd worden om op een link te klikken of een andere handeling te verrichten waarmee geld kan worden afgetroggeld. Ook bevatten de gelekte gegevens enkele tientallen btw-nummers van bedrijven. Dat is riskant als het om een eenmanszaak gaat. Tot 2020 bestonden de btw-nummers van die bedrijven uit het bsn-nummer van de ondernemer, vroeger bekend als het sofinummer. En omdat de gegevens in de gelekte bestanden soms oud zijn, kunnen hier dus bsn-nummers van personen tussen staan. Inmiddels wordt voor de btw-nummers van eenmanszaken niet meer het bsn-nummer gebruikt. De Autoriteit Persoonsgegevens heeft dit in 2018 verboden. Hoeveel geld wordt er van Odido geëist? En was het niet beter geweest als er was betaald? Eerder deze week noemde de hackersgroep nog \"een bedrag met zeven cijfers\" als voorwaarde om de data niet te verspreiden, oftewel: iets tussen 1 en 10 miljoen euro. Gisteren meldde een van de daders aan de NOS dat ze \"ook wel akkoord gaan met een half miljoen\" . Volgens de politie is het onverstandig losgeld te betalen in een zaak als deze, omdat zo een verdienmodel voor criminelen in stand wordt gehouden: elke hackactie die geld oplevert is immers weer motivatie voor de volgende. Bovendien is er geen garantie dat de data niet alsnog onderhands verpatst worden aan andere criminelen, of op een andere manier verspreid worden. Cybercrime-experts zeiden eerder wel tegen de NOS dat deze groep, ShinyHunters, de reputatie heeft te doen wat ze beloofd heeft als er eenmaal geld is overgemaakt. Zij wijzen er ook op dat het voor een bedrijf een 'simpele kosten-batenanalyse' is: wegen de kosten van het losgeld op tegen de reputatieschade voor het bedrijf, en de schade die hun klanten ondervinden? In dat geval kan het voor het bedrijf de moeite waard zijn om te betalen. Volgens cybersecurity-expert Joey Fennis betaalde ruim een kwart van de bij soortgelijke hacks getroffen bedrijven in Nederland daarom het afgelopen jaar geld aan de afpersers, in weerwil van het advies van de politie. Kun je nu als klant een schadevergoeding claimen? Odido schrijft zelf in antwoord op veelgestelde vragen dat een datalek niet automatisch recht geeft op compensatie. Volgens het bedrijf is er op dit moment ook geen aanleiding om te denken dat eventuele schade het gevolg is van het datalek. De Autoriteit Persoonsgegevens wil niet op dit specifieke geval ingaan, maar een woordvoerder laat weten dat schadevergoedingen onder bepaalde voorwaarden mogelijk zijn. Je moet bijvoorbeeld kunnen aantonen dat je schade hebt geleden, dat er een oorzakelijk verband is tussen het gegevenslek en de schade en dat het bedrijf je gegevens niet goed heeft beschermd.",
+    "scraped_at": "2026-02-27T04:49:53.445990Z",
+    "id": "d5460b2f239e7ad4c143f44ab36d749c3a9bc872c0e9cfed4d7be89ca2131005",
+    "canonical_url": "https://nos.nl/l/2604142",
+    "published_ts": "2026-02-26T19:00:02Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 20:00 De afgelopen dagen is telecombedrijf Odido veel in het nieuws geweest vanwege de gegevens die gehackt zijn door de hackergroep ShinyHunters. Miljoenen gegevens zijn buitgemaakt, en de groep eiste dat Odido losgeld zou betalen, anders zou ze gevoelige informatie publiceren. Het bedrijf had tot vandaag dat te doen, maar het maakte bekend dat het geen losgeld zal betalen. ShinyHunters heeft als reactie daarop een deel van de buitgemaakte gegevens gepubliceerd. Vier vragen over de gestolen data. Hoe weet ik of ik in die data voorkom? Het is vrijwel onmogelijk om te checken of je voorkomt in de gegevens die vandaag openbaar zijn gemaakt. Dan zou je toegang moeten hebben tot het 'dark web', vervolgens deze specifieke site moeten vinden en daarna overweg moeten kunnen met een tekstbestand van 10 gigabyte. Dat bestand is ook opgesteld in een technisch format dat niet direct om te zetten is in een begrijpelijke tabel. Bovendien is het downloaden van de data strafbaar, zegt een woordvoerder van de politie. De politie heeft de website ' Check Je Hack ', waarop burgers kunnen controleren welke data van hen gelekt zijn. Daar zal de informatie uit deze hack op een gegeven moment ook verschijnen; wanneer is onbekend. Ook zegt Odido in contact te zullen treden met klanten van wie de data vandaag naar buiten gebracht zijn. Wie gaat er nu met die data aan de haal en wat kunnen ze daarmee uitrichten? De gegevens over 430.000 consumenten en 290.000 bedrijven die vandaag openbaar zijn gemaakt, gaan alleen over naam, adres en eventuele aantekeningen die door Odido zijn gemaakt. Dat zijn aantekeningen zoals 'heeft deze klant een betalingsachterstand?' Gevoeliger materie zoals paspoortdata, mailadressen, telefoonnummers en geboortedata houden de hackers nog achter. De criminelen zeggen die later te kunnen publiceren, als Odido niet alsnog over de brug komt. Met zulke informatie is in theorie identiteitsfraude te plegen: het aanvragen van diensten of het doen van aankopen in naam van iemand die er niets van weet. Dit wordt echter steeds moeilijker, aangezien steeds meer bedrijven en overheidsorganisaties extra controles inbouwen waarmee iemand zijn identiteit moet bewijzen, bijvoorbeeld via DigiD. Hoe dan ook is het met deze gegevens voor criminelen al een stuk makkelijker geworden om burgers op te lichten: die kunnen via mail of telefoon benaderd worden om op een link te klikken of een andere handeling te verrichten waarmee geld kan worden afgetroggeld. Ook bevatten de gelekte gegevens enkele tientallen btw-nummers van bedrijven. Dat is riskant als het om een eenmanszaak gaat. Tot 2020 bestonden de btw-nummers van die bedrijven uit het bsn-nummer van de ondernemer, vroeger bekend als het sofinummer. En omdat de gegevens in de gelekte bestanden soms oud zijn, kunnen hier dus bsn-nummers van personen tussen staan. Inmiddels wordt voor de btw-nummers van eenmanszaken niet meer het bsn-nummer gebruikt. De Autoriteit Persoonsgegevens heeft dit in 2018 verboden. Hoeveel geld wordt er van Odido geëist? En was het niet beter geweest als er was betaald? Eerder deze week noemde de hackersgroep nog \"een bedrag met zeven cijfers\" als voorwaarde om de data niet te verspreiden, oftewel: iets tussen 1 en 10 miljoen euro. Gisteren meldde een van de daders aan de NOS dat ze \"ook wel akkoord gaan met een half miljoen\" . Volgens de politie is het onverstandig losgeld te betalen in een zaak als deze, omdat zo een verdienmodel voor criminelen in stand wordt gehouden: elke hackactie die geld oplevert is immers weer motivatie voor de volgende. Bovendien is er geen garantie dat de data niet alsnog onderhands verpatst worden aan andere criminelen, of op een andere manier verspreid worden. Cybercrime-experts zeiden eerder wel tegen de NOS dat deze groep, ShinyHunters, de reputatie heeft te doen wat ze beloofd heeft als er eenmaal geld is overgemaakt. Zij wijzen er ook op dat het voor een bedrijf een 'simpele kosten-batenanalyse' is: wegen de kosten van het losgeld op tegen de reputatieschade voor het bedrijf, en de schade die hun klanten ondervinden? In dat geval kan het voor het bedrijf de moeite waard zijn om te betalen. Volgens cybersecurity-expert Joey Fennis betaalde ruim een kwart van de bij soortgelijke hacks getroffen bedrijven in Nederland daarom het afgelopen jaar geld aan de afpersers, in weerwil van het advies van de politie. Kun je nu als klant een schadevergoeding claimen? Odido schrijft zelf in antwoord op veelgestelde vragen dat een datalek niet automatisch recht geeft op compensatie. Volgens het bedrijf is er op dit moment ook geen aanleiding om te denken dat eventuele schade het gevolg is van het datalek. De Autoriteit Persoonsgegevens wil niet op dit specifieke geval ingaan, maar een woordvoerder laat weten dat schadevergoedingen onder bepaalde voorwaarden mogelijk zijn. Je moet bijvoorbeeld kunnen aantonen dat je schade hebt geleden, dat er een oorzakelijk verband is tussen het gegevenslek en de schade en dat het bedrijf je gegevens niet goed heeft beschermd.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.7727529211280726,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "ShinyHunters",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "ShinyHunters",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Vier",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Odido",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Gevoeliger",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Autoriteit Persoonsgegevens",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Cybercrime-experts",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
