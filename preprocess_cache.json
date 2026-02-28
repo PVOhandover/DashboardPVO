@@ -49771,5 +49771,127 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "c1277410179e5a46d2c3da27b5b7b131": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws vrijdag 27 februari: Meerdere botsingen van auto's bij oprit N46 in Stad",
+    "url": "https://www.rtvnoord.nl/112/1384463/112-nieuws-vrijdag-27-februari-meerdere-botsingen-van-autos-bij-oprit-n46-in-stad",
+    "published": "Fri, 27 Feb 2026 09:12:04 GMT",
+    "summary": "In dit 112-blog houden we je deze vrijdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Twee auto's zijn op elkaar gebotst in Groningen, op de oprit van de N46 langs de Koningsweg. Dat leverde beide auto's behoorlijke schade op. Een persoon raakte bekneld. Een van de bestuurders is door de brandweer uit de auto geholpen en ligt in de ambulance. De andere bestuurder raakte niet gewond. De oprit, in de richting van Julianaplein, is afgesloten. De politie doet onderzoek naar de toedracht van het ongeval.",
+    "scraped_at": "2026-02-28T04:20:51.952965Z",
+    "id": "422fceb955c3fc92f963611f4ce6316fd12593b0cd56f7a821ed402296dd1c9a",
+    "canonical_url": "https://www.rtvnoord.nl/112/1384463/112-nieuws-vrijdag-27-februari-meerdere-botsingen-van-autos-bij-oprit-n46-in-stad",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Twee auto's zijn op elkaar gebotst in Groningen, op de oprit van de N46 langs de Koningsweg. Dat leverde beide auto's behoorlijke schade op. Een persoon raakte bekneld. Een van de bestuurders is door de brandweer uit de auto geholpen en ligt in de ambulance. De andere bestuurder raakte niet gewond. De oprit, in de richting van Julianaplein, is afgesloten. De politie doet onderzoek naar de toedracht van het ongeval.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Twee",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Julianaplein",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "dd38b25871e4750c6d262e30c51ddfc8": {
+    "feed": "NOS.nl (Economie)",
+    "title": "ING: Nederlandse beleggers investeren minder in de VS",
+    "url": "https://nos.nl/l/2604171",
+    "published": "Fri, 27 Feb 2026 07:05:43 +0100",
+    "summary": "<p>Bijna een op de drie Nederlandse particuliere beleggers zegt minder te investeren in de Verenigde Staten. Door de geopolitieke spanningen tussen de VS en Europa kiezen Nederlanders vaker voor beleggen in Europa, blijkt uit onderzoek van ING.</p>\n        <p>\"De spanningen zetten beleggers aan het denken, ze kiezen nu veel bewuster\", zegt Bob Homan, hoofd investment office bij ING. Volgens hem zijn mensen ook op zoek naar stabiliteit en vinden ze die op Europese markten.</p>\n        <p>Wat ook opvalt is dat 49 procent minder of zelfs geen Amerikaanse producten koopt en ook minder snel of helemaal niet op vakantie gaat naar Amerika.</p>\n        <h2>Beleggersvertrouwen niet aangetast</h2>\n        <p>Vorig jaar bleek al uit <a href=\"https://nos.nl/artikel/2572538-rabobank-kwart-nederlandse-beleggers-verkoopt-amerikaanse-aandelen\">onderzoek van Rabobank</a> dat veel Nederlanders liever geen nieuwe aandelen van Amerikaanse bedrijven kopen. Een kwart had zelfs de aandelen verkocht. </p>\n        <p>Uit het laatste ING-onderzoek blijkt niet dat beleggers Amerikaanse aandelen massaal laten vallen. De reactie om minder te investeren is volgens Homan wel logisch. \"Amerika blijft ook achter op de beurs ten opzichte van Europa en de rest van de wereld.\"</p>\n        <p>Opvallend genoeg wordt het beleggersvertrouwen daardoor niet aangetast. \"Ze blijven standvastig, omdat beleggers in de tarievenoorlog - toen de beurzen tijdelijk terugvielen - er uiteindelijk niet veel last van hebben gehad.\"</p>\n        <h2>Verwachting stabiel</h2>\n        <p>Op de lange termijn kan het anders uitpakken, want de echte grote IT-bedrijven die het nu moeilijk hebben zitten in Amerika, \"en daar zit ook nog wel veel toekomst in\", zegt Homan.</p>\n        <p>De economische verwachtingen blijven de komende maanden voor het grootste gedeelte stabiel. Ook duurzaam beleggen, waarbij het niet alleen gaat om financieel voordeel, maar ook om de positieve uitwerking van beleggingen op mens, milieu en maatschappij, wint aan populariteit. Met name wind- en zonne-energiebedrijven doen het goed. Dat wordt ook gedreven door kunstmatige intelligentie, waarbij veel energie nodig is voor datacenters.</p>",
+    "full_text": "NOS Nieuws • gisteren, 07:05 Bijna een op de drie Nederlandse particuliere beleggers zegt minder te investeren in de Verenigde Staten. Door de geopolitieke spanningen tussen de VS en Europa kiezen Nederlanders vaker voor beleggen in Europa, blijkt uit onderzoek van ING. \"De spanningen zetten beleggers aan het denken, ze kiezen nu veel bewuster\", zegt Bob Homan, hoofd investment office bij ING. Volgens hem zijn mensen ook op zoek naar stabiliteit en vinden ze die op Europese markten. Wat ook opvalt is dat 49 procent minder of zelfs geen Amerikaanse producten koopt en ook minder snel of helemaal niet op vakantie gaat naar Amerika. Beleggersvertrouwen niet aangetast Vorig jaar bleek al uit onderzoek van Rabobank dat veel Nederlanders liever geen nieuwe aandelen van Amerikaanse bedrijven kopen. Een kwart had zelfs de aandelen verkocht. Uit het laatste ING-onderzoek blijkt niet dat beleggers Amerikaanse aandelen massaal laten vallen. De reactie om minder te investeren is volgens Homan wel logisch. \"Amerika blijft ook achter op de beurs ten opzichte van Europa en de rest van de wereld.\" Opvallend genoeg wordt het beleggersvertrouwen daardoor niet aangetast. \"Ze blijven standvastig, omdat beleggers in de tarievenoorlog - toen de beurzen tijdelijk terugvielen - er uiteindelijk niet veel last van hebben gehad.\" Verwachting stabiel Op de lange termijn kan het anders uitpakken, want de echte grote IT-bedrijven die het nu moeilijk hebben zitten in Amerika, \"en daar zit ook nog wel veel toekomst in\", zegt Homan. De economische verwachtingen blijven de komende maanden voor het grootste gedeelte stabiel. Ook duurzaam beleggen, waarbij het niet alleen gaat om financieel voordeel, maar ook om de positieve uitwerking van beleggingen op mens, milieu en maatschappij, wint aan populariteit. Met name wind- en zonne-energiebedrijven doen het goed. Dat wordt ook gedreven door kunstmatige intelligentie, waarbij veel energie nodig is voor datacenters.",
+    "scraped_at": "2026-02-28T04:19:10.493107Z",
+    "id": "9f4ec525d4320e35a89dc5337ca877318f5620233365d39704130f7040c9d245",
+    "canonical_url": "https://nos.nl/l/2604171",
+    "published_ts": "2026-02-27T06:05:43Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 07:05 Bijna een op de drie Nederlandse particuliere beleggers zegt minder te investeren in de Verenigde Staten. Door de geopolitieke spanningen tussen de VS en Europa kiezen Nederlanders vaker voor beleggen in Europa, blijkt uit onderzoek van ING. \"De spanningen zetten beleggers aan het denken, ze kiezen nu veel bewuster\", zegt Bob Homan, hoofd investment office bij ING. Volgens hem zijn mensen ook op zoek naar stabiliteit en vinden ze die op Europese markten. Wat ook opvalt is dat 49 procent minder of zelfs geen Amerikaanse producten koopt en ook minder snel of helemaal niet op vakantie gaat naar Amerika. Beleggersvertrouwen niet aangetast Vorig jaar bleek al uit onderzoek van Rabobank dat veel Nederlanders liever geen nieuwe aandelen van Amerikaanse bedrijven kopen. Een kwart had zelfs de aandelen verkocht. Uit het laatste ING-onderzoek blijkt niet dat beleggers Amerikaanse aandelen massaal laten vallen. De reactie om minder te investeren is volgens Homan wel logisch. \"Amerika blijft ook achter op de beurs ten opzichte van Europa en de rest van de wereld.\" Opvallend genoeg wordt het beleggersvertrouwen daardoor niet aangetast. \"Ze blijven standvastig, omdat beleggers in de tarievenoorlog - toen de beurzen tijdelijk terugvielen - er uiteindelijk niet veel last van hebben gehad.\" Verwachting stabiel Op de lange termijn kan het anders uitpakken, want de echte grote IT-bedrijven die het nu moeilijk hebben zitten in Amerika, \"en daar zit ook nog wel veel toekomst in\", zegt Homan. De economische verwachtingen blijven de komende maanden voor het grootste gedeelte stabiel. Ook duurzaam beleggen, waarbij het niet alleen gaat om financieel voordeel, maar ook om de positieve uitwerking van beleggingen op mens, milieu en maatschappij, wint aan populariteit. Met name wind- en zonne-energiebedrijven doen het goed. Dat wordt ook gedreven door kunstmatige intelligentie, waarbij veel energie nodig is voor datacenters.",
+    "locations": [
+      "Amerika"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amerika",
+        "DE"
+      ],
+      [
+        "Amerika",
+        "DE"
+      ],
+      [
+        "Amerika",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bob Homan",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Rabobank",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Homan",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Homan",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
