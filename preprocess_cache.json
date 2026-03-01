@@ -49893,5 +49893,59 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "ffcdccae38588750ec957bf28077d14e": {
+    "feed": "Politie.nl",
+    "title": "Auto gestolen, teruggevonden en verdachten aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/februari/28/08-auto-gestolen-teruggevonden-en-verdachten-aangehouden.html",
+    "published": "Sat, 28 Feb 2026 15:58:00 GMT",
+    "summary": "Binnen drie uur werd op zaterdag in Bergen op Zoom een auto als gestolen gemeld, teruggevonden en werden twee verdachten aangehouden door de politie. Met dank aan zeer alerte getuigen.",
+    "full_text": "Omstreeks 12.00 uur, op zaterdagmiddag 28 februari 2026, zag een medewerker van een bedrijf aan het Zonneplein in Bergen op Zoom een bedrijfsauto van haar werkgever rijden door de Jan Dercksstraat. In de auto zaten mensen die zij niet herkende als haar collega’s. Ook waren de logostickers van de auto afgehaald. De medewerkster liet dit weten aan haar werkgever en collega’s. Teruggevonden op de A4 De politie werd in kennis gesteld en het kenteken van de auto werd met agenten gedeeld. Rond 13.20 uur op dezelfde zaterdagmiddag zagen agenten de auto rijden op de A4, ter hoogte van Woensdrecht. Aan de bestuurder werd een stopteken gegeven en de man stopte vervolgens langs de weg. De bestuurder was een man van 40 jaar uit Bergen op Zoom. Als bijrijder zat een 48-jarige man in de auto. Deze man staat niet in Nederland ingeschreven. De twee mannen zijn aangehouden op verdenking van heling van een gestolen auto. Ze zijn overgebracht naar een politiecellencomplex. Daar worden ze gehoord door rechercheurs. Verklaring afgelegd De getuigen legden een verklaring af en het bedrijf dat eigenaar van de auto is, deed aangifte van diefstal. De officier van justitie neemt een beslissing of, en zo ja wanneer, de auto teruggegeven kan worden aan de rechtmatige eigenaar.",
+    "scraped_at": "2026-03-01T04:59:10.350154Z",
+    "id": "f618bb22eed510af3be2b7c37900813d2d6a516d20ad8ebea1b3aee49f756f64",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/februari/28/08-auto-gestolen-teruggevonden-en-verdachten-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 12.00 uur, op zaterdagmiddag 28 februari 2026, zag een medewerker van een bedrijf aan het Zonneplein in Bergen op Zoom een bedrijfsauto van haar werkgever rijden door de Jan Dercksstraat. In de auto zaten mensen die zij niet herkende als haar collega’s. Ook waren de logostickers van de auto afgehaald. De medewerkster liet dit weten aan haar werkgever en collega’s. Teruggevonden op de A4 De politie werd in kennis gesteld en het kenteken van de auto werd met agenten gedeeld. Rond 13.20 uur op dezelfde zaterdagmiddag zagen agenten de auto rijden op de A4, ter hoogte van Woensdrecht. Aan de bestuurder werd een stopteken gegeven en de man stopte vervolgens langs de weg. De bestuurder was een man van 40 jaar uit Bergen op Zoom. Als bijrijder zat een 48-jarige man in de auto. Deze man staat niet in Nederland ingeschreven. De twee mannen zijn aangehouden op verdenking van heling van een gestolen auto. Ze zijn overgebracht naar een politiecellencomplex. Daar worden ze gehoord door rechercheurs. Verklaring afgelegd De getuigen legden een verklaring af en het bedrijf dat eigenaar van de auto is, deed aangifte van diefstal. De officier van justitie neemt een beslissing of, en zo ja wanneer, de auto teruggegeven kan worden aan de rechtmatige eigenaar.",
+    "locations": [
+      "Bergen op Zoom"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Bergen op Zoom",
+        "NL"
+      ],
+      [
+        "Woensdrecht",
+        "NL"
+      ],
+      [
+        "Bergen op Zoom",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Jan Dercksstraat",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
