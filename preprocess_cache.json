@@ -51407,5 +51407,260 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "2c3707f9975cb2171494b20d3f7ddd87": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws donderdag 12 maart: Brand in oud kantoorpand in Stad geblust • Motorrijder zwaargewond",
+    "url": "https://www.rtvnoord.nl/112/1387774/112-nieuws-donderdag-12-maart-brand-in-oud-kantoorpand-in-stad-geblust-motorrijder-zwaargewond",
+    "published": "Thu, 12 Mar 2026 21:17:10 GMT",
+    "summary": "In dit 112-blog houden we je deze donderdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De dief van het Groningse Van Gogh-schilderij ‘Lentetuin, de pastorietuin te Nuenen in het voorjaar’, blijkt in januari op de vlucht te zijn geslagen. De 63-jarige Nils M. ging ervandoor toen hij zelfstandig van de gevangenis in Nieuwegein naar een beperkt beveiligde afdeling van een andere gevangenis mocht. De politie meldde woensdag dat een veroordeelde voortvluchtige was opgepakt die nog een deel van zijn celstraf moest uitzitten. Misdaadjournalist Mick van Wely meldt dat het gaat om Nils M., die in 2021 acht jaar cel kreeg. Hij had onder meer Van Goghs werk ‘Lentetuin’ . Dat had het werk in bruikleen van het Groninger Museum. Hoewel de politie geen namen noemt, bevestigt een woordvoerster wel dat het inderdaad om de man gaat die is veroordeeld voor het stelen van de werken van Van Gogh en Hals. M. werd uiteindelijk opgepakt in Amsterdam. Door zijn vluchtactie mag hij niet direct terug naar de afdeling met het lichtere beveiligingsregime. Over bijna een jaar moet een besluit worden genomen over M.'s vervroegde invrijheidstelling.",
+    "scraped_at": "2026-03-13T04:50:19.472793Z",
+    "id": "0a702629e76143aa94df2b639cf64479147ed2900a709226d0f5d671c731d044",
+    "canonical_url": "https://www.rtvnoord.nl/112/1387774/112-nieuws-donderdag-12-maart-brand-in-oud-kantoorpand-in-stad-geblust-motorrijder-zwaargewond",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De dief van het Groningse Van Gogh-schilderij ‘Lentetuin, de pastorietuin te Nuenen in het voorjaar’, blijkt in januari op de vlucht te zijn geslagen. De 63-jarige Nils M. ging ervandoor toen hij zelfstandig van de gevangenis in Nieuwegein naar een beperkt beveiligde afdeling van een andere gevangenis mocht. De politie meldde woensdag dat een veroordeelde voortvluchtige was opgepakt die nog een deel van zijn celstraf moest uitzitten. Misdaadjournalist Mick van Wely meldt dat het gaat om Nils M., die in 2021 acht jaar cel kreeg. Hij had onder meer Van Goghs werk ‘Lentetuin’ . Dat had het werk in bruikleen van het Groninger Museum. Hoewel de politie geen namen noemt, bevestigt een woordvoerster wel dat het inderdaad om de man gaat die is veroordeeld voor het stelen van de werken van Van Gogh en Hals. M. werd uiteindelijk opgepakt in Amsterdam. Door zijn vluchtactie mag hij niet direct terug naar de afdeling met het lichtere beveiligingsregime. Over bijna een jaar moet een besluit worden genomen over M.'s vervroegde invrijheidstelling.",
+    "locations": [
+      "Groningse Van Gogh-schilderij ‘Lentetuin",
+      "Nieuwegein",
+      "Hals",
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Nieuwegein",
+        "NL"
+      ],
+      [
+        "Hals",
+        "DE"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "41-43",
+      "sector_name": "Construction"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Mick van Wely",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Van Goghs",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lentetuin",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Groninger Museum",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Van Gogh",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "41-43",
+      "not_affected"
+    ]
+  },
+  "187b7b99c9e18bf9e536410e2ad5a25d": {
+    "feed": "RTV Noord",
+    "title": "Ewout Genemans stelt politieagenten Bureau Groningen voor: 'Nu kan heel Nederland meekijken'",
+    "url": "https://www.rtvnoord.nl/cultuur/1387976/ewout-genemans-stelt-politieagenten-bureau-groningen-voor-nu-kan-heel-nederland-meekijken",
+    "published": "Thu, 12 Mar 2026 16:53:26 GMT",
+    "summary": "De cast van het tv-programma Bureau Groningen is bekend. Donderdag stelde presentator Ewout Genemans de politieagenten met wie hij de komende maanden meeloopt voor in Stad. Onder hen Pim en Annemarie, die staan te springen om te beginnen.",
+    "full_text": "'We zoeken mensen die met passie hun werk doen en het leuk vinden om dat te laten zien', zegt presentator Genemans daar zelf over. 'En vervolgens kijken we hoe we het best een afspiegeling van de politie in Groningen kunnen doen. Iedereen moet zich erin herkennen, en ik denk dat dat goed gelukt is.'",
+    "scraped_at": "2026-03-13T04:50:30.371128Z",
+    "id": "f2397ab8e6f0126eca0d00fd2ad52dbe3ccf082dab62b9672af2f415b4164c62",
+    "canonical_url": "https://www.rtvnoord.nl/cultuur/1387976/ewout-genemans-stelt-politieagenten-bureau-groningen-voor-nu-kan-heel-nederland-meekijken",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "'We zoeken mensen die met passie hun werk doen en het leuk vinden om dat te laten zien', zegt presentator Genemans daar zelf over. 'En vervolgens kijken we hoe we het best een afspiegeling van de politie in Groningen kunnen doen. Iedereen moet zich erin herkennen, en ik denk dat dat goed gelukt is.'",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Genemans",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "cf4f5ae38e2a60b35fd0b5b208b31e55": {
+    "feed": "Politie.nl",
+    "title": "Internationaal succes tegen georganiseerde cybercrime, criminele proxydienst uit de lucht",
+    "url": "https://www.politie.nl/nieuws/2026/maart/12/10-internationaal-succes-tegen-georganiseerde-cybercrime-criminele-proxydienst-uit-de-lucht.html",
+    "published": "Thu, 12 Mar 2026 16:00:00 GMT",
+    "summary": "In een grootschalig internationaal onderzoek hebben Team Cybercrime van de politie in Limburg, onder leiding van het Openbaar Ministerie, in samenwerking met andere buitenlandse opsporingsdiensten de criminele proxydienst SocksEscort uit de lucht gehaald.",
+    "full_text": "Tijdens een geplande actie is woensdag 11 maart de infrastructuur offline gehaald en de website, waarop de dienst aangeboden werd, overgenomen. Daarnaast is een grote hoeveelheid data in beslag genomen en veiliggesteld. De volledige omvang van het proxynetwerk en de afnemers van deze dienst is hiermee duidelijk geworden. In het onderzoek is samengewerkt met de autoriteiten in Frankrijk, Oostenrijk en de Verenigde Staten. Wat is een proxydienst? Een proxydienst is een tussenstation op internet en verbergt het echte IP-adres van de gebruiker. Hierdoor lijkt het internetverkeer afkomstig van een ander apparaat, bijvoorbeeld van een router in een Nederlands huishouden. Cybercriminelen misbruiken dit soort routers, vaak verouderde apparaten zonder beveiligingsupdates (zogeheten \"end-of-life\"-apparatuur). Vervolgens bieden zij deze via online marktplaatsen te huur, met anonieme betaling in cryptovaluta, aan. Hoewel niet iedere proxydienst illegaal is, worden ze ook door criminelen misbruikt om hun identiteit te verbergen. Dit maakt het opsporen en vervolgen van daders moeilijker en lijkt het alsof het strafbare feit door de eigenaar van het kwetsbare apparaat is gepleegd. SocksEscort SocksEscort bestond uit wereldwijd meer dan 369.000 gehackte en geïnfecteerde apparaten (zoals routers en camera’s) van thuisgebruikers. Dit betekent dat dit een illegale proxydienst is. De dienst werd sinds 2010 tegen anonieme betaling in cryptovaluta aangeboden en werd gebruikt om strafbare feiten te plegen. Internationaal onderzoek ‘Operation Lightning’ Vanwege de mondiale omvang en impact van deze illegale proxydienst, is Europol een onderzoek gestart onder de naam ‘Operation Lightning’. Het onderzoek gaf inzicht in alle geïnfecteerde apparaten die misbruikt werden als proxy van SocksEscort. De kenmerken van deze apparaten zijn gedeeld met de opsporingsdiensten in meer dan 40 landen. Deze landen kunnen maatregelen treffen, zodat deze apparaten niet meer kwetsbaar zijn voor een dergelijke proxydienst. Nederland In Nederland was een beperkt aantal apparaten geïnfecteerd. De eigenaren van deze apparaten worden persoonlijk door de politie in kennis gesteld. Daarnaast is data van de afnemers van SocksEscort veiliggesteld. Nader onderzoek naar de identiteit van deze personen en eventuele strafbare feiten die zij via deze dienst gepleegd hebben, loopt. Bij de actie zijn geen aanhoudingen verricht. Wel zijn servers in beslag genomen en offline gehaald. Doe zelf de check – zijn jouw slimme apparaten veilig? Het blijkt dat wereldwijd duizenden slimme apparaten (bijvoorbeeld routers of camera’s) die geen updates meer ontvangen, worden misbruikt als digitale dekmantel voor criminele activiteiten zoals phishing en ransomware-aanvallen. Als jouw slimme apparaten worden gehackt, dan kan dit leiden tot trager internet, onbetrouwbare verbindingen of zelfs het verlies van persoonlijke gegevens. Cybercriminelen kunnen toegang krijgen tot je netwerk en je apparaten infecteren met malware. Zorg er dus voor dat jouw slimme apparaten up-to-date zijn. Worden ze niet (meer) ondersteund? Vervang ze dan! Kijk voor meer informatie op: https://veiliginternetten.nl/doe-je-updates/ .",
+    "scraped_at": "2026-03-13T04:49:17.717509Z",
+    "id": "cb45cda2a8682cea65e87a447c1b655e9a1b5addb55ad13be8f4d6749265f713",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/12/10-internationaal-succes-tegen-georganiseerde-cybercrime-criminele-proxydienst-uit-de-lucht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens een geplande actie is woensdag 11 maart de infrastructuur offline gehaald en de website, waarop de dienst aangeboden werd, overgenomen. Daarnaast is een grote hoeveelheid data in beslag genomen en veiliggesteld. De volledige omvang van het proxynetwerk en de afnemers van deze dienst is hiermee duidelijk geworden. In het onderzoek is samengewerkt met de autoriteiten in Frankrijk, Oostenrijk en de Verenigde Staten. Wat is een proxydienst? Een proxydienst is een tussenstation op internet en verbergt het echte IP-adres van de gebruiker. Hierdoor lijkt het internetverkeer afkomstig van een ander apparaat, bijvoorbeeld van een router in een Nederlands huishouden. Cybercriminelen misbruiken dit soort routers, vaak verouderde apparaten zonder beveiligingsupdates (zogeheten \"end-of-life\"-apparatuur). Vervolgens bieden zij deze via online marktplaatsen te huur, met anonieme betaling in cryptovaluta, aan. Hoewel niet iedere proxydienst illegaal is, worden ze ook door criminelen misbruikt om hun identiteit te verbergen. Dit maakt het opsporen en vervolgen van daders moeilijker en lijkt het alsof het strafbare feit door de eigenaar van het kwetsbare apparaat is gepleegd. SocksEscort SocksEscort bestond uit wereldwijd meer dan 369.000 gehackte en geïnfecteerde apparaten (zoals routers en camera’s) van thuisgebruikers. Dit betekent dat dit een illegale proxydienst is. De dienst werd sinds 2010 tegen anonieme betaling in cryptovaluta aangeboden en werd gebruikt om strafbare feiten te plegen. Internationaal onderzoek ‘Operation Lightning’ Vanwege de mondiale omvang en impact van deze illegale proxydienst, is Europol een onderzoek gestart onder de naam ‘Operation Lightning’. Het onderzoek gaf inzicht in alle geïnfecteerde apparaten die misbruikt werden als proxy van SocksEscort. De kenmerken van deze apparaten zijn gedeeld met de opsporingsdiensten in meer dan 40 landen. Deze landen kunnen maatregelen treffen, zodat deze apparaten niet meer kwetsbaar zijn voor een dergelijke proxydienst. Nederland In Nederland was een beperkt aantal apparaten geïnfecteerd. De eigenaren van deze apparaten worden persoonlijk door de politie in kennis gesteld. Daarnaast is data van de afnemers van SocksEscort veiliggesteld. Nader onderzoek naar de identiteit van deze personen en eventuele strafbare feiten die zij via deze dienst gepleegd hebben, loopt. Bij de actie zijn geen aanhoudingen verricht. Wel zijn servers in beslag genomen en offline gehaald. Doe zelf de check – zijn jouw slimme apparaten veilig? Het blijkt dat wereldwijd duizenden slimme apparaten (bijvoorbeeld routers of camera’s) die geen updates meer ontvangen, worden misbruikt als digitale dekmantel voor criminele activiteiten zoals phishing en ransomware-aanvallen. Als jouw slimme apparaten worden gehackt, dan kan dit leiden tot trager internet, onbetrouwbare verbindingen of zelfs het verlies van persoonlijke gegevens. Cybercriminelen kunnen toegang krijgen tot je netwerk en je apparaten infecteren met malware. Zorg er dus voor dat jouw slimme apparaten up-to-date zijn. Worden ze niet (meer) ondersteund? Vervang ze dan! Kijk voor meer informatie op: https://veiliginternetten.nl/doe-je-updates/ .",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615609480185,
+    "sme_probability": 0.6304615852497031,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "SocksEscort",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "SocksEscort",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "camera’s",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Operation Lightning’",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "SocksEscort",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "ac2e7ad2f5d5d7a5664013cc7d1321e1": {
+    "feed": "Politie.nl",
+    "title": "Online oplichters van minderjarigen opgepakt",
+    "url": "https://www.politie.nl/nieuws/2026/maart/12/09-online-oplichters-van-minderjarigen-opgepakt.html",
+    "published": "Thu, 12 Mar 2026 13:24:00 GMT",
+    "summary": "Na een onderzoek door financieel specialisten van de districtsrecherche in Eindhoven, onder leiding van het Openbaar Ministerie Oost-Brabant, hielden we op dinsdag 10 maart twee mannen uit Etten-Leur aan (20 en 21 jaar), die we verdenken van online oplichting van tientallen minderjarigen. Zij zitten vast en worden vrijdag voorgeleid aan de rechter-commissaris.",
+    "full_text": "Uit digitaal onderzoek bleek onder meer dat vaak hetzelfde social media-account en bankrekeningnummer voorkwam in aangiftes van online oplichting van minderjarigen in de leeftijdscategorie 13 tot 17 jaar. Deze kinderen werden via Snapchat-advertenties verleid met lokkertjes om voor een paar euro een normaal gesproken veel duurdere nieuwe telefoon te kunnen krijgen. Uiteindelijk sloten ze zonder het te weten een abonnement af bij een bepaalde provider, maar de telefoon kregen ze nooit. Die kwam bij de oplichters terecht. Heel Nederland “We hebben 70 zaken waarin kinderen van deze methode slachtoffer werden”, vertelt de coördinator van het onderzoek. “We zien al deze 70 minderjarigen, die door heel Nederland verspreid wonen, als slachtoffers. De meeste ouders van de kinderen hebben wij telefonisch gesproken om te vertellen dat dit heeft plaatsgevonden. De meeste ouders wisten namelijk niet eens dat dit gespeeld had of wat er nu precies was gebeurd. Zij waren heel blij dat wij contact hadden gelegd om het gesprek met hun kinderen aan te kunnen gaan.” Een deel van deze 70 slachtoffers deed aangifte en de overige slachtoffers zagen daarvan af. Wel deed een aantal van hen hun verhaal. Woningen doorzocht Alle zaken worden in één dossier gevoegd. We verdenken de aangehouden verdachten ervan dat zij samen deze oplichtingen hebben gepleegd. Dinsdag doorzocht de recherche de woningen van de verdachten in Etten-Leur en hield hen aan. “Bij de doorzoekingen zijn telefoons van de bewoners aangetroffen en inbeslaggenomen. Of deze ook met hun oplichtingspraktijken zijn verkregen onderzoeken we nog”, zegt de coördinator. “Daarnaast is er bij één van de verdachten een groot contant geldbedrag in beslaggenomen. We proberen te achterhalen waar dit geld vandaan komt en hoe dat is verkregen. Tenslotte namen we ook nog administratie in beslag.” Bewustwording Zowel de politie als het Openbaar Ministerie vinden het belangrijk om aandacht te vragen voor dit soort online oplichtingen van minderjarigen. “We hopen hiermee ook een stuk bewustwording bij ouders te creëren waar hun kinderen online in verzeild kunnen raken via bijvoorbeeld Snapchat. De oplichters gingen steeds op dezelfde manier te werk. We hopen dat ouders hierover het gesprek met hun kinderen aangaan om te voorkomen dat ze slachtoffer worden.” Hoe gaan de oplichters te werk Via Snapchat worden advertenties geplaatst om voor rond de vijf euro een nieuwe IPhone te kunnen krijgen. Veelal minderjarige slachtoffers, in de leeftijd van 13 t/m 17 jaar oud, reageren op deze advertentie. Wat volgt is een gesprek tussen het slachtoffer en een Snapchat account van de “verkoper”. Dit gesprek wordt in veel gevallen voortgezet via WhatsApp. Om vertrouwen te krijgen mag het slachtoffer een betaalverzoek van € 50,- sturen, dat ook door de zogenaamde verkoper wordt betaald. Daarna gaat het gesprek over de levering van de telefoon verder. In de meeste gevallen vraagt de verkoper om een kopie van het identiteitsbewijs en een foto van de bankpas. De slachtoffers denken dat deze gegevens nodig zijn om de nieuwe IPhone te kunnen ontvangen. Betaallink Vervolgens vraagt de verkoper om de € 50,- terug te betalen en verstuurt daarvoor een betaallink. Maar deze link is eigenlijk een betaallink van een telefoonprovider. De betaallink is in feite de eerste betaling voor een nieuw telefoonabonnement en de start van een automatisch incasso. De slachtoffers weten dan niet dat ze eigenlijk een nieuw telefoonabonnement hebben afgesloten. Ze zijn in de veronderstelling dat zij een nieuwe IPhone gaan ontvangen op een afgesproken bezorglocatie. De telefoon wordt echter afgeleverd op een door de oplichters bepaald adres, vaak een pakketpunt, waar deze door verschillende verdachten wordt opgehaald. Contact steeds moeizamer Nadat de telefoon is afgeleverd, verloopt het contact met de verkoper steeds moeizamer. Soms probeert de verkoper een nieuwe betaallink te sturen met het smoesje dat er iets fout gegaan is. Op het moment dat het slachtoffer hier voor de tweede keer op klikt wordt er een tweede telefoonabonnement afgesloten.  Na verloop van tijd beseffen de slachtoffers dat ze zijn opgelicht en daar stopt het contact met de verkoper meestal. Samenwerking Met de betreffende telecomprovider is uitvoerig contact en afstemming geweest. Er is tijdens het onderzoek intensief samengewerkt. Het bedrijf verleende alle medewerking.",
+    "scraped_at": "2026-03-13T04:49:17.718308Z",
+    "id": "ae23474f4a39cfe45ca4f759fa3837690c49765f71eac90195bcd0c52e86dc30",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/12/09-online-oplichters-van-minderjarigen-opgepakt.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Uit digitaal onderzoek bleek onder meer dat vaak hetzelfde social media-account en bankrekeningnummer voorkwam in aangiftes van online oplichting van minderjarigen in de leeftijdscategorie 13 tot 17 jaar. Deze kinderen werden via Snapchat-advertenties verleid met lokkertjes om voor een paar euro een normaal gesproken veel duurdere nieuwe telefoon te kunnen krijgen. Uiteindelijk sloten ze zonder het te weten een abonnement af bij een bepaalde provider, maar de telefoon kregen ze nooit. Die kwam bij de oplichters terecht. Heel Nederland “We hebben 70 zaken waarin kinderen van deze methode slachtoffer werden”, vertelt de coördinator van het onderzoek. “We zien al deze 70 minderjarigen, die door heel Nederland verspreid wonen, als slachtoffers. De meeste ouders van de kinderen hebben wij telefonisch gesproken om te vertellen dat dit heeft plaatsgevonden. De meeste ouders wisten namelijk niet eens dat dit gespeeld had of wat er nu precies was gebeurd. Zij waren heel blij dat wij contact hadden gelegd om het gesprek met hun kinderen aan te kunnen gaan.” Een deel van deze 70 slachtoffers deed aangifte en de overige slachtoffers zagen daarvan af. Wel deed een aantal van hen hun verhaal. Woningen doorzocht Alle zaken worden in één dossier gevoegd. We verdenken de aangehouden verdachten ervan dat zij samen deze oplichtingen hebben gepleegd. Dinsdag doorzocht de recherche de woningen van de verdachten in Etten-Leur en hield hen aan. “Bij de doorzoekingen zijn telefoons van de bewoners aangetroffen en inbeslaggenomen. Of deze ook met hun oplichtingspraktijken zijn verkregen onderzoeken we nog”, zegt de coördinator. “Daarnaast is er bij één van de verdachten een groot contant geldbedrag in beslaggenomen. We proberen te achterhalen waar dit geld vandaan komt en hoe dat is verkregen. Tenslotte namen we ook nog administratie in beslag.” Bewustwording Zowel de politie als het Openbaar Ministerie vinden het belangrijk om aandacht te vragen voor dit soort online oplichtingen van minderjarigen. “We hopen hiermee ook een stuk bewustwording bij ouders te creëren waar hun kinderen online in verzeild kunnen raken via bijvoorbeeld Snapchat. De oplichters gingen steeds op dezelfde manier te werk. We hopen dat ouders hierover het gesprek met hun kinderen aangaan om te voorkomen dat ze slachtoffer worden.” Hoe gaan de oplichters te werk Via Snapchat worden advertenties geplaatst om voor rond de vijf euro een nieuwe IPhone te kunnen krijgen. Veelal minderjarige slachtoffers, in de leeftijd van 13 t/m 17 jaar oud, reageren op deze advertentie. Wat volgt is een gesprek tussen het slachtoffer en een Snapchat account van de “verkoper”. Dit gesprek wordt in veel gevallen voortgezet via WhatsApp. Om vertrouwen te krijgen mag het slachtoffer een betaalverzoek van € 50,- sturen, dat ook door de zogenaamde verkoper wordt betaald. Daarna gaat het gesprek over de levering van de telefoon verder. In de meeste gevallen vraagt de verkoper om een kopie van het identiteitsbewijs en een foto van de bankpas. De slachtoffers denken dat deze gegevens nodig zijn om de nieuwe IPhone te kunnen ontvangen. Betaallink Vervolgens vraagt de verkoper om de € 50,- terug te betalen en verstuurt daarvoor een betaallink. Maar deze link is eigenlijk een betaallink van een telefoonprovider. De betaallink is in feite de eerste betaling voor een nieuw telefoonabonnement en de start van een automatisch incasso. De slachtoffers weten dan niet dat ze eigenlijk een nieuw telefoonabonnement hebben afgesloten. Ze zijn in de veronderstelling dat zij een nieuwe IPhone gaan ontvangen op een afgesproken bezorglocatie. De telefoon wordt echter afgeleverd op een door de oplichters bepaald adres, vaak een pakketpunt, waar deze door verschillende verdachten wordt opgehaald. Contact steeds moeizamer Nadat de telefoon is afgeleverd, verloopt het contact met de verkoper steeds moeizamer. Soms probeert de verkoper een nieuwe betaallink te sturen met het smoesje dat er iets fout gegaan is. Op het moment dat het slachtoffer hier voor de tweede keer op klikt wordt er een tweede telefoonabonnement afgesloten.  Na verloop van tijd beseffen de slachtoffers dat ze zijn opgelicht en daar stopt het contact met de verkoper meestal. Samenwerking Met de betreffende telecomprovider is uitvoerig contact en afstemming geweest. Er is tijdens het onderzoek intensief samengewerkt. Het bedrijf verleende alle medewerking.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Etten-Leur",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.7071355649089452,
+    "sme_probability": 0.760976719393316,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Dinsdag",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "uitvoerig contact",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62",
+      "not_affected"
+    ]
   }
 }
