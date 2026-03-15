@@ -51759,5 +51759,69 @@
       "not_affected",
       "00"
     ]
+  },
+  "4f2e03cc1f3435a79d35a8f7d77960e0": {
+    "feed": "Politie.nl",
+    "title": "Opschaling na explosies bij Joodse objecten",
+    "url": "https://www.politie.nl/nieuws/2026/maart/14/00-opschaling-na-explosies-bij-joodse-objecten.html",
+    "published": "Sat, 14 Mar 2026 15:02:00 GMT",
+    "summary": "Een explosie bij een synagoge in Rotterdam en een explosie bij een Joodse school in Amsterdam. Twee antisemitische incidenten in twee dagen tijd. De politie heeft opgeschaald naar een Nationale Staf Grootschalig en Bijzonder Optreden (NSGBO). Een NSGBO coördineert landelijk de politie-inzet als het gaat om de beveiliging van Joodse objecten en geeft leiding op strategisch niveau.",
+    "full_text": "Bij de buitenmuur van een Joodse school in Amsterdam-Zuid was vannacht een explosie. Er vielen geen gewonden. Politie en brandweer waren snel ter plaatse waardoor de schade beperkt bleef. De ontploffing komt een dag nadat in Rotterdam een explosief afging bij een synagoge. Dat veroorzaakte een korte brand. Ook hier raakte niemand gewond. Voor deze explosie zijn vier verdachten aangehouden. Zowel in Rotterdam als Amsterdam doet de politie uitgebreid onderzoek. Opschalen Korpschef Janny Knol: ‘De afgelopen twee dagen hebben er heftige incidenten plaatsgevonden bij Joodse instellingen. Eerst in Rotterdam, nu in Amsterdam. Dit heeft een enorme impact, niet alleen op de directe omgeving maar op de hele Joodse gemeenschap onder wie ook collega’s. Als politie staan we door het hele land paraat en zijn we flink opgeschaald. Er wordt keihard gewerkt om de daders op te sporen.’ Een NSGBO coördineert landelijk de politie-inzet als het gaat om de beveiliging van Joodse objecten en geeft leiding op strategisch niveau.",
+    "scraped_at": "2026-03-15T05:11:07.226313Z",
+    "id": "c679d4d9ec08f325d4ebadcaaedbce4b1a88a36b7f0e9a36f520e991625e4a18",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/14/00-opschaling-na-explosies-bij-joodse-objecten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij de buitenmuur van een Joodse school in Amsterdam-Zuid was vannacht een explosie. Er vielen geen gewonden. Politie en brandweer waren snel ter plaatse waardoor de schade beperkt bleef. De ontploffing komt een dag nadat in Rotterdam een explosief afging bij een synagoge. Dat veroorzaakte een korte brand. Ook hier raakte niemand gewond. Voor deze explosie zijn vier verdachten aangehouden. Zowel in Rotterdam als Amsterdam doet de politie uitgebreid onderzoek. Opschalen Korpschef Janny Knol: ‘De afgelopen twee dagen hebben er heftige incidenten plaatsgevonden bij Joodse instellingen. Eerst in Rotterdam, nu in Amsterdam. Dit heeft een enorme impact, niet alleen op de directe omgeving maar op de hele Joodse gemeenschap onder wie ook collega’s. Als politie staan we door het hele land paraat en zijn we flink opgeschaald. Er wordt keihard gewerkt om de daders op te sporen.’ Een NSGBO coördineert landelijk de politie-inzet als het gaat om de beveiliging van Joodse objecten en geeft leiding op strategisch niveau.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Janny Knol",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "NSGBO",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
