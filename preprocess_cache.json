@@ -51823,5 +51823,140 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "bb1bf0bcbf261c945add479244bb60c5": {
+    "feed": "Politie.nl",
+    "title": "Getuigen gezocht steekincident Lijnbaan Rotterdam",
+    "url": "https://www.politie.nl/nieuws/2026/maart/15/07-getuigen-gezocht-steekincident-lijnbaan-rotterdam.html",
+    "published": "Sun, 15 Mar 2026 09:25:00 GMT",
+    "summary": "Vannacht heeft er rond 01.30 uur een steekincident plaatsgevonden op de Lijnbaan in Rotterdam. Hierbij raakte een 23-jarige man uit Vlaardingen zwaargewond. Hij is naar het ziekenhuis gebracht. Kort daarna treffen agenten een 29-jarige man zonder vaste woon- en/of verblijfplaats lichtgewond op Rotterdam Centraal Station. Hij is vermoedelijk betrokken geweest bij het incident op de Lijnbaan. Hij is behandeld aan zijn verwondingen en daarna aangehouden.",
+    "full_text": "De politie heeft nog drie mannen en één vrouw aangehouden. Het gaat om een 22-jarige man uit Sittard, een 21-jarige man uit Heerlen, een 31-jarige Rotterdammer en een vrouw van 18 jaar uit Vlaardingen. De politie onderzoekt hun rol in dit incident. Getuigen gezocht Het is nog onduidelijk wat er precies is gebeurd. De politie doet onderzoek naar wat er heeft plaatsgevonden en welke route de verdachten hebben afgelegd door het centrum van Rotterdam. Om dit goed in beeld te krijgen, is de politie op zoek naar camerabeelden van voor, tijdens en na het incident op de Lijnbaan en de omgeving. Heeft u iets gezien, gehoord of heeft u meer informatie? Dan komen we graag met u in contact. Via het onderstaande formulier kunt beelden uploaden of een tip achterlaten. U kunt ook contact opnemen via de onderstaande telefoonnummers.",
+    "scraped_at": "2026-03-16T05:21:42.907364Z",
+    "id": "349dc46d5005c62a8bfc37e8276bed95c683d6d6b8288bd48cb32d2f6909fff4",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/15/07-getuigen-gezocht-steekincident-lijnbaan-rotterdam.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft nog drie mannen en één vrouw aangehouden. Het gaat om een 22-jarige man uit Sittard, een 21-jarige man uit Heerlen, een 31-jarige Rotterdammer en een vrouw van 18 jaar uit Vlaardingen. De politie onderzoekt hun rol in dit incident. Getuigen gezocht Het is nog onduidelijk wat er precies is gebeurd. De politie doet onderzoek naar wat er heeft plaatsgevonden en welke route de verdachten hebben afgelegd door het centrum van Rotterdam. Om dit goed in beeld te krijgen, is de politie op zoek naar camerabeelden van voor, tijdens en na het incident op de Lijnbaan en de omgeving. Heeft u iets gezien, gehoord of heeft u meer informatie? Dan komen we graag met u in contact. Via het onderstaande formulier kunt beelden uploaden of een tip achterlaten. U kunt ook contact opnemen via de onderstaande telefoonnummers.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Sittard",
+        "DE"
+      ],
+      [
+        "Heerlen",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "f21320bbe695be8ecf51dc1fb4d468d4": {
+    "feed": "L1 Nieuws",
+    "title": "TEFAF-rovers weten na jaren nog altijd uit handen van politie te blijven",
+    "url": "https://www.l1nieuws.nl/nieuws/3125118/tefaf-rovers-weten-na-jaren-nog-altijd-uit-handen-van-politie-te-blijven",
+    "published": "Sun, 15 Mar 2026 14:27:00 GMT",
+    "summary": "De spectaculaire juwelenroof in 2022 in het MECC in Maastricht haalde wereldwijd het nieuws. Vier mannen, keurig gekleed en vermomd met onder meer brillen en petten, gingen er tijdens de TEFAF-beurs met een kostbare buit vandoor. Ondanks internationaal onderzoek zijn er nog altijd geen nieuwe ontwikkelingen, meldt de politie. Maar hoe zat het ook alweer?",
+    "full_text": "November 2024 startte de politie in het Belgische Verviers een zoekactie in een beek naar mogelijk achtergelaten spullen van de juwelendiefstal. Voor en na de roof verbleven de verdachten in België, onder meer in Verviers en Luik. In Verviers logeerden ze in een hotel, in Luik in een accommodatie geboekt via een online platform. Daarna vluchtten ze via België, Duitsland, Oostenrijk en Hongarije naar Servië. Belgische en Nederlandse specialisten doorzochten het water met grote magneten, maar dat leverde niets op.",
+    "scraped_at": "2026-03-16T05:21:52.702371Z",
+    "id": "673d11d950404c54aad456edc4c83dc341394752c2aaf100369eb43d4f957b8a",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3125118/tefaf-rovers-weten-na-jaren-nog-altijd-uit-handen-van-politie-te-blijven",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "November 2024 startte de politie in het Belgische Verviers een zoekactie in een beek naar mogelijk achtergelaten spullen van de juwelendiefstal. Voor en na de roof verbleven de verdachten in België, onder meer in Verviers en Luik. In Verviers logeerden ze in een hotel, in Luik in een accommodatie geboekt via een online platform. Daarna vluchtten ze via België, Duitsland, Oostenrijk en Hongarije naar Servië. Belgische en Nederlandse specialisten doorzochten het water met grote magneten, maar dat leverde niets op.",
+    "locations": [
+      "Luik"
+    ],
+    "country": "BE",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Verviers",
+        "BE"
+      ],
+      [
+        "Luik",
+        "BE"
+      ],
+      [
+        "Verviers",
+        "BE"
+      ],
+      [
+        "Luik",
+        "BE"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "206a29b3b73e34835e119f7c025b2398": {
+    "feed": "L1 Nieuws",
+    "title": "Twee Limburgers aangehouden na steekincident met zwaargewonde in Rotterdam",
+    "url": "https://www.l1nieuws.nl/nieuws/3125864/twee-limburgers-aangehouden-na-steekincident-met-zwaargewonde-in-rotterdam",
+    "published": "Sun, 15 Mar 2026 11:49:29 GMT",
+    "summary": "Een 22-jarige Sittardenaar en een 21-jarige Heerlenaar zijn in de nacht van zaterdag op zondag opgepakt vanwege een steekincident in Rotterdam.",
+    "full_text": "Naast de mannen uit Heerlen en Sittard werden ook een Rotterdammer en een vrouw uit Vlaardingen aangehouden. De politie onderzoekt hun rol bij het steekincident. Niet ver van de plaats delict werd niet veel later ook een 29-jarige man zonder vaste woon- en/verblijfplaats aangehouden. Hij was licht gewond en vermoed wordt dat ook hij bij het voorval betrokken is geweest.",
+    "scraped_at": "2026-03-16T05:21:56.423065Z",
+    "id": "7bc3d7a9fe9160529e104456215814bd68531b5266aafa62d2679bec62e1cb52",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3125864/twee-limburgers-aangehouden-na-steekincident-met-zwaargewonde-in-rotterdam",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Naast de mannen uit Heerlen en Sittard werden ook een Rotterdammer en een vrouw uit Vlaardingen aangehouden. De politie onderzoekt hun rol bij het steekincident. Niet ver van de plaats delict werd niet veel later ook een 29-jarige man zonder vaste woon- en/verblijfplaats aangehouden. Hij was licht gewond en vermoed wordt dat ook hij bij het voorval betrokken is geweest.",
+    "locations": [
+      "Heerlen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Heerlen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
