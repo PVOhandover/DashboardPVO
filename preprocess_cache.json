@@ -51958,5 +51958,173 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "590df46595c819efd683bc561850495b": {
+    "feed": "Politie.nl",
+    "title": "Man rijdt onder invloed, grote hoeveelheid harddrugs en geld in auto",
+    "url": "https://www.politie.nl/nieuws/2026/maart/16/04-man-rijdt-onder-invloed-grote-hoeveelheid-harddrugs-en-geld-in-auto.html",
+    "published": "Mon, 16 Mar 2026 14:34:00 GMT",
+    "summary": "Een 20-jarige man uit Amsterdam is zondagmiddag aangehouden op de Opaallaan in Hoofddorp nadat hij positief werd getest op het gebruik van drugs. Ook werd er bij de man een grote hoeveelheid harddrugs en ruim 13.000 euro aan contant geld aangetroffen.",
+    "full_text": "De man is inmiddels heengezonden maar blijft wel verdachte in het onderzoek. Ruim 1400 euro aan contant geld Rond 14.25 uur reden politieagenten op de Heuven Goedhartlaan in Hoofddorp toen zij een bestuurder van een auto opvallend rijgedrag zagen vertonen. De bestuurder werd vervolgens op de Opaallaan staande gehouden en gecontroleerd. Tijdens de controle van het voertuig werd ruim 1400 euro aan contant geld aangetroffen. Uit de afgenomen speekseltest bleek de man ook positief te testen op het gebruik van drugs. Grote hoeveelheid harddrugs Op het politiebureau werd het voertuig van de man verder onderzocht. Hier vonden politieagenten een grote hoeveelheid harddrugs en nog meer contant geld in een verborgen ruimte van het voertuig. Ook in de woning van de man werd nog eens ruim 11.000 euro aan contant geld aangetroffen. Alles is in beslag genomen voor verder onderzoek. De man wordt verdacht van rijden onder invloed van drugs en van het bezitten van en handelen in harddrugs. Houd misdaad uit je buurt Dit soort criminaliteit wil je niet bij je in de buurt. Drugshandel kan zorgen voor conflicten tussen dealers. Er kunnen onbekende en verdachte personen langskomen. Criminelen kunnen invloed en macht krijgen op lokale initiatieven. Er kom drugsafval op straat, waar kinderen spelen. En kinderen in de buurt kunnen in aanraking komen met drugs of zelfs geronseld worden. Hoe herken ik drugshandel en drugs dealen? Verschillende personen lopen af en aan bij een woning/bedrijfspand of bij iemand die in een geparkeerde auto zit; Het gaat om korte bezoekjes van steeds maar enkele minuten, waarna de persoon vertrekt met een tasje of zakje. Meld misdaad Getuige van een verdachte situatie? Bel bij een verdachte situatie altijd direct 112. Het bellen van 112 is bedoeld voor spoed. Dus niet alleen voor levensbedreigende situaties, maar zeker ook wanneer men getuige is van een misdrijf, zoals drugshandel. Geef het door aan de wijkagent. Anoniem melden kan ook via 0800-7000.",
+    "scraped_at": "2026-03-17T04:57:08.441790Z",
+    "id": "615d6e8d31a7f3ae0a1ab81d77ebef17bb12b4ab093eecd0819e68b0a76bc233",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/16/04-man-rijdt-onder-invloed-grote-hoeveelheid-harddrugs-en-geld-in-auto.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De man is inmiddels heengezonden maar blijft wel verdachte in het onderzoek. Ruim 1400 euro aan contant geld Rond 14.25 uur reden politieagenten op de Heuven Goedhartlaan in Hoofddorp toen zij een bestuurder van een auto opvallend rijgedrag zagen vertonen. De bestuurder werd vervolgens op de Opaallaan staande gehouden en gecontroleerd. Tijdens de controle van het voertuig werd ruim 1400 euro aan contant geld aangetroffen. Uit de afgenomen speekseltest bleek de man ook positief te testen op het gebruik van drugs. Grote hoeveelheid harddrugs Op het politiebureau werd het voertuig van de man verder onderzocht. Hier vonden politieagenten een grote hoeveelheid harddrugs en nog meer contant geld in een verborgen ruimte van het voertuig. Ook in de woning van de man werd nog eens ruim 11.000 euro aan contant geld aangetroffen. Alles is in beslag genomen voor verder onderzoek. De man wordt verdacht van rijden onder invloed van drugs en van het bezitten van en handelen in harddrugs. Houd misdaad uit je buurt Dit soort criminaliteit wil je niet bij je in de buurt. Drugshandel kan zorgen voor conflicten tussen dealers. Er kunnen onbekende en verdachte personen langskomen. Criminelen kunnen invloed en macht krijgen op lokale initiatieven. Er kom drugsafval op straat, waar kinderen spelen. En kinderen in de buurt kunnen in aanraking komen met drugs of zelfs geronseld worden. Hoe herken ik drugshandel en drugs dealen? Verschillende personen lopen af en aan bij een woning/bedrijfspand of bij iemand die in een geparkeerde auto zit; Het gaat om korte bezoekjes van steeds maar enkele minuten, waarna de persoon vertrekt met een tasje of zakje. Meld misdaad Getuige van een verdachte situatie? Bel bij een verdachte situatie altijd direct 112. Het bellen van 112 is bedoeld voor spoed. Dus niet alleen voor levensbedreigende situaties, maar zeker ook wanneer men getuige is van een misdrijf, zoals drugshandel. Geef het door aan de wijkagent. Anoniem melden kan ook via 0800-7000.",
+    "locations": [
+      "Hoofddorp"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hoofddorp",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "euro aan contant",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "euro aan contant",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "cdcd148c001f0da92f0227956f4a3751": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen na schietincident Kerkrade",
+    "url": "https://www.politie.nl/nieuws/2026/maart/16/10-twee-aanhoudingen-na-schietincident-kerkrade.html",
+    "published": "Mon, 16 Mar 2026 13:21:00 GMT",
+    "summary": "De politie heeft in de nacht van zondag op maandag twee personen aangehouden. Dat gebeurde naar aanleiding van een melding over een schietincident op de Directeur Evertsstraat in Kerkrade zondagmiddag.",
+    "full_text": "Aanhoudingen Twee personen werden maandagochtend rond 02:00 uur aangehouden in Heerlen. Het betreft een 21-jarige vrouw uit Heerlen en een 19-jarige man uit Kerkrade. Beide zitten vast en worden verhoord. Schietpartij De politie kreeg zondagmiddag 15 maart even na 13.30 uur een melding binnen over een schietincident. Bij de schietpartij waren twee voertuigen betrokken. De Directeur Evertsstraat werd afgezet voor onderzoek. Naar aanleiding van het onderzoek vonden afgelopen nacht de aanhoudingen plaats. Getuigenoproep De politie doet onderzoek naar wat er heeft plaatsgevonden. Heeft u iets gezien, gehoord of heeft u meer informatie? Dan komen we graag met u in contact.  Mensen kunnen zich melden via 0900-8844 of anoniem via 0800-7000.",
+    "scraped_at": "2026-03-17T04:57:08.442665Z",
+    "id": "99f6f43e43b26e75847ca682405c12fdeb15747cd7cc5f2fe6cbf2133b95b587",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/16/10-twee-aanhoudingen-na-schietincident-kerkrade.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Aanhoudingen Twee personen werden maandagochtend rond 02:00 uur aangehouden in Heerlen. Het betreft een 21-jarige vrouw uit Heerlen en een 19-jarige man uit Kerkrade. Beide zitten vast en worden verhoord. Schietpartij De politie kreeg zondagmiddag 15 maart even na 13.30 uur een melding binnen over een schietincident. Bij de schietpartij waren twee voertuigen betrokken. De Directeur Evertsstraat werd afgezet voor onderzoek. Naar aanleiding van het onderzoek vonden afgelopen nacht de aanhoudingen plaats. Getuigenoproep De politie doet onderzoek naar wat er heeft plaatsgevonden. Heeft u iets gezien, gehoord of heeft u meer informatie? Dan komen we graag met u in contact.  Mensen kunnen zich melden via 0900-8844 of anoniem via 0800-7000.",
+    "locations": [
+      "Directeur Evertsstraat"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Heerlen",
+        "NL"
+      ],
+      [
+        "Heerlen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "831c60d87067158de0d92d96e0233f2b": {
+    "feed": "Politie.nl",
+    "title": "Man aangehouden na auto te water in Vijfhuizen",
+    "url": "https://www.politie.nl/nieuws/2026/maart/16/04-man-aangehouden-na-auto-te-water-in-vijfhuizen.html",
+    "published": "Mon, 16 Mar 2026 08:23:00 GMT",
+    "summary": "Hulpdiensten kregen op zondagavond 15 maart 2026 om 23:55 uur een melding van een auto in het water. Dit gebeurde aan de Zwanenburgerdijk / Spaarnwouderweg in Vijfhuizen.",
+    "full_text": "Redding en toedracht De brandweer haalde de bestuurder uit het voertuig. Agenten zagen de auto in het water liggen. Het is onbekend hoe het voertuig te water is geraakt. Aanhouding De politie kwam erachter dat de man vermoedelijk geen geldig rijbewijs heeft. Het gaat om een 42-jarige man uit Haarlem. De verdachte is aangehouden na een controle in het ziekenhuis. 2026060159",
+    "scraped_at": "2026-03-17T04:57:08.443229Z",
+    "id": "920e1d2513ea52ac6506e3cddea6c85d52ec8f0d8bcf24b39355baeb6422d4f0",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/16/04-man-aangehouden-na-auto-te-water-in-vijfhuizen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Redding en toedracht De brandweer haalde de bestuurder uit het voertuig. Agenten zagen de auto in het water liggen. Het is onbekend hoe het voertuig te water is geraakt. Aanhouding De politie kwam erachter dat de man vermoedelijk geen geldig rijbewijs heeft. Het gaat om een 42-jarige man uit Haarlem. De verdachte is aangehouden na een controle in het ziekenhuis. 2026060159",
+    "locations": [
+      "Haarlem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Haarlem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "fb90cab714a7290a7fc5dbb449b26350": {
+    "feed": "Politie.nl",
+    "title": "Man aangehouden na inbraak in Heemstede",
+    "url": "https://www.politie.nl/nieuws/2026/maart/16/04-man-aangehouden-na-inbraak-in-heemstede.html",
+    "published": "Mon, 16 Mar 2026 08:21:00 GMT",
+    "summary": "De politie heeft op maandag 16 maart 2026 een verdachte aangehouden na een inbraak in een schuur van een woning in Heemstede. Voor het onderzoek zoekt de recherche camerabeelden van de omgeving.",
+    "full_text": "Inbraak in schuur Een getuige zag op maandag 16 maart 2026 om 03:20 uur twee personen uit een schuur lopen. Dit gebeurde aan de Van Slingelandtlaan in Heemstede. De politie begon direct een zoektocht in de omgeving. Verdachte aangehouden in bos Een zoekactie leidde naar een bosgebied aan de Herenweg in Heemstede. Agenten troffen daar een 35-jarige man aan die achter een boom stond. Hij had een rugtas met inbrekerswerktuigen bij zich. De man is aangehouden. Een zoektocht met een politiehond en een drone naar de tweede persoon leverde niets op. Camerabeelden gezocht Heb jij op maandag 16 maart 2026 omstreeks 03:20 uur beelden gemaakt bij de Van Slingelandtlaan of de Herenweg in Heemstede? De politie kan deze goed gebruiken voor het onderzoek. Upload je beelden via politie.nl/upload of bel 0900-8844. 2026060201",
+    "scraped_at": "2026-03-17T04:57:08.443600Z",
+    "id": "da2dd13c7aaf91c9ceb229d160c17c714fadc6d80b6e095d1131c7eb568a6209",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/16/04-man-aangehouden-na-inbraak-in-heemstede.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Inbraak in schuur Een getuige zag op maandag 16 maart 2026 om 03:20 uur twee personen uit een schuur lopen. Dit gebeurde aan de Van Slingelandtlaan in Heemstede. De politie begon direct een zoektocht in de omgeving. Verdachte aangehouden in bos Een zoekactie leidde naar een bosgebied aan de Herenweg in Heemstede. Agenten troffen daar een 35-jarige man aan die achter een boom stond. Hij had een rugtas met inbrekerswerktuigen bij zich. De man is aangehouden. Een zoektocht met een politiehond en een drone naar de tweede persoon leverde niets op. Camerabeelden gezocht Heb jij op maandag 16 maart 2026 omstreeks 03:20 uur beelden gemaakt bij de Van Slingelandtlaan of de Herenweg in Heemstede? De politie kan deze goed gebruiken voor het onderzoek. Upload je beelden via politie.nl/upload of bel 0900-8844. 2026060201",
+    "locations": [
+      "Heemstede"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Heemstede",
+        "NL"
+      ],
+      [
+        "Heemstede",
+        "NL"
+      ],
+      [
+        "Heemstede",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
