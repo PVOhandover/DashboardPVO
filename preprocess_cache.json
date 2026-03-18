@@ -52126,5 +52126,57 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "81fe257da237747d1b169e4d52956865": {
+    "feed": "Politie.nl",
+    "title": "Twee verdachten aangehouden na achtervolging op de A16 en A27",
+    "url": "https://www.politie.nl/nieuws/2026/maart/17/08-twee-verdachten-aangehouden-na-achtervolging-op-de-a16-en-a27.html",
+    "published": "Tue, 17 Mar 2026 10:20:00 GMT",
+    "summary": "Op de vroege ochtend van 17 maart 2026 werden twee mannen aangehouden na een gevaarlijke achtervolging over de snelwegen A16 en A27. De achtervolging begon omdat de bestuurder van het voertuig vermoedelijk een openstaande gevangenisstraf had. De mannen negeerden het stopteken van de politie, wat leidde tot een achtervolging.",
+    "full_text": "Omstreeks 02:00 uur zagen agenten een voertuig vlak bij de grensovergang Hazeldonk dat hun aandacht trok. De bestuurder had nog een aantal dagen hechtenis openstaan. Het voertuig werd bovendien verdacht van betrokkenheid bij een reeks bedrijfsinbraken. Toen het voertuig rond 02:15 uur op de A16 passeerde, probeerden de agenten het voertuig te stoppen. De bestuurder weigerde te stoppen en versnelde zijn snelheid, waarna de achtervolging begon. Hoge snelheden en risicovolle manouvres De bestuurder reed met hoge snelheden, ver boven de toegestane snelheid van 130 km/u, en reed door over de A59, richting de A27, en later via de provinciale weg N322 richting Almkerk. Hij reed zonder verlichting, wat de situatie nog gevaarlijker maakte. De politie bleef het voertuig volgen en schakelde met de meldkamer om extra eenheden te sturen. Aanhouding van de bestuurder Het voertuig verdween uit het zicht bij de rotonde bij Waardhuizen, maar werd korte tijd later aangetroffen op een parkeerplaats langs de Louwrens Penninghof, waar het voertuig stil stond. De bestuurder was te voet verder gegaan. Na een korte zoektocht in de buurt werd de 39- jarige man uit België gevonden in de Marinus van Giesenhof en daar aangehouden. Helikopter en hond ondersteunen De politiehelikopter speelde een cruciale rol bij het opsporen van de tweede verdachte, een 28-jarige man uit Utrecht. Hij was gevlucht en had zich verstopt in een bosje vlak bij een woning. Met behulp van de helikopter en een zoekactie met een politiehond werd de verdachte gevonden en aangehouden. Na de aanhoudingen werd het voertuig doorzocht en werden verschillende voorwerpen, waaronder mobiele telefoons, in beslag genomen. De politie is verder onderzoek gestart naar de betrokkenheid van de verdachten bij de bedrijfsinbraken.",
+    "scraped_at": "2026-03-18T05:01:47.686831Z",
+    "id": "9a6a86393a516d67db7e18d7bedfe46fc11399a4e17b90426b22eb4d94b54dfe",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/17/08-twee-verdachten-aangehouden-na-achtervolging-op-de-a16-en-a27.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 02:00 uur zagen agenten een voertuig vlak bij de grensovergang Hazeldonk dat hun aandacht trok. De bestuurder had nog een aantal dagen hechtenis openstaan. Het voertuig werd bovendien verdacht van betrokkenheid bij een reeks bedrijfsinbraken. Toen het voertuig rond 02:15 uur op de A16 passeerde, probeerden de agenten het voertuig te stoppen. De bestuurder weigerde te stoppen en versnelde zijn snelheid, waarna de achtervolging begon. Hoge snelheden en risicovolle manouvres De bestuurder reed met hoge snelheden, ver boven de toegestane snelheid van 130 km/u, en reed door over de A59, richting de A27, en later via de provinciale weg N322 richting Almkerk. Hij reed zonder verlichting, wat de situatie nog gevaarlijker maakte. De politie bleef het voertuig volgen en schakelde met de meldkamer om extra eenheden te sturen. Aanhouding van de bestuurder Het voertuig verdween uit het zicht bij de rotonde bij Waardhuizen, maar werd korte tijd later aangetroffen op een parkeerplaats langs de Louwrens Penninghof, waar het voertuig stil stond. De bestuurder was te voet verder gegaan. Na een korte zoektocht in de buurt werd de 39- jarige man uit België gevonden in de Marinus van Giesenhof en daar aangehouden. Helikopter en hond ondersteunen De politiehelikopter speelde een cruciale rol bij het opsporen van de tweede verdachte, een 28-jarige man uit Utrecht. Hij was gevlucht en had zich verstopt in een bosje vlak bij een woning. Met behulp van de helikopter en een zoekactie met een politiehond werd de verdachte gevonden en aangehouden. Na de aanhoudingen werd het voertuig doorzocht en werden verschillende voorwerpen, waaronder mobiele telefoons, in beslag genomen. De politie is verder onderzoek gestart naar de betrokkenheid van de verdachten bij de bedrijfsinbraken.",
+    "locations": [
+      "Hazeldonk",
+      "België",
+      "Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Hazeldonk",
+        "NL"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Marinus van Giesenhof",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
