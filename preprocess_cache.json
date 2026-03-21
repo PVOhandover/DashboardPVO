@@ -52409,5 +52409,204 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "0f26d20f9e3857b4c6e273228f270d8d": {
+    "feed": "Politie.nl",
+    "title": "Politie treft MDMA en vuurwapen aan in woning Westmaas",
+    "url": "https://www.politie.nl/nieuws/2026/maart/20/11-politie-treft-mdma-en-vuurwapen-aan-in-woning-westmaas.html",
+    "published": "Fri, 20 Mar 2026 14:52:00 GMT",
+    "summary": "De politie heeft donderdag 19 maart in een woning in Westmaas 16 kilo MDMA, een vuurwapen en een machine om pillen te draaien aangetroffen. De twee mannen (39 en 62 jaar uit Westmaas) die aanwezig waren in de woning zijn aangehouden en ingesloten voor verhoor.",
+    "full_text": "Na binnengekomen informatie gingen rechercheurs van de Landelijke Opsporing naar de woning in Westmaas. In de woning en bijbehorende garage werd naast 16 kilo MDMA een hoeveelheid chemicaliën, tabletteermachine en vuurwapen aangetroffen. De politie gaat verder met onderzoek.",
+    "scraped_at": "2026-03-21T04:31:20.438634Z",
+    "id": "4949d54f77c2799cf5a0ae9e6489ac952874ca03ef4d18aa326d135ee3dadd51",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/20/11-politie-treft-mdma-en-vuurwapen-aan-in-woning-westmaas.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Na binnengekomen informatie gingen rechercheurs van de Landelijke Opsporing naar de woning in Westmaas. In de woning en bijbehorende garage werd naast 16 kilo MDMA een hoeveelheid chemicaliën, tabletteermachine en vuurwapen aangetroffen. De politie gaat verder met onderzoek.",
+    "locations": [
+      "Westmaas"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Westmaas",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304615609480185,
+    "sector_info": {
+      "sector_code": "45",
+      "sector_name": "Wholesale and retail trade and repair of motor vehicles"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Landelijke Opsporing",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "MDMA",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "tabletteermachine",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "45"
+    ]
+  },
+  "038dda87d2993d68d4281fc1b8df16e1": {
+    "feed": "Politie.nl",
+    "title": "Aanhoudingen na schietincident Veldoven Arnhem",
+    "url": "https://www.politie.nl/nieuws/2026/maart/20/02-arnhem-aanhoudingen-na-schietincident-veldoven-arnhem.html",
+    "published": "Fri, 20 Mar 2026 13:34:00 GMT",
+    "summary": "De politie heeft deze week twee nieuwe aanhoudingen verricht in het onderzoek naar het schietincident aan de Veldoven in Arnhem, eind februari van dit jaar. Eén van de verdachten, een 18-jarige man uit Arnhem, wordt verdacht van poging doodslag of moord en wordt vandaag (vrijdag 20 maart) voorgeleid bij de rechter-commissaris.",
+    "full_text": "Twee 35-jarigen mannen uit Arnhem raakten bij het schietincident gewond en moesten worden overgebracht naar het ziekenhuis. Direct na het incident kon een 50-jarige man uit Arnhem al worden aangehouden. Hij is begin maart heengezonden, maar geldt nog altijd als verdachte. Nieuwe aanhoudingen Afgelopen dinsdag kon de politie de 18-jarige verdachte uit Arnhem aanhouden. Donderdag kwam daar een derde verdachte bij: een 25-jarige man uit Arnhem. Ook hij zit op dit moment nog vast voor betrokkenheid bij het schietincident. Incidenten als deze hebben grote impact en daarom ook hoge prioriteit voor politie en het Openbaar Ministerie (OM). Enkele dagen voor dit schietincident was er ook een ander schietincident in Arnhem, in winkelcentrum Kronenburg. Ook in dat onderzoek werd deze maand een aanhouding verricht. De politie gaat niet uit van een link tussen de zaken.",
+    "scraped_at": "2026-03-21T04:31:20.439340Z",
+    "id": "109378edc6ae6581825719c332ee604bfbcb50a3f64695b5ce5149b5faf3443c",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/20/02-arnhem-aanhoudingen-na-schietincident-veldoven-arnhem.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Twee 35-jarigen mannen uit Arnhem raakten bij het schietincident gewond en moesten worden overgebracht naar het ziekenhuis. Direct na het incident kon een 50-jarige man uit Arnhem al worden aangehouden. Hij is begin maart heengezonden, maar geldt nog altijd als verdachte. Nieuwe aanhoudingen Afgelopen dinsdag kon de politie de 18-jarige verdachte uit Arnhem aanhouden. Donderdag kwam daar een derde verdachte bij: een 25-jarige man uit Arnhem. Ook hij zit op dit moment nog vast voor betrokkenheid bij het schietincident. Incidenten als deze hebben grote impact en daarom ook hoge prioriteit voor politie en het Openbaar Ministerie (OM). Enkele dagen voor dit schietincident was er ook een ander schietincident in Arnhem, in winkelcentrum Kronenburg. Ook in dat onderzoek werd deze maand een aanhouding verricht. De politie gaat niet uit van een link tussen de zaken.",
+    "locations": [
+      "Arnhem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "0c883959324a284b0db597006171c4a7": {
+    "feed": "L1 Nieuws",
+    "title": "Gemeenteraadsverkiezingen: opvallend stemmenkanon, geflopte lijstduwers en... kandidaten zonder stem",
+    "url": "https://www.l1nieuws.nl/nieuws/3129215/gemeenteraadsverkiezingen-opvallend-stemmenkanon-geflopte-lijstduwers-en-kandidaten-zonder-stem",
+    "published": "Fri, 20 Mar 2026 15:22:31 GMT",
+    "summary": "De definitieve uitslag van de gemeenteraadsverkiezingen wordt pas volgende week donderdag bekend. Maar inmiddels is wel duidelijk wie de grootste stemmentrekkers waren en hoe effectief de lijstduwers waren.",
+    "full_text": "Bij de laatste Tweede Kamerverkiezingen, afgelopen oktober, was de PVV nog in 30 van de 31 gemeenten de grootste partij in Limburg, met uitzondering van Mook en Middelaar. De lokale politiek is voor de partij van Geert Wilders niet interessant genoeg en dus deed de PVV nu in slechts vijf gemeenten mee. Dat leverde in totaal tien zetels op: drie in Landgraaf, twee in Venlo, twee in Sittard-Geleen, twee in Heerlen en één in Maastricht. In al deze gemeenten lijkt de PVV veroordeeld tot een plek in de oppositie.",
+    "scraped_at": "2026-03-21T04:31:29.587352Z",
+    "id": "7f853e13f913f013846c3aa76e9b3d127918afbc89d9572ffedffa28c54ed9ac",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3129215/gemeenteraadsverkiezingen-opvallend-stemmenkanon-geflopte-lijstduwers-en-kandidaten-zonder-stem",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij de laatste Tweede Kamerverkiezingen, afgelopen oktober, was de PVV nog in 30 van de 31 gemeenten de grootste partij in Limburg, met uitzondering van Mook en Middelaar. De lokale politiek is voor de partij van Geert Wilders niet interessant genoeg en dus deed de PVV nu in slechts vijf gemeenten mee. Dat leverde in totaal tien zetels op: drie in Landgraaf, twee in Venlo, twee in Sittard-Geleen, twee in Heerlen en één in Maastricht. In al deze gemeenten lijkt de PVV veroordeeld tot een plek in de oppositie.",
+    "locations": [
+      "Limburg",
+      "Landgraaf",
+      "Sittard-Geleen",
+      "Heerlen",
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 0.8,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Landgraaf",
+        "NL"
+      ],
+      [
+        "Sittard-Geleen",
+        "NL"
+      ],
+      [
+        "Heerlen",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "PVV",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mook en Middelaar",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Geert Wilders",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "PVV",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "PVV",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
