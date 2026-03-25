@@ -52815,5 +52815,56 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "dc324aa4341ed480e6455a906d6184ff": {
+    "feed": "Politie.nl",
+    "title": "Onderzoek leidt naar drugsvangst en aanhoudingen in Zevenbergen",
+    "url": "https://www.politie.nl/nieuws/2026/maart/24/08-onderzoek-leidt-naar-drugsvangst-en-aanhoudingen-in-zevenbergen.html",
+    "published": "Tue, 24 Mar 2026 16:39:00 GMT",
+    "summary": "De politie heeft maandag 23 maart in een lopend onderzoek naar drugshandel een grote hoeveelheid cocaïne en hasj ontdekt in Zevenbergen. In en rond een loods zijn vier mannen aangehouden.",
+    "full_text": "Tijdens het onderzoek zijn meerdere voertuigen met verborgen ruimtes in beslag genomen. Sinds 1 januari 2026 is het inbouwen en bezitten van verborgen ruimtes in voertuigen strafbaar in Nederland. De politie nam 1857 kilo hasj en 1021 kilo cocaïne in beslag. De drugs zijn in samenwerking met het HARC-team afgevoerd en vernietigd. De vier aangehouden verdachten zijn een 24-jarige man uit Rotterdam, een 59-jarige man uit Zevenbergen, een 45-jarige man uit Breda en een 57-jarige man uit Amsterdam. Alle vier verdachten zitten in beperkingen. Dat betekent dat zij alleen contact mogen hebben met hun advocaat.",
+    "scraped_at": "2026-03-25T04:59:15.855425Z",
+    "id": "dbd8b252d84ded5bdda8c3749e415c6bd768a8a699eee2bf13f6e82f0fd315e0",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/24/08-onderzoek-leidt-naar-drugsvangst-en-aanhoudingen-in-zevenbergen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens het onderzoek zijn meerdere voertuigen met verborgen ruimtes in beslag genomen. Sinds 1 januari 2026 is het inbouwen en bezitten van verborgen ruimtes in voertuigen strafbaar in Nederland. De politie nam 1857 kilo hasj en 1021 kilo cocaïne in beslag. De drugs zijn in samenwerking met het HARC-team afgevoerd en vernietigd. De vier aangehouden verdachten zijn een 24-jarige man uit Rotterdam, een 59-jarige man uit Zevenbergen, een 45-jarige man uit Breda en een 57-jarige man uit Amsterdam. Alle vier verdachten zitten in beperkingen. Dat betekent dat zij alleen contact mogen hebben met hun advocaat.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Zevenbergen",
+        "NL"
+      ],
+      [
+        "Breda",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
   }
 }
