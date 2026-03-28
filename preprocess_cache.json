@@ -53341,5 +53341,173 @@
       "not_affected",
       "86"
     ]
+  },
+  "cc68d3e57040f69c49243de1b9cf7223": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden na steekincident in Horn",
+    "url": "https://www.politie.nl/nieuws/2026/maart/28/10-verdachte-aangehouden-na-steekincident-in-horn.html",
+    "published": "Sat, 28 Mar 2026 00:59:00 GMT",
+    "summary": "De politie heeft een verdachte aangehouden voor een steekincident in Horn. Het gaat om een 35-jarige man uit Haelen.",
+    "full_text": "Het steekincident vond vrijdagavond rond 23:45 uur plaatst op de Kloppe-Ven. Hierbij is een man gewond geraakt. Burgernet De verdachte is na in incident in onbekende richting gevlucht. Om uit te kijken naar de man is een Burgernetbericht verstuurd. Na een zoektocht kon de verdachte in de nacht van vrijdag op zaterdag even na 00:30 uur worden aangehouden. Het slachtoffer is voor medische zorg overgebracht naar het ziekenhuis. Getuigenoproep Wat de aanleiding is voor het steekincident is nog onbekend. De politie is een onderzoek gestart en roept getuigen op zich te melden. Wij komen graag in contact met mensen die iets hebben gezien van het incident in Horn. Heb jij iets gezien of beschik je over camerabeelden waarop de het incident te zien is? Neem dan contact met ons op. Bel 0800-6070 of gebruik de knop hieronder om je tip of beelden te delen. Liever anoniem melden? Dat kan via Meld Misdaad Anoniem: 0800-7000.",
+    "scraped_at": "2026-03-28T04:58:14.181011Z",
+    "id": "f8a00a9bb8d7b691685604842856bb74d9956cbf9d9dd42c417e79cf765e7857",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/28/10-verdachte-aangehouden-na-steekincident-in-horn.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het steekincident vond vrijdagavond rond 23:45 uur plaatst op de Kloppe-Ven. Hierbij is een man gewond geraakt. Burgernet De verdachte is na in incident in onbekende richting gevlucht. Om uit te kijken naar de man is een Burgernetbericht verstuurd. Na een zoektocht kon de verdachte in de nacht van vrijdag op zaterdag even na 00:30 uur worden aangehouden. Het slachtoffer is voor medische zorg overgebracht naar het ziekenhuis. Getuigenoproep Wat de aanleiding is voor het steekincident is nog onbekend. De politie is een onderzoek gestart en roept getuigen op zich te melden. Wij komen graag in contact met mensen die iets hebben gezien van het incident in Horn. Heb jij iets gezien of beschik je over camerabeelden waarop de het incident te zien is? Neem dan contact met ons op. Bel 0800-6070 of gebruik de knop hieronder om je tip of beelden te delen. Liever anoniem melden? Dat kan via Meld Misdaad Anoniem: 0800-7000.",
+    "locations": [
+      "Horn"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Horn",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "ba157491124f333bf409f2ca7147e7cb": {
+    "feed": "Politie.nl",
+    "title": "Politie onderzoekt ernstig geweldsincident buitengebied tussen Veldhoven en Waalre",
+    "url": "https://www.politie.nl/nieuws/2026/maart/27/09-politie-onderzoekt-ernstig-geweldsincident-buitengebied-tussen-veldhoven-en-waalre.html",
+    "published": "Fri, 27 Mar 2026 08:36:00 GMT",
+    "summary": "De politie is gestart met een Team Grootschalige Opsporing (TGO). Dit gebeurde nadat er op dinsdagavond 24 maart melding werd gemaakt dat in het buitengebied tussen Veldhoven en Waalre een jonge vrouw slachtoffer is geworden van een ernstig geweldsincident. Zo’n 25 rechercheurs onderzoeken de zaak.",
+    "full_text": "Het is dinsdagavond 24 maart als de vrouw om 20.30 uur haar woning verlaat in Veldhoven om een rondje te gaan lopen. Omstanders treffen de vrouw rond 23.30 uur hevig ontdaan aan in het centrum van Waalre. Zij geeft dan aan slachtoffer te zijn van een ernstig geweldsincident in het buitengebied tussen Veldhoven en Waalre. De politie is direct een onderzoek gestart. Er is op dit moment nog veel onduidelijk wat zich in de uren tussen 20.30 uur en 23.30 uur heeft afgespeeld. Ook weten we nog niet waar het incident precies is gebeurd. Deel informatie De politie is een opsporingsonderzoek gestart en komt graag in contact met getuigen, mensen met informatie of relevante camerabeelden uit de omgeving van het buitengebied tussen Veldhoven en Waalre. Heb jij informatie en nog niet met de politie gesproken? Vul het tipformulier in of bel de politie via 0900-8844. Liever anoniem tippen? Bel 0800-7000. Graag onder vermelding van zaaknummer: 2026067102",
+    "scraped_at": "2026-03-28T04:58:14.185444Z",
+    "id": "395da363f2aeff058bbb424b0f22a7f432f79d0b18e85dcf4f4573e8681f94be",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/27/09-politie-onderzoekt-ernstig-geweldsincident-buitengebied-tussen-veldhoven-en-waalre.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het is dinsdagavond 24 maart als de vrouw om 20.30 uur haar woning verlaat in Veldhoven om een rondje te gaan lopen. Omstanders treffen de vrouw rond 23.30 uur hevig ontdaan aan in het centrum van Waalre. Zij geeft dan aan slachtoffer te zijn van een ernstig geweldsincident in het buitengebied tussen Veldhoven en Waalre. De politie is direct een onderzoek gestart. Er is op dit moment nog veel onduidelijk wat zich in de uren tussen 20.30 uur en 23.30 uur heeft afgespeeld. Ook weten we nog niet waar het incident precies is gebeurd. Deel informatie De politie is een opsporingsonderzoek gestart en komt graag in contact met getuigen, mensen met informatie of relevante camerabeelden uit de omgeving van het buitengebied tussen Veldhoven en Waalre. Heb jij informatie en nog niet met de politie gesproken? Vul het tipformulier in of bel de politie via 0900-8844. Liever anoniem tippen? Bel 0800-7000. Graag onder vermelding van zaaknummer: 2026067102",
+    "locations": [
+      "Waalre"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Waalre",
+        "NL"
+      ],
+      [
+        "Waalre",
+        "NL"
+      ],
+      [
+        "Waalre",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "98dad4e9ad72181a6fdd0d8047d74cb7": {
+    "feed": "L1 Nieuws",
+    "title": "Vreemde geur bij boerenbedrijf: spullen voor drugslab inbeslaggenomen",
+    "url": "https://www.l1nieuws.nl/nieuws/3133332/vreemde-geur-bij-boerenbedrijf-spullen-voor-drugslab-inbeslaggenomen",
+    "published": "Fri, 27 Mar 2026 14:04:23 GMT",
+    "summary": "De politie heeft in Ospel vrijdag spullen die kunnen worden gebruikt voor de productie van synthetische drugs inbeslaggenomen bij een agrarisch bedrijf, nadat er uren onderzoek is geweest naar een vreemde geur.",
+    "full_text": "Volgens lokaal nieuwsplatform WeertdeGekste zijn er binnengekomen bij de gemeente Nederweert. Zo zou er een chemische geur hangen, een rotte-eierenlucht en een penetrante gaslucht. Sommige melders spraken een vermoeden van drugsproductie uit. De meldingen zouden de aanleiding zijn voor het onderzoek op het perceel.",
+    "scraped_at": "2026-03-28T04:58:22.503286Z",
+    "id": "87d64550df5c48dbab4fa9c92e1f6a396e3458ae331e1c2b233ec004886107cd",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3133332/vreemde-geur-bij-boerenbedrijf-spullen-voor-drugslab-inbeslaggenomen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Volgens lokaal nieuwsplatform WeertdeGekste zijn er binnengekomen bij de gemeente Nederweert. Zo zou er een chemische geur hangen, een rotte-eierenlucht en een penetrante gaslucht. Sommige melders spraken een vermoeden van drugsproductie uit. De meldingen zouden de aanleiding zijn voor het onderzoek op het perceel.",
+    "locations": [
+      "gemeente Nederweert"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Nederweert",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "WeertdeGekste",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "e2f0cd8ea307c44919964413ddf94bb2": {
+    "feed": "L1 Nieuws",
+    "title": "Vier aanhoudingen bij Duits drugslab, meerdere doorzoekingen in Limburg",
+    "url": "https://www.l1nieuws.nl/nieuws/3133222/vier-aanhoudingen-bij-duits-drugslab-meerdere-doorzoekingen-in-limburg",
+    "published": "Fri, 27 Mar 2026 10:47:13 GMT",
+    "summary": "De politie heeft bij een inval het Duitse Bergkamen vier mannen aangehouden. Samen met Duitse collega's werd een inval gedaan in een productielocatie voor synthetische drugs. Een persoon raakte lichtgewond bij de aanhouding.",
+    "full_text": "De politie startte het onderzoek eind januari nadat er informatie was binnengekomen over een persoon die mogelijk betrokken zou zijn bij de productie van synthetische drugs. Tijdens het onderzoek bleek dat de persoon samen met iemand uit Duitsland een illegale chemische fabriek runde in Bergkamen, een plaats in de omgeving van Dortmund.",
+    "scraped_at": "2026-03-28T04:58:25.771201Z",
+    "id": "7a1872dff5f44d1c173526958d5b8b6ef5ee2e568c3c661305ad8202d3c11101",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3133222/vier-aanhoudingen-bij-duits-drugslab-meerdere-doorzoekingen-in-limburg",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie startte het onderzoek eind januari nadat er informatie was binnengekomen over een persoon die mogelijk betrokken zou zijn bij de productie van synthetische drugs. Tijdens het onderzoek bleek dat de persoon samen met iemand uit Duitsland een illegale chemische fabriek runde in Bergkamen, een plaats in de omgeving van Dortmund.",
+    "locations": [
+      "Duitsland"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Bergkamen",
+        "DE"
+      ],
+      [
+        "Dortmund",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
