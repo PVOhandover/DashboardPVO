@@ -53509,5 +53509,40 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "5c0508e2d95d2ee18953cb7a2acc1365": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt verdachte aan van steekincident in Landgraaf",
+    "url": "https://www.politie.nl/nieuws/2026/maart/29/10-politie-houdt-verdachte-aan-voor-steekincident-in-landgraaf.html",
+    "published": "Sun, 29 Mar 2026 18:06:00 GMT",
+    "summary": "De politie heeft een verdachte aangehouden van een steekincident op de Vivaldipassage in Landgraaf. Bij het incident is een persoon gewond geraakt.",
+    "full_text": "Rond 17:00 uur werd er melding gemaakt van het steekincident. Aanhouding Agenten troffen een gewonde man aan. Hij is overgebracht naar het ziekenhuis voor medische zorg. Niet veel later kon ook een verdachte worden aangehouden. Het gaat om een 51-jarige man uit Landgraaf. Onderzoek Het is vooralsnog onduidelijk wat er precies is gebeurd en wat de aanleiding is voor het steekincident. De politie onderzoekt de zaak verder.",
+    "scraped_at": "2026-03-30T05:30:08.510573Z",
+    "id": "93630fca73b9032f2e8f547225afaee959e29ce932b123c198aa05ee3bfe06d0",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/29/10-politie-houdt-verdachte-aan-voor-steekincident-in-landgraaf.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 17:00 uur werd er melding gemaakt van het steekincident. Aanhouding Agenten troffen een gewonde man aan. Hij is overgebracht naar het ziekenhuis voor medische zorg. Niet veel later kon ook een verdachte worden aangehouden. Het gaat om een 51-jarige man uit Landgraaf. Onderzoek Het is vooralsnog onduidelijk wat er precies is gebeurd en wat de aanleiding is voor het steekincident. De politie onderzoekt de zaak verder.",
+    "locations": [
+      "Landgraaf"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Landgraaf",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
   }
 }
