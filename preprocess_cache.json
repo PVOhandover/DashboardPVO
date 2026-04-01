@@ -53710,5 +53710,59 @@
       "62",
       "not_affected"
     ]
+  },
+  "8c14eef939ba3da8b477014fbf768e51": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt twee mannen aan in een onderzoek naar een afpersingszaak",
+    "url": "https://www.politie.nl/nieuws/2026/maart/31/09-politie-houdt-twee-mannen-aan-in-een-onderzoek-naar-een-afpersingszaak.html",
+    "published": "Tue, 31 Mar 2026 11:33:00 GMT",
+    "summary": "Deze ochtend viel de politie rond 6.00 uur twee woningen binnen in Bergeijk en Eindhoven. Twee mannen werden hierbij aangehouden.",
+    "full_text": "Naar aanleiding van een lopend onderzoek naar een afpersingszaak, is de ondersteuningsgroep van de Politie Eenheid Oost-Brabant twee woningen binnengevallen. Dit gebeurde rond 6.00 uur op de Kabouterberg in Bergeijk en de Jan van Riebeecklaan in Eindhoven. Er waren op dat moment meerdere mensen aanwezig in de woningen. Bij de invallen hield de politie twee mannen aan: een man van 28 jaar uit Eindhoven en een man van 30 jaar uit Bergeijk. Zij zitten nog vast en worden verhoord voor hun vermoedelijke betrokkenheid in het afpersingsonderzoek.",
+    "scraped_at": "2026-04-01T05:29:30.145182Z",
+    "id": "82ecf67443a28aed0387191e7eb7aa5802f83f4635d81c12f019ee50c129798a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/maart/31/09-politie-houdt-twee-mannen-aan-in-een-onderzoek-naar-een-afpersingszaak.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Naar aanleiding van een lopend onderzoek naar een afpersingszaak, is de ondersteuningsgroep van de Politie Eenheid Oost-Brabant twee woningen binnengevallen. Dit gebeurde rond 6.00 uur op de Kabouterberg in Bergeijk en de Jan van Riebeecklaan in Eindhoven. Er waren op dat moment meerdere mensen aanwezig in de woningen. Bij de invallen hield de politie twee mannen aan: een man van 28 jaar uit Eindhoven en een man van 30 jaar uit Bergeijk. Zij zitten nog vast en worden verhoord voor hun vermoedelijke betrokkenheid in het afpersingsonderzoek.",
+    "locations": [
+      "Bergeijk"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Bergeijk",
+        "NL"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Bergeijk",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.707135453814594,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Jan van Riebeecklaan",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
