@@ -53764,5 +53764,136 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "88362fdc513a3dff8c29fce1c0e45506": {
+    "feed": "Politie.nl",
+    "title": "Maaltijdbezorger beroofd op de Gevers Deynootweg; politie zoekt getuigen",
+    "url": "https://www.politie.nl/nieuws/2026/april/1/06-maaltijdbezorger-beroofd-op-de-gevers-deynootweg-politie-zoekt-getuigen.html",
+    "published": "Wed, 01 Apr 2026 13:23:00 GMT",
+    "summary": "Een maaltijdbezorger is dinsdagavond 31 maart rond 23.00 uur bedreigd en beroofd door twee mannen. De politie zoekt getuigen.",
+    "full_text": "Het slachtoffer fietste op de Gevers Deynootweg ter hoogte van een fastfoodketen, toen de bijrijder van een grijze Volkswagen Golf uitstapte en het slachtoffer vastpakte. Het slachtoffer kon zich lostrekken van de verdachte en vluchtte, daarbij moest hij zijn fatbike achterlaten. De bestuurder van de auto is achter hem aangerend, terwijl de bijrijder op de fatbike ging zitten. De fatbike werd later aangetroffen op diezelfde weg. Getuigen gezocht De politie is direct een onderzoek gestart en is op zoek naar getuigen die informatie of camerabeelden hebben van de beroving of de verdachten. Heeft u informatie? Neem dan contact op met de politie via 0900-8844, of anoniem via 0800-7000. Melden kan ook via onderstaand tipformulier.",
+    "scraped_at": "2026-04-02T05:08:39.195336Z",
+    "id": "a676543ff2f17d150ef6c1f03a96643e6b0ef8c7537713b8f0624b374cb8b9ac",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/1/06-maaltijdbezorger-beroofd-op-de-gevers-deynootweg-politie-zoekt-getuigen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer fietste op de Gevers Deynootweg ter hoogte van een fastfoodketen, toen de bijrijder van een grijze Volkswagen Golf uitstapte en het slachtoffer vastpakte. Het slachtoffer kon zich lostrekken van de verdachte en vluchtte, daarbij moest hij zijn fatbike achterlaten. De bestuurder van de auto is achter hem aangerend, terwijl de bijrijder op de fatbike ging zitten. De fatbike werd later aangetroffen op diezelfde weg. Getuigen gezocht De politie is direct een onderzoek gestart en is op zoek naar getuigen die informatie of camerabeelden hebben van de beroving of de verdachten. Heeft u informatie? Neem dan contact op met de politie via 0900-8844, of anoniem via 0800-7000. Melden kan ook via onderstaand tipformulier.",
+    "locations": [
+      "Melden"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Melden",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Gevers Deynootweg",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Golf",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "dcf002ff09a6d112f58cc0ad626b1f8f": {
+    "feed": "Politie.nl",
+    "title": "Nieuwe aanhoudingen na overval juwelier Almere",
+    "url": "https://www.politie.nl/nieuws/2026/april/1/03-nieuwe-aanhoudingen-na-overval-juwelier-almere.html",
+    "published": "Wed, 01 Apr 2026 08:39:00 GMT",
+    "summary": "In het onderzoek naar een gewapende overval op een juwelier aan de Bottelaarspassage in Almere op zaterdag 29 november heeft de politie 31 maart nog twee verdachten aangehouden. Het gaat hier om een 22-jarige en een 23-jarige man uit Almere. Zij worden verdacht van betrokkenheid bij de overval.",
+    "full_text": "De nieuwe aangehouden mannen worden verdacht van opdracht te hebben gegeven tot het plegen van de overval aan de eerder drie aangehouden verdachten. Zij zijn ingesloten en hun rol en betrokkenheid bij de overval wordt nader onderzocht.  Eerder hield de politie op zaterdag 29 november rond 11.30 uur al drie verdachten aan op verdenking van betrokkenheid bij een gewapende overval op de juwelier. De winkel werd rond genoemd tijdstip overvallen, waarbij drie gewapenden het aanwezige personeel overvielen en daarbij dreigden met een wapen. Politieagenten die snel ter plaatse kwamen, konden direct een verdachte (18 jaar uit Dordrecht) aanhouden. Korte tijd later, rond 13.30 uur hielden agenten nog twee verdachten aan, waarvan een minderjarige uit Druten en een 19-jarige verdachte uit Krimpen aan den IJssel. Twee van de drie eerder aangehouden verdachten zijn geschorst met strenge voorwaarden en een derde verdachte zit nog vast.",
+    "scraped_at": "2026-04-02T05:08:39.197152Z",
+    "id": "c7848b87d4bdf44db61019818df7f144caaf37ef7ab577fc9e8d6e60480521bc",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/1/03-nieuwe-aanhoudingen-na-overval-juwelier-almere.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De nieuwe aangehouden mannen worden verdacht van opdracht te hebben gegeven tot het plegen van de overval aan de eerder drie aangehouden verdachten. Zij zijn ingesloten en hun rol en betrokkenheid bij de overval wordt nader onderzocht.  Eerder hield de politie op zaterdag 29 november rond 11.30 uur al drie verdachten aan op verdenking van betrokkenheid bij een gewapende overval op de juwelier. De winkel werd rond genoemd tijdstip overvallen, waarbij drie gewapenden het aanwezige personeel overvielen en daarbij dreigden met een wapen. Politieagenten die snel ter plaatse kwamen, konden direct een verdachte (18 jaar uit Dordrecht) aanhouden. Korte tijd later, rond 13.30 uur hielden agenten nog twee verdachten aan, waarvan een minderjarige uit Druten en een 19-jarige verdachte uit Krimpen aan den IJssel. Twee van de drie eerder aangehouden verdachten zijn geschorst met strenge voorwaarden en een derde verdachte zit nog vast.",
+    "locations": [
+      "Dordrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Dordrecht",
+        "NL"
+      ],
+      [
+        "Druten",
+        "NL"
+      ],
+      [
+        "Krimpen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "47.7",
+      "sector_name": "Retail sale of other goods in specialised stores"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "47.7"
+    ]
+  },
+  "caa57a9be58e72ef3a27d208cf97df8d": {
+    "feed": "RTV Noord",
+    "title": "1 aprilgrappen op een rij: zo werd geprobeerd om jou voor de gek te houden",
+    "url": "https://www.rtvnoord.nl/cultuur/1393072/1-aprilgrappen-op-een-rij-zo-werd-geprobeerd-om-jou-voor-de-gek-te-houden",
+    "published": "Wed, 01 Apr 2026 16:30:00 GMT",
+    "summary": "Paard Brioche dat brood gaat bezorgen vanwege de hoge energieprijzen, politie op de waterski's en geen paaseitjes dit jaar, maar kaaseitjes. Het is 1 april en de grappen vliegen ons om de oren. Had jij ze door?",
+    "full_text": "De politie in Stad neemt vandaag een op maat gemaakte zijspanmotor in gebruik. Met het nieuwe voertuig kunnen motoragenten zelfstandig verdachten vervoeren, zonder te wachten op een surveillancewagen. Mocht Ewout Genemans het zien zitten om in de zijspan plaats te nemen, dan kan Bureau Groningen er ook nog mooie beelden aan overhouden.",
+    "scraped_at": "2026-04-02T05:09:37.102828Z",
+    "id": "fce71e152a29aac1635042f636b8ed47d5e4bfd7027bb4fc23a7a2e34a99b00a",
+    "canonical_url": "https://www.rtvnoord.nl/cultuur/1393072/1-aprilgrappen-op-een-rij-zo-werd-geprobeerd-om-jou-voor-de-gek-te-houden",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie in Stad neemt vandaag een op maat gemaakte zijspanmotor in gebruik. Met het nieuwe voertuig kunnen motoragenten zelfstandig verdachten vervoeren, zonder te wachten op een surveillancewagen. Mocht Ewout Genemans het zien zitten om in de zijspan plaats te nemen, dan kan Bureau Groningen er ook nog mooie beelden aan overhouden.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "96",
+      "sector_name": "Other personal service activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Ewout Genemans",
+        "sector_code": "96",
+        "sector_name": "Other personal service activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "96"
+    ]
   }
 }
