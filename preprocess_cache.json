@@ -53895,5 +53895,340 @@
     "all_sectors_in_article": [
       "96"
     ]
+  },
+  "8501b0151febec47dbdd2adf7215318e": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden in onderzoek naar overleden persoon in Arnhem",
+    "url": "https://www.politie.nl/nieuws/2026/april/2/02-verdachte-aangehouden-in-onderzoek-naar-overleden-persoon-in-arnhem.html",
+    "published": "Thu, 02 Apr 2026 17:12:00 GMT",
+    "summary": "Donderdagmiddag 2 april rond 14.00 uur heeft de politie een 33-jarige man aangehouden die mogelijk betrokkenheid heeft gehad bij het overlijden van een persoon in een woning aan de Kronenburgsingel.",
+    "full_text": "Rond 09.00 uur kreeg de politie een melding dat er mogelijk een overleden persoon in de woning lag. Agenten troffen daar inderdaad een overleden persoon aan. Uit eerste onderzoek is gebleken dat het om een vrouw gaat. Vanmorgen is een Team Grootschalig Onderzoek (TGO) van start gegaan. Bij de woning is een PD- unit neergezet. De komende dagen zal deze PD- unit er nog staan voor meer onderzoek. Op basis van de eerste bevindingen wordt uitgegaan van een misdrijf. Snelle aanhouding en onderzoek naar identiteit slachtoffer Begin van deze middag hebben agenten in Nijmegen een 33-jarige man gearresteerd op verdenking van betrokkenheid bij dit misdrijf. Hij is overgebracht naar het politiebureau. Het onderzoek naar de identiteit van het slachtoffer is nog onderdeel van dit onderzoek. Heeft u informatie? Het onderzoek blijft in volle gang om te achterhalen wat er precies gebeurd is. Het onderzoek gebeurt nauwkeurig en kan uiteraard maar één keer goed gedaan worden. Mocht u iets gezien of gehoord hebben rondom de woning aan de Kronenburgsingel vandaag of eerder in de week of weken, dan komt het onderzoeksteam graag met u in contact. Dat kan via onderstaande opties onderaan deze pagina. Blijft u liever anoniem? Bel dan Meld Misdaad Anoniem op 0800-7000 of ga naar meldmisdaadanoniem.nl . Meld Misdaad Anoniem is een onafhankelijk meldpunt en dus niet van de politie. U hoeft geen gegevens achter te laten en uw informatie wordt alleen doorgegeven als het op geen enkele manier naar u te herleiden valt. Geeft u informatie door? Graag onder vermelding van het zaaksnummer: 2026158429",
+    "scraped_at": "2026-04-03T05:09:49.169355Z",
+    "id": "2fc49371105abe1083b624fe02445f96640749052491df0861b6f6c823bf7308",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/2/02-verdachte-aangehouden-in-onderzoek-naar-overleden-persoon-in-arnhem.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 09.00 uur kreeg de politie een melding dat er mogelijk een overleden persoon in de woning lag. Agenten troffen daar inderdaad een overleden persoon aan. Uit eerste onderzoek is gebleken dat het om een vrouw gaat. Vanmorgen is een Team Grootschalig Onderzoek (TGO) van start gegaan. Bij de woning is een PD- unit neergezet. De komende dagen zal deze PD- unit er nog staan voor meer onderzoek. Op basis van de eerste bevindingen wordt uitgegaan van een misdrijf. Snelle aanhouding en onderzoek naar identiteit slachtoffer Begin van deze middag hebben agenten in Nijmegen een 33-jarige man gearresteerd op verdenking van betrokkenheid bij dit misdrijf. Hij is overgebracht naar het politiebureau. Het onderzoek naar de identiteit van het slachtoffer is nog onderdeel van dit onderzoek. Heeft u informatie? Het onderzoek blijft in volle gang om te achterhalen wat er precies gebeurd is. Het onderzoek gebeurt nauwkeurig en kan uiteraard maar één keer goed gedaan worden. Mocht u iets gezien of gehoord hebben rondom de woning aan de Kronenburgsingel vandaag of eerder in de week of weken, dan komt het onderzoeksteam graag met u in contact. Dat kan via onderstaande opties onderaan deze pagina. Blijft u liever anoniem? Bel dan Meld Misdaad Anoniem op 0800-7000 of ga naar meldmisdaadanoniem.nl . Meld Misdaad Anoniem is een onafhankelijk meldpunt en dus niet van de politie. U hoeft geen gegevens achter te laten en uw informatie wordt alleen doorgegeven als het op geen enkele manier naar u te herleiden valt. Geeft u informatie door? Graag onder vermelding van het zaaksnummer: 2026158429",
+    "locations": [
+      "Nijmegen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nijmegen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Team Grootschalig",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "TGO",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "1ed34e619669707f4d4e2e86fc1af18f": {
+    "feed": "Politie.nl",
+    "title": "Politie op zoek naar getuigen na overval in Zwijndrecht",
+    "url": "https://www.politie.nl/nieuws/2026/april/2/07-politie-op-zoek-naar-getuigen-na-overval-in-zwijndrecht.html",
+    "published": "Thu, 02 Apr 2026 14:52:00 GMT",
+    "summary": "Woensdagavond 1 april heeft er rond 21:20 een overval plaatsgevonden bij een tankstation aan de Kort Ambachtlaan in Zwijndrecht. De verdachte ging er te voet vandoor. De politie doet onderzoek en is op zoek naar getuigen.",
+    "full_text": "Bij de overval is een geldbedrag buitgemaakt. Er zijn geen gewonden gevallen. De verdachte is een donkergetinte man, met donkere ogen en vermoedelijk rond de 18 jaar oud. Hij was volledig in het zwart gekleed (jas, sjaal en muts) en had geen wapens bij zich. De politie is een onderzoek gestart en zoekt getuigen. Heeft U informatie of beschikt U over camerabeelden? Neem dan contact op met de politie via 0900-8844 of anoniem via 0800-7000. Melden kan ook via onderstaand tipformulier.",
+    "scraped_at": "2026-04-03T05:09:49.169503Z",
+    "id": "b419464c5008fc796dedffede9dbf8170d01c6c4ba9b73c468922948b7b3c9b0",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/2/07-politie-op-zoek-naar-getuigen-na-overval-in-zwijndrecht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij de overval is een geldbedrag buitgemaakt. Er zijn geen gewonden gevallen. De verdachte is een donkergetinte man, met donkere ogen en vermoedelijk rond de 18 jaar oud. Hij was volledig in het zwart gekleed (jas, sjaal en muts) en had geen wapens bij zich. De politie is een onderzoek gestart en zoekt getuigen. Heeft U informatie of beschikt U over camerabeelden? Neem dan contact op met de politie via 0900-8844 of anoniem via 0800-7000. Melden kan ook via onderstaand tipformulier.",
+    "locations": [
+      "Melden"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Melden",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "6f3ac01d03b83c0465d0712129570508": {
+    "feed": "Politie.nl",
+    "title": "Politie: Pas op veur laaienlichters en neppliessie!",
+    "url": "https://www.politie.nl/nieuws/2026/april/2/02.-campagne-neppliessie.html",
+    "published": "Thu, 02 Apr 2026 12:30:00 GMT",
+    "summary": "De politie waarschuwt met een knipoog én een knap stukkie streektaal veur laaienlichters, neppliessie en smiechten die ouwelui proberen beet te nemen. Want of ’t nou in ’t Twents, Achterhoeks, Noordwest-Overijssels, Veluws of Sallands is – ’n gewaarschuwd mens telt veur twee!",
+    "full_text": "Samen bunt wi-j nepagenten te slim af Ouderen, en mensen die wat vergeetachtig worden, praten vaak ’t liefst in de eigen moerstaal. Daarom komt de politie van Gelderland en Overijssel met flyers in streektaal. Zo kun je in de Achterhoek waarschuwen voor laaienlichters, en in Twente voor neppliessie. ‘t Is altied beter as je in de taol van de mense praot,’ zegt streektaalspecialist van de Overijsselacademie Albert Bartels, die d’r zelf ok niet vies van is om een stukske plat te praoten. ‘t Is zo mooi, as je met de oale meens’n gewoon in ’t plat kunt proat’n. Dan geet ’t gesprek vanzelf en ze vertrouwt oe sneller. En as ik zeg: ‘Pas op veur laaienlichters, heur!’, dan wéét iedereen wa’k bedoel.’ Samenwerking Naast de Overijsselacademie is de politie ook de samenwerking aangegaan met de Feestfabriek, de organisatie achter de Zwarte Cross. ‘Zij zijn bij uitstek de partij die midden in de Nedersaksische maatschappij staat! En een fijne partij om deze belangrijke boodschap over te brengen’, aldus Wessel ten Brinke, medewerker van de politie in de eenheid Oost-Nederland en bedenker van deze campagne. Wat is een laaienlichter eigenlijk? Een laaienlichter of neppliessie is iemand die zich voordoet als agent. Ze bellen of staan opeens voor de deur, met ’n smoes dat ze geld of sieraden ‘veilig’ zullen stellen. In ’t echt nemen ze pinpassen en waardevolle spullen mee. Vooral ouderen zijn de dupe van deze oplichting. Politie pakt het slim an Lang niet elke agent in Oost-Nederland praat ’t dialect, maar met de nieuwe flyers kunnen ze toch goed aanknopen bij de mensen in de streek. De flyers komen op plekken te liggen waar veel ouderen komen. Denk aan buurthuizen en bibliotheken. Daarnaast maakt de Feestfabriek een spot voor op socials en televisie. Die uitingen zijn een parodie op Nederland in Beweging van Omroep MAX. Vorig jaar lanceerde de politie samen met die omroep een landelijke campagne om voor nepagenten te waarschuwen. ‘We hopen met de uitingen in het Nedersaksisch nog dichter bij de doelgroep te komen die gemakkelijk slachtoffer wordt van deze oplichters,’ zegt Wessel ten Brinke van de politie. ‘In de Achterhoek zeg je ‘laaienlichters’, in Twente ‘neppliessie’, en in het Sallands misschien wel ‘smiechten’. Samen bunt wi-j Nepagenten te slim af! Hoeveel mense praotn nog dialect? Volgens schattingen van streektaalorganisaties praat of verstaat nog zo’n 30 tot 40 procent van de inwoners van Oost-Nederland een streektaal. En onder ouderen ligt dat zelfs boven de 60 procent. Kortom: hou de deur dicht veur smiechten, en zeg gerust: “Wat bin ie van plan, jonge? Gien echte pliesie, hè!”",
+    "scraped_at": "2026-04-03T05:09:49.170796Z",
+    "id": "8912503cfd850868fbe5c2d44e0f57d33e7aaa81f8d2b78e7962e2e369d1f62d",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/2/02.-campagne-neppliessie.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Samen bunt wi-j nepagenten te slim af Ouderen, en mensen die wat vergeetachtig worden, praten vaak ’t liefst in de eigen moerstaal. Daarom komt de politie van Gelderland en Overijssel met flyers in streektaal. Zo kun je in de Achterhoek waarschuwen voor laaienlichters, en in Twente voor neppliessie. ‘t Is altied beter as je in de taol van de mense praot,’ zegt streektaalspecialist van de Overijsselacademie Albert Bartels, die d’r zelf ok niet vies van is om een stukske plat te praoten. ‘t Is zo mooi, as je met de oale meens’n gewoon in ’t plat kunt proat’n. Dan geet ’t gesprek vanzelf en ze vertrouwt oe sneller. En as ik zeg: ‘Pas op veur laaienlichters, heur!’, dan wéét iedereen wa’k bedoel.’ Samenwerking Naast de Overijsselacademie is de politie ook de samenwerking aangegaan met de Feestfabriek, de organisatie achter de Zwarte Cross. ‘Zij zijn bij uitstek de partij die midden in de Nedersaksische maatschappij staat! En een fijne partij om deze belangrijke boodschap over te brengen’, aldus Wessel ten Brinke, medewerker van de politie in de eenheid Oost-Nederland en bedenker van deze campagne. Wat is een laaienlichter eigenlijk? Een laaienlichter of neppliessie is iemand die zich voordoet als agent. Ze bellen of staan opeens voor de deur, met ’n smoes dat ze geld of sieraden ‘veilig’ zullen stellen. In ’t echt nemen ze pinpassen en waardevolle spullen mee. Vooral ouderen zijn de dupe van deze oplichting. Politie pakt het slim an Lang niet elke agent in Oost-Nederland praat ’t dialect, maar met de nieuwe flyers kunnen ze toch goed aanknopen bij de mensen in de streek. De flyers komen op plekken te liggen waar veel ouderen komen. Denk aan buurthuizen en bibliotheken. Daarnaast maakt de Feestfabriek een spot voor op socials en televisie. Die uitingen zijn een parodie op Nederland in Beweging van Omroep MAX. Vorig jaar lanceerde de politie samen met die omroep een landelijke campagne om voor nepagenten te waarschuwen. ‘We hopen met de uitingen in het Nedersaksisch nog dichter bij de doelgroep te komen die gemakkelijk slachtoffer wordt van deze oplichters,’ zegt Wessel ten Brinke van de politie. ‘In de Achterhoek zeg je ‘laaienlichters’, in Twente ‘neppliessie’, en in het Sallands misschien wel ‘smiechten’. Samen bunt wi-j Nepagenten te slim af! Hoeveel mense praotn nog dialect? Volgens schattingen van streektaalorganisaties praat of verstaat nog zo’n 30 tot 40 procent van de inwoners van Oost-Nederland een streektaal. En onder ouderen ligt dat zelfs boven de 60 procent. Kortom: hou de deur dicht veur smiechten, en zeg gerust: “Wat bin ie van plan, jonge? Gien echte pliesie, hè!”",
+    "locations": [
+      "Oost-Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Gelderland",
+        "NL"
+      ],
+      [
+        "Overijssel",
+        "NL"
+      ],
+      [
+        "Wessel",
+        "DE"
+      ],
+      [
+        "Brinke",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Wessel",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.7071355618229913,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Albert Bartels",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Zwarte Cross",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Sallands",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Kortom",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "2118cbadaa897ca4c436b8886d237a18": {
+    "feed": "Politie.nl",
+    "title": "Werkend drugslab, vier verdachten aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/april/2/08-werkend-drugslab-vier-verdachten-aangehouden.html",
+    "published": "Thu, 02 Apr 2026 11:08:00 GMT",
+    "summary": "Woensdagmiddag is een werkend drugslab gevonden in een loods. Er worden vier verdachten aangehouden.",
+    "full_text": "Op woensdag 1 april heeft de politie een in werking zijnd drugslab aangetroffen in een loods op een industrieterrein aan het Klaverveld. In het pand worden vier mannen aangehouden. Aanhoudingen Dat zijn een 28-jarige man uit Veldhoven, een 31-jarige man uit Eindhoven, een 35-jarige man uit Sittard en een 46-jarige man uit Waalre te zijn. De verdachten zijn ingesloten aan het politiebureau en de recherche start een onderzoek. De verdachten zitten in beperkingen wat inhoudt dat ze alleen contact mogen hebben met hun advocaat en dat er alleen minimale informatie over de zaak verstrekt kan worden. Specialisten Specialisten van de Landelijke Faciliteit Ontmantelen worden direct ter plaatse gevraagd om het lab te ontruimen. De hele situatie levert een levensgevaarlijke situatie op. Ontmantelen Er is de hele avond gewerkt om sporen veilig te stellen en te beginnen met ontmantelen en ruimen van het lab. Dat zal ook de hele donderdag duren.",
+    "scraped_at": "2026-04-03T05:09:49.171588Z",
+    "id": "c91f9ed312a3971ab2eeafc7fad39bc31f86d43fdb69bcd4a2169f391bf7e702",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/2/08-werkend-drugslab-vier-verdachten-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op woensdag 1 april heeft de politie een in werking zijnd drugslab aangetroffen in een loods op een industrieterrein aan het Klaverveld. In het pand worden vier mannen aangehouden. Aanhoudingen Dat zijn een 28-jarige man uit Veldhoven, een 31-jarige man uit Eindhoven, een 35-jarige man uit Sittard en een 46-jarige man uit Waalre te zijn. De verdachten zijn ingesloten aan het politiebureau en de recherche start een onderzoek. De verdachten zitten in beperkingen wat inhoudt dat ze alleen contact mogen hebben met hun advocaat en dat er alleen minimale informatie over de zaak verstrekt kan worden. Specialisten Specialisten van de Landelijke Faciliteit Ontmantelen worden direct ter plaatse gevraagd om het lab te ontruimen. De hele situatie levert een levensgevaarlijke situatie op. Ontmantelen Er is de hele avond gewerkt om sporen veilig te stellen en te beginnen met ontmantelen en ruimen van het lab. Dat zal ook de hele donderdag duren.",
+    "locations": [
+      "Waalre"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Waalre",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Aanhoudingen",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Sittard",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Landelijke Faciliteit Ontmantelen",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "9538b4c72eefb6f09914f8fdda38383c": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Aanbieder van warme schoollunches TommyTomato failliet verklaard",
+    "url": "https://nos.nl/l/2608772",
+    "published": "Thu, 2 Apr 2026 10:35:41 +0200",
+    "summary": "<p>TommyTomato is failliet. De rechtbank in Haarlem sprak gisteren het bankroet uit. Het bedrijf verzorgde wekelijks warme lunches voor ruim 30.000 kinderen op honderden scholen. Twee curatoren onderzoeken of een doorstart mogelijk is.</p>\n        <p>Het bedrijf kwam volgens hen in acute geldproblemen doordat een al beloofde financiering op het laatste moment niet doorging. De leveringen voor vandaag en morgen gaan in ieder geval nog wel door.</p>\n        <h2>Gesubsidieerd</h2>\n        <p>TommyTomato werd in 2020 opgericht door twee vaders uit Haarlem. De sociale onderneming telt bijna 100 medewerkers, van wie 35 mensen een afstand tot de arbeidsmarkt hebben. Ook werken er bijna 130 gepensioneerden voor het bedrijf.</p>\n        <p>Ongeveer 60 procent van de maaltijden die TommyTomato aan scholen verstrekt, is gesubsidieerd, zegt curator Salim Hossaini. De rest wordt bijgelegd door de ouders, die zo per maaltijd een paar euro kwijt zijn.</p>\n        <p>Voor 2500 kinderen werden de lunches volledig betaald met sponsorgeld uit het bedrijfsleven. Ook kregen duizenden leerlingen kook- en voedingslessen op school over gezond en groenterijk eten.</p>\n        <p><em>Op een middelbare school in <a href=\"https://www.rijnmond.nl/nieuws/1926760/op-deze-middelbare-school-in-rotterdam-zuid-halen-kinderen-gratis-maaltijden-uit-een-snackmuur\">Rotterdam-Zuid</a> was eind 2024 een proef met een gezonde trekmuur van TommyTomato:</em></p>\n        <p>Curator Hossaini zegt dat een doorstart voor TommyTomato mogelijk is. \"Binnen 24 uur hebben zich al meerdere gegadigden gemeld. Ik heb goede hoop dat we snel een nieuwe eigenaar kunnen vinden.\"</p>\n        <p>Uit onderzoek blijkt dat voeding op school bijdraagt aan gezondheid en kansengelijkheid voor kinderen. Leerlingen die met een gevulde maag in de klas zitten, hebben meer energie, kunnen ze zich beter concentreren en zijn gemotiveerder.</p>\n        <h2>Gratis schoolmaaltijden</h2>\n        <p>Sinds 1 maart 2023 bestaat in Nederland het programma schoolmaaltijden.nl. Scholen met 30 procent of meer leerlingen uit een gezin met een laag inkomen, kunnen zich aanmelden voor een gratis schoolmaaltijd. Het kabinet heeft nu structureel 135 miljoen euro vrijgemaakt voor gratis schoolmaaltijden. In 2023 profiteerden meer dan <a href=\"https://nos.nl/artikel/2469299-programma-gratis-schoolmaaltijden-begonnen-kinderen-kunnen-ook-waardebon-krijgen\">300.000 leerlingen</a> daarvan.</p>\n        <p>Scholen kunnen met het geld bijvoorbeeld een ontbijt of een lunch aanbieden, of een koelkast vullen met gezonde snacks. Ze mogen zelf de keuze maken hoe ze dat invullen. Ze krijgen hier per week 9 euro per leerling voor. Van dat geld kunnen onderwijsinstellingen een cateringbedrijf of aanbieder inhuren. TommyTomato was daar een van.</p>\n        <p><em>In 2022 gingen we langs bij een school die leerlingen een gratis lunch aanbood:</em></p>",
+    "full_text": "NOS Nieuws • gisteren, 10:35 TommyTomato is failliet. De rechtbank in Haarlem sprak gisteren het bankroet uit. Het bedrijf verzorgde wekelijks warme lunches voor ruim 30.000 kinderen op honderden scholen. Twee curatoren onderzoeken of een doorstart mogelijk is. Het bedrijf kwam volgens hen in acute geldproblemen doordat een al beloofde financiering op het laatste moment niet doorging. De leveringen voor vandaag en morgen gaan in ieder geval nog wel door. Gesubsidieerd TommyTomato werd in 2020 opgericht door twee vaders uit Haarlem. De sociale onderneming telt bijna 100 medewerkers, van wie 35 mensen een afstand tot de arbeidsmarkt hebben. Ook werken er bijna 130 gepensioneerden voor het bedrijf. Ongeveer 60 procent van de maaltijden die TommyTomato aan scholen verstrekt, is gesubsidieerd, zegt curator Salim Hossaini. De rest wordt bijgelegd door de ouders, die zo per maaltijd een paar euro kwijt zijn. Voor 2500 kinderen werden de lunches volledig betaald met sponsorgeld uit het bedrijfsleven. Ook kregen duizenden leerlingen kook- en voedingslessen op school over gezond en groenterijk eten. Op een middelbare school in Rotterdam-Zuid was eind 2024 een proef met een gezonde trekmuur van TommyTomato: Curator Hossaini zegt dat een doorstart voor TommyTomato mogelijk is. \"Binnen 24 uur hebben zich al meerdere gegadigden gemeld. Ik heb goede hoop dat we snel een nieuwe eigenaar kunnen vinden.\" Uit onderzoek blijkt dat voeding op school bijdraagt aan gezondheid en kansengelijkheid voor kinderen. Leerlingen die met een gevulde maag in de klas zitten, hebben meer energie, kunnen ze zich beter concentreren en zijn gemotiveerder. Gratis schoolmaaltijden Sinds 1 maart 2023 bestaat in Nederland het programma schoolmaaltijden.nl. Scholen met 30 procent of meer leerlingen uit een gezin met een laag inkomen, kunnen zich aanmelden voor een gratis schoolmaaltijd. Het kabinet heeft nu structureel 135 miljoen euro vrijgemaakt voor gratis schoolmaaltijden. In 2023 profiteerden meer dan 300.000 leerlingen daarvan. Scholen kunnen met het geld bijvoorbeeld een ontbijt of een lunch aanbieden, of een koelkast vullen met gezonde snacks. Ze mogen zelf de keuze maken hoe ze dat invullen. Ze krijgen hier per week 9 euro per leerling voor. Van dat geld kunnen onderwijsinstellingen een cateringbedrijf of aanbieder inhuren. TommyTomato was daar een van. In 2022 gingen we langs bij een school die leerlingen een gratis lunch aanbood: Op deze school krijgen kinderen al gratis lunch, iets dat steeds harder nodig is",
+    "scraped_at": "2026-04-03T05:09:03.096406Z",
+    "id": "bd284ccfe69b7d72c3b30835687653d9267867dd26332f5a5edec27dd2369258",
+    "canonical_url": "https://nos.nl/l/2608772",
+    "published_ts": "2026-04-02T08:35:41Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 10:35 TommyTomato is failliet. De rechtbank in Haarlem sprak gisteren het bankroet uit. Het bedrijf verzorgde wekelijks warme lunches voor ruim 30.000 kinderen op honderden scholen. Twee curatoren onderzoeken of een doorstart mogelijk is. Het bedrijf kwam volgens hen in acute geldproblemen doordat een al beloofde financiering op het laatste moment niet doorging. De leveringen voor vandaag en morgen gaan in ieder geval nog wel door. Gesubsidieerd TommyTomato werd in 2020 opgericht door twee vaders uit Haarlem. De sociale onderneming telt bijna 100 medewerkers, van wie 35 mensen een afstand tot de arbeidsmarkt hebben. Ook werken er bijna 130 gepensioneerden voor het bedrijf. Ongeveer 60 procent van de maaltijden die TommyTomato aan scholen verstrekt, is gesubsidieerd, zegt curator Salim Hossaini. De rest wordt bijgelegd door de ouders, die zo per maaltijd een paar euro kwijt zijn. Voor 2500 kinderen werden de lunches volledig betaald met sponsorgeld uit het bedrijfsleven. Ook kregen duizenden leerlingen kook- en voedingslessen op school over gezond en groenterijk eten. Op een middelbare school in Rotterdam-Zuid was eind 2024 een proef met een gezonde trekmuur van TommyTomato: Curator Hossaini zegt dat een doorstart voor TommyTomato mogelijk is. \"Binnen 24 uur hebben zich al meerdere gegadigden gemeld. Ik heb goede hoop dat we snel een nieuwe eigenaar kunnen vinden.\" Uit onderzoek blijkt dat voeding op school bijdraagt aan gezondheid en kansengelijkheid voor kinderen. Leerlingen die met een gevulde maag in de klas zitten, hebben meer energie, kunnen ze zich beter concentreren en zijn gemotiveerder. Gratis schoolmaaltijden Sinds 1 maart 2023 bestaat in Nederland het programma schoolmaaltijden.nl. Scholen met 30 procent of meer leerlingen uit een gezin met een laag inkomen, kunnen zich aanmelden voor een gratis schoolmaaltijd. Het kabinet heeft nu structureel 135 miljoen euro vrijgemaakt voor gratis schoolmaaltijden. In 2023 profiteerden meer dan 300.000 leerlingen daarvan. Scholen kunnen met het geld bijvoorbeeld een ontbijt of een lunch aanbieden, of een koelkast vullen met gezonde snacks. Ze mogen zelf de keuze maken hoe ze dat invullen. Ze krijgen hier per week 9 euro per leerling voor. Van dat geld kunnen onderwijsinstellingen een cateringbedrijf of aanbieder inhuren. TommyTomato was daar een van. In 2022 gingen we langs bij een school die leerlingen een gratis lunch aanbood: Op deze school krijgen kinderen al gratis lunch, iets dat steeds harder nodig is",
+    "locations": [
+      "Haarlem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Haarlem",
+        "NL"
+      ],
+      [
+        "Haarlem",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "TommyTomato",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "TommyTomato",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "TommyTomato",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Salim Hossaini",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "TommyTomato",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Curator Hossaini",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "TommyTomato",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Leerlingen",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "euro vrijgemaakt voor gratis schoolmaaltijden",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
