@@ -54398,5 +54398,103 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "c2143d3033e9a56b22cfd9f7badc0121": {
+    "feed": "Politie.nl",
+    "title": "Getuigen en beelden gezocht na overval in Hoofddorp",
+    "url": "https://www.politie.nl/nieuws/2026/april/4/04-getuigen-en-beelden-gezocht-na-overval-in-hoofddorp.html",
+    "published": "Sat, 04 Apr 2026 10:41:00 GMT",
+    "summary": "De politie zoekt getuigen van een overval op een tabakshop in Hoofddorp. Het incident vond plaats op zaterdag 4 april 2026.",
+    "full_text": "Overval De overval op de winkel in winkelcentrum 't Paradijs aan het Muiderbos in Hoofddorp vond plaats rond 09:05 uur. Niemand raakte bij het incident gewond. Een omstander probeerde de verdachten tijdens hun vlucht tegen te houden. Hierbij viel een voorwerp op de grond dat op een vuurwapen leek. De politie heeft dit voorwerp veiliggesteld voor onderzoek. Zoekactie De twee verdachten vluchtten op een scooter. Zij zijn mogelijk korte tijd later gezien in de omgeving van de Molenplas in Haarlem. De politie zocht in dit gebied naar de verdachten. Hierbij werd onder andere een helikopter ingezet. Voor beide locaties werd ook Burgernet ingezet. Getuigenoproep Heb jij informatie over de verdachten of de scooter? Heb jij beelden van het incident of de vluchtroute? De politie ontvangt deze informatie graag. Je kunt beelden uploaden via de website van de politie . Je kunt ook bellen naar 0900-8844.",
+    "scraped_at": "2026-04-05T05:17:35.520318Z",
+    "id": "05944da5f4943fc5e2e42fea70aa97d68b26c876f10269eae0fcdecaad37688c",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/4/04-getuigen-en-beelden-gezocht-na-overval-in-hoofddorp.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Overval De overval op de winkel in winkelcentrum 't Paradijs aan het Muiderbos in Hoofddorp vond plaats rond 09:05 uur. Niemand raakte bij het incident gewond. Een omstander probeerde de verdachten tijdens hun vlucht tegen te houden. Hierbij viel een voorwerp op de grond dat op een vuurwapen leek. De politie heeft dit voorwerp veiliggesteld voor onderzoek. Zoekactie De twee verdachten vluchtten op een scooter. Zij zijn mogelijk korte tijd later gezien in de omgeving van de Molenplas in Haarlem. De politie zocht in dit gebied naar de verdachten. Hierbij werd onder andere een helikopter ingezet. Voor beide locaties werd ook Burgernet ingezet. Getuigenoproep Heb jij informatie over de verdachten of de scooter? Heb jij beelden van het incident of de vluchtroute? De politie ontvangt deze informatie graag. Je kunt beelden uploaden via de website van de politie . Je kunt ook bellen naar 0900-8844.",
+    "locations": [
+      "Paradijs"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Paradijs",
+        "BE"
+      ],
+      [
+        "Hoofddorp",
+        "NL"
+      ],
+      [
+        "Haarlem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "47.19",
+      "sector_name": "Other retail sale in non-specialised stores"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47.19"
+    ]
+  },
+  "42823771bc0eb41c348e8a04abc6ea13": {
+    "feed": "RTV Noord",
+    "title": "Deze Dag in 1980: Succes bij jacht op oorlogsmisdadigers",
+    "url": "https://www.rtvnoord.nl/cultuur/1394020/deze-dag-in-1980-succes-bij-jacht-op-oorlogsmisdadigers",
+    "published": "Sat, 04 Apr 2026 06:30:00 GMT",
+    "summary": "Ook al lag de bevrijding van Nederland inmiddels 35 jaar achter ons, het vervolgen en berechten van ontsnapte oorlogsmisdadigers was op 4 april 1980 nog altijd in volle gang. In Groningen was een groep actief, die op deze dag verklaarde de verblijfplaats van zes beruchte Nazi-kopstukken te hebben achterhaald. Ze bevonden zich allemaal in Duitsland.",
+    "full_text": "Onder hen was Gerard Weimar, die in 1949 bij verstek ter dood veroordeeld was. Weimar was commandant van de landwacht, de gewapende politie van de NSB, in Coevorden. Daar doodde hij meerdere verzetsstrijders als vergelding, nadat op 8 maart 1945 door het verzet een aanslag was gepleegd op de hoge Duitse officier Rauter bij Apeldoorn.",
+    "scraped_at": "2026-04-05T05:18:33.881689Z",
+    "id": "2c5b8f72ad21e708105817f8dd39f5d5befd7fc0e38ddf44b452bcbf99b943f5",
+    "canonical_url": "https://www.rtvnoord.nl/cultuur/1394020/deze-dag-in-1980-succes-bij-jacht-op-oorlogsmisdadigers",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Onder hen was Gerard Weimar, die in 1949 bij verstek ter dood veroordeeld was. Weimar was commandant van de landwacht, de gewapende politie van de NSB, in Coevorden. Daar doodde hij meerdere verzetsstrijders als vergelding, nadat op 8 maart 1945 door het verzet een aanslag was gepleegd op de hoge Duitse officier Rauter bij Apeldoorn.",
+    "locations": [
+      "Coevorden"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Coevorden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Gerard Weimar",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "NSB",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
