@@ -54496,5 +54496,40 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "1d2222c9de811ed3fb223a6ab61cd832": {
+    "feed": "Politie.nl",
+    "title": "Vrouw aangehouden na steekincident",
+    "url": "https://www.politie.nl/nieuws/2026/april/6/09-vrouw-aangehouden-na-steekincident.html",
+    "published": "Mon, 06 Apr 2026 11:30:00 GMT",
+    "summary": "In de nacht van zondag 5 op maandag 6 april hielden we na een steekincident een vrouw aan in een appartement aan de Steenweg in Vught. Het slachtoffer raakte gewond aan het hoofd en is aan zijn verwonding behandeld.",
+    "full_text": "Kort na drie uur kregen we een melding van een steekincident op de betreffende locatie. Het bleek dat het bij de later aangehouden vrouw in haar appartement was gebeurd. Daar waren meerdere personen op bezoek. Om nog onduidelijke redenen greep de vrouw op enig moment een mes. In de situatie die daaruit ontstond werd het slachtoffer, een 26-jarige man uit Den Bosch, geraakt. De aanwezigen konden de woning ontvluchten en alarmeerden de politie. De vrouw werd aangehouden en zit vast. We deden ter plaatse onderzoek en hoorden meerdere personen. Het slachtoffer deed aangifte en ook twee andere personen deze aangifte van bedreiging. De vrouw is ingesloten op het politiebureau voor verder onderzoek.",
+    "scraped_at": "2026-04-07T05:14:23.560570Z",
+    "id": "4f59ec46ab8555fa91a5fb6fe61829813f8eff246f6c18579ce76f17b22cd7c7",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/6/09-vrouw-aangehouden-na-steekincident.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Kort na drie uur kregen we een melding van een steekincident op de betreffende locatie. Het bleek dat het bij de later aangehouden vrouw in haar appartement was gebeurd. Daar waren meerdere personen op bezoek. Om nog onduidelijke redenen greep de vrouw op enig moment een mes. In de situatie die daaruit ontstond werd het slachtoffer, een 26-jarige man uit Den Bosch, geraakt. De aanwezigen konden de woning ontvluchten en alarmeerden de politie. De vrouw werd aangehouden en zit vast. We deden ter plaatse onderzoek en hoorden meerdere personen. Het slachtoffer deed aangifte en ook twee andere personen deze aangifte van bedreiging. De vrouw is ingesloten op het politiebureau voor verder onderzoek.",
+    "locations": [
+      "Den Bosch"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Bosch",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304614602696039,
+    "sector_info": {
+      "sector_code": "55",
+      "sector_name": "Accommodation"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "55"
+    ]
   }
 }
