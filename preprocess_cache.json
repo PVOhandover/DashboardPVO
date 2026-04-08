@@ -54531,5 +54531,63 @@
     "all_sectors_in_article": [
       "55"
     ]
+  },
+  "6e1707bd65320fd8f6d9e05217d097a9": {
+    "feed": "Politie.nl",
+    "title": "Meer dan 4800 Nederlanders krijgen e-mail met waarschuwing boilerroomfraude",
+    "url": "https://www.politie.nl/nieuws/2026/april/7/waarschuwing-boilerroomfraude.html",
+    "published": "Tue, 07 Apr 2026 13:51:00 GMT",
+    "summary": "Ruim 4800 Nederlanders ontvangen dinsdag 7 april een e-mail met een waarschuwing over boilerroomfraude (beleggingsfraude). Dit naar aanleiding van een onderzoek van Team Digitale Criminaliteit van de eenheid Midden-Nederland. Uit het onderzoek blijkt dat persoonsgegevens van duizenden Nederlanders zijn aangetroffen in een internationale database die in handen is van cybercriminelen.",
+    "full_text": "In Nederland gaat het om meer dan 4800 unieke persoonsgegevens. Wereldwijd zijn ongeveer 14.500 mensen slachtoffer geworden, waarvan meer dan 670 Nederlanders financieel gedupeerd zijn. Werkwijze fraudeurs Boilerroomfraude is een vorm van oplichting waarbij criminelen mensen overhalen om te investeren in zogenaamd winstgevende beleggingen, vaak in cryptovaluta. Zogenaamde adviseurs moedigen slachtoffers aan om meer geld in te leggen nadat ze in eerste instantie nep-rendementen zien. Via advertenties op sociale media zoals Instagram en Facebook lokken criminelen mensen naar nepartikelen die verwijzen naar nep cryptoplatforms. Hiervoor gebruiken zij foto’s en namen van bekende Nederlanders. Wanneer slachtoffers hebben geïnvesteerd en hun geld willen opnemen, blijkt het platform verdwenen en is de adviseur niet meer bereikbaar. Uiteindelijk verliezen de slachtoffers hun geld. Aanleiding onderzoek In december 2024 ontving de politie informatie van het televisieprogramma Radar. Dit programma deelde informatie over een organisatie die wereldwijd mensen oplicht met boilerroomfraude. Oproep aan slachtoffers Heeft u de e-mail ontvangen of herkent u zich in deze werkwijze? Onderneem dan direct actie: Verbreek onmiddellijk het contact met de (vermeende) adviseur Stop met betalingen Doe aangifte bij een politiebureau, onder vermelding van zaaknummer PL0900-2026098992 . Herkent u dit, maar heeft u geen geld verloren? Ook dan kunt u aangifte doen. Vragen en ondersteuning Heeft u vragen of wilt u meer informatie over het onderzoek of de brieven? Neem contact op met de politie via 0900-8844 . Voor hulp en advies kunt u terecht bij: Fraudehelpdesk: 088-786 7372 Slachtofferhulp Nederland: 0900-0101",
+    "scraped_at": "2026-04-08T05:17:18.774895Z",
+    "id": "acd1b41c89c7241c089f1948ae3040c85f70181939575829bbca022060e5382e",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/7/waarschuwing-boilerroomfraude.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In Nederland gaat het om meer dan 4800 unieke persoonsgegevens. Wereldwijd zijn ongeveer 14.500 mensen slachtoffer geworden, waarvan meer dan 670 Nederlanders financieel gedupeerd zijn. Werkwijze fraudeurs Boilerroomfraude is een vorm van oplichting waarbij criminelen mensen overhalen om te investeren in zogenaamd winstgevende beleggingen, vaak in cryptovaluta. Zogenaamde adviseurs moedigen slachtoffers aan om meer geld in te leggen nadat ze in eerste instantie nep-rendementen zien. Via advertenties op sociale media zoals Instagram en Facebook lokken criminelen mensen naar nepartikelen die verwijzen naar nep cryptoplatforms. Hiervoor gebruiken zij foto’s en namen van bekende Nederlanders. Wanneer slachtoffers hebben geïnvesteerd en hun geld willen opnemen, blijkt het platform verdwenen en is de adviseur niet meer bereikbaar. Uiteindelijk verliezen de slachtoffers hun geld. Aanleiding onderzoek In december 2024 ontving de politie informatie van het televisieprogramma Radar. Dit programma deelde informatie over een organisatie die wereldwijd mensen oplicht met boilerroomfraude. Oproep aan slachtoffers Heeft u de e-mail ontvangen of herkent u zich in deze werkwijze? Onderneem dan direct actie: Verbreek onmiddellijk het contact met de (vermeende) adviseur Stop met betalingen Doe aangifte bij een politiebureau, onder vermelding van zaaknummer PL0900-2026098992 . Herkent u dit, maar heeft u geen geld verloren? Ook dan kunt u aangifte doen. Vragen en ondersteuning Heeft u vragen of wilt u meer informatie over het onderzoek of de brieven? Neem contact op met de politie via 0900-8844 . Voor hulp en advies kunt u terecht bij: Fraudehelpdesk: 088-786 7372 Slachtofferhulp Nederland: 0900-0101",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6809353327149118,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Werkwijze fraudeurs",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Boilerroomfraude",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fraudehelpdesk",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
