@@ -54589,5 +54589,127 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "5527c6243c899cfcf45f772b731f1a1e": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden in onderzoek overleden vrouw Koninginneweg",
+    "url": "https://www.politie.nl/nieuws/2026/april/8/05-verdachte-aangehouden-in-onderzoek-overleden-vrouw-koninginneweg.html",
+    "published": "Wed, 08 Apr 2026 14:46:00 GMT",
+    "summary": "Donderdag 26 maart werd in een woning aan de Koninginneweg in Amsterdam-Zuid een overleden vrouw aangetroffen. De politie startte direct een onderzoek, onder andere om te achterhalen of er mogelijk sprake was van strafbare feiten rond haar dood. Inmiddels houdt de recherche er sterk rekening mee dat het slachtoffer, een 40-jarige Amsterdamse, door een misdrijf om het leven is gekomen. Hier is woensdag 8 april een verdachte voor aangehouden.",
+    "full_text": "De verdachte betreft de partner van het overleden slachtoffer, een 39-jarige man uit Amsterdam. Hij zit op dit moment vast in beperkingen. Dat houdt in dat hij alleen contact mag hebben met een advocaat. Vanwege die beperkingen doet de politie verder geen inhoudelijke mededelingen over de zaak en/of de verdachte.",
+    "scraped_at": "2026-04-09T05:14:35.689776Z",
+    "id": "fdfaa2aff5f0f99f57e0a27a53234d47e251fb7e49ae03a0ed9839456d841e9f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/8/05-verdachte-aangehouden-in-onderzoek-overleden-vrouw-koninginneweg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De verdachte betreft de partner van het overleden slachtoffer, een 39-jarige man uit Amsterdam. Hij zit op dit moment vast in beperkingen. Dat houdt in dat hij alleen contact mag hebben met een advocaat. Vanwege die beperkingen doet de politie verder geen inhoudelijke mededelingen over de zaak en/of de verdachte.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "dc66d19dcff725a579a2d1ca5b37a096": {
+    "feed": "Politie.nl",
+    "title": "Agent lost waarschuwingsschot bij aanhouding",
+    "url": "https://www.politie.nl/nieuws/2026/april/8/08-agent-lost-waarschuwingsschot-bij-aanhouding.html",
+    "published": "Wed, 08 Apr 2026 11:54:00 GMT",
+    "summary": "De politie hield maandag 6 april 2026 drie mannen aan op verdenking van vuurwapenbezit. Bij de aanhouding is door de politie een waarschuwingsschot gelost.",
+    "full_text": "Omstreeks 21.20 uur gaf de politie ter controle een stopteken aan een auto op de A58 ter hoogte van de afslag Ulvenhout. De bestuurder gaf gehoor aan het stopteken en stopte aan de Chaamseweg in Ulvenhout. Zowel de bestuurder als de inzittenden werden gevraagd uit het voertuig te stappen zodat de agenten de auto konden controleren. Tijdens de controle hoorde een van de agenten opeens een hard geluid wat klonk als metaal dat neerviel op de grond. Vervolgens zagen zij naast een van de verdachten een vuurwapen liggen. Omdat vervolgens de verdachten de aanwijzingen van de agenten niet opvolgde is er een waarschuwingsschot gelost. Hierna zijn de drie verdachten aangehouden. Dit betrof een 34-jarige man, een 33-jarige man en een 27-jarige man, alle drie uit Utrecht. De verdachten zijn meegenomen naar het politiebureau. Het vuurwapen is in beslaggenomen. De politie doet verder onderzoek.",
+    "scraped_at": "2026-04-09T05:14:35.689992Z",
+    "id": "d04ae3c87938b1cc901ce6d437c87e9db27469709172f5efd23cedba0d355efc",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/8/08-agent-lost-waarschuwingsschot-bij-aanhouding.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 21.20 uur gaf de politie ter controle een stopteken aan een auto op de A58 ter hoogte van de afslag Ulvenhout. De bestuurder gaf gehoor aan het stopteken en stopte aan de Chaamseweg in Ulvenhout. Zowel de bestuurder als de inzittenden werden gevraagd uit het voertuig te stappen zodat de agenten de auto konden controleren. Tijdens de controle hoorde een van de agenten opeens een hard geluid wat klonk als metaal dat neerviel op de grond. Vervolgens zagen zij naast een van de verdachten een vuurwapen liggen. Omdat vervolgens de verdachten de aanwijzingen van de agenten niet opvolgde is er een waarschuwingsschot gelost. Hierna zijn de drie verdachten aangehouden. Dit betrof een 34-jarige man, een 33-jarige man en een 27-jarige man, alle drie uit Utrecht. De verdachten zijn meegenomen naar het politiebureau. Het vuurwapen is in beslaggenomen. De politie doet verder onderzoek.",
+    "locations": [
+      "Ulvenhout",
+      "Ulvenhout",
+      "Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ulvenhout",
+        "NL"
+      ],
+      [
+        "Ulvenhout",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "A58",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "287924e25acc5a70c210b8bfc821c1fd": {
+    "feed": "L1 Nieuws",
+    "title": "Gehandicapte tienerdochter overlijdt aan longontsteking: moeder had volgens OM dood kunnen voorkomen",
+    "url": "https://www.l1nieuws.nl/nieuws/3139704/gehandicapte-tienerdochter-overlijdt-aan-longontsteking-moeder-had-volgens-om-dood-kunnen-voorkomen",
+    "published": "Wed, 08 Apr 2026 11:07:10 GMT",
+    "summary": "Helen B. (49) uit Valkenburg zou volgens justitie roekeloos hebben gehandeld, met de dood van haar gehandicapte tienerdochter tot gevolg. \"Het meisje was volledig afhankelijk van haar zorg.\"",
+    "full_text": "De zaak komt bij politie en het OM aan het rollen nadat een verzorgster van het meisje, die bij haar thuis kwam, aan de bel trekt en informatie deelt met instanties. Op 27 maart 2021 wordt vervolgens door de hulpdiensten een 15-jarig meisje aangetroffen in een woning in Eygelshoven, waarna reanimatiepogingen plaatsvinden, maar tevergeefs worden gestaakt.",
+    "scraped_at": "2026-04-09T05:14:43.048994Z",
+    "id": "ec2e53d480d813218337378db18cf4d1b0596df028cce65faf0461eaa7e4e855",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3139704/gehandicapte-tienerdochter-overlijdt-aan-longontsteking-moeder-had-volgens-om-dood-kunnen-voorkomen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De zaak komt bij politie en het OM aan het rollen nadat een verzorgster van het meisje, die bij haar thuis kwam, aan de bel trekt en informatie deelt met instanties. Op 27 maart 2021 wordt vervolgens door de hulpdiensten een 15-jarig meisje aangetroffen in een woning in Eygelshoven, waarna reanimatiepogingen plaatsvinden, maar tevergeefs worden gestaakt.",
+    "locations": [
+      "Eygelshoven"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eygelshoven",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304615609480185,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
