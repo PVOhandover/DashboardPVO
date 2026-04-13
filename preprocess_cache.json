@@ -54851,5 +54851,65 @@
     "all_sectors_in_article": [
       "47.11"
     ]
+  },
+  "135e18df32c7869bdaf124678587e496": {
+    "feed": "Politie.nl",
+    "title": "Alerte getuige en slimme cameratechniek leiden tot aanhouding inbrekers",
+    "url": "https://www.politie.nl/nieuws/2026/april/12/08-alerte-getuige-en-slimme-cameratechniek-leiden-tot-aanhouding-inbrekers.html",
+    "published": "Sun, 12 Apr 2026 09:03:00 GMT",
+    "summary": "De politie heeft zaterdagavond twee mannen aangehouden na een woninginbraak in de Gentiaanstraat. De snelle arrestatie was mogelijk dankzij een alerte getuige en de inzet van het ANPR-camerasysteem.",
+    "full_text": "Rond het tijdstip van de inbraak, zaterdag 11 april 2026 om 22.00 uur, ziet een getuige vier mannen de woning verlaten en in een auto stappen. De getuige noteert direct het kenteken, wat achteraf de doorslaggevende factor blijkt in het onderzoek. Live tracking via ANPR Het doorgegeven kenteken wordt direct ingevoerd in het landelijke ANPR-systeem (Automatic Number Plate Recognition). Deze intelligente camera’s scannen automatisch voertuigen en slaan alarm bij een match in de politiedatabase. Hierdoor kan het Operationeel Centrum de vluchtauto live volgen terwijl deze de grens met België oversteekt en korte tijd later bij Sas van Gent Nederland weer inrijdt. Achtervolging en arrestaties Agenten krijgen de auto in het vizier kregen en geven de bestuurder een stopteken maar die geeft gas en vlucht. Tijdens de achtervolging wordt de buit uit het raam gegooid. Bij de grensovergang Tractaatweg bij Westdorpe komt het voertuig tot stilstand en slaan de vier inzittenden te voet op de vlucht. Dankzij een intensieve zoekactie, waarbij ook de Belgische politie en een helikopter werden ingezet, worden twee verdachten uit Ede (25) en Veenendaal (29) ingerekend. De weggeworpen sieraden en andere gestolen goederen zijn in de berm teruggevonden en veiliggesteld. Eén van de verdachten is in België door Belgische agenten aangehouden. Hij zal zo snel mogelijk uitgeleverd worden.",
+    "scraped_at": "2026-04-13T05:48:04.009383Z",
+    "id": "df3dea3d591bd9b7490bace853a22fd41bad4c0e8ffdfe1e4662e5a547ce2320",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/12/08-alerte-getuige-en-slimme-cameratechniek-leiden-tot-aanhouding-inbrekers.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond het tijdstip van de inbraak, zaterdag 11 april 2026 om 22.00 uur, ziet een getuige vier mannen de woning verlaten en in een auto stappen. De getuige noteert direct het kenteken, wat achteraf de doorslaggevende factor blijkt in het onderzoek. Live tracking via ANPR Het doorgegeven kenteken wordt direct ingevoerd in het landelijke ANPR-systeem (Automatic Number Plate Recognition). Deze intelligente camera’s scannen automatisch voertuigen en slaan alarm bij een match in de politiedatabase. Hierdoor kan het Operationeel Centrum de vluchtauto live volgen terwijl deze de grens met België oversteekt en korte tijd later bij Sas van Gent Nederland weer inrijdt. Achtervolging en arrestaties Agenten krijgen de auto in het vizier kregen en geven de bestuurder een stopteken maar die geeft gas en vlucht. Tijdens de achtervolging wordt de buit uit het raam gegooid. Bij de grensovergang Tractaatweg bij Westdorpe komt het voertuig tot stilstand en slaan de vier inzittenden te voet op de vlucht. Dankzij een intensieve zoekactie, waarbij ook de Belgische politie en een helikopter werden ingezet, worden twee verdachten uit Ede (25) en Veenendaal (29) ingerekend. De weggeworpen sieraden en andere gestolen goederen zijn in de berm teruggevonden en veiliggesteld. Eén van de verdachten is in België door Belgische agenten aangehouden. Hij zal zo snel mogelijk uitgeleverd worden.",
+    "locations": [
+      "Gent"
+    ],
+    "country": "BE",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Gent",
+        "BE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "België",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6304614602696039,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "ANPR",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Westdorpe",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
