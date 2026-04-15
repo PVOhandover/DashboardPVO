@@ -55048,5 +55048,134 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "cdd880113bbedbf37b78c6fcbf67479b": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen in onderzoek mishandelingen",
+    "url": "https://www.politie.nl/nieuws/2026/april/14/twee-aanhoudingen-in-onderzoek-mishandelingen.html",
+    "published": "Tue, 14 Apr 2026 14:12:00 GMT",
+    "summary": "Een onderzoek naar meerdere mishandelingen met carnaval in Weert heeft dinsdagmorgen tot twee nieuwe aanhoudingen geleid. Hieruit blijkt dat de verdachten actief betrokken waren bij tenminste twee geweldsincidenten die plaatsvonden.",
+    "full_text": "Mishandeling Meikoel De politie kreeg op zondag 15 februari rond 01:00 uur een melding van een mishandeling in de omgeving van de Meikoel in Weert. Een 38-jarige man uit Weert raakte hierbij zwaargewond. Het slachtoffer is naar het ziekenhuis gebracht. De verdachten vluchtten na het voorval. Na onderzoek in de vorm van o.a. camerabeelden konden drie minderjarige jongens geïdentificeerd worden. Mishandeling Muntpassage Later die dag, rond 18:45 uur, ontving de politie opnieuw een melding van openlijke geweldpleging. Hierbij werd een minderjarige jongen in de Muntpasage mishandeld. Aanhoudingen Eerder op 24 maart werden drie minderjarige jongens uit Weert  aangehouden. Zij zijn inmiddels voorgeleid bij de rechter-commissaris. We meldden toen dat het onderzoek werd voortgezet en meerdere aanhoudingen niet werden uitgesloten. Vandaag, op 14 april zijn twee nieuwe verdachten aangehouden. Het gaat om een minderjarige jongen uit Weert en een 21-jarige verdachte uit Leende. Zij worden deze week voorgeleid bij de rechter-commissaris. In verband met de leeftijd van de verdachten zijn wij terughoudend in verdere berichtgeving.",
+    "scraped_at": "2026-04-15T05:29:40.773567Z",
+    "id": "625b5858819b6508603692b701def28edfadc743e7b2f5766626f4e36abccf24",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/14/twee-aanhoudingen-in-onderzoek-mishandelingen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Mishandeling Meikoel De politie kreeg op zondag 15 februari rond 01:00 uur een melding van een mishandeling in de omgeving van de Meikoel in Weert. Een 38-jarige man uit Weert raakte hierbij zwaargewond. Het slachtoffer is naar het ziekenhuis gebracht. De verdachten vluchtten na het voorval. Na onderzoek in de vorm van o.a. camerabeelden konden drie minderjarige jongens geïdentificeerd worden. Mishandeling Muntpassage Later die dag, rond 18:45 uur, ontving de politie opnieuw een melding van openlijke geweldpleging. Hierbij werd een minderjarige jongen in de Muntpasage mishandeld. Aanhoudingen Eerder op 24 maart werden drie minderjarige jongens uit Weert  aangehouden. Zij zijn inmiddels voorgeleid bij de rechter-commissaris. We meldden toen dat het onderzoek werd voortgezet en meerdere aanhoudingen niet werden uitgesloten. Vandaag, op 14 april zijn twee nieuwe verdachten aangehouden. Het gaat om een minderjarige jongen uit Weert en een 21-jarige verdachte uit Leende. Zij worden deze week voorgeleid bij de rechter-commissaris. In verband met de leeftijd van de verdachten zijn wij terughoudend in verdere berichtgeving.",
+    "locations": [
+      "Leende"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Leende",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meikoel",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Weert",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Weert",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "86"
+    ]
+  },
+  "cfcd5826d80b619ea200c5c2f804b681": {
+    "feed": "Politie.nl",
+    "title": "Getuigen en beelden gezocht van inbraak in bedrijfsbus",
+    "url": "https://www.politie.nl/nieuws/2026/april/14/04-getuigen-en-beelden-gezocht-van-inbraak-in-bedrijfsbus.html",
+    "published": "Tue, 14 Apr 2026 12:04:00 GMT",
+    "summary": "De politie hield op 14 april 2026 een verdachte aan voor een diefstal uit een voertuig. Een getuige hield de man op de Lijsterbeslaan in Middenmeer vast tot agenten kwamen.",
+    "full_text": "Het incident De politie kreeg op 14 april 2026 rond 03:05 uur een melding van een inbraak in een voertuig op de Lijsterbeslaan in Middenmeer. De achterzijde van een bedrijfsbus bleek te zijn opengeknipt. De inbraak vond plaats tussen 02:55 uur en 03:05 uur. Een getuige hield de verdachte op de locatie bij zich. Onderzoek Agenten hielden de 25-jarige man aan. Hij is overgebracht naar het politiebureau voor verhoor en onderzoek. De politie nam de auto van de verdachte in beslag voor verder onderzoek. Camerabeelden gezocht Heb jij op 14 april 2026 beelden gemaakt bij de Lijsterbeslaan in Middenmeer? De politie kan jouw hulp goed gebruiken. Upload je beelden via politie.nl/upload of bel 0900-8844. 2026085799",
+    "scraped_at": "2026-04-15T05:29:40.774010Z",
+    "id": "fab9456acda37afacba8e669474c9d8f57bbee68e45d023850f3da79af06a32e",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/14/04-getuigen-en-beelden-gezocht-van-inbraak-in-bedrijfsbus.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het incident De politie kreeg op 14 april 2026 rond 03:05 uur een melding van een inbraak in een voertuig op de Lijsterbeslaan in Middenmeer. De achterzijde van een bedrijfsbus bleek te zijn opengeknipt. De inbraak vond plaats tussen 02:55 uur en 03:05 uur. Een getuige hield de verdachte op de locatie bij zich. Onderzoek Agenten hielden de 25-jarige man aan. Hij is overgebracht naar het politiebureau voor verhoor en onderzoek. De politie nam de auto van de verdachte in beslag voor verder onderzoek. Camerabeelden gezocht Heb jij op 14 april 2026 beelden gemaakt bij de Lijsterbeslaan in Middenmeer? De politie kan jouw hulp goed gebruiken. Upload je beelden via politie.nl/upload of bel 0900-8844. 2026085799",
+    "locations": [
+      "Middenmeer"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Middenmeer",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "4a51228ec8c09cca5e23993f0f1564a0": {
+    "feed": "Politie.nl",
+    "title": "18-jarige man uit Goes aangehouden na mishandeling en bedreiging met vuurwapen",
+    "url": "https://www.politie.nl/nieuws/2026/april/14/18-jarige-man-uit-goes-aangehouden-na-mishandeling-en-bedreiging-met-vuurwapen.html",
+    "published": "Tue, 14 Apr 2026 11:50:00 GMT",
+    "summary": "De politie heeft dinsdagochtend 14 april een 18-jarige man uit Goes aangehouden in een onderzoek naar een mishandeling en bedreiging met een vuurwapen. De zaak kwam onder de aandacht in een uitzending van Opsporing Verzocht, waarna bruikbare tips binnenkwamen. De politie is nog op zoek naar een tweede verdachte.",
+    "full_text": "Op vrijdag 21 november 2025 rond 22.00 uur bevond een tweetal vrienden zich bij een snackbar in winkelcentrum De Spinne in Goes. Daar zagen zij een persoon die buiten stond te plassen. Eén van de jongeren klopte daarop tegen het raam. Kort nadat de jongeren de snackbar verlieten, zagen zij twee jongens met gezichtsbedekking om de hoek komen. De jongeren schrokken en gingen ervandoor. Eén van hen, het 14-jarige slachtoffer, werd op de Europalaan ingehaald door de verdachten. Hij werd vervolgens mishandeld en daarbij bedreigd met een vuurwapen. Het slachtoffer raakte door het geweld buiten bewustzijn. Ook de andere jongen werd mishandeld. Hierna vertrokken de verdachten en laten de jongens gewond achter. Tips leiden tot aanhouding Regionaal via social media vroeg de politie al om tips in deze zaak. Op 16 maart werd de zaak behandeld in Opsporing Verzocht. Naar aanleiding van deze uitzending kwamen meerdere tips binnen. Deze informatie leidde tot de aanhouding op dinsdagochtend 14 april van een 18-jarige man uit Goes. De politie zet het onderzoek voort en is nog op zoek naar een tweede verdachte. Heeft u informatie over deze zaak en nog niet met de politie gesproken Neem dan contact met ons op. Uw tip kan helpen.",
+    "scraped_at": "2026-04-15T05:29:40.774296Z",
+    "id": "75159fb29c9ff02063399dd2e4380e1c9e9402a38d4ea79f730fb24e0bdb3f1a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/14/18-jarige-man-uit-goes-aangehouden-na-mishandeling-en-bedreiging-met-vuurwapen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op vrijdag 21 november 2025 rond 22.00 uur bevond een tweetal vrienden zich bij een snackbar in winkelcentrum De Spinne in Goes. Daar zagen zij een persoon die buiten stond te plassen. Eén van de jongeren klopte daarop tegen het raam. Kort nadat de jongeren de snackbar verlieten, zagen zij twee jongens met gezichtsbedekking om de hoek komen. De jongeren schrokken en gingen ervandoor. Eén van hen, het 14-jarige slachtoffer, werd op de Europalaan ingehaald door de verdachten. Hij werd vervolgens mishandeld en daarbij bedreigd met een vuurwapen. Het slachtoffer raakte door het geweld buiten bewustzijn. Ook de andere jongen werd mishandeld. Hierna vertrokken de verdachten en laten de jongens gewond achter. Tips leiden tot aanhouding Regionaal via social media vroeg de politie al om tips in deze zaak. Op 16 maart werd de zaak behandeld in Opsporing Verzocht. Naar aanleiding van deze uitzending kwamen meerdere tips binnen. Deze informatie leidde tot de aanhouding op dinsdagochtend 14 april van een 18-jarige man uit Goes. De politie zet het onderzoek voort en is nog op zoek naar een tweede verdachte. Heeft u informatie over deze zaak en nog niet met de politie gesproken Neem dan contact met ons op. Uw tip kan helpen.",
+    "locations": [
+      "Goes"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Goes",
+        "DE"
+      ],
+      [
+        "Goes",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
