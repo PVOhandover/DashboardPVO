@@ -55177,5 +55177,392 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "853022ec48e91248b195070d8a55226c": {
+    "feed": "Politie.nl",
+    "title": "Ook in Eenheid Den Haag meer meldingen van discriminatie in 2025",
+    "url": "https://www.politie.nl/nieuws/2026/april/15/06-opnieuw-meer-meldingen-van-discriminatie-in-2025.html",
+    "published": "Wed, 15 Apr 2026 16:31:00 GMT",
+    "summary": "Het aantal discriminatiemeldingen en -registraties bij officiële meldinstanties is in 2025 opnieuw gestegen. Dat blijkt uit de jaarrapportage Discriminatiecijfers in 2025, opgesteld in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties en het ministerie van Justitie en Veiligheid. Ook de politie-eenheid Den Haag ziet een toename van het aantal discriminatie-incidenten.",
+    "full_text": "Het aantal door de politie-eenheid Den Haag geregistreerde discriminatie-incidenten is gestegen van 1389 in 2024 naar 1460 in 2025. Deze stijging van 5% was iets lager dat het landelijke percentage van 12%. Deze cijfers zijn te vinden in de Monitor Discriminatie 2025 Haaglanden en Hollands Midden . Uit de jaarrapportage Discriminatiecijfers in 2025 blijkt dat discriminatie op grond van herkomst/huidskleur in 2025 de meest geregistreerde discriminatiegrond was. De op een na meest voorkomende discriminatiegrond was seksuele gerichtheid/identiteit. Elke burger die slachtoffer of getuige is van strafbare discriminatie kan daarvan melding maken bij de politie of aangifte doen. De politie moedigt ook aan om elk incident te melden om dit probleem aan te pakken. In die aanpak werken politie, Openbaar Ministerie en antidiscriminatievoorzieningen nauw samen. Trainen De politie pakt elke melding serieus op en om dit proces rond discriminatie-incidenten te verbeteren, zijn  baliemedewerkers van de Eenheid Den Haag in 2025 getraind. Met hun kennis en vaardigheden kunnen zij meldingen over discriminatie beter opvangen en voor een adequate opvolging zorgen. Door kennis te delen en werkinstructies goed te leren toepassen kan tijdig en effectief worden opgetreden bij discriminatie. Publicatie Openbaar Ministerie Gelijktijdig met Discriminatiecijfers in 2025 publiceert het Openbaar Ministerie het rapport Strafbare Discriminatie in Beeld 2025 , waarin de aard en omvang van discriminatiezaken bij het OM worden beschreven. Over de rapportage Het rapport Discriminatiecijfers in 2025 biedt een overzicht van alle geregistreerde discriminatie-incidenten in Nederland. Het is opgesteld door het landelijk kenniscentrum Art.1 en Verwonderzoek. Omdat slechts een klein deel van de discriminatie-incidenten wordt gemeld en geregistreerd, geven de discriminatiecijfers geen inzicht in de totale omvang van discriminatie in Nederland. Uit onderzoek uit 2025 van het Centraal Bureau voor de Statistiek (CBS) blijkt dat een op de tien mensen in Nederland discriminatie ervaart. Slechts 3 procent van hen meldt dit bij de politie, 1 procent bij een andere officiële meldinstantie.",
+    "scraped_at": "2026-04-16T05:36:11.973167Z",
+    "id": "aa763d6d32fab44ffd6940a288752e3b7a7c7bffc98a3b2e01b44f147d6a0f02",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/15/06-opnieuw-meer-meldingen-van-discriminatie-in-2025.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het aantal door de politie-eenheid Den Haag geregistreerde discriminatie-incidenten is gestegen van 1389 in 2024 naar 1460 in 2025. Deze stijging van 5% was iets lager dat het landelijke percentage van 12%. Deze cijfers zijn te vinden in de Monitor Discriminatie 2025 Haaglanden en Hollands Midden . Uit de jaarrapportage Discriminatiecijfers in 2025 blijkt dat discriminatie op grond van herkomst/huidskleur in 2025 de meest geregistreerde discriminatiegrond was. De op een na meest voorkomende discriminatiegrond was seksuele gerichtheid/identiteit. Elke burger die slachtoffer of getuige is van strafbare discriminatie kan daarvan melding maken bij de politie of aangifte doen. De politie moedigt ook aan om elk incident te melden om dit probleem aan te pakken. In die aanpak werken politie, Openbaar Ministerie en antidiscriminatievoorzieningen nauw samen. Trainen De politie pakt elke melding serieus op en om dit proces rond discriminatie-incidenten te verbeteren, zijn  baliemedewerkers van de Eenheid Den Haag in 2025 getraind. Met hun kennis en vaardigheden kunnen zij meldingen over discriminatie beter opvangen en voor een adequate opvolging zorgen. Door kennis te delen en werkinstructies goed te leren toepassen kan tijdig en effectief worden opgetreden bij discriminatie. Publicatie Openbaar Ministerie Gelijktijdig met Discriminatiecijfers in 2025 publiceert het Openbaar Ministerie het rapport Strafbare Discriminatie in Beeld 2025 , waarin de aard en omvang van discriminatiezaken bij het OM worden beschreven. Over de rapportage Het rapport Discriminatiecijfers in 2025 biedt een overzicht van alle geregistreerde discriminatie-incidenten in Nederland. Het is opgesteld door het landelijk kenniscentrum Art.1 en Verwonderzoek. Omdat slechts een klein deel van de discriminatie-incidenten wordt gemeld en geregistreerd, geven de discriminatiecijfers geen inzicht in de totale omvang van discriminatie in Nederland. Uit onderzoek uit 2025 van het Centraal Bureau voor de Statistiek (CBS) blijkt dat een op de tien mensen in Nederland discriminatie ervaart. Slechts 3 procent van hen meldt dit bij de politie, 1 procent bij een andere officiële meldinstantie.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "jaarrapportage Discriminatiecijfers",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Trainen",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Art.1",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Centraal Bureau voor de Statistiek",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "CBS",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3",
+      "not_affected"
+    ]
+  },
+  "a12c0d5bf77940912dad9442b51df541": {
+    "feed": "Politie.nl",
+    "title": "16-jarige aangehouden voor meerdere fraudezaken",
+    "url": "https://www.politie.nl/nieuws/2026/april/15/06-16-jarige-aangehouden-voor-meerdere-fraudezaken.html",
+    "published": "Wed, 15 Apr 2026 12:56:00 GMT",
+    "summary": "In een onderzoek naar meerdere fraudezaken is dinsdag 14 april een verdachte aangehouden.  De 16-jarige verdachte is betrokken geweest bij zeker vijf gevallen van oplichting, op verschillende plekken in Nederland.",
+    "full_text": "Op woensdag 7 januari werd een vrouw uit Voorburg gebeld door een persoon die zich voordeed als politieagent. De vrouw werd duidelijk gemaakt dat ze mogelijk slachtoffer zou worden van een inbraak en dat de politie uit voorzorg haar waardevolle spullen zou komen ophalen. Op deze manier zijn er verschillende sieraden van het slachtoffer ontvreemd. Het incident in Voorburg bleek na onderzoek te passen in een reeks fraudezaken waar dezelfde 16-jarige verdachte aan gekoppeld kon worden. Deze incidenten vonden plaats vonden plaats in december 2025 en in januari 2026 in Eindhoven, Enkhuizen, IJmuiden en Vlaardingen. De verdachte wordt donderdag 16 april voorgeleidt aan de rechter-commissaris. Wees waakzaam Politieagenten en medewerkers van banken of andere instanties komen nooit bij u langs om uw pinpas, geld of waardevolle spulletjes op te halen. Trap er niet in! Zeg 'nee', geef uw spullen niet mee en bel in geval van nood altijd 112! Mocht u toch slachtoffer worden van oplichting, doe dan altijd aangifte bij de politie.",
+    "scraped_at": "2026-04-16T05:36:11.976966Z",
+    "id": "a7052f6a5842d692787ef8c657999d87bf27c0c17df9bc263e4e3cd74af72c75",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/15/06-16-jarige-aangehouden-voor-meerdere-fraudezaken.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op woensdag 7 januari werd een vrouw uit Voorburg gebeld door een persoon die zich voordeed als politieagent. De vrouw werd duidelijk gemaakt dat ze mogelijk slachtoffer zou worden van een inbraak en dat de politie uit voorzorg haar waardevolle spullen zou komen ophalen. Op deze manier zijn er verschillende sieraden van het slachtoffer ontvreemd. Het incident in Voorburg bleek na onderzoek te passen in een reeks fraudezaken waar dezelfde 16-jarige verdachte aan gekoppeld kon worden. Deze incidenten vonden plaats vonden plaats in december 2025 en in januari 2026 in Eindhoven, Enkhuizen, IJmuiden en Vlaardingen. De verdachte wordt donderdag 16 april voorgeleidt aan de rechter-commissaris. Wees waakzaam Politieagenten en medewerkers van banken of andere instanties komen nooit bij u langs om uw pinpas, geld of waardevolle spulletjes op te halen. Trap er niet in! Zeg 'nee', geef uw spullen niet mee en bel in geval van nood altijd 112! Mocht u toch slachtoffer worden van oplichting, doe dan altijd aangifte bij de politie.",
+    "locations": [
+      "Voorburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Voorburg",
+        "NL"
+      ],
+      [
+        "Voorburg",
+        "NL"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "f4d9b623e6e8d6643d3ccc632b984877": {
+    "feed": "Politie.nl",
+    "title": "Meldingen discriminatie stijgen opnieuw in 2025",
+    "url": "https://www.politie.nl/nieuws/2026/april/15/00-meldingen-discriminatie-stijgen-opnieuw-in-2025.html",
+    "published": "Wed, 15 Apr 2026 12:00:00 GMT",
+    "summary": "Het aantal discriminatiemeldingen en -registraties bij officiële meldinstanties is in 2025 opnieuw gestegen. Dat blijkt uit de jaarrapportage Discriminatiecijfers in 2025, opgesteld in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties en het ministerie van Justitie en Veiligheid. Het rapport wordt op 15 april aangeboden aan minister Pieter Heerma.",
+    "full_text": "Bij Discriminatie.nl, het landelijke meldpunt van de antidiscriminatievoorzieningen, kwamen vorig jaar 25.356 meldingen binnen, 70 procent meer dan in 2024. Hieronder vallen ruim 15.000 zogeheten clustermeldingen: uitlatingen van politici en overheden waarover veel is gemeld. Ook Meld.Online Discriminatie ontving over een incident bijna tweeduizend meldingen. Hierdoor steeg het totaal van deze meldinstantie tot 2768 meldingen, vier keer zoveel als vorig jaar. De politie registreerde 10.748 discriminatie-incidenten, een stijging van 12 procent ten opzichte van 2024. Ook andere meldinstanties laten een toename zien. Het College voor de Rechten van de Mens ontving 853 verzoeken om een oordeel tegenover 621 verzoeken in 2024. Bij de Kinderombudsman steeg het aantal meldingen van 19 in 2024 naar 49 meldingen. Alleen de Nationale ombudsman zag het aantal meldingen licht dalen, van 311 naar 305. Angelique Tjon-A-Tjoen, portefeuillehouder Aanpak discriminatie: ‘Wij hebben onze inzet op de aanpak van discriminatie afgelopen jaar versterkt, en willen benadrukken dat melden bij de politie wél zin heeft. Ook al lijkt er soms onvoldoende bewijs om iemand te kunnen aanhouden: de politie kan meer dan je denkt. Bijvoorbeeld plegers van online discriminatie die via anonieme accounts te werk gaan, toch opsporen. Een voorbeeld is een discriminatiezaak afgelopen jaar, waarbij twee mannen de leden van een queer mannenkoor via social media met de dood bedreigden. Onder een social media post van de gemeente waar dit koor optrad tijdens een diversiteitsavond, plaatsten de twee mannen vanuit anonieme accounts discriminerende opmerkingen en doodsbedreigingen aan de koorleden. Samen met onze recherche hebben we hen kunnen vinden en samen met het Openbaar Ministerie vervolgd en veroordeeld gekregen.’ Online discriminatie De rapportage zoomt dit jaar in op online discriminatie. Het aantal meldingen bij Meld.Online Discriminatie laat al sinds 2022 een stijgende lijn zien. Meldingen gaan vaak over uitingen op sociale media in reactie op conflicten in het Midden-Oosten, het Nederlandse migratiebeleid en lokale kwesties, zoals de aanleg van een regenboogzebrapad of de komst van een asielzoekerscentrum. Bij Discriminatie.nl kwamen 674 meldingen binnen van discriminerende berichten en video’s op tijdlijnen van gebruikers. Meldingen over online discriminatie bij de politie gaan vooral over persoonlijke beledigingen en bedreigingen via sociale media. nOm deze groeiende problematiek beter aan te pakken, gaan Discriminatie.nl en Meld.Online Discriminatie nauwer samenwerken. Op 15 april wordt hiervoor een samenwerkingsovereenkomst ondertekend. Publicatie Openbaar Ministerie Gelijktijdig met Discriminatiecijfers in 2025 publiceert het Openbaar Ministerie het rapport Strafbare Discriminatie in Beeld 2025 , waarin de aard en omvang van discriminatiezaken bij het OM worden beschreven. Over de rapportage Het rapport Discriminatiecijfers in 2025 biedt een overzicht van alle geregistreerde discriminatie-incidenten in Nederland. Het is opgesteld door het landelijk kenniscentrum Art.1 en Verwonderzoek. Omdat slechts een klein deel van de discriminatie-incidenten wordt gemeld en geregistreerd, geven de discriminatiecijfers geen inzicht in de totale omvang van discriminatie in Nederland. Uit onderzoek uit 2025 van het Centraal Bureau voor de Statistiek (CBS) blijkt dat een op de tien mensen in Nederland discriminatie ervaart. Slechts 3 procent van hen meldt dit bij de politie, 1 procent bij een andere officiële meldinstantie.",
+    "scraped_at": "2026-04-16T05:36:11.978336Z",
+    "id": "55483ff7ed25ea3a9073935c56501c9bff9187aa78eca0102e68f77978fceb1c",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/15/00-meldingen-discriminatie-stijgen-opnieuw-in-2025.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij Discriminatie.nl, het landelijke meldpunt van de antidiscriminatievoorzieningen, kwamen vorig jaar 25.356 meldingen binnen, 70 procent meer dan in 2024. Hieronder vallen ruim 15.000 zogeheten clustermeldingen: uitlatingen van politici en overheden waarover veel is gemeld. Ook Meld.Online Discriminatie ontving over een incident bijna tweeduizend meldingen. Hierdoor steeg het totaal van deze meldinstantie tot 2768 meldingen, vier keer zoveel als vorig jaar. De politie registreerde 10.748 discriminatie-incidenten, een stijging van 12 procent ten opzichte van 2024. Ook andere meldinstanties laten een toename zien. Het College voor de Rechten van de Mens ontving 853 verzoeken om een oordeel tegenover 621 verzoeken in 2024. Bij de Kinderombudsman steeg het aantal meldingen van 19 in 2024 naar 49 meldingen. Alleen de Nationale ombudsman zag het aantal meldingen licht dalen, van 311 naar 305. Angelique Tjon-A-Tjoen, portefeuillehouder Aanpak discriminatie: ‘Wij hebben onze inzet op de aanpak van discriminatie afgelopen jaar versterkt, en willen benadrukken dat melden bij de politie wél zin heeft. Ook al lijkt er soms onvoldoende bewijs om iemand te kunnen aanhouden: de politie kan meer dan je denkt. Bijvoorbeeld plegers van online discriminatie die via anonieme accounts te werk gaan, toch opsporen. Een voorbeeld is een discriminatiezaak afgelopen jaar, waarbij twee mannen de leden van een queer mannenkoor via social media met de dood bedreigden. Onder een social media post van de gemeente waar dit koor optrad tijdens een diversiteitsavond, plaatsten de twee mannen vanuit anonieme accounts discriminerende opmerkingen en doodsbedreigingen aan de koorleden. Samen met onze recherche hebben we hen kunnen vinden en samen met het Openbaar Ministerie vervolgd en veroordeeld gekregen.’ Online discriminatie De rapportage zoomt dit jaar in op online discriminatie. Het aantal meldingen bij Meld.Online Discriminatie laat al sinds 2022 een stijgende lijn zien. Meldingen gaan vaak over uitingen op sociale media in reactie op conflicten in het Midden-Oosten, het Nederlandse migratiebeleid en lokale kwesties, zoals de aanleg van een regenboogzebrapad of de komst van een asielzoekerscentrum. Bij Discriminatie.nl kwamen 674 meldingen binnen van discriminerende berichten en video’s op tijdlijnen van gebruikers. Meldingen over online discriminatie bij de politie gaan vooral over persoonlijke beledigingen en bedreigingen via sociale media. nOm deze groeiende problematiek beter aan te pakken, gaan Discriminatie.nl en Meld.Online Discriminatie nauwer samenwerken. Op 15 april wordt hiervoor een samenwerkingsovereenkomst ondertekend. Publicatie Openbaar Ministerie Gelijktijdig met Discriminatiecijfers in 2025 publiceert het Openbaar Ministerie het rapport Strafbare Discriminatie in Beeld 2025 , waarin de aard en omvang van discriminatiezaken bij het OM worden beschreven. Over de rapportage Het rapport Discriminatiecijfers in 2025 biedt een overzicht van alle geregistreerde discriminatie-incidenten in Nederland. Het is opgesteld door het landelijk kenniscentrum Art.1 en Verwonderzoek. Omdat slechts een klein deel van de discriminatie-incidenten wordt gemeld en geregistreerd, geven de discriminatiecijfers geen inzicht in de totale omvang van discriminatie in Nederland. Uit onderzoek uit 2025 van het Centraal Bureau voor de Statistiek (CBS) blijkt dat een op de tien mensen in Nederland discriminatie ervaart. Slechts 3 procent van hen meldt dit bij de politie, 1 procent bij een andere officiële meldinstantie.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "College voor de Rechten van de Mens",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "ombudsman",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Angelique",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Art.1",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Centraal Bureau voor de Statistiek",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "CBS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "e5ed2029047da86b9a4a042237e4c434": {
+    "feed": "Politie.nl",
+    "title": "Tweede aanhouding in onderzoek brandstichting man in rolstoel",
+    "url": "https://www.politie.nl/nieuws/2026/april/15/03-tweede-aanhouding-in-onderzoek-brandstichting-man-in-rolstoel.html",
+    "published": "Wed, 15 Apr 2026 11:40:00 GMT",
+    "summary": "De politie hield woensdag 15 april om 09.00 uur in Utrecht een tweede verdachte (55 jaar) aan op verdenking van betrokkenheid bij het incident waarbij op het Smaragdplein in Utrecht een gehandicapte man (69 jaar) in een elektrische rolstoel zwaargewond geraakt.",
+    "full_text": "Het slachtoffer werd dinsdagmiddag 14 april rond 15.30 uur door een of meerdere personen in brand gestoken. Dankzij daadkrachtig optreden van enkele omstanders kon de brand snel geblust worden. Zij renden direct naar de man in de elektrische rolstoel toe, trokken en hem eruit en legden hem op de grond, waarop anderen direct 112 belden en de hulpverlening heel snel op gang kwam. Het slachtoffer is na medische zorg ter plaatse naar een ziekenhuis gebracht en de loop van de avond is hij verplaatst naar een brandwondencentrum om de specialistische zorg te krijgen die nodig is. De politie startte direct een groot onderzoek naar de identiteit van de bij het incident betrokken personen. Daarbij werden beschikbare camerabeelden opgevraagd en die informatie werd gedeeld onder de dienstdoende agenten. Mede dankzij die beelden én getuigen van het incident kon de politie dinsdagavond om 18.15 uur een 37-jarige verdachte aanhouden. De man is ingesloten voor verhoor. Uit het verdere onderzoek bleek dat bij het incident nog een tweede verdachte was betrokken. Deze verdachte kon woensdagochtend om 09.00 uur in Utrecht worden aangehouden. Beide verdachten zijn ingesloten voor verhoor. Vermoedelijk kenden betrokkenen elkaar, waarbij mogelijk sprake is van een onderling conflict. Nader onderzoek moet dat uiteraard uitwijzen. Het incident had veel impact en diverse omstanders waren getuigen van het heftige incident. Direct betrokkenen kunnen contact zoeken met Slachtofferhulp Nederland .",
+    "scraped_at": "2026-04-16T05:36:11.978988Z",
+    "id": "0c67d531d8e233923acce762b180158854ba220097428f81def8eddd35a948bd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/15/03-tweede-aanhouding-in-onderzoek-brandstichting-man-in-rolstoel.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer werd dinsdagmiddag 14 april rond 15.30 uur door een of meerdere personen in brand gestoken. Dankzij daadkrachtig optreden van enkele omstanders kon de brand snel geblust worden. Zij renden direct naar de man in de elektrische rolstoel toe, trokken en hem eruit en legden hem op de grond, waarop anderen direct 112 belden en de hulpverlening heel snel op gang kwam. Het slachtoffer is na medische zorg ter plaatse naar een ziekenhuis gebracht en de loop van de avond is hij verplaatst naar een brandwondencentrum om de specialistische zorg te krijgen die nodig is. De politie startte direct een groot onderzoek naar de identiteit van de bij het incident betrokken personen. Daarbij werden beschikbare camerabeelden opgevraagd en die informatie werd gedeeld onder de dienstdoende agenten. Mede dankzij die beelden én getuigen van het incident kon de politie dinsdagavond om 18.15 uur een 37-jarige verdachte aanhouden. De man is ingesloten voor verhoor. Uit het verdere onderzoek bleek dat bij het incident nog een tweede verdachte was betrokken. Deze verdachte kon woensdagochtend om 09.00 uur in Utrecht worden aangehouden. Beide verdachten zijn ingesloten voor verhoor. Vermoedelijk kenden betrokkenen elkaar, waarbij mogelijk sprake is van een onderling conflict. Nader onderzoek moet dat uiteraard uitwijzen. Het incident had veel impact en diverse omstanders waren getuigen van het heftige incident. Direct betrokkenen kunnen contact zoeken met Slachtofferhulp Nederland .",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "4ee755c218967219ed7f1df14cc27cd2": {
+    "feed": "Politie.nl",
+    "title": "Vliegen met drone bij PI levert proces verbaal en inbeslagname op",
+    "url": "https://www.politie.nl/nieuws/2026/april/14/09-vliegen-met-drone-bij-pi-levert-proces-verbaal-en-inbeslagname-op.html",
+    "published": "Tue, 14 Apr 2026 09:00:00 GMT",
+    "summary": "Boven de penitentiaire inrichting (PI) in Vught en in de omgeving daarvan geldt een strikte no-fly zone. Vlieg je daar toch met een drone dan kun je een proces-verbaal krijgen en de drone kan in beslag worden genomen. Dat merkte een man uit Vught op woensdag 1 april.",
+    "full_text": "Die ochtend meldde de PI dat er een drone was gezien in de no-fly zone. Agenten zochten vervolgens in de omgeving naar de drone en de piloot. Die werd toen niet aangetroffen. Enkele uren later kwam echter dezelfde melding binnen: er was een drone gezien. Deze keer wisten collega’s de piloot en zijn drone wel te traceren op een grasveld in de omgeving van de gevangenis. Het ging om een 50-jarige man uit Vught. Onderzoek De man bleek ook de dronepiloot bij het eerdere incident in de ochtend en daarmee vloog hij dus tot tweemaal toe binnen de no-fly zone van de PI in Vught. De drone is in beslag genomen en tegen de man is proces-verbaal opgemaakt. De Officier van Justitie zal een beslissing nemen over de verdere strafrechtelijke afhandeling. Controleer Het luchtruim boven de Penitentiaire Inrichting (PI) in Vught is sinds 25 december vorig jaar permanent gesloten . Dat is niet voor niks: de maatregel is ingesteld om de veiligheid in en rond de inrichting te vergroten. Binnen de muren van de gevangenis bevindt zich ook de Extra Beveiligde Inrichting (EBI) met een bijzondere categorie gedetineerden. Politie, Dienst Justitiële Inrichtingen (DJI) en andere partners hebben duidelijke afspraken rond de PI in Vught. Onderdeel daarvan is dat wij meldingen over drones bij de gevangenis altijd serieus nemen en waar mogelijk handhavend optreden.  Voorkom dat u een boete krijgt of dat de drone in beslag genomen wordt. Controleer voordat u ergens gaat vliegen of dat daar toegestaan is of niet.",
+    "scraped_at": "2026-04-16T05:36:11.982300Z",
+    "id": "6180fb0796459a36d1c7de9c5c24b96301c0d55c11585c91f36ffb98811eb5bc",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/14/09-vliegen-met-drone-bij-pi-levert-proces-verbaal-en-inbeslagname-op.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Die ochtend meldde de PI dat er een drone was gezien in de no-fly zone. Agenten zochten vervolgens in de omgeving naar de drone en de piloot. Die werd toen niet aangetroffen. Enkele uren later kwam echter dezelfde melding binnen: er was een drone gezien. Deze keer wisten collega’s de piloot en zijn drone wel te traceren op een grasveld in de omgeving van de gevangenis. Het ging om een 50-jarige man uit Vught. Onderzoek De man bleek ook de dronepiloot bij het eerdere incident in de ochtend en daarmee vloog hij dus tot tweemaal toe binnen de no-fly zone van de PI in Vught. De drone is in beslag genomen en tegen de man is proces-verbaal opgemaakt. De Officier van Justitie zal een beslissing nemen over de verdere strafrechtelijke afhandeling. Controleer Het luchtruim boven de Penitentiaire Inrichting (PI) in Vught is sinds 25 december vorig jaar permanent gesloten . Dat is niet voor niks: de maatregel is ingesteld om de veiligheid in en rond de inrichting te vergroten. Binnen de muren van de gevangenis bevindt zich ook de Extra Beveiligde Inrichting (EBI) met een bijzondere categorie gedetineerden. Politie, Dienst Justitiële Inrichtingen (DJI) en andere partners hebben duidelijke afspraken rond de PI in Vught. Onderdeel daarvan is dat wij meldingen over drones bij de gevangenis altijd serieus nemen en waar mogelijk handhavend optreden.  Voorkom dat u een boete krijgt of dat de drone in beslag genomen wordt. Controleer voordat u ergens gaat vliegen of dat daar toegestaan is of niet.",
+    "locations": [
+      "Vught"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Vught",
+        "NL"
+      ],
+      [
+        "Vught",
+        "NL"
+      ],
+      [
+        "Vught",
+        "NL"
+      ],
+      [
+        "Vught",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Officier van Justitie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Penitentiaire Inrichting",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Extra Beveiligde Inrichting",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "EBI",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Dienst Justitiële Inrichtingen",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "DJI",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "4b56c81cb823dd4c3861da260d892e84": {
+    "feed": "L1 Nieuws",
+    "title": "Gemeente Stein sluit woning na drugsvondst",
+    "url": "https://www.l1nieuws.nl/nieuws/3144204/gemeente-stein-sluit-woning-na-drugsvondst",
+    "published": "Wed, 15 Apr 2026 13:16:17 GMT",
+    "summary": "Een woning aan de Stadhouderslaan in Stein is tijdelijk gesloten. Er zijn verdovende middelen aangetroffen.",
+    "full_text": "Met deze tijdelijke sluiting wil de gemeente Stein een duidelijk signaal afgeven: de handhaving van openbare orde en veiligheid in de gemeente is een belangrijk onderdeel van de aanpak van criminaliteit. Burgemeester Marion Leurs-Mordang: \"Onze prioriteit ligt bij het waarborgen van de veiligheid van onze burgers. Samen met onze partners, zoals de politie, blijven we vastberaden om dit te handhaven.\"",
+    "scraped_at": "2026-04-16T05:36:18.406024Z",
+    "id": "6ada59d5d012a07f15a553f1292581b5b07d91c84780bd51c7aab2b65fcfb1fa",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3144204/gemeente-stein-sluit-woning-na-drugsvondst",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Met deze tijdelijke sluiting wil de gemeente Stein een duidelijk signaal afgeven: de handhaving van openbare orde en veiligheid in de gemeente is een belangrijk onderdeel van de aanpak van criminaliteit. Burgemeester Marion Leurs-Mordang: \"Onze prioriteit ligt bij het waarborgen van de veiligheid van onze burgers. Samen met onze partners, zoals de politie, blijven we vastberaden om dit te handhaven.\"",
+    "locations": [
+      "gemeente Stein"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Stein",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
