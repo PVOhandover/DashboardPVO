@@ -55751,5 +55751,144 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "b33073ea647078968407bfb81caf6d7c": {
+    "feed": "Politie.nl",
+    "title": "Politie gaat uit van betrokkenheid vierde persoon bij schietincident Eelderwolde",
+    "url": "https://www.politie.nl/nieuws/2026/april/17/01-politie-gaat-uit-van-betrokkenheid-vierde-persoon-bij-schietincident-eelderwolde.html",
+    "published": "Fri, 17 Apr 2026 13:54:00 GMT",
+    "summary": "Een 19-jarige man uit de gemeente Midden-Groningen raakte zaterdag 4 april gewond nadat hij werd beschoten in Eelderwolde. De recherche doet sindsdien volop onderzoek naar het incident. Begin april werden al drie verdachten aangehouden, maar de politie gaat ervan uit dat er een vierde persoon bij het incident betrokken is geweest.",
+    "full_text": "Dit blijkt uit informatie die naar voren is gekomen tijdens het onderzoek. Informatie vanuit omgeving verdachten Het incident gebeurde in de omgeving van de Groningerweg, ter hoogte van de brug bij de Woltsingel. De politie krijgt signalen dat er in de omgeving van verdachten veel wordt gesproken over de betrokkenheid van een vierde persoon. Deze mensen moeten dus meer weten over wat zich heeft afgespeeld in Eelderwolde in de nacht van zaterdag 4 op 5 april. Toch hebben zij deze informatie tot nu toe nog niet met de politie gedeeld. Anoniem delen We roepen hen met klem op om dit wel te doen, ieder detail kan belangrijk zijn in dit onderzoek. Weet dat het ook mogelijk is om anoniem te blijven, door uw informatie te delen met Meld Misdaad Anoniem. Op die manier hoeft u zichzelf niet kenbaar te maken en komt uw informatie toch bij de juiste mensen terecht. Bel daarvoor met Meld Misdaad Anoniem op 0800 – 7000 of vul online het formulier in: https://melden.meldmisdaadanoniem.nl/#step-1 . Ook kunt u uw informatie delen via de Opsporingstiplijn: 0800 – 60 70 of via onderstaand tipformulier. De drie verdachten zitten nog altijd vast. Het politieonderzoek gaat door, meerdere aanhoudingen worden dan ook niet uitgesloten.",
+    "scraped_at": "2026-04-18T05:11:41.391883Z",
+    "id": "6c9a50eea05286503255d4a63ba53ff7bcdf55b3e857cd860b91a3347359fcea",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/17/01-politie-gaat-uit-van-betrokkenheid-vierde-persoon-bij-schietincident-eelderwolde.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dit blijkt uit informatie die naar voren is gekomen tijdens het onderzoek. Informatie vanuit omgeving verdachten Het incident gebeurde in de omgeving van de Groningerweg, ter hoogte van de brug bij de Woltsingel. De politie krijgt signalen dat er in de omgeving van verdachten veel wordt gesproken over de betrokkenheid van een vierde persoon. Deze mensen moeten dus meer weten over wat zich heeft afgespeeld in Eelderwolde in de nacht van zaterdag 4 op 5 april. Toch hebben zij deze informatie tot nu toe nog niet met de politie gedeeld. Anoniem delen We roepen hen met klem op om dit wel te doen, ieder detail kan belangrijk zijn in dit onderzoek. Weet dat het ook mogelijk is om anoniem te blijven, door uw informatie te delen met Meld Misdaad Anoniem. Op die manier hoeft u zichzelf niet kenbaar te maken en komt uw informatie toch bij de juiste mensen terecht. Bel daarvoor met Meld Misdaad Anoniem op 0800 – 7000 of vul online het formulier in: https://melden.meldmisdaadanoniem.nl/#step-1 . Ook kunt u uw informatie delen via de Opsporingstiplijn: 0800 – 60 70 of via onderstaand tipformulier. De drie verdachten zitten nog altijd vast. Het politieonderzoek gaat door, meerdere aanhoudingen worden dan ook niet uitgesloten.",
+    "locations": [
+      "Eelderwolde"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eelderwolde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "62"
+    ]
+  },
+  "ec687e56614bc5a1c8d780b5681cba0d": {
+    "feed": "Politie.nl",
+    "title": "Vier verdachten aangehouden voor steekincident Eindhoven",
+    "url": "https://www.politie.nl/nieuws/2026/april/17/09-vier-verdachten-aangehouden-voor-steekincident-eindhoven.html",
+    "published": "Fri, 17 Apr 2026 13:29:00 GMT",
+    "summary": "De politie heeft in de nacht van donderdag 16 op vrijdag 17 april vier verdachten aangehouden na een steekincident op de Kanaaldijk-Zuid in Eindhoven. Het slachtoffer liep hierbij meerdere steekwonden op.",
+    "full_text": "Iets voor 4.00 uur ontvingen wij een melding van een steekincident. Het slachtoffer, een man van 19 jaar uit Eindhoven, werd gewond aangetroffen op het Stratumseind. Hij bleek eerder die avond op de Kanaaldijk-Zuid te zijn gestoken na een confrontatie met een groep. De groep van zo’n 10 personen rende na het incident weg. Het slachtoffer was aanspreekbaar en werd voor behandeling aan zijn verwondingen meegenomen naar het ziekenhuis. Wij startten een onderzoek ter plaatse en hoorden verschillende getuigen. Uit dit onderzoek kwamen de vier aangehouden verdachten naar voren. Zij werden voor verder onderzoek ingesloten op het politiebureau. De verdachten zijn mannen van 16, 17, 18, 19 jaar wonend in Oosterhout, Sint-Oedenrode en Stadskanaal. Op dit moment zitten de verdachten nog altijd vast en onderzoeken wij hun betrokkenheid bij dit incident.",
+    "scraped_at": "2026-04-18T05:11:41.392002Z",
+    "id": "272b4f798b92f86a365ea9d483d71bebe82a5eb5c7ac94c4d53d8b96b78abfac",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/17/09-vier-verdachten-aangehouden-voor-steekincident-eindhoven.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Iets voor 4.00 uur ontvingen wij een melding van een steekincident. Het slachtoffer, een man van 19 jaar uit Eindhoven, werd gewond aangetroffen op het Stratumseind. Hij bleek eerder die avond op de Kanaaldijk-Zuid te zijn gestoken na een confrontatie met een groep. De groep van zo’n 10 personen rende na het incident weg. Het slachtoffer was aanspreekbaar en werd voor behandeling aan zijn verwondingen meegenomen naar het ziekenhuis. Wij startten een onderzoek ter plaatse en hoorden verschillende getuigen. Uit dit onderzoek kwamen de vier aangehouden verdachten naar voren. Zij werden voor verder onderzoek ingesloten op het politiebureau. De verdachten zijn mannen van 16, 17, 18, 19 jaar wonend in Oosterhout, Sint-Oedenrode en Stadskanaal. Op dit moment zitten de verdachten nog altijd vast en onderzoeken wij hun betrokkenheid bij dit incident.",
+    "locations": [
+      "Sint-Oedenrode"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Oosterhout",
+        "NL"
+      ],
+      [
+        "Sint-Oedenrode",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "47.11",
+      "sector_name": "Retail sale in non-specialised stores with food predominance"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "47.11"
+    ]
+  },
+  "071a0a10c1fff26db7e8ad97001ef8ec": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt vijf personen aan in onderzoek naar bankhelpdeskfraude",
+    "url": "https://www.politie.nl/nieuws/2026/april/17/02-politie-houdt-vijf-personen-aan-in-onderzoek-naar-bankhelpdeskfraude.html",
+    "published": "Fri, 17 Apr 2026 10:31:00 GMT",
+    "summary": "Op dinsdag 14 april hield de politie op diverse locaties in het land twee personen aan op verdenking van fraude. Hierna hebben er op diverse locaties in het land doorzoekingen plaatsgevonden. Bij de doorzoekingen werd een grote hoeveelheid goederen in beslag genomen.",
+    "full_text": "Begin september vorig jaar kreeg een aangever een e-mail om contactgegevens van een lidmaatschap aan te vullen. Nadat de aangever dit had gedaan werd hij meerdere malen benaderd door personen die zich voordeden als medewerkers van een bank. Vervolgens werd de aangever opgelicht en werd er een groot bedrag aan geld (meer dan € 150.000) over gemaakt op de rekeningen van drie zogenaamde geldezels. Op maandag 24 november werden de drie geldezels aangehouden en gehoord. Het betroffen een 18- jarige vrouw en een 19-jarige man uit Den Haag en een 27-jarige man uit Amstelveen. Met de gegevens die uit dit onderzoek voortkwamen, ging de politie verder aan de slag. Uit dit onderzoek kwamen door goed recherchewerk meerdere locaties en personen naar voren. Op dinsdag 14 april hield de politie een man van 26 jaar uit de gemeente Haarlemmermeer en een 24-jarige-jarige man uit Heerhugowaard aan. De politie hield doorzoekingen op negen locaties in het land. Hierbij trof de politie een grote hoeveelheid goederen aan waaronder een aantal voertuigen, een grote hoeveelheid contant geld, een vuurwapen, drugs, bankrekeningen, cryptorekeningen en allerlei dure spullen waaronder kleding, sieraden en horloges. De goederen zijn in beslag genomen voor nader onderzoek. Het onderzoek is nog in volle gang. De politie sluit niet uit dat er vanuit het onderzoek nog meer verdachten en andere strafrechtelijke zaken naar voren kunnen komen.",
+    "scraped_at": "2026-04-18T05:11:41.392743Z",
+    "id": "e29ee5cfe1ac703063663330f5103384739b43f8b20d6012f1bdd14dff3789be",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/17/02-politie-houdt-vijf-personen-aan-in-onderzoek-naar-bankhelpdeskfraude.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Begin september vorig jaar kreeg een aangever een e-mail om contactgegevens van een lidmaatschap aan te vullen. Nadat de aangever dit had gedaan werd hij meerdere malen benaderd door personen die zich voordeden als medewerkers van een bank. Vervolgens werd de aangever opgelicht en werd er een groot bedrag aan geld (meer dan € 150.000) over gemaakt op de rekeningen van drie zogenaamde geldezels. Op maandag 24 november werden de drie geldezels aangehouden en gehoord. Het betroffen een 18- jarige vrouw en een 19-jarige man uit Den Haag en een 27-jarige man uit Amstelveen. Met de gegevens die uit dit onderzoek voortkwamen, ging de politie verder aan de slag. Uit dit onderzoek kwamen door goed recherchewerk meerdere locaties en personen naar voren. Op dinsdag 14 april hield de politie een man van 26 jaar uit de gemeente Haarlemmermeer en een 24-jarige-jarige man uit Heerhugowaard aan. De politie hield doorzoekingen op negen locaties in het land. Hierbij trof de politie een grote hoeveelheid goederen aan waaronder een aantal voertuigen, een grote hoeveelheid contant geld, een vuurwapen, drugs, bankrekeningen, cryptorekeningen en allerlei dure spullen waaronder kleding, sieraden en horloges. De goederen zijn in beslag genomen voor nader onderzoek. Het onderzoek is nog in volle gang. De politie sluit niet uit dat er vanuit het onderzoek nog meer verdachten en andere strafrechtelijke zaken naar voren kunnen komen.",
+    "locations": [
+      "gemeente Haarlemmermeer"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Amstelveen",
+        "NL"
+      ],
+      [
+        "gemeente Haarlemmermeer",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
