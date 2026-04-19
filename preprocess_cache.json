@@ -55890,5 +55890,71 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "9436558d0e93aafa961543d0ded8e12d": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws zaterdag 18 april: Westerwoldse (18) vast voor steekpartij • Brandjes in Niekerk, Leek en Stad",
+    "url": "https://www.rtvnoord.nl/112/1398069/112-nieuws-zaterdag-18-april-westerwoldse-18-vast-voor-steekpartij-brandjes-in-niekerk-leek-en-stad",
+    "published": "Sat, 18 Apr 2026 20:43:09 GMT",
+    "summary": "In dit 112-blog houden we je deze zaterdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De politie heeft vrijdagavond meerdere bekeuringen uitgedeeld in Wildervank, naar aanleiding van een melding van jongeren die overlast zouden veroorzaken. Dat leidde tot meerdere bekeuringen, 'onder andere voor opgevoerde fatbikes en het fietsen met een telefoon in de hand', schrijft politie Ommelanden Midden .",
+    "scraped_at": "2026-04-19T05:36:03.437617Z",
+    "id": "03c7f43fb29a94b3a84bf498683abc900dda25a7361003f505b8f242a15a3c24",
+    "canonical_url": "https://www.rtvnoord.nl/112/1398069/112-nieuws-zaterdag-18-april-westerwoldse-18-vast-voor-steekpartij-brandjes-in-niekerk-leek-en-stad",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft vrijdagavond meerdere bekeuringen uitgedeeld in Wildervank, naar aanleiding van een melding van jongeren die overlast zouden veroorzaken. Dat leidde tot meerdere bekeuringen, 'onder andere voor opgevoerde fatbikes en het fietsen met een telefoon in de hand', schrijft politie Ommelanden Midden .",
+    "locations": [
+      "Wildervank"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Wildervank",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "43df4122ac2c95c9288ce3a8762f941f": {
+    "feed": "RTV Noord",
+    "title": "Politie Midden en Oost-Groningen doet oproep tegen jeugdoverlast: 'Spreek elkaar aan'",
+    "url": "https://www.rtvnoord.nl/112/1398128/politie-midden-en-oost-groningen-doet-oproep-tegen-jeugdoverlast-spreek-elkaar-aan",
+    "published": "Sat, 18 Apr 2026 10:04:49 GMT",
+    "summary": "De politie gaat de komende tijd vaker surveilleren en strenger handhaven in Midden-Groningen, Veendam en Pekela. Ze zegt de laatste tijd meer meldingen van jeugd- en geluidsoverlast te krijgen in het gebied.",
+    "full_text": "De politie schrijft het bericht naar aanleiding van een melding in Wildervank vrijdagavond, waarbij meerdere jongen voor overlast zouden zorgen. De politie ging erop af met meerdere eenheden en schreef vijf boetes uit. Vier keer voor een opgevoerde fatbike en eenmaal voor fietsen met een telefoon in de hand.",
+    "scraped_at": "2026-04-19T05:36:11.345158Z",
+    "id": "516bed378976df245415922b8fb5d9887faf2822c2f2e969674b9c20d47669f5",
+    "canonical_url": "https://www.rtvnoord.nl/112/1398128/politie-midden-en-oost-groningen-doet-oproep-tegen-jeugdoverlast-spreek-elkaar-aan",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie schrijft het bericht naar aanleiding van een melding in Wildervank vrijdagavond, waarbij meerdere jongen voor overlast zouden zorgen. De politie ging erop af met meerdere eenheden en schreef vijf boetes uit. Vier keer voor een opgevoerde fatbike en eenmaal voor fietsen met een telefoon in de hand.",
+    "locations": [
+      "Wildervank"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Wildervank",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
