@@ -55956,5 +55956,104 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "b7a0f127b67380934c5700e49e53cbd0": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Sigaretten leveren de overheid minder op: 2,6 miljard aan accijnsinkomsten",
+    "url": "https://nos.nl/l/2611180",
+    "published": "Mon, 20 Apr 2026 06:30:02 +0200",
+    "summary": "<p>De overheid heeft vorig jaar 2,6 miljard euro aan tabaksaccijns ontvangen, meldt het Centraal Bureau voor de Statistiek. Dat is 15 procent minder dan in 2024.</p>\n        <p>Tabaksaccijns wordt geheven op sigaretten, rooktabak zoals shag en pijptabak, en sigaren. De regering heeft in het Nationaal Preventieakkoord afgesproken om die accijns stapsgewijs te verhogen, om zo het gebruik van tabak terug te dringen.</p>\n        <p>Door die verhogingen is de accijns op sigaretten sinds 2020 verdubbeld. Voor rooktabak is de belasting verdrievoudigd.</p>\n        <h2>Inkopen in het buitenland</h2>\n        <p>Toch heeft die accijnsverhoging niet geleid tot hogere inkomsten. Volgens het CBS komt dat doordat minder mensen zijn gaan roken en rokers vaker sigaretten kopen in het buitenland.</p>\n        <p>In 2015 gaf 1 op de 4 mensen van 12 jaar of ouder aan soms te roken. Vorig jaar daalde dat naar ongeveer 1 op de 6. Vooral het aandeel mensen dat dagelijks rookt neemt af, van 18 procent in 2015 naar 12 procent in 2025. Het gebruik van vapes is niet meegenomen in deze cijfers.</p>\n        <p>Om de hoge tabaksprijzen in Nederland te omzeilen kopen rokers regelmatig sigaretten en shag in het buitenland, bleek uit eerder <a href=\"https://nos.nl/artikel/2571489-rivm-na-accijnsverhoging-tabak-inkoop-uit-buitenland-nam-fors-toe\">onderzoek van het RIVM</a>.</p>\n        <p>In 2024 zei zo'n 12 procent van de rokers van 18 jaar of ouder tabaksproducten vaak of altijd in het buitenland te kopen. In 2020 was dat 5 procent. Buitenlandse aankopen leveren de Nederlandse overheid geen inkomsten op.</p>",
+    "full_text": "NOS Nieuws • vandaag, 06:30 De overheid heeft vorig jaar 2,6 miljard euro aan tabaksaccijns ontvangen, meldt het Centraal Bureau voor de Statistiek. Dat is 15 procent minder dan in 2024. Tabaksaccijns wordt geheven op sigaretten, rooktabak zoals shag en pijptabak, en sigaren. De regering heeft in het Nationaal Preventieakkoord afgesproken om die accijns stapsgewijs te verhogen, om zo het gebruik van tabak terug te dringen. Door die verhogingen is de accijns op sigaretten sinds 2020 verdubbeld. Voor rooktabak is de belasting verdrievoudigd. Inkopen in het buitenland Toch heeft die accijnsverhoging niet geleid tot hogere inkomsten. Volgens het CBS komt dat doordat minder mensen zijn gaan roken en rokers vaker sigaretten kopen in het buitenland. In 2015 gaf 1 op de 4 mensen van 12 jaar of ouder aan soms te roken. Vorig jaar daalde dat naar ongeveer 1 op de 6. Vooral het aandeel mensen dat dagelijks rookt neemt af, van 18 procent in 2015 naar 12 procent in 2025. Het gebruik van vapes is niet meegenomen in deze cijfers. Om de hoge tabaksprijzen in Nederland te omzeilen kopen rokers regelmatig sigaretten en shag in het buitenland, bleek uit eerder onderzoek van het RIVM . In 2024 zei zo'n 12 procent van de rokers van 18 jaar of ouder tabaksproducten vaak of altijd in het buitenland te kopen. In 2020 was dat 5 procent. Buitenlandse aankopen leveren de Nederlandse overheid geen inkomsten op.",
+    "scraped_at": "2026-04-20T05:46:27.232349Z",
+    "id": "d89234e2e3095da356e39c7b7a424789a06f8b0ea40b6f661c379f3245816051",
+    "canonical_url": "https://nos.nl/l/2611180",
+    "published_ts": "2026-04-20T04:30:02Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • vandaag, 06:30 De overheid heeft vorig jaar 2,6 miljard euro aan tabaksaccijns ontvangen, meldt het Centraal Bureau voor de Statistiek. Dat is 15 procent minder dan in 2024. Tabaksaccijns wordt geheven op sigaretten, rooktabak zoals shag en pijptabak, en sigaren. De regering heeft in het Nationaal Preventieakkoord afgesproken om die accijns stapsgewijs te verhogen, om zo het gebruik van tabak terug te dringen. Door die verhogingen is de accijns op sigaretten sinds 2020 verdubbeld. Voor rooktabak is de belasting verdrievoudigd. Inkopen in het buitenland Toch heeft die accijnsverhoging niet geleid tot hogere inkomsten. Volgens het CBS komt dat doordat minder mensen zijn gaan roken en rokers vaker sigaretten kopen in het buitenland. In 2015 gaf 1 op de 4 mensen van 12 jaar of ouder aan soms te roken. Vorig jaar daalde dat naar ongeveer 1 op de 6. Vooral het aandeel mensen dat dagelijks rookt neemt af, van 18 procent in 2015 naar 12 procent in 2025. Het gebruik van vapes is niet meegenomen in deze cijfers. Om de hoge tabaksprijzen in Nederland te omzeilen kopen rokers regelmatig sigaretten en shag in het buitenland, bleek uit eerder onderzoek van het RIVM . In 2024 zei zo'n 12 procent van de rokers van 18 jaar of ouder tabaksproducten vaak of altijd in het buitenland te kopen. In 2020 was dat 5 procent. Buitenlandse aankopen leveren de Nederlandse overheid geen inkomsten op.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Centraal Bureau voor de Statistiek",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Nationaal Preventieakkoord",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "CBS",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "RIVM",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "4622b66bd6479b2cb653f194c711c3fe": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws zondag 19 april: Woning gered bij brand in loods Zuidbroek • Auto bijna doormidden op A7",
+    "url": "https://www.rtvnoord.nl/112/1398255/112-nieuws-zondag-19-april-woning-gered-bij-brand-in-loods-zuidbroek-auto-bijna-doormidden-op-a7",
+    "published": "Sun, 19 Apr 2026 19:29:33 GMT",
+    "summary": "In dit 112-blog houden we je deze zondag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Op de Klein Garnwerd, de weg tussen Winsum en Garnwerd, is een motorrijder uit de bocht gevlogen. Het voertuig kwam tot stilstand in een bijna droogliggend slootje. Politie, brandweer en ambulance schoten te hulp.",
+    "scraped_at": "2026-04-20T05:48:01.031711Z",
+    "id": "c55d9e863e9045ee36015fc8e82445798c79c4e3294daedf3cd0d4a4881417e1",
+    "canonical_url": "https://www.rtvnoord.nl/112/1398255/112-nieuws-zondag-19-april-woning-gered-bij-brand-in-loods-zuidbroek-auto-bijna-doormidden-op-a7",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op de Klein Garnwerd, de weg tussen Winsum en Garnwerd, is een motorrijder uit de bocht gevlogen. Het voertuig kwam tot stilstand in een bijna droogliggend slootje. Politie, brandweer en ambulance schoten te hulp.",
+    "locations": [
+      "Winsum"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Winsum",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
