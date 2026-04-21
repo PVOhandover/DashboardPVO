@@ -56055,5 +56055,99 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "92c90bc95b51e2ef5c3aa1e4d26f23db": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt verdachte aan na steekincident Assen",
+    "url": "https://www.politie.nl/nieuws/2026/april/20/politie-houdt-verdachte-aan-na-steekincident-assen.html",
+    "published": "Mon, 20 Apr 2026 16:13:00 GMT",
+    "summary": "Op 28 maart heeft er een steekincident plaatsgevonden bij een skatebaan in de wijk Kloosterveen in Assen. Hierbij raakte één persoon gewond.",
+    "full_text": "Het slachtoffer, een minderjarige jongen uit Assen, werd door collega's aangetroffen op de Hildegard van Bingenweg in Assen. Hij heeft direct medische hulp gekregen en is overgebracht naar het ziekenhuis. Aanhouding Er is direct een onderzoek gestart naar het steekincident. Er is onderzoek gedaan bij de skatebaan, er is gesproken met betrokkenen en getuigen. Dat heeft op maandag 20 april geleid tot de aanhouding van een minderjarige verdachte uit Assen. Hij zit vast en wordt verhoord. Het onderzoek is nog in volle gang en meerdere aanhoudingen worden niet uitgesloten.",
+    "scraped_at": "2026-04-21T05:32:38.141611Z",
+    "id": "61db61a8aa4ad3d3d1f85055327a7cefa26b0c09bb682449465433080451b640",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/20/politie-houdt-verdachte-aan-na-steekincident-assen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer, een minderjarige jongen uit Assen, werd door collega's aangetroffen op de Hildegard van Bingenweg in Assen. Hij heeft direct medische hulp gekregen en is overgebracht naar het ziekenhuis. Aanhouding Er is direct een onderzoek gestart naar het steekincident. Er is onderzoek gedaan bij de skatebaan, er is gesproken met betrokkenen en getuigen. Dat heeft op maandag 20 april geleid tot de aanhouding van een minderjarige verdachte uit Assen. Hij zit vast en wordt verhoord. Het onderzoek is nog in volle gang en meerdere aanhoudingen worden niet uitgesloten.",
+    "locations": [
+      "Assen",
+      "Assen",
+      "Assen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Assen",
+        "DE"
+      ],
+      [
+        "Assen",
+        "DE"
+      ],
+      [
+        "Assen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Hildegard van Bingenweg",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "60f8111932c81868da282e3c79c34e20": {
+    "feed": "Politie.nl",
+    "title": "12-jarige jongen overleden na verkeersongeval in Steyl",
+    "url": "https://www.politie.nl/nieuws/2026/april/20/10-12-jarige-jongen-overleden-na-verkeersongeval-in-steyl.html",
+    "published": "Mon, 20 Apr 2026 13:39:00 GMT",
+    "summary": "Op de Roermondseweg in Steyl heeft vrijdagavond een ernstig verkeersongeval plaatsgevonden tussen een auto en een fiets. Het slachtoffer is met de traumahelikopter overgebracht naar het ziekenhuis.",
+    "full_text": "Het slachtoffer, een 12-jarige jongen uit de gemeente Venlo, is aan zijn verwondingen overleden. Onderzoek De politie doet verder onderzoek naar de toedracht van dit verkeersongeval. Heeft u camerabeelden of was u getuige van het ongeval? Neem dan contact op met het onderzoeksteam van de politie. Dat kan via 0900-8844, via deze website of anoniem via M. (Meld Misdaad Anoniem) via 0800-7000 onder vermelding van het registratienummer 2026065894. Omstanders De aanrijding is door veel omstanders gezien en hebben ook hulp geboden. Voor omstanders is ondersteuning van Slachtofferhulp aangeboden. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp ( slachtofferhulp.nl ) een bericht met verzoek tot contact achter.",
+    "scraped_at": "2026-04-21T05:32:38.142988Z",
+    "id": "cb82aa83d6117f96f4517706333853c765a45731a3fbeaf9c0569060b68af1a6",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/20/10-12-jarige-jongen-overleden-na-verkeersongeval-in-steyl.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer, een 12-jarige jongen uit de gemeente Venlo, is aan zijn verwondingen overleden. Onderzoek De politie doet verder onderzoek naar de toedracht van dit verkeersongeval. Heeft u camerabeelden of was u getuige van het ongeval? Neem dan contact op met het onderzoeksteam van de politie. Dat kan via 0900-8844, via deze website of anoniem via M. (Meld Misdaad Anoniem) via 0800-7000 onder vermelding van het registratienummer 2026065894. Omstanders De aanrijding is door veel omstanders gezien en hebben ook hulp geboden. Voor omstanders is ondersteuning van Slachtofferhulp aangeboden. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp ( slachtofferhulp.nl ) een bericht met verzoek tot contact achter.",
+    "locations": [
+      "gemeente Venlo"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Venlo",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
