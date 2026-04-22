@@ -56149,5 +56149,85 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "74cd8a80d2d0a6caeef6b8b6f45c4858": {
+    "feed": "Politie.nl",
+    "title": "Man aangehouden na aanrijding met politiemotor en vlucht in Breda en Galder",
+    "url": "https://www.politie.nl/nieuws/2026/april/21/08-man-aangehouden-na-aanrijding-met-politiemotor-en-vlucht-in-breda-en-galder.html",
+    "published": "Tue, 21 Apr 2026 12:45:00 GMT",
+    "summary": "De politie heeft maandag 20 april een 23- jarige man uit Dordrecht aangehouden. Hij reed tegen een politiemotor aan en ging daarna op de vlucht. De agent raakte niet gewond. De motor liep wel flinke schade op.",
+    "full_text": "Rond 16.15 uur controleerde een motoragent op de Galderseweg in Breda een voertuig vanwege een sterke cannabisgeur. De bestuurder stopte in eerste instantie niet voor de controle. Korte tijd later zag de agent het voertuig opnieuw. Hij gaf de bestuurder een stopteken op de Klokkenberg. De agent stapte van zijn motor af en liep richting de bestuurder. Die besloot niet mee te willen werken aan de controle en gas te geven. Hij reed met zijn auto tegen de politiemotor aan. Daarna reed hij met hoge snelheid weg in de richting van Galder. Aanhouding in Galder De politie startte direct een zoekactie. Rond 18.15 uur zagen agenten de verdachte als bijrijder in een auto op de Galderseweg in Galder. Zij hielden hem aan. De auto waarmee de aanrijding plaatsvond, werd later teruggevonden in Galder. Mogelijk onder invloed en rijden zonder rijbewijs De verdachte wilde niet meewerken aan een speekseltest voor drugs. Uit controle bleek dat zijn rijbewijs ongeldig is verklaard. Onderzoek loopt De politie onderzoekt wat er precies is gebeurd. De verdachte zit vast en wordt verhoord.",
+    "scraped_at": "2026-04-22T05:31:20.220431Z",
+    "id": "07e91ea3f8de4e06284709ff92114d4209fbb1af417234960950f7425d3bdca6",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/21/08-man-aangehouden-na-aanrijding-met-politiemotor-en-vlucht-in-breda-en-galder.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 16.15 uur controleerde een motoragent op de Galderseweg in Breda een voertuig vanwege een sterke cannabisgeur. De bestuurder stopte in eerste instantie niet voor de controle. Korte tijd later zag de agent het voertuig opnieuw. Hij gaf de bestuurder een stopteken op de Klokkenberg. De agent stapte van zijn motor af en liep richting de bestuurder. Die besloot niet mee te willen werken aan de controle en gas te geven. Hij reed met zijn auto tegen de politiemotor aan. Daarna reed hij met hoge snelheid weg in de richting van Galder. Aanhouding in Galder De politie startte direct een zoekactie. Rond 18.15 uur zagen agenten de verdachte als bijrijder in een auto op de Galderseweg in Galder. Zij hielden hem aan. De auto waarmee de aanrijding plaatsvond, werd later teruggevonden in Galder. Mogelijk onder invloed en rijden zonder rijbewijs De verdachte wilde niet meewerken aan een speekseltest voor drugs. Uit controle bleek dat zijn rijbewijs ongeldig is verklaard. Onderzoek loopt De politie onderzoekt wat er precies is gebeurd. De verdachte zit vast en wordt verhoord.",
+    "locations": [
+      "Galder"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breda",
+        "NL"
+      ],
+      [
+        "Klokkenberg",
+        "NL"
+      ],
+      [
+        "Galder",
+        "NL"
+      ],
+      [
+        "Galder",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "7766b4809ec863855a14476d2de287b1": {
+    "feed": "Politie.nl",
+    "title": "Vier aanhoudingen in onderzoek zware mishandeling Ramlehweg",
+    "url": "https://www.politie.nl/nieuws/2026/april/21/07-vier-aanhoudingen-in-onderzoek-zware-mishandeling-ramlehweg.html",
+    "published": "Tue, 21 Apr 2026 10:36:00 GMT",
+    "summary": "In het onderzoek naar de zware mishandeling op 10 april aan de Ramlehweg in Rotterdam zijn vandaag vier jongens aangehouden. Zij worden verdacht van openlijke geweldpleging en poging doodslag. Het gaat om vier jongens van 14, 15, 15 en 16 jaar oud. Ze komen alle vier uit Rotterdam. Meer aanhoudingen worden niet uitgesloten.",
+    "full_text": "Het slachtoffer, een 16-jarige jongen uit Rotterdam, is die vrijdag mishandeld door vier jongens aan de Ramlehweg. Hij raakte hierbij gewond en is daarna door de ambulance gecontroleerd. De mishandeling is gefilmd en daarna gedeeld op social media. Getuigen gezocht Het onderzoek is nog in volle gang. Heeft u informatie over dit incident en nog niet met de politie gesproken? Neem dan contact op door middel van een van onderstaande mogelijkheden.",
+    "scraped_at": "2026-04-22T05:31:20.220978Z",
+    "id": "59e6c491f1ce7a5aa70baf0932c3b08829d0e3cb14a881836f0fc85ccfee8f86",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/21/07-vier-aanhoudingen-in-onderzoek-zware-mishandeling-ramlehweg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer, een 16-jarige jongen uit Rotterdam, is die vrijdag mishandeld door vier jongens aan de Ramlehweg. Hij raakte hierbij gewond en is daarna door de ambulance gecontroleerd. De mishandeling is gefilmd en daarna gedeeld op social media. Getuigen gezocht Het onderzoek is nog in volle gang. Heeft u informatie over dit incident en nog niet met de politie gesproken? Neem dan contact op door middel van een van onderstaande mogelijkheden.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
