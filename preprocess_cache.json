@@ -56229,5 +56229,100 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "64797c4b8b5d4d9be590bedf27245c36": {
+    "feed": "Politie.nl",
+    "title": "Supersnelrecht verdachte openlijke geweldpleging Loosdrecht",
+    "url": "https://www.politie.nl/nieuws/2026/april/22/03-supersnelrecht-verdachte-ongeregeldheden-loosdrecht.html",
+    "published": "Wed, 22 Apr 2026 15:09:00 GMT",
+    "summary": "Bij ongeregeldheden bij het gemeentehuis in Loosdrecht zijn in de avond van 21 april acht aanhoudingen verricht.  Een verdachte moet via supersnelrecht voor de rechter komen.",
+    "full_text": "Bij de ongeregeldheden moest de mobiele eenheid worden ingezet en heeft enkele charges uitgevoerd om de orde te herstellen. Vier personen zijn aangehouden voor het niet voldoen aan bevel en vordering. Zij zijn met een boete naar huis gestuurd. Een 40-jarige man uit Loosdrecht is aangehouden voor belediging. Hij is na verhoor naar huis gestuurd met boete van uur van 400 euro. Een 49-jarige man uit Loosdrecht is aangehouden voor belediging en het uiten van bedreigingen. Hij zit nog vast voor onderzoek. Een 23-jarige man uit Loosdrecht is aangehouden voor openlijke geweldpleging. Hij gooide een rookpot naar het gemeentehuis. Hij zit nog vast voor onderzoek. Een 30-jarige man uit Hilversum is aangehouden openlijke geweldpleging. Hij gooide vuurwerk naar burgers, politie en het gemeentehuis. Op zijn zaak wordt supersnelrecht toegepast. Dat betekent dat de man nog deze week voor de rechter verschijnt.",
+    "scraped_at": "2026-04-23T05:36:09.407253Z",
+    "id": "82a3d5fb8a20f27f6f9805b30781dca3e31942baa08c1fbcdd44a6322f46d38a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/22/03-supersnelrecht-verdachte-ongeregeldheden-loosdrecht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij de ongeregeldheden moest de mobiele eenheid worden ingezet en heeft enkele charges uitgevoerd om de orde te herstellen. Vier personen zijn aangehouden voor het niet voldoen aan bevel en vordering. Zij zijn met een boete naar huis gestuurd. Een 40-jarige man uit Loosdrecht is aangehouden voor belediging. Hij is na verhoor naar huis gestuurd met boete van uur van 400 euro. Een 49-jarige man uit Loosdrecht is aangehouden voor belediging en het uiten van bedreigingen. Hij zit nog vast voor onderzoek. Een 23-jarige man uit Loosdrecht is aangehouden voor openlijke geweldpleging. Hij gooide een rookpot naar het gemeentehuis. Hij zit nog vast voor onderzoek. Een 30-jarige man uit Hilversum is aangehouden openlijke geweldpleging. Hij gooide vuurwerk naar burgers, politie en het gemeentehuis. Op zijn zaak wordt supersnelrecht toegepast. Dat betekent dat de man nog deze week voor de rechter verschijnt.",
+    "locations": [
+      "Hilversum"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Loosdrecht",
+        "NL"
+      ],
+      [
+        "Loosdrecht",
+        "NL"
+      ],
+      [
+        "Loosdrecht",
+        "NL"
+      ],
+      [
+        "Hilversum",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "65d5f710c9501f8584d49f50d2f77ed8": {
+    "feed": "L1 Nieuws",
+    "title": "Eén jaar na redding Mosaqua: 'Nood blijft hoog voor zwemwater'",
+    "url": "https://www.l1nieuws.nl/nieuws/3145714/een-jaar-na-redding-mosaqua-nood-blijft-hoog-voor-zwemwater",
+    "published": "Thu, 23 Apr 2026 04:00:45 GMT",
+    "summary": "Een jaar na de redding van zwembad Mosaqua in Gulpen-Wittem is exploitant Optisport tevreden over de bezoekerscijfers. \"Een duimpje omhoog\", aldus locatiemanager Saskia Donkers.",
+    "full_text": "Curator Marijke Schmitz vervulde een hoofdrol in het Mosaqua-dossier. Door de faillissementsaanvraag kreeg Schmitz de taak om de financiële pijnpunten van Mosaqua in kaart te brengen, met daarbij een onderzoek naar een mogelijke doorstart. In dat proces botste Schmitz regelmatig met het Gulpense college. \"Als de overheid een maatschappelijke voorziening zoals het zwembad wil sluiten, mag dat natuurlijk alleen gebeuren op basis van informatie die klopt\", zo zegt Schmitz een jaar na dato. \"Maar het college van Gulpen-Wittem verstrekte niet alleen onvolledige, maar zelfs onjuiste informatie aan de gemeenteraad. Dat gebeurde keer op keer, zowel voorafgaand aan het faillissement als toen ik curator was. Ik had de taak om de feiten in de juiste context te plaatsen, zodat die raad alsnog een besluit over een doorstart kon nemen op basis van deugdelijke informatie. Dat was ook echt mijn drive .\"",
+    "scraped_at": "2026-04-23T05:36:11.395248Z",
+    "id": "2f728e1ed819c83b031bd2188f21f621da5738e6dbb99fc1ed735096048f982c",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3145714/een-jaar-na-redding-mosaqua-nood-blijft-hoog-voor-zwemwater",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Curator Marijke Schmitz vervulde een hoofdrol in het Mosaqua-dossier. Door de faillissementsaanvraag kreeg Schmitz de taak om de financiële pijnpunten van Mosaqua in kaart te brengen, met daarbij een onderzoek naar een mogelijke doorstart. In dat proces botste Schmitz regelmatig met het Gulpense college. \"Als de overheid een maatschappelijke voorziening zoals het zwembad wil sluiten, mag dat natuurlijk alleen gebeuren op basis van informatie die klopt\", zo zegt Schmitz een jaar na dato. \"Maar het college van Gulpen-Wittem verstrekte niet alleen onvolledige, maar zelfs onjuiste informatie aan de gemeenteraad. Dat gebeurde keer op keer, zowel voorafgaand aan het faillissement als toen ik curator was. Ik had de taak om de feiten in de juiste context te plaatsen, zodat die raad alsnog een besluit over een doorstart kon nemen op basis van deugdelijke informatie. Dat was ook echt mijn drive .\"",
+    "locations": [
+      "Gulpen-Wittem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Gulpen-Wittem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Curator Marijke Schmitz",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mosaqua",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
