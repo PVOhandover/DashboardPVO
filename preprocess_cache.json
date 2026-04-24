@@ -56324,5 +56324,227 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "6a590a6b9c808e7fd5e5633fe979df58": {
+    "feed": "Politie.nl",
+    "title": "Vijf verdachten aangehouden voor diefstal met geweld Rijnsburg",
+    "url": "https://www.politie.nl/nieuws/2026/april/23/06-vijf-verdachten-aangehouden-voor-diefstal-met-geweld-rijnsburg.html",
+    "published": "Thu, 23 Apr 2026 17:07:00 GMT",
+    "summary": "De politie heeft dinsdag 21 april en woensdag 22 april vijf jongemannen aangehouden voor betrokkenheid bij een diefstal met geweld. De diefstal vond plaats afgelopen zomer op woensdagavond 10 juli 2025 aan de Floralaan in Rijnsburg.",
+    "full_text": "De melding van het incident kwam binnen op woensdagavond 10 juli 2025. Het slachtoffer werd aangesproken bij een tankstation aan de Floralaan in Rijnsburg. Hij werd in eerste instantie gevraagd een sigaret te geven. Vervolgens kwamen hier meerdere verdachten bij en werd deze groep steeds groter. De verdachten bedreigden het slachtoffer met een mes. Toen er vervolgens een getuige naar de jongens riep, renden de verdachten er met de buit vandoor. De politie deed uitgebreid onderzoek en kon dinsdag 21 april en woensdag 22 april vijf personen aanhouden voor de diefstal met geweld in Rijnsburg . Dit gaat om vijf mannen, waarvan drie uit Rijnsburg, één uit Voorhout en één uit Leiden. Drie van hen zijn minderjarig. Eén verdachte is inmiddels voorgeleid en zijn voorarrest is verlengd met 14 dagen.",
+    "scraped_at": "2026-04-24T05:40:44.757807Z",
+    "id": "d6f4fb1296fb69fbb79eafb7cdb2d4cdd58849ccb4b60144c339b0ff8949ecdd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/23/06-vijf-verdachten-aangehouden-voor-diefstal-met-geweld-rijnsburg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De melding van het incident kwam binnen op woensdagavond 10 juli 2025. Het slachtoffer werd aangesproken bij een tankstation aan de Floralaan in Rijnsburg. Hij werd in eerste instantie gevraagd een sigaret te geven. Vervolgens kwamen hier meerdere verdachten bij en werd deze groep steeds groter. De verdachten bedreigden het slachtoffer met een mes. Toen er vervolgens een getuige naar de jongens riep, renden de verdachten er met de buit vandoor. De politie deed uitgebreid onderzoek en kon dinsdag 21 april en woensdag 22 april vijf personen aanhouden voor de diefstal met geweld in Rijnsburg . Dit gaat om vijf mannen, waarvan drie uit Rijnsburg, één uit Voorhout en één uit Leiden. Drie van hen zijn minderjarig. Eén verdachte is inmiddels voorgeleid en zijn voorarrest is verlengd met 14 dagen.",
+    "locations": [
+      "Rijnsburg"
+    ],
+    "country": "NL",
+    "country_score": 0.8,
+    "country_evidence": [
+      [
+        "Rijnsburg",
+        "NL"
+      ],
+      [
+        "Rijnsburg",
+        "NL"
+      ],
+      [
+        "Rijnsburg",
+        "NL"
+      ],
+      [
+        "Voorhout",
+        "BE"
+      ],
+      [
+        "Leiden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "cf9c4b14826eaceb7bf2411040830215": {
+    "feed": "Politie.nl",
+    "title": "Onderzoek naar overleden man in Katwoude afgerond",
+    "url": "https://www.politie.nl/nieuws/2026/april/23/04-onderzoek-naar-overleden-man-in-katwoude-afgerond.html",
+    "published": "Thu, 23 Apr 2026 15:24:00 GMT",
+    "summary": "In het onderzoek naar de overleden persoon, die op 18 april werd aangetroffen in een hotel in Katwoude, zijn geen aanwijzingen gevonden voor een misdrijf.",
+    "full_text": "De politie startte een onderzoek nadat zaterdagmiddag een overleden man werd aangetroffen in een hotelkamer aan de Wagenweg in Katwoude. De 37-jarige man uit Purmerend was onder verdachte omstandigheden overleden en een rechercheonderzoek werd opgestart. De politie heeft uitgebreid tactisch en forensisch onderzoek gedaan naar de oorzaak van het overlijden. De conclusie is dat er geen sprake is van een misdrijf. Uit respect van de nabestaanden doet de politie geen verdere mededelingen. Het onderzoek is afgesloten. 2026089856",
+    "scraped_at": "2026-04-24T05:40:44.758557Z",
+    "id": "3b7b64ce9b84e674627f4a50a2f2d595b0af1161fe9bc20480c77dfa6211eb8b",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/23/04-onderzoek-naar-overleden-man-in-katwoude-afgerond.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie startte een onderzoek nadat zaterdagmiddag een overleden man werd aangetroffen in een hotelkamer aan de Wagenweg in Katwoude. De 37-jarige man uit Purmerend was onder verdachte omstandigheden overleden en een rechercheonderzoek werd opgestart. De politie heeft uitgebreid tactisch en forensisch onderzoek gedaan naar de oorzaak van het overlijden. De conclusie is dat er geen sprake is van een misdrijf. Uit respect van de nabestaanden doet de politie geen verdere mededelingen. Het onderzoek is afgesloten. 2026089856",
+    "locations": [
+      "Katwoude"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Katwoude",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "55",
+      "sector_name": "Accommodation"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "55"
+    ]
+  },
+  "f6dbeb3b6538273b1b496d928ae65dcb": {
+    "feed": "Politie.nl",
+    "title": "Dertien aanhoudingen na ordeverstoringen in Loosdrecht",
+    "url": "https://www.politie.nl/nieuws/2026/april/23/dertien-aanhoudingen-na-ordeverstoringen-in-loosdrecht.html",
+    "published": "Thu, 23 Apr 2026 14:26:00 GMT",
+    "summary": "Bij ernstige ordeverstoringen in Loosdrecht zijn op woensdagavond 22 april dertien aanhoudingen verricht. Meerdere agenten raakten gewond. De burgemeester vaardigde voor de derde keer deze week een noodbevel uit. Politiemensen hebben geweld gebruikt.",
+    "full_text": "Eerder op de dag werd online opgeroepen tot grootschalige verstoring van de openbare orde naar aanleiding van de voorgenomen tijdelijke noodopvang door het COA in Loosdrecht. Rond 20.35 uur werd de sfeer grimmig en werden zwaar vuurwerk, eieren en volle blikjes frisdrank gegooid. Hierbij raakte zeker één agent gewond. Daarnaast zijn meerdere collega’s beledigd. Ook is er een auto over een voet van een ME’er gereden. De bestuurder van dit voertuig is aangehouden, een 20-jarige uit Bilthoven, omdat mogelijk sprake is van opzet. De agressie en het geweld tegen politiemedewerkers is onacceptabel en krijgt een vervolg. De politie maakt zich zorgen om het toenemende maatschappelijke ongenoegen en de heviger agressie en geweld waarmee dit gepaard gaat. Aanhoudingen In totaal zijn er dertien personen aangehouden; acht voor het niet voldoen aan bevel en vordering, drie voor belediging, één aanhouding voor het verstoren van openbare orde en één aanhouding voor poging doodslag. Zes personen uit Hilversum, drie personen uit Loosdrecht, één persoon uit Bilthoven, één persoon uit Utrecht, één persoon uit Rotterdam en één persoon uit Veghel. Politieoptreden Politiemensen moesten onder moeilijke omstandigheden op een hectische en grimmige avond op last van de burgemeester voor de derde avond op rij ingrijpen na ernstige ongeregeldheden. Uitgangspunt daarbij is dat de politieagenten professioneel hebben opgetreden en daarbij de juiste afwegingen hebben gemaakt. Er is daarbij geweld gebruikt tegen een groep die al meerdere keren gevorderd was het gebied te verlaten en hierbij is ook gewaarschuwd dat anders geweld gebruikt zou worden. Het toegepaste geweld wordt – zoals bij iedere geweldsaanwending - getoetst en beoordeeld. Eerdere demonstraties Afgelopen maandag en dinsdag waren ook al demonstraties bij het gemeentehuis in Loosdrecht. Hierbij werden dinsdag al acht personen aangehouden voor belediging, het niet voldoen aan bevel en vordering en openlijke geweldpleging.",
+    "scraped_at": "2026-04-24T05:40:44.759248Z",
+    "id": "cf4b008dae580138accc13d535311f2e89b1c47b6bc4b34046df5cd7c8f7e08d",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/23/dertien-aanhoudingen-na-ordeverstoringen-in-loosdrecht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Eerder op de dag werd online opgeroepen tot grootschalige verstoring van de openbare orde naar aanleiding van de voorgenomen tijdelijke noodopvang door het COA in Loosdrecht. Rond 20.35 uur werd de sfeer grimmig en werden zwaar vuurwerk, eieren en volle blikjes frisdrank gegooid. Hierbij raakte zeker één agent gewond. Daarnaast zijn meerdere collega’s beledigd. Ook is er een auto over een voet van een ME’er gereden. De bestuurder van dit voertuig is aangehouden, een 20-jarige uit Bilthoven, omdat mogelijk sprake is van opzet. De agressie en het geweld tegen politiemedewerkers is onacceptabel en krijgt een vervolg. De politie maakt zich zorgen om het toenemende maatschappelijke ongenoegen en de heviger agressie en geweld waarmee dit gepaard gaat. Aanhoudingen In totaal zijn er dertien personen aangehouden; acht voor het niet voldoen aan bevel en vordering, drie voor belediging, één aanhouding voor het verstoren van openbare orde en één aanhouding voor poging doodslag. Zes personen uit Hilversum, drie personen uit Loosdrecht, één persoon uit Bilthoven, één persoon uit Utrecht, één persoon uit Rotterdam en één persoon uit Veghel. Politieoptreden Politiemensen moesten onder moeilijke omstandigheden op een hectische en grimmige avond op last van de burgemeester voor de derde avond op rij ingrijpen na ernstige ongeregeldheden. Uitgangspunt daarbij is dat de politieagenten professioneel hebben opgetreden en daarbij de juiste afwegingen hebben gemaakt. Er is daarbij geweld gebruikt tegen een groep die al meerdere keren gevorderd was het gebied te verlaten en hierbij is ook gewaarschuwd dat anders geweld gebruikt zou worden. Het toegepaste geweld wordt – zoals bij iedere geweldsaanwending - getoetst en beoordeeld. Eerdere demonstraties Afgelopen maandag en dinsdag waren ook al demonstraties bij het gemeentehuis in Loosdrecht. Hierbij werden dinsdag al acht personen aangehouden voor belediging, het niet voldoen aan bevel en vordering en openlijke geweldpleging.",
+    "locations": [
+      "Loosdrecht",
+      "Bilthoven",
+      "Hilversum",
+      "Loosdrecht",
+      "Bilthoven",
+      "Utrecht",
+      "Rotterdam",
+      "Veghel",
+      "Loosdrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Loosdrecht",
+        "NL"
+      ],
+      [
+        "Bilthoven",
+        "NL"
+      ],
+      [
+        "Hilversum",
+        "NL"
+      ],
+      [
+        "Loosdrecht",
+        "NL"
+      ],
+      [
+        "Bilthoven",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Veghel",
+        "NL"
+      ],
+      [
+        "Loosdrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "COA",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Zes",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "e78e5d7b7e9f714ba2162c93aabbf51d": {
+    "feed": "L1 Nieuws",
+    "title": "Moeder zou dochter Nour (14) hebben doodgestoken en blijft vastzitten, vader komt vrij",
+    "url": "https://www.l1nieuws.nl/nieuws/3148364/moeder-zou-dochter-nour-14-hebben-doodgestoken-en-blijft-vastzitten-vader-komt-vrij",
+    "published": "Thu, 23 Apr 2026 15:32:21 GMT",
+    "summary": "Van de twee verdachten die zijn opgepakt voor de dood van de 14-jarige Nour uit Blerick, blijft de moeder voorlopig vastzitten. De vader is vrijgelaten.",
+    "full_text": "De burgemeester van Venlo, Antoin Scholten, reageerde aangeslagen op het nieuws dat een meisje in Blerick, dat onder de gemeente Venlo valt, is doodgestoken. In een schriftelijke verklaring liet hij weten zich 'vanzelfsprekend blijvend te laten informeren door de politie'. Inhoudelijk gaat hij niet op de zaak in zolang het politieonderzoek nog loopt.",
+    "scraped_at": "2026-04-24T05:40:51.815251Z",
+    "id": "3211a7516ee19f31b44aa55dd5d1cbf61d219d453489baafa578da6dd1abb8f3",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3148364/moeder-zou-dochter-nour-14-hebben-doodgestoken-en-blijft-vastzitten-vader-komt-vrij",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De burgemeester van Venlo, Antoin Scholten, reageerde aangeslagen op het nieuws dat een meisje in Blerick, dat onder de gemeente Venlo valt, is doodgestoken. In een schriftelijke verklaring liet hij weten zich 'vanzelfsprekend blijvend te laten informeren door de politie'. Inhoudelijk gaat hij niet op de zaak in zolang het politieonderzoek nog loopt.",
+    "locations": [
+      "Venlo"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Venlo",
+        "NL"
+      ],
+      [
+        "Blerick",
+        "NL"
+      ],
+      [
+        "gemeente Venlo",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Antoin Scholten",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
