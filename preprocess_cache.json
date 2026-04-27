@@ -56814,5 +56814,98 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "5a8f429cbcd277f0c608368ca3f15044": {
+    "feed": "Politie.nl",
+    "title": "Automobilist crasht in gevel na reeks verkeersdelicten",
+    "url": "https://www.politie.nl/nieuws/2026/april/26/08-bestuurder-aangehouden-na-reeks-verkeersdelicten.html",
+    "published": "Sun, 26 Apr 2026 11:56:00 GMT",
+    "summary": "De politie merkte op zaterdagavond 25 april, rond 22.00 uur, een voertuig op dat zonder verlichting reed. De agenten gaven de bestuurder een stopteken, maar deze besloot door te rijden.",
+    "full_text": "Agenten achtervolgden de bestuurder en probeerden op verschillende manieren, onder andere met zwaailichten en lichtseinen, zijn aandacht te trekken. Maar de bestuurder leek vooral aandacht te hebben voor zijn telefoon. De achtervolging eindigde aan de Zuid-Oostsingel in Bergen op Zoom, waar de verdachte na het negeren van een rood verkeerslicht frontaal in botsing kwam met een ander voertuig, waarin vier inzittenden zaten. De bestuurder werd gelanceerd richting een stijger die rondom een pand stond opgesteld. Het voertuig kwam tegen de gevel tot stilstand. Het andere voertuig draaide meerdere keren in de rondte. Alle inzittenden van beide voertuigen zijn naar het ziekenhuis gebracht voor medische behandeling. Gelukkig raakte niemand ernstig gewond. De bestuurder betreft een 28-jarige man uit Litouwen. Vermoedelijk reed hij onder invloed van drank en/of drugs, een bloedonderzoek moet dit verder bevestigen. Het voertuig is in beslag genomen voor onderzoek en de verdachte wordt uitgenodigd voor een verhoor.",
+    "scraped_at": "2026-04-27T06:00:07.653839Z",
+    "id": "4aadde477aacdb8cd50e7801aa6ab16d32496e6b5bda5b5fe724b9f88aa4e79a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/26/08-bestuurder-aangehouden-na-reeks-verkeersdelicten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten achtervolgden de bestuurder en probeerden op verschillende manieren, onder andere met zwaailichten en lichtseinen, zijn aandacht te trekken. Maar de bestuurder leek vooral aandacht te hebben voor zijn telefoon. De achtervolging eindigde aan de Zuid-Oostsingel in Bergen op Zoom, waar de verdachte na het negeren van een rood verkeerslicht frontaal in botsing kwam met een ander voertuig, waarin vier inzittenden zaten. De bestuurder werd gelanceerd richting een stijger die rondom een pand stond opgesteld. Het voertuig kwam tegen de gevel tot stilstand. Het andere voertuig draaide meerdere keren in de rondte. Alle inzittenden van beide voertuigen zijn naar het ziekenhuis gebracht voor medische behandeling. Gelukkig raakte niemand ernstig gewond. De bestuurder betreft een 28-jarige man uit Litouwen. Vermoedelijk reed hij onder invloed van drank en/of drugs, een bloedonderzoek moet dit verder bevestigen. Het voertuig is in beslag genomen voor onderzoek en de verdachte wordt uitgenodigd voor een verhoor.",
+    "locations": [
+      "Bergen op Zoom"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Bergen op Zoom",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "66d8797caab29954c4e8b38071aac476": {
+    "feed": "Politie.nl",
+    "title": "Bij aanhouding verdachte schiet de politie in de arm",
+    "url": "https://www.politie.nl/nieuws/2026/april/26/08-bij-aanhouding-verdachte-schiet-de-politie-in-de-arm.html",
+    "published": "Sun, 26 Apr 2026 11:20:00 GMT",
+    "summary": "De politie ontving op zondagnacht 26 april, om 1.10 uur, een melding van een bedreiging in de gemeente Kapelle. Het incident zou verband houden met een ruzie in de relationele sfeer. Hierbij is melding gedaan dat er een vuurwapen zou zijn gezien.",
+    "full_text": "Agenten gingen direct ter plaatse en pasten de Benaderingstechniek Gevaarlijke Personen (BTGP) toe. Deze procedure wordt ingezet wanneer er een sterk vermoeden bestaat dat een persoon in het bezit is van een vuurwapen of andere gevaarlijke middelen. De verdachte voldeed niet aan de herhaalde bevelen van de politie, die voelde zich vervolgens genoodzaakt om meerdere malen te schieten, waarbij de verdachte in de arm is geraakt. De verdachte, een 46-jarige man uit Goes, is vervolgens aangehouden in Goes, en onder begeleiding van de politie naar het ziekenhuis gebracht voor verdere behandeling. Onderzoek door Rijksrecherche In lijn met de standaardprocedure bij dergelijke incidenten, is de Rijksrecherche een onderzoek gestart en daarover ligt de woordvoering bij het Openbaar Ministerie. In verband met het lopende onderzoek naar het incident en de aanhouding kunnen er op dit moment geen verdere details of uitspraken worden gedaan.",
+    "scraped_at": "2026-04-27T06:00:07.654081Z",
+    "id": "358b8574774308d34c2c0e0850eef6ec336ec7c7e337f2ff34089d1df9147756",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/26/08-bij-aanhouding-verdachte-schiet-de-politie-in-de-arm.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten gingen direct ter plaatse en pasten de Benaderingstechniek Gevaarlijke Personen (BTGP) toe. Deze procedure wordt ingezet wanneer er een sterk vermoeden bestaat dat een persoon in het bezit is van een vuurwapen of andere gevaarlijke middelen. De verdachte voldeed niet aan de herhaalde bevelen van de politie, die voelde zich vervolgens genoodzaakt om meerdere malen te schieten, waarbij de verdachte in de arm is geraakt. De verdachte, een 46-jarige man uit Goes, is vervolgens aangehouden in Goes, en onder begeleiding van de politie naar het ziekenhuis gebracht voor verdere behandeling. Onderzoek door Rijksrecherche In lijn met de standaardprocedure bij dergelijke incidenten, is de Rijksrecherche een onderzoek gestart en daarover ligt de woordvoering bij het Openbaar Ministerie. In verband met het lopende onderzoek naar het incident en de aanhouding kunnen er op dit moment geen verdere details of uitspraken worden gedaan.",
+    "locations": [
+      "Goes"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Goes",
+        "DE"
+      ],
+      [
+        "Goes",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Benaderingstechniek Gevaarlijke Personen",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "BTGP",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
