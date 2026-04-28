@@ -56907,5 +56907,152 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "dab384b80e3b8ec4e2d80884b6b68ac5": {
+    "feed": "Politie.nl",
+    "title": "Verdachten blokkade A12 krijgen dagvaarding",
+    "url": "https://www.politie.nl/nieuws/2026/april/27/03-verdachten-blokkade-a12-krijgen-dagvaarding.html",
+    "published": "Mon, 27 Apr 2026 15:19:00 GMT",
+    "summary": "De zes verdachten die zaterdag 25 april zijn aangehouden bij de blokkade door actievoerders van Extinction Rebellion (XR) zijn maandag 27 april in de loop van de dag in vrijheid gesteld.",
+    "full_text": "Zij hebben van het Openbaar Ministerie een dagvaarding gekregen en dienen zich later dit jaar, op 26 augustus, voor de rechter te verantwoorden. De ongeveer 400 overige aangehouden actievoerders werden op 25 april aangehouden en naar een veilige plek overgebracht, waar ze direct in vrijheid werden gesteld. Ernstig in gevaar Het zestal, een 40 en 44-jarige man uit Utrecht, een 46-jarige man uit Ouderkerk a/d Amstel, een 59-jarige man uit Tilburg, een 67-jarige man uit Almelo en een 79-jarige man uit IJsselstein worden ervan verdacht dat zij met personenauto’s opzettelijk zijn gestopt op de Rijksweg A12, waardoor ze de algemene veiligheid van personen of goederen ernstig in gevaar hebben gebracht (artikel 162 van het Wetboek van Strafrecht). Invordering rijbewijzen Daarnaast is het rijbewijs van deze zes verdachten ingevorderd. Het Openbaar Ministerie zal hierover een vervolgbesluit nemen. De verdachten worden ook aangemeld bij het CBR voor een educatieve maatregel. Geen begrip De politie heeft geen begrip voor het feit dat zes automobilisten een voertuig op de snelweg A12 tot stilstand brachten en vervolgens blokkeerden. Dit is levensgevaarlijk. Voor tenminste twee ambulances die met spoed mensen vervoerden voor urgente medische zorg was geen vrije doorgang. Uiteindelijk is het gelukt langs de blokkade te komen.",
+    "scraped_at": "2026-04-28T06:11:33.669209Z",
+    "id": "191ede59ad3f7aee68e55ad21b47f078004f7c61d64d4e5e935adaacb83047cf",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/27/03-verdachten-blokkade-a12-krijgen-dagvaarding.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Zij hebben van het Openbaar Ministerie een dagvaarding gekregen en dienen zich later dit jaar, op 26 augustus, voor de rechter te verantwoorden. De ongeveer 400 overige aangehouden actievoerders werden op 25 april aangehouden en naar een veilige plek overgebracht, waar ze direct in vrijheid werden gesteld. Ernstig in gevaar Het zestal, een 40 en 44-jarige man uit Utrecht, een 46-jarige man uit Ouderkerk a/d Amstel, een 59-jarige man uit Tilburg, een 67-jarige man uit Almelo en een 79-jarige man uit IJsselstein worden ervan verdacht dat zij met personenauto’s opzettelijk zijn gestopt op de Rijksweg A12, waardoor ze de algemene veiligheid van personen of goederen ernstig in gevaar hebben gebracht (artikel 162 van het Wetboek van Strafrecht). Invordering rijbewijzen Daarnaast is het rijbewijs van deze zes verdachten ingevorderd. Het Openbaar Ministerie zal hierover een vervolgbesluit nemen. De verdachten worden ook aangemeld bij het CBR voor een educatieve maatregel. Geen begrip De politie heeft geen begrip voor het feit dat zes automobilisten een voertuig op de snelweg A12 tot stilstand brachten en vervolgens blokkeerden. Dit is levensgevaarlijk. Voor tenminste twee ambulances die met spoed mensen vervoerden voor urgente medische zorg was geen vrije doorgang. Uiteindelijk is het gelukt langs de blokkade te komen.",
+    "locations": [
+      "Tilburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Tilburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Almelo",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie zal hierover een vervolgbesluit nemen",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "CBR",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
+  },
+  "d70ad958568eac9b8ce8ba2302123557": {
+    "feed": "L1 Nieuws",
+    "title": "Fors meer meldingen dierenverwaarlozing: 'Soms sta je gewoon in de ontlasting van de dieren'",
+    "url": "https://www.l1nieuws.nl/nieuws/3149623/fors-meer-meldingen-dierenverwaarlozing-soms-sta-je-gewoon-in-de-ontlasting-van-de-dieren",
+    "published": "Tue, 28 Apr 2026 04:01:21 GMT",
+    "summary": "Ezels met ondergewicht, honden die nooit een dierenarts zien of pony’s die tussen de spijkers moeten leven. De Landelijke Inspectiedienst Dierenwelzijn (LID) ontvangt steeds vaker meldingen van dierenverwaarlozing, ook in Limburg. Hoewel niet elke melding terecht blijkt, zien inspecteurs dat er opvallend vaak wel degelijk iets mis is.",
+    "full_text": "Zo gaat de LID te werk bij meldingen: Meldingen van mogelijke dierenverwaarlozing komen via verschillende kanalen binnen. Het merendeel wordt gedaan via 144, het landelijke meldpunt. Daarnaast bereiken signalen inspecteurs ook via onder meer gemeenten, politie, woningcorporaties, zorginstanties en dierenartsen. Huisbezoek Elke melding wordt serieus genomen. Na binnenkomst plant de inspecteur een huisbezoek in. Treft die niemand thuis, dan wordt later teruggegaan of een briefje achtergelaten met het verzoek om contact op te nemen. Is er wel iemand aanwezig, dan probeert de inspecteur in gesprek te gaan en de situatie ter plekke te beoordelen. Als toegang tot de woning wordt geweigerd, kan de inspecteur een machtiging aanvragen om toch binnen te treden. In sommige gevallen biedt de politie daarbij ondersteuning. Situatie onderzoeken Eenmaal binnen kijkt de inspecteur nauwkeurig naar de omstandigheden waarin het dier leeft. Daarbij wordt gelet op onder meer de leefomgeving, verzorging en gezondheid. De situatie wordt vastgelegd, onder andere met foto’s, om te bepalen of en welke maatregelen nodig zijn. Passende maatregelen Die maatregelen verschillen per geval. Bij minder ernstige situaties kan een waarschuwing voldoende zijn. Als er sprake is van duidelijke overtredingen, wordt een rapport opgesteld dat naar de Rijksdienst voor Ondernemend Nederland (RVO) gaat. Die instantie beslist vervolgens over eventuele maatregelen. De inspecteur kan enkel een advies geven, of een proces-verbaal opmaken als er sprake is van herhaling. In ernstige of schrijnende gevallen kan worden besloten dieren in bewaring te nemen. Ze worden dan op een geheime locatie ondergebracht. Dat kan tijdelijk zijn, maar het komt ook voor dat eigenaren hun dier definitief kwijtraken. In heel zware gevallen of bij herhaling kan een rechter ingrijpen en een houdverbod opleggen.",
+    "scraped_at": "2026-04-28T06:11:34.887410Z",
+    "id": "f36fb817fcd40a3a19f6644458481f883b6087bda022f8560438c1ae72e4335c",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3149623/fors-meer-meldingen-dierenverwaarlozing-soms-sta-je-gewoon-in-de-ontlasting-van-de-dieren",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Zo gaat de LID te werk bij meldingen: Meldingen van mogelijke dierenverwaarlozing komen via verschillende kanalen binnen. Het merendeel wordt gedaan via 144, het landelijke meldpunt. Daarnaast bereiken signalen inspecteurs ook via onder meer gemeenten, politie, woningcorporaties, zorginstanties en dierenartsen. Huisbezoek Elke melding wordt serieus genomen. Na binnenkomst plant de inspecteur een huisbezoek in. Treft die niemand thuis, dan wordt later teruggegaan of een briefje achtergelaten met het verzoek om contact op te nemen. Is er wel iemand aanwezig, dan probeert de inspecteur in gesprek te gaan en de situatie ter plekke te beoordelen. Als toegang tot de woning wordt geweigerd, kan de inspecteur een machtiging aanvragen om toch binnen te treden. In sommige gevallen biedt de politie daarbij ondersteuning. Situatie onderzoeken Eenmaal binnen kijkt de inspecteur nauwkeurig naar de omstandigheden waarin het dier leeft. Daarbij wordt gelet op onder meer de leefomgeving, verzorging en gezondheid. De situatie wordt vastgelegd, onder andere met foto’s, om te bepalen of en welke maatregelen nodig zijn. Passende maatregelen Die maatregelen verschillen per geval. Bij minder ernstige situaties kan een waarschuwing voldoende zijn. Als er sprake is van duidelijke overtredingen, wordt een rapport opgesteld dat naar de Rijksdienst voor Ondernemend Nederland (RVO) gaat. Die instantie beslist vervolgens over eventuele maatregelen. De inspecteur kan enkel een advies geven, of een proces-verbaal opmaken als er sprake is van herhaling. In ernstige of schrijnende gevallen kan worden besloten dieren in bewaring te nemen. Ze worden dan op een geheime locatie ondergebracht. Dat kan tijdelijk zijn, maar het komt ook voor dat eigenaren hun dier definitief kwijtraken. In heel zware gevallen of bij herhaling kan een rechter ingrijpen en een houdverbod opleggen.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304614602696039,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "LID",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "RVO",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "5a7b31fee4baa6c6eab7ff0d289d419b": {
+    "feed": "L1 Nieuws",
+    "title": "Rechter: Duitse grenscontroles schenden Schengenverdrag",
+    "url": "https://www.l1nieuws.nl/nieuws/3150937/rechter-duitse-grenscontroles-schenden-schengenverdrag",
+    "published": "Mon, 27 Apr 2026 12:47:46 GMT",
+    "summary": "De Duitse grenscontroles schenden het Schengenverdrag van de EU, heeft een rechtbank in het Duitse Koblenz geoordeeld.",
+    "full_text": "Sinds 2024 zijn de controles drie keer verlengd. De rechtbank oordeelde dat die verlenging in strijd was met de Schengenregels. Ook handelde de politie onrechtmatig om de identiteit van een man te controleren die de grens overstak in 2025. Het verdrag schrijft voor dat lidstaten alleen grenscontroles mogen uitvoeren wanneer de openbare orde of interne veiligheid in gevaar is. Volgens Duitsland zijn ze nodig om illegale migratie tegen te gaan.",
+    "scraped_at": "2026-04-28T06:11:35.824203Z",
+    "id": "527262b59e59f5a3206f41ce95f0ee8a299e4027199405ddd13b43c44bd6ed41",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3150937/rechter-duitse-grenscontroles-schenden-schengenverdrag",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Sinds 2024 zijn de controles drie keer verlengd. De rechtbank oordeelde dat die verlenging in strijd was met de Schengenregels. Ook handelde de politie onrechtmatig om de identiteit van een man te controleren die de grens overstak in 2025. Het verdrag schrijft voor dat lidstaten alleen grenscontroles mogen uitvoeren wanneer de openbare orde of interne veiligheid in gevaar is. Volgens Duitsland zijn ze nodig om illegale migratie tegen te gaan.",
+    "locations": [
+      "Duitsland"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Duitsland",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
