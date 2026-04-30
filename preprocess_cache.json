@@ -57230,5 +57230,261 @@
     "all_sectors_in_article": [
       "55"
     ]
+  },
+  "f5b3adc51eef6d435e503d77f35996cd": {
+    "feed": "Politie.nl",
+    "title": "Twee verdachten aangehouden bij drugslab in Druten",
+    "url": "https://www.politie.nl/nieuws/2026/april/29/02-twee-verdachten-aangehouden-bij-drugslab-in-druten.html",
+    "published": "Wed, 29 Apr 2026 16:45:00 GMT",
+    "summary": "Tijdens een integrale controle op donderdag 23 april heeft de politie een drugslab aangetroffen aan de Industrieweg in Druten. Er zijn twee verdachten aangehouden.",
+    "full_text": "Integrale controle De gemeente hield donderdag 23 april een integrale controle naar aanleiding van verschillende signalen met betrekking tot ondermijning bij verschillende locaties. Daarbij stond een bedrijfspand aan de Industrieweg op het programma. Tijdens de controle werden vaten met mogelijke chemicaliën aangetroffen. Daarop hebben handhavers van de gemeente de politie ingeschakeld. De politie trof in het pand vervolgens een drugslab aan. Aanhoudingen en onderzoek In het pand werden twee personen aangetroffen. Zij zijn aangehouden. Het betreft een 53-jarige man uit Leiden en een 49-jarige man zonder vaste woon- of verblijfplaats. Beide verdachten zijn inmiddels voorgeleid bij de rechtercommissaris en blijven langer vastzitten. In het lab zijn verschillende goederen aangetroffen die kunnen worden gebruikt bij de productie van harddrugs. De goederen zijn in beslag genomen. Specialisten van de Landelijke Faciliteit Ontmantelen (LFO) hebben onderzoek gedaan en het lab veilig ontmanteld. Het verdere onderzoek loopt nog. Sluiting pand Naast strafrechtelijke maatregelen, kan een gemeente besluiten om bestuurlijke maatregelen te nemen. De burgemeester heeft naar aanleiding van het aangetroffen drugslab besloten om dit pand voor een jaar te sluiten. Een dergelijk drugslab zorgt voor een gevaar voor de omgeving en omdat de locatie bekend is in het criminele circuit. Hoe herken je een drugslab? In Gelderland werden er in 2025 in totaal 17 drugslabs ontdekt. Drugslabs kunnen zich overal bevinden; op het platteland of in de grote stad, in boerenschuren, woonhuizen, garageboxen of in flatgebouwen. Tekenen dat er zich een drugslab bevindt zijn bijvoorbeeld de aanwezigheid van een sterke synthetische geur (anijsachtig of chemisch prikkelend, zurig of aceton). Ook zijn ongebruikte deuren en ramen vaak afgedicht, bijvoorbeeld met purschuim. Op politie.nl hebben we nog meer tips hoe je een drugslab kunt herkennen. Meld verdachte signalen Heb je zelf vermoedens van drugsproductie in je omgeving? Maak dan altijd melding bij de politie. Blijf je liever anoniem? Meld dan bij Meld Misdaad Anoniem. Meld Misdaad Anoniem staat los van de politie en zet een tip pas door als niets terug te herleiden is naar de melder.",
+    "scraped_at": "2026-04-30T06:10:26.237775Z",
+    "id": "a8475130dd1b77133fa394a183f217800703048584740918362d51585a17b3ec",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/29/02-twee-verdachten-aangehouden-bij-drugslab-in-druten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Integrale controle De gemeente hield donderdag 23 april een integrale controle naar aanleiding van verschillende signalen met betrekking tot ondermijning bij verschillende locaties. Daarbij stond een bedrijfspand aan de Industrieweg op het programma. Tijdens de controle werden vaten met mogelijke chemicaliën aangetroffen. Daarop hebben handhavers van de gemeente de politie ingeschakeld. De politie trof in het pand vervolgens een drugslab aan. Aanhoudingen en onderzoek In het pand werden twee personen aangetroffen. Zij zijn aangehouden. Het betreft een 53-jarige man uit Leiden en een 49-jarige man zonder vaste woon- of verblijfplaats. Beide verdachten zijn inmiddels voorgeleid bij de rechtercommissaris en blijven langer vastzitten. In het lab zijn verschillende goederen aangetroffen die kunnen worden gebruikt bij de productie van harddrugs. De goederen zijn in beslag genomen. Specialisten van de Landelijke Faciliteit Ontmantelen (LFO) hebben onderzoek gedaan en het lab veilig ontmanteld. Het verdere onderzoek loopt nog. Sluiting pand Naast strafrechtelijke maatregelen, kan een gemeente besluiten om bestuurlijke maatregelen te nemen. De burgemeester heeft naar aanleiding van het aangetroffen drugslab besloten om dit pand voor een jaar te sluiten. Een dergelijk drugslab zorgt voor een gevaar voor de omgeving en omdat de locatie bekend is in het criminele circuit. Hoe herken je een drugslab? In Gelderland werden er in 2025 in totaal 17 drugslabs ontdekt. Drugslabs kunnen zich overal bevinden; op het platteland of in de grote stad, in boerenschuren, woonhuizen, garageboxen of in flatgebouwen. Tekenen dat er zich een drugslab bevindt zijn bijvoorbeeld de aanwezigheid van een sterke synthetische geur (anijsachtig of chemisch prikkelend, zurig of aceton). Ook zijn ongebruikte deuren en ramen vaak afgedicht, bijvoorbeeld met purschuim. Op politie.nl hebben we nog meer tips hoe je een drugslab kunt herkennen. Meld verdachte signalen Heb je zelf vermoedens van drugsproductie in je omgeving? Maak dan altijd melding bij de politie. Blijf je liever anoniem? Meld dan bij Meld Misdaad Anoniem. Meld Misdaad Anoniem staat los van de politie en zet een tip pas door als niets terug te herleiden is naar de melder.",
+    "locations": [
+      "Leiden",
+      "Gelderland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Leiden",
+        "NL"
+      ],
+      [
+        "Gelderland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "45",
+      "sector_name": "Wholesale and retail trade and repair of motor vehicles"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Landelijke Faciliteit Ontmantelen",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "LFO",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "pand Naast",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "45"
+    ]
+  },
+  "b9432c21c8f1700d012088ce68da1803": {
+    "feed": "Politie.nl",
+    "title": "Politie zoekt getuigen: mishandelingen Nieboerweg",
+    "url": "https://www.politie.nl/nieuws/2026/april/29/06-politie-zoekt-getuigen-mishandelingen-nieboerweg.html",
+    "published": "Wed, 29 Apr 2026 15:21:00 GMT",
+    "summary": "Op dinsdag 28 april hebben er aan de Nieboerweg in Duindorp meerdere mishandelingen plaatsgevonden, nadat diverse slachtoffers werden bekogeld met waterballonnen en stenen. De politie is direct een onderzoek gestart en kan de hulp van getuigen en camerabeelden daarbij goed gebruiken.",
+    "full_text": "Mishandelingen 21.20 uur Rond 21.20 uur kreeg de politie een melding binnen van een slachtoffer die aangaf bekogeld te zijn met waterballonnen op de Nieboerweg in Duindorp. Toen het slachtoffer de groep aansprak keerden er tientallen personen zich tegen hem en werd hij mishandeld. Het slachtoffer is hierbij gewond geraakt. Mishandeling 23.30 uur Rond 23.30 kwam er wederom een melding binnen bij de politie van een incident dat zich ook had afgespeeld op de Nieboerweg. De auto van het slachtoffer was bekogeld met een steen. Toen het slachtoffer de verdachten confronteerde, volgde er opnieuw een mishandeling. Hierbij is het slachtoffer door een groep personen achtervolgd tot aan de Statenlaan. Ook dit slachtoffer is gewond geraakt. Getuigen gezocht De politie is na de mishandelingen direct een onderzoek gestart om te achterhalen wat er zich precies heeft afgespeeld op de Nieboerweg en is dringend op zoek naar getuigen. Heb jij iets gezien of gehoord van de mishandelingen of wat daaraan voorafging? Of weet je meer over de mogelijke betrokkenen? Zag je ze bijvoorbeeld vluchten of heb je zo op beeld vastgelegd? Dan komt het onderzoeksteam graag met je in contact. Alle mogelijke relevante getuigen en/of camerabeelden zijn zeer welkom bij het team. Woon je in de omgeving van de Nieboerweg/Statenlaan en heb je camera’s tot je beschikking? Dan is het dringende verzoek om de beelden van rond het tijdstip van de mishandelingen uit te kijken.",
+    "scraped_at": "2026-04-30T06:10:26.238704Z",
+    "id": "deaeb15d40adcda99417036a6c8bdab53b867428816517f591c09afe6d85f124",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/29/06-politie-zoekt-getuigen-mishandelingen-nieboerweg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Mishandelingen 21.20 uur Rond 21.20 uur kreeg de politie een melding binnen van een slachtoffer die aangaf bekogeld te zijn met waterballonnen op de Nieboerweg in Duindorp. Toen het slachtoffer de groep aansprak keerden er tientallen personen zich tegen hem en werd hij mishandeld. Het slachtoffer is hierbij gewond geraakt. Mishandeling 23.30 uur Rond 23.30 kwam er wederom een melding binnen bij de politie van een incident dat zich ook had afgespeeld op de Nieboerweg. De auto van het slachtoffer was bekogeld met een steen. Toen het slachtoffer de verdachten confronteerde, volgde er opnieuw een mishandeling. Hierbij is het slachtoffer door een groep personen achtervolgd tot aan de Statenlaan. Ook dit slachtoffer is gewond geraakt. Getuigen gezocht De politie is na de mishandelingen direct een onderzoek gestart om te achterhalen wat er zich precies heeft afgespeeld op de Nieboerweg en is dringend op zoek naar getuigen. Heb jij iets gezien of gehoord van de mishandelingen of wat daaraan voorafging? Of weet je meer over de mogelijke betrokkenen? Zag je ze bijvoorbeeld vluchten of heb je zo op beeld vastgelegd? Dan komt het onderzoeksteam graag met je in contact. Alle mogelijke relevante getuigen en/of camerabeelden zijn zeer welkom bij het team. Woon je in de omgeving van de Nieboerweg/Statenlaan en heb je camera’s tot je beschikking? Dan is het dringende verzoek om de beelden van rond het tijdstip van de mishandelingen uit te kijken.",
+    "locations": [
+      "Duindorp"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Duindorp",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "8df4b43c2402d0b276371e5b83caf87b": {
+    "feed": "Politie.nl",
+    "title": "Volg het WhatsApp-kanaal van politie Eenheid Limburg",
+    "url": "https://www.politie.nl/nieuws/2026/april/29/volg-het-whatsapp-kanaal-van-politie-eenheid-limburg.html",
+    "published": "Wed, 29 Apr 2026 12:30:00 GMT",
+    "summary": "We vinden het belangrijk om zoveel mogelijk inwoners te bereiken. Daarom blijven we zoeken naar manieren om mensen snel en effectief te voorzien van actuele informatie. Met de komst van ons WhatsApp-kanaal sluiten we aan bij een platform dat dagelijks door een groot deel van Nederland wordt gebruikt.",
+    "full_text": "Maar liefst 88% van de mensen heeft WhatsApp op hun telefoon. WhatsApp biedt de mogelijkheid om via ‘kanalen’ informatie te delen. Deze kanalen staan los van de chatfunctie: telefoonnummers van zowel beheerders als volgers blijven onzichtbaar en berichten zijn tot 30 dagen beschikbaar. Met dit kanaal zetten we een volgende stap in onze communicatie. We werken aan een politie die zichtbaar, benaderbaar en betrokken is. Door eerlijke en transparante informatie te delen, nemen we volgers mee in ons werk en versterken we het vertrouwen waar mogelijk. 𝗪𝗮𝘁 𝗸𝘂𝗻 𝗷𝗲 𝘃𝗲𝗿𝘄𝗮𝗰𝗵𝘁𝗲𝗻 𝗼𝗽 𝗼𝗻𝘀 𝗸𝗮𝗻𝗮𝗮𝗹? ▪️ Actueel politienieuws uit Limburg ▪️ Inzichten achter de schermen ▪️ Verhalen van onze collega’s ▪️ Getuigenoproepen en vermissingen ▪️ Informatie bij calamiteiten ▪️ Updates over campagnes Volg ons WhatsApp-kanaal ‎via deze link en blijf betrokken en geïnformeerd.",
+    "scraped_at": "2026-04-30T06:10:26.239065Z",
+    "id": "be393c8cfa2207ad6ea201701c62b93ab69228d669442e49cd96b7f76db6b4f0",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/29/volg-het-whatsapp-kanaal-van-politie-eenheid-limburg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Maar liefst 88% van de mensen heeft WhatsApp op hun telefoon. WhatsApp biedt de mogelijkheid om via ‘kanalen’ informatie te delen. Deze kanalen staan los van de chatfunctie: telefoonnummers van zowel beheerders als volgers blijven onzichtbaar en berichten zijn tot 30 dagen beschikbaar. Met dit kanaal zetten we een volgende stap in onze communicatie. We werken aan een politie die zichtbaar, benaderbaar en betrokken is. Door eerlijke en transparante informatie te delen, nemen we volgers mee in ons werk en versterken we het vertrouwen waar mogelijk. Wat kun je verwachten op ons kanaal? ▪️ Actueel politienieuws uit Limburg ▪️ Inzichten achter de schermen ▪️ Verhalen van onze collega’s ▪️ Getuigenoproepen en vermissingen ▪️ Informatie bij calamiteiten ▪️ Updates over campagnes Volg ons WhatsApp-kanaal ‎via deze link en blijf betrokken en geïnformeerd.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "575074a545eaa2532bd94e7c28e8b34f": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws woensdag 29 april: Brandweer zet straat in Veendam af vanwege gaslekkage",
+    "url": "https://www.rtvnoord.nl/112/1400920/112-nieuws-woensdag-29-april-brandweer-zet-straat-in-veendam-af-vanwege-gaslekkage",
+    "published": "Wed, 29 Apr 2026 20:11:04 GMT",
+    "summary": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De politie heeft voldoende informatie om verder te gaan met het onderzoek naar een man die afrekende met de gestolen pinpas van een 79-jarige vrouw uit Leek. deelde de politie herkenbare beelden van de man. Die beelden zijn nu offline gehaald. Op 2 februari werd een vrouw opgelicht door een nepagent, die sieraden en een pinpas van haar buitmaakte. Later die avond werd met de gestolen pinpas een telefoon gekocht bij een elektronicawinkel aan de Roskildeweg in Groningen, waarbij de verdachte herkenbaar in beeld was. Mogelijk was dit dezelfde man. De politie doet verder onderzoek naar de zaak.",
+    "scraped_at": "2026-04-30T06:11:44.130619Z",
+    "id": "a73e64d4573d549e91f0838e83ed03f62b7e4bf1fc7e7b99f52dabd70fe59376",
+    "canonical_url": "https://www.rtvnoord.nl/112/1400920/112-nieuws-woensdag-29-april-brandweer-zet-straat-in-veendam-af-vanwege-gaslekkage",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft voldoende informatie om verder te gaan met het onderzoek naar een man die afrekende met de gestolen pinpas van een 79-jarige vrouw uit Leek. deelde de politie herkenbare beelden van de man. Die beelden zijn nu offline gehaald. Op 2 februari werd een vrouw opgelicht door een nepagent, die sieraden en een pinpas van haar buitmaakte. Later die avond werd met de gestolen pinpas een telefoon gekocht bij een elektronicawinkel aan de Roskildeweg in Groningen, waarbij de verdachte herkenbaar in beeld was. Mogelijk was dit dezelfde man. De politie doet verder onderzoek naar de zaak.",
+    "locations": [
+      "Leek"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Leek",
+        "DE"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "24de913667f4fcc041a5bad255ac6a32": {
+    "feed": "L1 Nieuws",
+    "title": "Dialek sjrieve: 'Schaam dich neet, doog ’t gewoen'",
+    "url": "https://www.l1nieuws.nl/nieuws/3151312/dialek-sjrieve-schaam-dich-neet-doog-t-gewoen",
+    "published": "Wed, 29 Apr 2026 17:25:31 GMT",
+    "summary": "Limbörgs kalle zit in ós blood, hart en nèère. Beej ós prachtiëg dialek schrieëve is det get minder. Mer toch is ’t hiel belangriek dat veer ’t blieve probere.",
+    "full_text": "Het artikel in het Nederlands Limburgs spreken zit in ons bloed, hart en nieren. Ons prachtige dialect schrijven iets minder. Toch is het heel belangrijk dat we dat allemaal blijven proberen. Volgens cijfers uit een onderzoek in opdracht van Veldeke Limburg appt ongeveer de helft van alle mensen die Limburgs spreken ook in het dialect. Dat is niet slecht, maar het mag meer worden. \"App, mail en schrijf vooral in het dialect\", moedigt Yuri Michielsen aan. Hij is voorzitter van de Actiecommissie Limburgse Taal. \"Schaam je niet, doe het gewoon.\" Stop met verbeteren Stefanie Steinhauer-Ramachers, wetenschappelijk programmaleider bij 't Hoes veur ’t Limburgs is het eens met die opmerking. \"We moeten ook stoppen met elkaar te verbeteren\", vertelt ze. \"Daardoor maken we elkaar bang en is de drempel om het gewoon te doen veel hoger. Stop met elkaar constant te verbeteren. Zeker in de privésfeer maakt het toch niet uit. Het belangrijkste is dat zoveel mogelijk mensen zich uitgenodigd voelen om de taal te gebruiken. Zo houden we ze levend.\" Verschillende taalgebieden Maar wat is dan eigenlijk goed of fout? Dat is eigenlijk ook best moeilijk vast te leggen. Want elk dialect, van Maastricht tot Venlo en van Kerkrade tot Gennep, heeft zijn charmes en is verschillend. Steinhauer-Ramachers legt uit dat in de provincie drie verschillende dialecttaalgebieden zijn. Het Kleverlands in Noord-Limburg, het Ripuarisch in de hoek van Kerkrade en Vaals en als derde het Limburgs in het grootste deel van Zuid- en Midden-Limburg. Een standaard-Limburgs voor de hele provincie gaat dus gewoon niet. \"Er zijn teveel verschillen en veel mensen zouden zich dan niet herkennen in zo’n geschreven standaardtaal\", aldus voorzitter Michielsen. Spellingsafspraken Wat dan wel een mogelijkheid is? Dat zijn spellingsafspraken. Die kunnen handig zijn voor als we het Limburgs in formelere teksten zouden willen gebruiken, zoals in het onderwijs of bij de overheid. \"Spellingsafspraken gaan overigens niet over hoe mensen moeten praten of schrijven, maar maken het handig voor gebruik in formelere context\", aldus Michielsen. Als spellingafspraken beter vastgelegd worden, kan iedereen in zijn of haar eigen dialect schrijven, maar kan tegelijk ook iedereen in de provincie het lezen. Daarvoor wordt gekeken naar afspraken over hoe je bepaalde klanken opschrijft. Een voorbeeld: het Nederlandse woord 'terug'. In sommige dialecten wordt het uitgesproken als truuk , in andere als truk . \"Dat moeten we dus anders opschrijven. Klank gaat over wat je zegt of hoort, letters gaan over wat je schrijft.\" Onderling begrip \"Afspraken zijn handig voor klanken die veel dialecten gemeenschappelijk hebben. De klank 'ao' in gaon (gaan, red.) bijvoorbeeld. Het is niet handig als die klank op verschillende manieren wordt geschreven. Dat kan tot onderling onbegrip leiden en dat willen we voorkomen. Als we het allemaal eens kunnen worden over welke letters we voor welke klanken gebruiken, bevordert dat het onderlinge begrip\", aldus Steinhauer-Ramachers. Het Nederlands Om regels vast te leggen, als die er ooit komen, kan het handig zijn om zoveel mogelijk uit het Nederlands te putten. \"Mensen weten redelijk veel over de Nederlandse spellingsregels, dus waarom zouden we het ons moeilijker maken?\" Legt Steinhauer-Ramachers uit. \"Wel is het zo dat we in het Limburgs ook andere klanken hebben die in het Nederlands niet bestaan. Vooral voor die klanken zijn spellingsregels handig.\" Spelling 2003 voor de Limburgse dialecten In het verleden zijn al vaker spellingsafspraken vastgelegd. De Spelling 2003 voor de Limburgse Dialecten is een van de laatste weergaves met richtlijnen voor het Limburgs dialect. Toch zijn de meningen over de inhoud verdeeld en is de website verouderd. \"Mensen willen dezer dagen geen theorie meer uit het hoofd leren\", aldus Michielsen. \"Ze gaan op zoek naar creatievere manieren om te leren.\" Speulentere Spelle Michielsen heeft daarom een tijd geleden, samen met de Limburgse Academie, een spellingsapp ontwikkeld voor het Maastrichts dialect: Speulentere Spelle. “Wat mensen vaak niet weten, is dat eigenlijk alle Limburgers de app kunnen gebruiken om te leren schrijven. Niet alleen Maastrichtenaren.\" Toch is er veel geld nodig om dergelijke apps te ontwikkelen en ook voor andere dingen om het Limburgs te promoten is er financiering nodig. 't Hoes veur ’t Limburg en de actiecommissie zetten zich samen in om de taal in ere te houden, maar in welke vorm en met hoeveel financiering ze daar mee aan de slag kunnen gaan, zal over enkele jaren moeten blijken.",
+    "scraped_at": "2026-04-30T06:10:31.294652Z",
+    "id": "36bec023ae5f72539d66bca72c525990f0cde77f04cc0c1dcabf595f244ecbd8",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3151312/dialek-sjrieve-schaam-dich-neet-doog-t-gewoen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het artikel in het Nederlands Limburgs spreken zit in ons bloed, hart en nieren. Ons prachtige dialect schrijven iets minder. Toch is het heel belangrijk dat we dat allemaal blijven proberen. Volgens cijfers uit een onderzoek in opdracht van Veldeke Limburg appt ongeveer de helft van alle mensen die Limburgs spreken ook in het dialect. Dat is niet slecht, maar het mag meer worden. \"App, mail en schrijf vooral in het dialect\", moedigt Yuri Michielsen aan. Hij is voorzitter van de Actiecommissie Limburgse Taal. \"Schaam je niet, doe het gewoon.\" Stop met verbeteren Stefanie Steinhauer-Ramachers, wetenschappelijk programmaleider bij 't Hoes veur ’t Limburgs is het eens met die opmerking. \"We moeten ook stoppen met elkaar te verbeteren\", vertelt ze. \"Daardoor maken we elkaar bang en is de drempel om het gewoon te doen veel hoger. Stop met elkaar constant te verbeteren. Zeker in de privésfeer maakt het toch niet uit. Het belangrijkste is dat zoveel mogelijk mensen zich uitgenodigd voelen om de taal te gebruiken. Zo houden we ze levend.\" Verschillende taalgebieden Maar wat is dan eigenlijk goed of fout? Dat is eigenlijk ook best moeilijk vast te leggen. Want elk dialect, van Maastricht tot Venlo en van Kerkrade tot Gennep, heeft zijn charmes en is verschillend. Steinhauer-Ramachers legt uit dat in de provincie drie verschillende dialecttaalgebieden zijn. Het Kleverlands in Noord-Limburg, het Ripuarisch in de hoek van Kerkrade en Vaals en als derde het Limburgs in het grootste deel van Zuid- en Midden-Limburg. Een standaard-Limburgs voor de hele provincie gaat dus gewoon niet. \"Er zijn teveel verschillen en veel mensen zouden zich dan niet herkennen in zo’n geschreven standaardtaal\", aldus voorzitter Michielsen. Spellingsafspraken Wat dan wel een mogelijkheid is? Dat zijn spellingsafspraken. Die kunnen handig zijn voor als we het Limburgs in formelere teksten zouden willen gebruiken, zoals in het onderwijs of bij de overheid. \"Spellingsafspraken gaan overigens niet over hoe mensen moeten praten of schrijven, maar maken het handig voor gebruik in formelere context\", aldus Michielsen. Als spellingafspraken beter vastgelegd worden, kan iedereen in zijn of haar eigen dialect schrijven, maar kan tegelijk ook iedereen in de provincie het lezen. Daarvoor wordt gekeken naar afspraken over hoe je bepaalde klanken opschrijft. Een voorbeeld: het Nederlandse woord 'terug'. In sommige dialecten wordt het uitgesproken als truuk , in andere als truk . \"Dat moeten we dus anders opschrijven. Klank gaat over wat je zegt of hoort, letters gaan over wat je schrijft.\" Onderling begrip \"Afspraken zijn handig voor klanken die veel dialecten gemeenschappelijk hebben. De klank 'ao' in gaon (gaan, red.) bijvoorbeeld. Het is niet handig als die klank op verschillende manieren wordt geschreven. Dat kan tot onderling onbegrip leiden en dat willen we voorkomen. Als we het allemaal eens kunnen worden over welke letters we voor welke klanken gebruiken, bevordert dat het onderlinge begrip\", aldus Steinhauer-Ramachers. Het Nederlands Om regels vast te leggen, als die er ooit komen, kan het handig zijn om zoveel mogelijk uit het Nederlands te putten. \"Mensen weten redelijk veel over de Nederlandse spellingsregels, dus waarom zouden we het ons moeilijker maken?\" Legt Steinhauer-Ramachers uit. \"Wel is het zo dat we in het Limburgs ook andere klanken hebben die in het Nederlands niet bestaan. Vooral voor die klanken zijn spellingsregels handig.\" Spelling 2003 voor de Limburgse dialecten In het verleden zijn al vaker spellingsafspraken vastgelegd. De Spelling 2003 voor de Limburgse Dialecten is een van de laatste weergaves met richtlijnen voor het Limburgs dialect. Toch zijn de meningen over de inhoud verdeeld en is de website verouderd. \"Mensen willen dezer dagen geen theorie meer uit het hoofd leren\", aldus Michielsen. \"Ze gaan op zoek naar creatievere manieren om te leren.\" Speulentere Spelle Michielsen heeft daarom een tijd geleden, samen met de Limburgse Academie, een spellingsapp ontwikkeld voor het Maastrichts dialect: Speulentere Spelle. “Wat mensen vaak niet weten, is dat eigenlijk alle Limburgers de app kunnen gebruiken om te leren schrijven. Niet alleen Maastrichtenaren.\" Toch is er veel geld nodig om dergelijke apps te ontwikkelen en ook voor andere dingen om het Limburgs te promoten is er financiering nodig. 't Hoes veur ’t Limburg en de actiecommissie zetten zich samen in om de taal in ere te houden, maar in welke vorm en met hoeveel financiering ze daar mee aan de slag kunnen gaan, zal over enkele jaren moeten blijken.",
+    "locations": [
+      "Maastricht",
+      "Noord-Limburg",
+      "Spellingsafspraken",
+      "Spellingsafspraken"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "App",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Yuri Michielsen",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Actiecommissie Limburgse Taal",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Stefanie Steinhauer-Ramachers",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Limburgse Academie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Speulentere Spelle",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
