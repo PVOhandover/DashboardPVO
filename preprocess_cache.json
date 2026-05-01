@@ -57486,5 +57486,238 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "c4cedc62c8a2ce7da83612ad6755cf47": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in babbeltruc onderzoek",
+    "url": "https://www.politie.nl/nieuws/2026/april/30/07-aanhouding-in-babbeltruc-onderzoek.html",
+    "published": "Thu, 30 Apr 2026 09:52:00 GMT",
+    "summary": "De politie heeft op maandag 20 april een 17-jarige Amsterdammer aangehouden. Hij wordt ervan verdacht bij zeker zes oudere slachtoffers geld en kostbaarheden te hebben gestolen via de zogeheten ‘bankbabbeltruc’.",
+    "full_text": "Tussen 30 juni en 29 augustus 2025 kwamen er bij de politie zes aangiftes binnen van oplichting en diefstal van bankpassen en waardevolle spullen. De incidenten vonden plaats in Rotterdam (4), Delft (1) en Utrecht (1). Het onderzoek leidde uiteindelijk tot de aanhouding van de verdachte in Amsterdam. Babbeltruc De verdachten hanteerden een geraffineerde methode waarbij zij zich specifiek richtten op kwetsbare ouderen in de leeftijd van 71 tot maar liefst 97 jaar. Slachtoffers werden eerst telefonisch benaderd door iemand die zich voordeed als bankmedewerker of politieagent. Met een smoes werden de ouderen ervan overtuigd dat hun bezittingen niet veilig waren. Kort daarop kwam de verdachte aan de deur om pinpassen, creditcards, sieraden en andere waardevolle spullen 'veilig te stellen'. Aanhouding De politie heeft onderzoek gedaan, wat leidde tot de aanhouding van de 17-jarige verdachte uit Amsterdam. Hij is overgebracht naar het politiebureau in Rotterdam. Tijdens de verhoren heeft de jongen toegegeven dat hij de zes diefstallen heeft gepleegd. Hij zit voorlopig vast en wordt verdacht van het niet alleen meenemen van de spullen van de slachtoffers, maar ook van het pinnen met de bankpassen van de slachtoffers.",
+    "scraped_at": "2026-05-01T06:20:35.725585Z",
+    "id": "c3e227f6d5dcf1e94d68bfc88b37609c375fcd967b5b1f1a486163fe321e7152",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/30/07-aanhouding-in-babbeltruc-onderzoek.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tussen 30 juni en 29 augustus 2025 kwamen er bij de politie zes aangiftes binnen van oplichting en diefstal van bankpassen en waardevolle spullen. De incidenten vonden plaats in Rotterdam (4), Delft (1) en Utrecht (1). Het onderzoek leidde uiteindelijk tot de aanhouding van de verdachte in Amsterdam. Babbeltruc De verdachten hanteerden een geraffineerde methode waarbij zij zich specifiek richtten op kwetsbare ouderen in de leeftijd van 71 tot maar liefst 97 jaar. Slachtoffers werden eerst telefonisch benaderd door iemand die zich voordeed als bankmedewerker of politieagent. Met een smoes werden de ouderen ervan overtuigd dat hun bezittingen niet veilig waren. Kort daarop kwam de verdachte aan de deur om pinpassen, creditcards, sieraden en andere waardevolle spullen 'veilig te stellen'. Aanhouding De politie heeft onderzoek gedaan, wat leidde tot de aanhouding van de 17-jarige verdachte uit Amsterdam. Hij is overgebracht naar het politiebureau in Rotterdam. Tijdens de verhoren heeft de jongen toegegeven dat hij de zes diefstallen heeft gepleegd. Hij zit voorlopig vast en wordt verdacht van het niet alleen meenemen van de spullen van de slachtoffers, maar ook van het pinnen met de bankpassen van de slachtoffers.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Delft",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Babbeltruc",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "4766ca79db07a7c9266796cccbdce9a0": {
+    "feed": "Politie.nl",
+    "title": "Meer agressie en geweld tegen politie",
+    "url": "https://www.politie.nl/nieuws/2026/april/1/00-meer-agressie-en-geweld-tegen-politie.html",
+    "published": "Wed, 01 Apr 2026 06:00:00 GMT",
+    "summary": "Politiemedewerkers kregen in 2025 bijna 13.000 keer te maken met agressie en geweld tijdens hun werk. Dat blijkt uit de nieuwste cijfers over geweld tegen politieambtenaren (GTPA). De GTPA-cijfers laten zien dat het aantal incidenten de afgelopen jaren min of meer stabiel is, maar ‘onacceptabel hoog’, aldus portefeuillehouder Geweld, Corry van Breda. ‘En de ernst neemt toe.’",
+    "full_text": "In totaal registreerde de politie vorig jaar 12.896 incidenten, waarbij politiemensen te maken kregen met agressie en geweld, tegenover 12.543 in 2024. ‘We hebben het hier over 35 incidenten per dag, dat is nauwelijks voor te stellen, benadrukt Van Breda. ’35 Incidenten waarbij politiemensen te maken hebben met agressie, verbaal en fysiek. Dat is onacceptabel. Het gaat hier niet om incidenten, maar om een structureel probleem.’ Stijgende lijn sinds 2023 De cijfers laten zien dat verschillende vormen van geweld tegen politiemedewerkers vorig jaar zijn toegenomen. In veel gevallen gaat het om verbaal geweld, zoals belediging of bedreiging. Maar politiemensen kregen ook te maken met fysiek geweld. Zo steeg het aantal gevallen van (poging tot) zware mishandeling van 232 in 2024 naar 281 in 2025. Het aantal lichtere vormen van mishandeling steeg met 154 tot 1174. Het aantal pogingen tot doodslag nam toe van 139 tot 155. Ook openlijk geweld nam duidelijk toe: van 224 incidenten in 2024 naar 329 in 2025. Vuurwerk als geweldsmiddel Een andere opvallende ontwikkeling is de toename van incidenten waarbij vuurwerk tegen politiemensen wordt gebruikt. Het aantal registraties steeg van 118 in 2024 tot 307 in 2025. ‘Vaak gaat het om zware, illegale explosieven. Maar ook legaal vuurwerk, dat eveneens ernstig letsel kan veroorzaken, wordt tegen ons gebruikt’, zegt Van Breda. ‘Vandaar dat we zeer uitkijken naar een algeheel vuurwerkverbod.’ Duidelijke grens ‘Ik hoor weleens dat mensen tegen elkaar zeggen, dat het geweld tegen het uniform is gericht', vertelt Korpschef Janny Knol. ‘Maar wanneer je het meemaakt voelt dat lang niet altijd zo. Logisch, want in elk uniform zit een mens. Iemand die bij de politie is gaan werken om mensen te helpen, om Nederland veiliger te maken. Dat je vervolgens wordt uitgescholden, bedreigd of zelfs mishandeld vind ik onverteerbaar. Geweld tegen politiemensen raakt bovendien niet alleen individuele collega’s, maar ondermijnt ook de waarden van onze rechtstaat. Daar moet een duidelijke grens worden getrokken.’",
+    "scraped_at": "2026-05-01T06:20:35.802272Z",
+    "id": "8242722e3598e5f24d61d316e7971aaf36b193ce9eac9733205faef9ba14fb77",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/april/1/00-meer-agressie-en-geweld-tegen-politie.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In totaal registreerde de politie vorig jaar 12.896 incidenten, waarbij politiemensen te maken kregen met agressie en geweld, tegenover 12.543 in 2024. ‘We hebben het hier over 35 incidenten per dag, dat is nauwelijks voor te stellen, benadrukt Van Breda. ’35 Incidenten waarbij politiemensen te maken hebben met agressie, verbaal en fysiek. Dat is onacceptabel. Het gaat hier niet om incidenten, maar om een structureel probleem.’ Stijgende lijn sinds 2023 De cijfers laten zien dat verschillende vormen van geweld tegen politiemedewerkers vorig jaar zijn toegenomen. In veel gevallen gaat het om verbaal geweld, zoals belediging of bedreiging. Maar politiemensen kregen ook te maken met fysiek geweld. Zo steeg het aantal gevallen van (poging tot) zware mishandeling van 232 in 2024 naar 281 in 2025. Het aantal lichtere vormen van mishandeling steeg met 154 tot 1174. Het aantal pogingen tot doodslag nam toe van 139 tot 155. Ook openlijk geweld nam duidelijk toe: van 224 incidenten in 2024 naar 329 in 2025. Vuurwerk als geweldsmiddel Een andere opvallende ontwikkeling is de toename van incidenten waarbij vuurwerk tegen politiemensen wordt gebruikt. Het aantal registraties steeg van 118 in 2024 tot 307 in 2025. ‘Vaak gaat het om zware, illegale explosieven. Maar ook legaal vuurwerk, dat eveneens ernstig letsel kan veroorzaken, wordt tegen ons gebruikt’, zegt Van Breda. ‘Vandaar dat we zeer uitkijken naar een algeheel vuurwerkverbod.’ Duidelijke grens ‘Ik hoor weleens dat mensen tegen elkaar zeggen, dat het geweld tegen het uniform is gericht', vertelt Korpschef Janny Knol. ‘Maar wanneer je het meemaakt voelt dat lang niet altijd zo. Logisch, want in elk uniform zit een mens. Iemand die bij de politie is gaan werken om mensen te helpen, om Nederland veiliger te maken. Dat je vervolgens wordt uitgescholden, bedreigd of zelfs mishandeld vind ik onverteerbaar. Geweld tegen politiemensen raakt bovendien niet alleen individuele collega’s, maar ondermijnt ook de waarden van onze rechtstaat. Daar moet een duidelijke grens worden getrokken.’",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Van Breda",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Van Breda",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Janny Knol",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Logisch",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "f754b3a5aba79b214cf5f2a9ca10b5e4": {
+    "feed": "RTV Noord",
+    "title": "Twee mannen aangehouden na 'ernstig zedenincident' op Suikerterrein in Stad",
+    "url": "https://www.rtvnoord.nl/misdaad/1401356/twee-mannen-aangehouden-na-ernstig-zedenincident-op-suikerterrein-in-stad",
+    "published": "Thu, 30 Apr 2026 16:12:04 GMT",
+    "summary": "De politie heeft twee mannen aangehouden in een onderzoek naar een 'ernstig zedenincident' op het Suikerterrein in Stad. Het misdrijf vond plaats in een auto in de nacht van zaterdag 18 op zondag 19 april.",
+    "full_text": "Het slachtoffer is volgens het OM een jonge vrouw uit Groningen. 'Naar aanleiding van de melding op zondag 19 april is de politie een onderzoek gestart. Daarbij zijn verklaringen opgenomen, camerabeelden veiliggesteld en vond sporenonderzoek plaats', laat een woordvoerder van het OM weten.",
+    "scraped_at": "2026-05-01T06:21:29.664966Z",
+    "id": "9f7fe708f916c1d566881087503347fb2f6192bd00ea77445b3874280078663c",
+    "canonical_url": "https://www.rtvnoord.nl/misdaad/1401356/twee-mannen-aangehouden-na-ernstig-zedenincident-op-suikerterrein-in-stad",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer is volgens het OM een jonge vrouw uit Groningen. 'Naar aanleiding van de melding op zondag 19 april is de politie een onderzoek gestart. Daarbij zijn verklaringen opgenomen, camerabeelden veiliggesteld en vond sporenonderzoek plaats', laat een woordvoerder van het OM weten.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "6c398118505e264d9f60cb510a3fdda2": {
+    "feed": "L1 Nieuws",
+    "title": "Dialek sjrieve: 'Schaam dich neet, doog ’t gewoan'",
+    "url": "https://www.l1nieuws.nl/nieuws/3151312/dialek-sjrieve-schaam-dich-neet-doog-t-gewoan",
+    "published": "Wed, 29 Apr 2026 17:25:31 GMT",
+    "summary": "Limburgs kalle zit in ós blood, hart en nèère. Beej ós prachtiëg dialek schrieëve is det get minder. Mer toch is ’t hiel belangriek dat veer ’t blieve probere.",
+    "full_text": "Het artikel in het Nederlands Limburgs spreken zit in ons bloed, hart en nieren. Ons prachtige dialect schrijven iets minder. Toch is het heel belangrijk dat we dat allemaal blijven proberen. Volgens cijfers uit een onderzoek in opdracht van Veldeke Limburg appt ongeveer de helft van alle mensen die Limburgs spreken ook in het dialect. Dat is niet slecht, maar het mag meer worden. \"App, mail en schrijf vooral in het dialect\", moedigt Yuri Michielsen aan. Hij is voorzitter van de Actiecommissie Limburgse Taal. \"Schaam je niet, doe het gewoon.\" Stop met verbeteren Stefanie Steinhauer-Ramachers, wetenschappelijk programmaleider bij 't Hoes veur ’t Limburgs is het eens met die opmerking. \"We moeten ook stoppen met elkaar te verbeteren\", vertelt ze. \"Daardoor maken we elkaar bang en is de drempel om het gewoon te doen veel hoger. Stop met elkaar constant te verbeteren. Zeker in de privésfeer maakt het toch niet uit. Het belangrijkste is dat zoveel mogelijk mensen zich uitgenodigd voelen om de taal te gebruiken. Zo houden we ze levend.\" Verschillende taalgebieden Maar wat is dan eigenlijk goed of fout? Dat is eigenlijk ook best moeilijk vast te leggen. Want elk dialect, van Maastricht tot Venlo en van Kerkrade tot Gennep, heeft zijn charmes en is verschillend. Steinhauer-Ramachers legt uit dat in de provincie drie verschillende dialecttaalgebieden zijn. Het Kleverlands in Noord-Limburg, het Ripuarisch in de hoek van Kerkrade en Vaals en als derde het Limburgs in het grootste deel van Zuid- en Midden-Limburg. Een standaard-Limburgs voor de hele provincie gaat dus gewoon niet. \"Er zijn teveel verschillen en veel mensen zouden zich dan niet herkennen in zo’n geschreven standaardtaal\", aldus voorzitter Michielsen. Spellingsafspraken Wat dan wel een mogelijkheid is? Dat zijn spellingsafspraken. Die kunnen handig zijn voor als we het Limburgs in formelere teksten zouden willen gebruiken, zoals in het onderwijs of bij de overheid. \"Spellingsafspraken gaan overigens niet over hoe mensen moeten praten of schrijven, maar maken het handig voor gebruik in formelere context\", aldus Michielsen. Als spellingafspraken beter vastgelegd worden, kan iedereen in zijn of haar eigen dialect schrijven, maar kan tegelijk ook iedereen in de provincie het lezen. Daarvoor wordt gekeken naar afspraken over hoe je bepaalde klanken opschrijft. Een voorbeeld: het Nederlandse woord 'terug'. In sommige dialecten wordt het uitgesproken als truuk , in andere als truk . \"Dat moeten we dus anders opschrijven. Klank gaat over wat je zegt of hoort, letters gaan over wat je schrijft.\" Onderling begrip \"Afspraken zijn handig voor klanken die veel dialecten gemeenschappelijk hebben. De klank 'ao' in gaon (gaan, red.) bijvoorbeeld. Het is niet handig als die klank op verschillende manieren wordt geschreven. Dat kan tot onderling onbegrip leiden en dat willen we voorkomen. Als we het allemaal eens kunnen worden over welke letters we voor welke klanken gebruiken, bevordert dat het onderlinge begrip\", aldus Steinhauer-Ramachers. Het Nederlands Om regels vast te leggen, als die er ooit komen, kan het handig zijn om zoveel mogelijk uit het Nederlands te putten. \"Mensen weten redelijk veel over de Nederlandse spellingsregels, dus waarom zouden we het ons moeilijker maken?\" Legt Steinhauer-Ramachers uit. \"Wel is het zo dat we in het Limburgs ook andere klanken hebben die in het Nederlands niet bestaan. Vooral voor die klanken zijn spellingsregels handig.\" Spelling 2003 voor de Limburgse dialecten In het verleden zijn al vaker spellingsafspraken vastgelegd. De Spelling 2003 voor de Limburgse Dialecten is een van de laatste weergaves met richtlijnen voor het Limburgs dialect. Toch zijn de meningen over de inhoud verdeeld en is de website verouderd. \"Mensen willen dezer dagen geen theorie meer uit het hoofd leren\", aldus Michielsen. \"Ze gaan op zoek naar creatievere manieren om te leren.\" Speulentere Spelle Michielsen heeft daarom een tijd geleden, samen met de Limburgse Academie, een spellingsapp ontwikkeld voor het Maastrichts dialect: Speulentere Spelle. “Wat mensen vaak niet weten, is dat eigenlijk alle Limburgers de app kunnen gebruiken om te leren schrijven. Niet alleen Maastrichtenaren.\" Toch is er veel geld nodig om dergelijke apps te ontwikkelen en ook voor andere dingen om het Limburgs te promoten is er financiering nodig. 't Hoes veur ’t Limburg en de actiecommissie zetten zich samen in om de taal in ere te houden, maar in welke vorm en met hoeveel financiering ze daar mee aan de slag kunnen gaan, zal over enkele jaren moeten blijken.",
+    "scraped_at": "2026-05-01T06:20:49.252517Z",
+    "id": "28c8280a3fbd34df0e839778ec6c4620766210e5223b87cc3bf3f6e29bea981d",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3151312/dialek-sjrieve-schaam-dich-neet-doog-t-gewoan",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het artikel in het Nederlands Limburgs spreken zit in ons bloed, hart en nieren. Ons prachtige dialect schrijven iets minder. Toch is het heel belangrijk dat we dat allemaal blijven proberen. Volgens cijfers uit een onderzoek in opdracht van Veldeke Limburg appt ongeveer de helft van alle mensen die Limburgs spreken ook in het dialect. Dat is niet slecht, maar het mag meer worden. \"App, mail en schrijf vooral in het dialect\", moedigt Yuri Michielsen aan. Hij is voorzitter van de Actiecommissie Limburgse Taal. \"Schaam je niet, doe het gewoon.\" Stop met verbeteren Stefanie Steinhauer-Ramachers, wetenschappelijk programmaleider bij 't Hoes veur ’t Limburgs is het eens met die opmerking. \"We moeten ook stoppen met elkaar te verbeteren\", vertelt ze. \"Daardoor maken we elkaar bang en is de drempel om het gewoon te doen veel hoger. Stop met elkaar constant te verbeteren. Zeker in de privésfeer maakt het toch niet uit. Het belangrijkste is dat zoveel mogelijk mensen zich uitgenodigd voelen om de taal te gebruiken. Zo houden we ze levend.\" Verschillende taalgebieden Maar wat is dan eigenlijk goed of fout? Dat is eigenlijk ook best moeilijk vast te leggen. Want elk dialect, van Maastricht tot Venlo en van Kerkrade tot Gennep, heeft zijn charmes en is verschillend. Steinhauer-Ramachers legt uit dat in de provincie drie verschillende dialecttaalgebieden zijn. Het Kleverlands in Noord-Limburg, het Ripuarisch in de hoek van Kerkrade en Vaals en als derde het Limburgs in het grootste deel van Zuid- en Midden-Limburg. Een standaard-Limburgs voor de hele provincie gaat dus gewoon niet. \"Er zijn teveel verschillen en veel mensen zouden zich dan niet herkennen in zo’n geschreven standaardtaal\", aldus voorzitter Michielsen. Spellingsafspraken Wat dan wel een mogelijkheid is? Dat zijn spellingsafspraken. Die kunnen handig zijn voor als we het Limburgs in formelere teksten zouden willen gebruiken, zoals in het onderwijs of bij de overheid. \"Spellingsafspraken gaan overigens niet over hoe mensen moeten praten of schrijven, maar maken het handig voor gebruik in formelere context\", aldus Michielsen. Als spellingafspraken beter vastgelegd worden, kan iedereen in zijn of haar eigen dialect schrijven, maar kan tegelijk ook iedereen in de provincie het lezen. Daarvoor wordt gekeken naar afspraken over hoe je bepaalde klanken opschrijft. Een voorbeeld: het Nederlandse woord 'terug'. In sommige dialecten wordt het uitgesproken als truuk , in andere als truk . \"Dat moeten we dus anders opschrijven. Klank gaat over wat je zegt of hoort, letters gaan over wat je schrijft.\" Onderling begrip \"Afspraken zijn handig voor klanken die veel dialecten gemeenschappelijk hebben. De klank 'ao' in gaon (gaan, red.) bijvoorbeeld. Het is niet handig als die klank op verschillende manieren wordt geschreven. Dat kan tot onderling onbegrip leiden en dat willen we voorkomen. Als we het allemaal eens kunnen worden over welke letters we voor welke klanken gebruiken, bevordert dat het onderlinge begrip\", aldus Steinhauer-Ramachers. Het Nederlands Om regels vast te leggen, als die er ooit komen, kan het handig zijn om zoveel mogelijk uit het Nederlands te putten. \"Mensen weten redelijk veel over de Nederlandse spellingsregels, dus waarom zouden we het ons moeilijker maken?\" Legt Steinhauer-Ramachers uit. \"Wel is het zo dat we in het Limburgs ook andere klanken hebben die in het Nederlands niet bestaan. Vooral voor die klanken zijn spellingsregels handig.\" Spelling 2003 voor de Limburgse dialecten In het verleden zijn al vaker spellingsafspraken vastgelegd. De Spelling 2003 voor de Limburgse Dialecten is een van de laatste weergaves met richtlijnen voor het Limburgs dialect. Toch zijn de meningen over de inhoud verdeeld en is de website verouderd. \"Mensen willen dezer dagen geen theorie meer uit het hoofd leren\", aldus Michielsen. \"Ze gaan op zoek naar creatievere manieren om te leren.\" Speulentere Spelle Michielsen heeft daarom een tijd geleden, samen met de Limburgse Academie, een spellingsapp ontwikkeld voor het Maastrichts dialect: Speulentere Spelle. “Wat mensen vaak niet weten, is dat eigenlijk alle Limburgers de app kunnen gebruiken om te leren schrijven. Niet alleen Maastrichtenaren.\" Toch is er veel geld nodig om dergelijke apps te ontwikkelen en ook voor andere dingen om het Limburgs te promoten is er financiering nodig. 't Hoes veur ’t Limburg en de actiecommissie zetten zich samen in om de taal in ere te houden, maar in welke vorm en met hoeveel financiering ze daar mee aan de slag kunnen gaan, zal over enkele jaren moeten blijken.",
+    "locations": [
+      "Maastricht",
+      "Noord-Limburg",
+      "Spellingsafspraken",
+      "Spellingsafspraken"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "App",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Yuri Michielsen",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Actiecommissie Limburgse Taal",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Stefanie Steinhauer-Ramachers",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Limburgse Academie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Speulentere Spelle",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
