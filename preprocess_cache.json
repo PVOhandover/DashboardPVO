@@ -57719,5 +57719,254 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "ccfebe659f4e17c2f5ec937cc6d6b874": {
+    "feed": "Politie.nl",
+    "title": "92 kilometer per uur waar 50 is toegestaan: 44 bekeuringen bij controles",
+    "url": "https://www.politie.nl/nieuws/2026/mei/1/04-snelheidscontroles-in-hoofddorp-zwanenburg-en-nieuw-vennep.html",
+    "published": "Fri, 01 May 2026 15:50:00 GMT",
+    "summary": "92 kilometer rijden op een weg waar je 50 kilometer per uur mag. Te vaak zien wij de gevolgen in het verkeer als het misgaat. Snelheid kan daar één van de oorzaken van zijn. Reden voor ons om op snelheid te controleren in het verkeer. Dit deden we op donderdag 30 april in Hoofddorp, Zwanenburg en Nieuw-Vennep. In totaal deelde de politie 44 bekeuringen uit.",
+    "full_text": "Tussen 07.45 en 08.45 uur controleerden agenten op de Johan Enschedelaan in Hoofddorp. De maximale snelheid op deze weg is 50 kilometer per uur. In totaal schreven agenten hier 16 bekeuringen uit. Hiervan waren 15 bekeuringen voor te hard rijden. De hoogst gemeten snelheid was 92 kilometer per uur. Eén bestuurder droeg geen autogordel en kreeg daarvoor een bekeuring. Op de IJweg in Zwanenburg is de maximale snelheid 80 kilometer per uur. De politie controleerde hier tussen 09.45 en 10.30 uur. In totaal werden 8 bekeuringen uitgedeeld. Zeven daarvan waar voor snelheidsovertredingen. De hoogst gemeten snelheid was 95 kilometer per uur. Eén bestuurder reed zonder kentekenplaat en kreeg hiervoor een bekeuring. Tussen 13.00 en 14.00 uur controleerden agenten op de Oosterdreef in Nieuw-Vennep. De maximale toegestane snelheid is hier 50 kilometer per uur. Agenten schreven op deze locatie 8 bekeuringen uit. Zes bekeuringen hiervan waren voor te hard rijden. De hoogst gemeten snelheid was 80 kilometer per uur. Eén bestuurder hield een mobiele telefoon vast tijdens het rijden op een fatbike met gashendel. Overige overtredingen Los van de snelheidscontroles kwamen agenten meer overtredingen tegen. Zo schreef de politie bekeuringen voor: Zes keer voor een snelheidsovertreding. Drie keer voor het rijden met een mobiele telefoon in de hand. Eén keer voor rijden met een niet afgedekte lading. Eén keer voor rijden over een doorgetrokken streep. Eén keer voor het niet volgen van de verplichte rijrichting.",
+    "scraped_at": "2026-05-02T05:42:09.154391Z",
+    "id": "0caca94fc0bd5b27feb56868e726912f68945f4c405ba27ab9fe9f800ec9ac98",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/1/04-snelheidscontroles-in-hoofddorp-zwanenburg-en-nieuw-vennep.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tussen 07.45 en 08.45 uur controleerden agenten op de Johan Enschedelaan in Hoofddorp. De maximale snelheid op deze weg is 50 kilometer per uur. In totaal schreven agenten hier 16 bekeuringen uit. Hiervan waren 15 bekeuringen voor te hard rijden. De hoogst gemeten snelheid was 92 kilometer per uur. Eén bestuurder droeg geen autogordel en kreeg daarvoor een bekeuring. Op de IJweg in Zwanenburg is de maximale snelheid 80 kilometer per uur. De politie controleerde hier tussen 09.45 en 10.30 uur. In totaal werden 8 bekeuringen uitgedeeld. Zeven daarvan waar voor snelheidsovertredingen. De hoogst gemeten snelheid was 95 kilometer per uur. Eén bestuurder reed zonder kentekenplaat en kreeg hiervoor een bekeuring. Tussen 13.00 en 14.00 uur controleerden agenten op de Oosterdreef in Nieuw-Vennep. De maximale toegestane snelheid is hier 50 kilometer per uur. Agenten schreven op deze locatie 8 bekeuringen uit. Zes bekeuringen hiervan waren voor te hard rijden. De hoogst gemeten snelheid was 80 kilometer per uur. Eén bestuurder hield een mobiele telefoon vast tijdens het rijden op een fatbike met gashendel. Overige overtredingen Los van de snelheidscontroles kwamen agenten meer overtredingen tegen. Zo schreef de politie bekeuringen voor: Zes keer voor een snelheidsovertreding. Drie keer voor het rijden met een mobiele telefoon in de hand. Eén keer voor rijden met een niet afgedekte lading. Eén keer voor rijden over een doorgetrokken streep. Eén keer voor het niet volgen van de verplichte rijrichting.",
+    "locations": [
+      "Zwanenburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zwanenburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Johan Enschedelaan in Hoofddorp",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "11c031b2ef3143eb6c3e74f7a3bff9e5": {
+    "feed": "Politie.nl",
+    "title": "Onderzoek naar melding schietincident op het Kooiplein in Leiden",
+    "url": "https://www.politie.nl/nieuws/2026/mei/1/06-onderzoek-naar-melding-schietincident-op-het-kooiplein-in-leiden.html",
+    "published": "Fri, 01 May 2026 13:51:00 GMT",
+    "summary": "De politie heeft onderzoek gedaan naar een melding van een schietincident, dat woensdagavond 29 april zou hebben plaatsgevonden, in de omgeving van het Kooiplein in Leiden.",
+    "full_text": "Woensdagavond rond 20.00 uur kwam er een melding binnen van een mogelijk schietincident op het Kooiplein in Leiden. Verschillende getuigen verklaarden een knal te hebben gehoord. Agenten zijn ter plaatse gegaan. Later zijn twee auto’s staande gehouden, in de Corbulotunnel en op de Molenzicht in Leiden. In totaal zijn zes personen aangehouden. Het gaat om vijf mannen en een vrouw. Eén van de mannen komt uit Oegstgeest, de rest uit Leiden. De politie heeft na het incident uitgebreid onderzoek gedaan en heeft niet kunnen vaststellen dat er daadwerkelijk een schietincident heeft plaatsgevonden. Er zijn geen sporen aangetroffen die erop duiden dat er is geschoten. Ook zijn er geen vuurwapen of gewonden aangetroffen. De zes personen zijn inmiddels heengezonden, één van hen is nog verdachte. Het onderzoek naar wat zich daar precies heeft afgespeeld gaat nog verder.",
+    "scraped_at": "2026-05-02T05:42:09.155447Z",
+    "id": "b4e4da5e779767f07204fd7f08fd25c84ab2f0811be6e12c3afb8788f8d6ed61",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/1/06-onderzoek-naar-melding-schietincident-op-het-kooiplein-in-leiden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Woensdagavond rond 20.00 uur kwam er een melding binnen van een mogelijk schietincident op het Kooiplein in Leiden. Verschillende getuigen verklaarden een knal te hebben gehoord. Agenten zijn ter plaatse gegaan. Later zijn twee auto’s staande gehouden, in de Corbulotunnel en op de Molenzicht in Leiden. In totaal zijn zes personen aangehouden. Het gaat om vijf mannen en een vrouw. Eén van de mannen komt uit Oegstgeest, de rest uit Leiden. De politie heeft na het incident uitgebreid onderzoek gedaan en heeft niet kunnen vaststellen dat er daadwerkelijk een schietincident heeft plaatsgevonden. Er zijn geen sporen aangetroffen die erop duiden dat er is geschoten. Ook zijn er geen vuurwapen of gewonden aangetroffen. De zes personen zijn inmiddels heengezonden, één van hen is nog verdachte. Het onderzoek naar wat zich daar precies heeft afgespeeld gaat nog verder.",
+    "locations": [
+      "Leiden"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Leiden",
+        "NL"
+      ],
+      [
+        "Oegstgeest",
+        "NL"
+      ],
+      [
+        "Leiden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "38f54008cf57c8bb10771df6075ac6c6": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt verdachte aan voor branden Wilnis",
+    "url": "https://www.politie.nl/nieuws/2026/mei/1/03-politie-houdt-verdachte-aan-voor-banden-wilnis.html",
+    "published": "Fri, 01 May 2026 11:13:00 GMT",
+    "summary": "In het onderzoek naar de autobranden en schuurbrand die op 30 april in Wilnis plaatsvonden, heeft de politie in Mijdrecht een verdachte aangehouden.",
+    "full_text": "In de nacht van woensdag 29 op donderdag 30 april braken meerdere autobranden en een schuurbrand uit in Wilnis aan de Veenweg, Secretaris Munnikslaan, Burgermeester Padmosweg en de Pieter Joostenlaan. De politie ging direct uit van brandstichting. Gelukkig raakte bij de branden niemand gewond. De aangehouden verdachte is een 45-jarige man zonder vaste woon- of verblijfplaats. Hij zit vast en de politie zet het onderzoek voort.",
+    "scraped_at": "2026-05-02T05:42:09.156408Z",
+    "id": "46d5c4cd88a9ae7e71b1913377ed179c68b55d8b1a2285ecb8d15225135876a9",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/1/03-politie-houdt-verdachte-aan-voor-banden-wilnis.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In de nacht van woensdag 29 op donderdag 30 april braken meerdere autobranden en een schuurbrand uit in Wilnis aan de Veenweg, Secretaris Munnikslaan, Burgermeester Padmosweg en de Pieter Joostenlaan. De politie ging direct uit van brandstichting. Gelukkig raakte bij de branden niemand gewond. De aangehouden verdachte is een 45-jarige man zonder vaste woon- of verblijfplaats. Hij zit vast en de politie zet het onderzoek voort.",
+    "locations": [
+      "Wilnis"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Wilnis",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Veenweg",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Secretaris Munnikslaan",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Burgermeester Padmosweg",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Pieter Joostenlaan",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "3eba1348e25f75c8463179a073f5233f": {
+    "feed": "Politie.nl",
+    "title": "Grootste 112-dag van Oost-Nederland komt naar Nijverdal",
+    "url": "https://www.politie.nl/nieuws/2026/mei/1/02---grootste-112-dag-van-oost-nederland-komt-naar-nijverdal.html",
+    "published": "Fri, 01 May 2026 09:53:00 GMT",
+    "summary": "Nijverdal maakt zich op voor een indrukwekkende dag vol actie en beleving. Op zaterdag 9 mei 2026 vindt bij het politiebureau aan de Anders Celsiusstraat de grootste 112-dag van Oost-Nederland plaats. Tussen 12.00 en 16.00 uur krijgen bezoekers een unieke kans om van dichtbij kennis te maken met de wereld van hulpverlening.",
+    "full_text": "Meer dan 30 hulpdiensten zijn aanwezig om te laten zien wat er allemaal komt kijken bij hun werk. Van politie en brandweer tot ambulancediensten en andere hulpverleners: ze staan klaar om vragen te beantwoorden en hun expertise te delen. Daarnaast is er een indrukwekkende verzameling van ruim 70 voer-, vaar- en luchtvaartuigen te bewonderen: een buitenkans voor jong én oud. Alsof dat nog niet genoeg is, staan er ook diverse demonstraties op het programma waarbij bezoekers kunnen zien hoe hulpdiensten in actie komen. En wie altijd al eens een hulpverlener persoonlijk wilde spreken, kan terecht bij de Meet & Greet. De toegang is gratis en het evenement is geschikt voor alle leeftijden. Een mooie gelegenheid voor een leerzaam én leuk uitje in de regio Oost-Nederland. Zet zaterdag 9 mei dus in de agenda en kom langs in Nijverdal. En kijk voor meer informatie op de instagrampagina van Politie_Hellendoorn.",
+    "scraped_at": "2026-05-02T05:42:09.156585Z",
+    "id": "6e6fbd42ee155e15433c13e79ab7388fa097e6e28e0cf0068365f0f48be45dda",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/1/02---grootste-112-dag-van-oost-nederland-komt-naar-nijverdal.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Meer dan 30 hulpdiensten zijn aanwezig om te laten zien wat er allemaal komt kijken bij hun werk. Van politie en brandweer tot ambulancediensten en andere hulpverleners: ze staan klaar om vragen te beantwoorden en hun expertise te delen. Daarnaast is er een indrukwekkende verzameling van ruim 70 voer-, vaar- en luchtvaartuigen te bewonderen: een buitenkans voor jong én oud. Alsof dat nog niet genoeg is, staan er ook diverse demonstraties op het programma waarbij bezoekers kunnen zien hoe hulpdiensten in actie komen. En wie altijd al eens een hulpverlener persoonlijk wilde spreken, kan terecht bij de Meet & Greet. De toegang is gratis en het evenement is geschikt voor alle leeftijden. Een mooie gelegenheid voor een leerzaam én leuk uitje in de regio Oost-Nederland. Zet zaterdag 9 mei dus in de agenda en kom langs in Nijverdal. En kijk voor meer informatie op de instagrampagina van Politie_Hellendoorn.",
+    "locations": [
+      "Oost-Nederland",
+      "Nijverdal",
+      "Politie_Hellendoorn"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nijverdal",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Alsof",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "0b1e5d7a2b7011e61007fcf15d58ec0a": {
+    "feed": "RTV Noord",
+    "title": "Knoalster (35) krijgt boete voor bijten agent tijdens demonstratie Extinction Rebellion",
+    "url": "https://www.rtvnoord.nl/misdaad/1401621/knoalster-35-krijgt-boete-voor-bijten-agent-tijdens-demonstratie-extinction-rebellion",
+    "published": "Fri, 01 May 2026 18:10:02 GMT",
+    "summary": "Een 35-jarige inwoner van Stadskanaal die tijdens een demonstratie op de Afsluitdijk een agent in de vinger beet, is veroordeeld tot een boete van 750 euro.",
+    "full_text": "De demonstranten werden daarna door de politie begeleid naar twee touringcars om naar Sneek te worden gebracht. Wie niet meewerkte, werd naar de bussen getild. De verdachte verzette zich daarbij. Terwijl hij door twee agenten werd gedragen, draaide hij zich vlak bij de bussen om, waarna hij moest worden neergezet.",
+    "scraped_at": "2026-05-02T05:43:00.275869Z",
+    "id": "1af7230d19526889175f7b1d33e78ca470282ade8f0739fe7b26066caf9d1b94",
+    "canonical_url": "https://www.rtvnoord.nl/misdaad/1401621/knoalster-35-krijgt-boete-voor-bijten-agent-tijdens-demonstratie-extinction-rebellion",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De demonstranten werden daarna door de politie begeleid naar twee touringcars om naar Sneek te worden gebracht. Wie niet meewerkte, werd naar de bussen getild. De verdachte verzette zich daarbij. Terwijl hij door twee agenten werd gedragen, draaide hij zich vlak bij de bussen om, waarna hij moest worden neergezet.",
+    "locations": [
+      "Sneek"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Sneek",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "0583bf18d071e6a5c52b820596e48d48": {
+    "feed": "L1 Nieuws",
+    "title": "Meer Limburgse agenten dienen schadeclaim in na geweldsincidenten",
+    "url": "https://www.l1nieuws.nl/nieuws/3155075/meer-limburgse-agenten-dienen-schadeclaim-in-na-geweldsincidenten",
+    "published": "Fri, 01 May 2026 13:21:19 GMT",
+    "summary": "In Limburg zijn afgelopen jaar meer agenten op enige wijze gewond geraakt bij incidenten op straat en hebben daar werk van gemaakt via een schadeclaim. In 2024 ging het nog om 79 gevallen en vorig jaar waren dat er 124. Een toename van bijna 59 procent.",
+    "full_text": "De politie in Limburg registreerde vorig jaar juist minder geweldsincidenten tegen agenten: in 2024 waren dat er nog 1181, terwijl dit aantal vorig jaar op 710 uitkwam. Volgens een woordvoerder betekent dit echter niet dat er minder geweldszaken in onze provincie waren. \"We zijn efficiënter gaan registreren, met meer nadruk op de zaken waar collega's letsel of schade hebben opgelopen\", verklaart hij de daling. Wat dat precies inhoudt, wil de woordvoerder niet uitleggen.",
+    "scraped_at": "2026-05-02T05:42:12.345890Z",
+    "id": "5c8fedeb1e89b793adf4d73a9a1a84c49cce9cf82e5d905ca259490d427f77a6",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3155075/meer-limburgse-agenten-dienen-schadeclaim-in-na-geweldsincidenten",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie in Limburg registreerde vorig jaar juist minder geweldsincidenten tegen agenten: in 2024 waren dat er nog 1181, terwijl dit aantal vorig jaar op 710 uitkwam. Volgens een woordvoerder betekent dit echter niet dat er minder geweldszaken in onze provincie waren. \"We zijn efficiënter gaan registreren, met meer nadruk op de zaken waar collega's letsel of schade hebben opgelopen\", verklaart hij de daling. Wat dat precies inhoudt, wil de woordvoerder niet uitleggen.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
