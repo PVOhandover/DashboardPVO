@@ -58821,5 +58821,44 @@
     "all_sectors_in_article": [
       "86"
     ]
+  },
+  "6e1c69c7062ddf83ae9e194daed324b3": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws zondag 10 mei: Auto op boom in Ter Apelkanaal • Bestuurders in Westerkwartier betrapt op rijden onder invloed",
+    "url": "https://www.rtvnoord.nl/112/1403262/112-nieuws-zondag-10-mei-auto-op-boom-in-ter-apelkanaal-bestuurders-in-westerkwartier-betrapt-op-rijden-onder-invloed",
+    "published": "Sun, 10 May 2026 20:40:48 GMT",
+    "summary": "In dit 112-blog houden we je deze zondag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Aan de Biezejager in Niekerk (Westerkwartier) zijn vanmiddag rond 14.00 uur door een nog onbekende oorzaak twee schuurtjes afgebrand. Het vuur ontstond in de ene schuur en sloeg vervolgens over op het schuurtje van de buren. De brand zorgde voor de nodige rookontwikkeling en trok bekijks van omwonenden. Bewoners probeerden de brand al in de kiem te smoren door de vlammen zelf te blussen via een tuinlang, maar dat kon niet voorkomen dat de schuurtjes flink beschadigd raakten. De brandweer zorgde al snel dat de brand onder controle was. Er raakte niemand gewond. Onderzoek moet uitwijzen wat de brand veroorzaakt heeft.",
+    "scraped_at": "2026-05-11T06:46:18.359090Z",
+    "id": "33bacb40c434ce6de709567cac0f45e50f9b4234e6d975d03ae03fecb3183ca3",
+    "canonical_url": "https://www.rtvnoord.nl/112/1403262/112-nieuws-zondag-10-mei-auto-op-boom-in-ter-apelkanaal-bestuurders-in-westerkwartier-betrapt-op-rijden-onder-invloed",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Aan de Biezejager in Niekerk (Westerkwartier) zijn vanmiddag rond 14.00 uur door een nog onbekende oorzaak twee schuurtjes afgebrand. Het vuur ontstond in de ene schuur en sloeg vervolgens over op het schuurtje van de buren. De brand zorgde voor de nodige rookontwikkeling en trok bekijks van omwonenden. Bewoners probeerden de brand al in de kiem te smoren door de vlammen zelf te blussen via een tuinlang, maar dat kon niet voorkomen dat de schuurtjes flink beschadigd raakten. De brandweer zorgde al snel dat de brand onder controle was. Er raakte niemand gewond. Onderzoek moet uitwijzen wat de brand veroorzaakt heeft.",
+    "locations": [
+      "Westerkwartier"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Niekerk",
+        "NL"
+      ],
+      [
+        "Westerkwartier",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
