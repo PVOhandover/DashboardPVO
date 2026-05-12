@@ -58860,5 +58860,75 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "d2ff9d124b7d013e058b844e8e8470f9": {
+    "feed": "L1 Nieuws",
+    "title": "Dit hebben de natuurbranden in Helden en Weert gekost",
+    "url": "https://www.l1nieuws.nl/nieuws/3159955/dit-hebben-de-natuurbranden-in-helden-en-weert-gekost",
+    "published": "Mon, 11 May 2026 09:36:10 GMT",
+    "summary": "Op 29 en 30 april woedden er drie natuurbranden in Limburg. Elk van een ander kaliber. De kosten lopen dan ook erg uiteen: van enkele duizenden euro's bij de eerste brand in Helden en Kessel, tot meerdere tonnen in Weert.",
+    "full_text": "Hoe zijn de berekeningen gemaakt? Aan de hand van de documenten 'Scenario's Natuurbranden' van Brandweer Nederland (2023) en 'Natuurbrandsignaal '23' van Nederlands Instituut Publieke Veiligheid, verslaggeving van L1 Nieuws en de informatie van Veiligheidsregio Limburg-Noord zijn deze schattingen gemaakt. Zowel Brandweer Nederland als Veiligheidsregio Limburg-Noord zeggen dat de bedragen genoemd in het document 'Scenario's Natuurbranden' niet bedoeld zijn 'als directe financiële doorrekening van een specifiek incident.' Echter zijn de verschillende scenario's en kostenposten dusdanig concreet omschreven, dat een ruwe schatting op zijn plaats is. Het document is drie jaar oud en deze kosten zijn aangehouden in de berekeningen. De kosten zullen waarschijnlijk niet meer exact hetzelfde zijn.",
+    "scraped_at": "2026-05-12T06:19:03.946612Z",
+    "id": "99525b3e68afbce3f6624f886eb030caba66608f04aad52fede15a53f494059e",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3159955/dit-hebben-de-natuurbranden-in-helden-en-weert-gekost",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Hoe zijn de berekeningen gemaakt? Aan de hand van de documenten 'Scenario's Natuurbranden' van Brandweer Nederland (2023) en 'Natuurbrandsignaal '23' van Nederlands Instituut Publieke Veiligheid, verslaggeving van L1 Nieuws en de informatie van Veiligheidsregio Limburg-Noord zijn deze schattingen gemaakt. Zowel Brandweer Nederland als Veiligheidsregio Limburg-Noord zeggen dat de bedragen genoemd in het document 'Scenario's Natuurbranden' niet bedoeld zijn 'als directe financiële doorrekening van een specifiek incident.' Echter zijn de verschillende scenario's en kostenposten dusdanig concreet omschreven, dat een ruwe schatting op zijn plaats is. Het document is drie jaar oud en deze kosten zijn aangehouden in de berekeningen. De kosten zullen waarschijnlijk niet meer exact hetzelfde zijn.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Nederlands Instituut Publieke Veiligheid",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "L1 Nieuws",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Veiligheidsregio Limburg-Noord",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Veiligheidsregio Limburg-Noord",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Echter",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
