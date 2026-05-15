@@ -59200,5 +59200,95 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "7674a54ef5a18525199265ea399e319b": {
+    "feed": "Politie.nl",
+    "title": "Politie vindt drugslab en houdt drie verdachten aan",
+    "url": "https://www.politie.nl/nieuws/2026/mei/14/08-politie-vindt-drugslab-en-houdt-drie-verdachten-aan.html",
+    "published": "Thu, 14 May 2026 12:51:00 GMT",
+    "summary": "De politie heeft op woensdag 13 mei 2026 aan de Weidehek een drugslab aangetroffen. Daarbij zijn drie personen aangehouden.",
+    "full_text": "Na uitgebreid onderzoek trof de politie woensdag rond 12.00 uur een drugslab aan in een van de loodsen aan de Weidehek. In de loods zijn grondstoffen gevonden die vermoedelijk gebruikt worden voor de productie van drugs. In het pand is een 55-jarige man uit Breda aangehouden. Een tweede verdachte, een 37-jarige man uit Moordrecht, is later op de A16 bij Hendrik-Ido-Ambacht aangehouden. De derde verdachte, een 22-jarige vrouw uit Etten-Leur, is op de A58 bij Rilland aangehouden. Stoffen vernietigd In de loods zijn diverse goederen en werktuigen aangetroffen die vermoedelijk werden gebruikt voor de productie van drugs. De forensische opsporing onderzoekt nog om welke grondstoffen het precies gaat. De aangetroffen stoffen worden vernietigd. Volledige beperkingen De drie verdachten zijn overgebracht naar het politiebureau voor verhoor en verder onderzoek. Alle drie zitten in volledige beperkingen, wat betekent dat zij uitsluitend contact mogen hebben met hun advocaat. Omdat het onderzoek nog in volle gang is en de verdachten in beperkingen zitten, kunnen op dit moment geen verdere mededelingen worden gedaan.",
+    "scraped_at": "2026-05-15T06:38:37.243226Z",
+    "id": "503dc52bc23b38e7e656f4e1d6efbfff8786a89580d8fd51e21e47cf48293b73",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/14/08-politie-vindt-drugslab-en-houdt-drie-verdachten-aan.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Na uitgebreid onderzoek trof de politie woensdag rond 12.00 uur een drugslab aan in een van de loodsen aan de Weidehek. In de loods zijn grondstoffen gevonden die vermoedelijk gebruikt worden voor de productie van drugs. In het pand is een 55-jarige man uit Breda aangehouden. Een tweede verdachte, een 37-jarige man uit Moordrecht, is later op de A16 bij Hendrik-Ido-Ambacht aangehouden. De derde verdachte, een 22-jarige vrouw uit Etten-Leur, is op de A58 bij Rilland aangehouden. Stoffen vernietigd In de loods zijn diverse goederen en werktuigen aangetroffen die vermoedelijk werden gebruikt voor de productie van drugs. De forensische opsporing onderzoekt nog om welke grondstoffen het precies gaat. De aangetroffen stoffen worden vernietigd. Volledige beperkingen De drie verdachten zijn overgebracht naar het politiebureau voor verhoor en verder onderzoek. Alle drie zitten in volledige beperkingen, wat betekent dat zij uitsluitend contact mogen hebben met hun advocaat. Omdat het onderzoek nog in volle gang is en de verdachten in beperkingen zitten, kunnen op dit moment geen verdere mededelingen worden gedaan.",
+    "locations": [
+      "Breda"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breda",
+        "NL"
+      ],
+      [
+        "Moordrecht",
+        "NL"
+      ],
+      [
+        "Etten-Leur",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "A58",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "a4790507dea42e2b6271f93f69abecf0": {
+    "feed": "Politie.nl",
+    "title": "Minderjarige aangehouden voor eerdere vernielingen aan gemeentehuis Loosdrecht",
+    "url": "https://www.politie.nl/nieuws/2026/mei/14/03-minderjarige-aangehouden-voor-vernieling-gemeentehuis-loosdrecht-27-april.html",
+    "published": "Thu, 14 May 2026 08:41:00 GMT",
+    "summary": "Een minderjarige jongen uit Utrecht is dinsdag 12 mei aangehouden op verdenking van vernieling van het gemeentehuis aan de Rading in Loosdrecht op Koningsdag.",
+    "full_text": "Maandagavond 27 april werden onder andere diverse ramen van het gemeentehuis ingegooid en hekken vernield. Een minderjarige jongen uit Utrecht heeft zich gemeld bij de politie. Hij is aangehouden op verdenking van betrokkenheid bij de vernielingen. Hij is na verhoor én met een dagvaarding voor de kinderrechter heengezonden. Eerder werden al meer verdachten aangehouden, zoals op 13 mei en 23 april .",
+    "scraped_at": "2026-05-15T06:38:37.244097Z",
+    "id": "4de5d46b6cb8e74ebed5e8a667d9360313920742f757f916ac42f9321d1d9e86",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/14/03-minderjarige-aangehouden-voor-vernieling-gemeentehuis-loosdrecht-27-april.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Maandagavond 27 april werden onder andere diverse ramen van het gemeentehuis ingegooid en hekken vernield. Een minderjarige jongen uit Utrecht heeft zich gemeld bij de politie. Hij is aangehouden op verdenking van betrokkenheid bij de vernielingen. Hij is na verhoor én met een dagvaarding voor de kinderrechter heengezonden. Eerder werden al meer verdachten aangehouden, zoals op 13 mei en 23 april .",
+    "locations": [
+      "Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Utrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Maandagavond",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
