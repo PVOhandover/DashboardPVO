@@ -59290,5 +59290,40 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "0a6dff51ab6a80ebc0ec6c69a719f369": {
+    "feed": "Politie.nl",
+    "title": "Wapens aangetroffen bij klant supermarkt",
+    "url": "https://www.politie.nl/nieuws/2026/mei/17/08-wapens-aangetroffen-bij-klant-supermarkt.html",
+    "published": "Sun, 17 May 2026 08:11:00 GMT",
+    "summary": "Door oplettendheid van een winkelmedewerken kon de politie zaterdagavond een man aanhouden die een gasdrukwapen en twee messen bij zich had.",
+    "full_text": "In een supermarkt aan de Ginnekenweg in Breda zag een medewerker van een supermarkt zaterdag tegen 21.00 uur dat een klant een vuurwapen in zijn tas had. De gewaarschuwde politie kon de man buiten de winkel staande gehouden. Bij de fouillering werd inderdaad een op een vuurwapen gelijkend gasdrukwapen aangetroffen in zijn tas. Ook kwamen er twee messen tevoorschijn. De man (23) is aangehouden. Het is nog onduidelijk of hij op dat moment kwade bedoelingen had met deze wapens.",
+    "scraped_at": "2026-05-17T06:27:41.626861Z",
+    "id": "03b493f0e38864d51abacbab52de7f74d6b15554d62680573e1fb41662491120",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/17/08-wapens-aangetroffen-bij-klant-supermarkt.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In een supermarkt aan de Ginnekenweg in Breda zag een medewerker van een supermarkt zaterdag tegen 21.00 uur dat een klant een vuurwapen in zijn tas had. De gewaarschuwde politie kon de man buiten de winkel staande gehouden. Bij de fouillering werd inderdaad een op een vuurwapen gelijkend gasdrukwapen aangetroffen in zijn tas. Ook kwamen er twee messen tevoorschijn. De man (23) is aangehouden. Het is nog onduidelijk of hij op dat moment kwade bedoelingen had met deze wapens.",
+    "locations": [
+      "Breda"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breda",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "47.11",
+      "sector_name": "Retail sale in non-specialised stores with food predominance"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "47.11"
+    ]
   }
 }
