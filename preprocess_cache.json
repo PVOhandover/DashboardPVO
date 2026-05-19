@@ -59509,5 +59509,247 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "3b04cd2f2bb1ea8392102684f29ac516": {
+    "feed": "L1 Nieuws",
+    "title": "Gestolen Porsche crasht in Nederweert, gevluchte mannen aangehouden in Maastricht",
+    "url": "https://www.l1nieuws.nl/nieuws/3163810/gestolen-porsche-crasht-in-nederweert-gevluchte-mannen-aangehouden-in-maastricht",
+    "published": "Mon, 18 May 2026 12:14:57 GMT",
+    "summary": "Twee Limburgers zijn aangehouden nadat zij in de nacht van zondag op maandag betrokken waren bij de diefstal van een sportwagen en een daaropvolgende politieachtervolging. De auto werd rond 03.00 uur gestolen in het Brabantse Boxtel en later zwaar beschadigd teruggevonden in Nederweert. Een derde verdachte, een 28-jarige zonder vaste woon- of verblijfplaats, is ook gearresteerd.",
+    "full_text": "Twee Limburgers zijn aangehouden nadat zij in de nacht van zondag op maandag betrokken waren bij de diefstal van een sportwagen en een daaropvolgende politieachtervolging. De auto werd rond 03.00 uur gestolen in het Brabantse Boxtel en later zwaar beschadigd teruggevonden in Nederweert. Een derde verdachte, een 28-jarige zonder vaste woon- of verblijfplaats, is ook gearresteerd.",
+    "scraped_at": "2026-05-19T06:54:12.934129Z",
+    "id": "ae385e006194c45e396aaedcaa105272a1c3eaaaf1d67dbc7c7be5ce8c853a17",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3163810/gestolen-porsche-crasht-in-nederweert-gevluchte-mannen-aangehouden-in-maastricht",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Twee Limburgers zijn aangehouden nadat zij in de nacht van zondag op maandag betrokken waren bij de diefstal van een sportwagen en een daaropvolgende politieachtervolging. De auto werd rond 03.00 uur gestolen in het Brabantse Boxtel en later zwaar beschadigd teruggevonden in Nederweert. Een derde verdachte, een 28-jarige zonder vaste woon- of verblijfplaats, is ook gearresteerd.",
+    "locations": [
+      "Nederweert"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederweert",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "b021a96bb6b791af927c8d6d83e665b1": {
+    "feed": "L1 Nieuws",
+    "title": "Universiteit zoekt zwijgende verdachten: 'Er kan een reden zijn, waarom iemand niks zegt'",
+    "url": "https://www.l1nieuws.nl/nieuws/3111981/universiteit-zoekt-zwijgende-verdachten-er-kan-een-reden-zijn-waarom-iemand-niks-zegt",
+    "published": "Mon, 18 May 2026 05:30:05 GMT",
+    "summary": "Waarom kiezen sommige verdachten ervoor om te zwijgen en anderen niet? Onderzoekers van de Universiteit Maastricht (UM) zoeken naar het antwoord.",
+    "full_text": "En niet alleen dat. Ook al was je onschuldig en had je niéts te maken met bijvoorbeeld die inbraak bij de supermarkt, de impact van het strafproces op jou is groot. \"Veel mensen die achteraf onschuldig blijken, hebben dagen, weken tot zelfs maanden in voorlopige hechtenis gezeten, verloren hun baan en sociale connecties, of het beschadigde het vertrouwen in politie en justitie. Toch weten we vrijwel niets over hoe zij hun politieverhoor beleefden of waarom zij tijdens dat cruciale moment kozen om te zwijgen of te spreken.\"",
+    "scraped_at": "2026-05-19T06:54:17.336633Z",
+    "id": "7d07e66c19d9dc853b085481fc99defa43f5a35f2450f8e31830e2b8eacf280b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3111981/universiteit-zoekt-zwijgende-verdachten-er-kan-een-reden-zijn-waarom-iemand-niks-zegt",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "En niet alleen dat. Ook al was je onschuldig en had je niéts te maken met bijvoorbeeld die inbraak bij de supermarkt, de impact van het strafproces op jou is groot. \"Veel mensen die achteraf onschuldig blijken, hebben dagen, weken tot zelfs maanden in voorlopige hechtenis gezeten, verloren hun baan en sociale connecties, of het beschadigde het vertrouwen in politie en justitie. Toch weten we vrijwel niets over hoe zij hun politieverhoor beleefden of waarom zij tijdens dat cruciale moment kozen om te zwijgen of te spreken.\"",
+    "locations": [
+      "blijken"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "blijken",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "47.11",
+      "sector_name": "Retail sale in non-specialised stores with food predominance"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "47.11"
+    ]
+  },
+  "6b9bc9ca815061098e5dcf484879fed6": {
+    "feed": "Politie.nl",
+    "title": "Politie zoekt eigenaren van honderden gestolen gouden sieraden",
+    "url": "https://www.politie.nl/nieuws/2026/mei/15/07-politie-zoekt-eigenaren-van-honderden-gestolen-gouden-sieraden.html",
+    "published": "Mon, 18 May 2026 15:04:00 GMT",
+    "summary": "Trouwringen met inscripties, zegelringen met initialen, kettingen met namen en data. In de periode van september 2023 tot begin april 2026, is er door een 30-jarige zorgmedewerkster voor ongeveer 67.000 euro aan gouden sieraden verkocht. Van een deel staat vast dat deze van diefstal afkomstig zijn. Het resterende deel is waarschijnlijk ook gestolen, maar hiervan is de eigenaar niet bekend. De vrouw is op 8 april aangehouden. De politie wil graag weten van wie de sieraden geweest zijn.",
+    "full_text": "De verdachte is een 30-jarige vrouw uit Hoogvliet. Zij was de afgelopen jaren werkzaam als uitzendkracht in verschillende ouderenzorginstellingen in Rotterdam en omgeving, waaronder Berkel en Rodenrijs en Rhoon. Vermoedelijk heeft de vrouw deze sieraden gestolen van bewoners om deze vervolgens te verkopen bij enkele goudinkopers in Rotterdam. Deze diefstallen zijn waarschijnlijk gepleegd in de periode september 2023 tot april 2026. De politie kreeg de verdachte begin 2026 in het vizier, na een registercontrole bij een goudinkoper in Rotterdam-Zuid. Daaruit bleek dat de vrouw tienduizenden euro’s had verdiend met het verkopen van gouden sieraden. Uit onderzoek kwam naar voren dat er meerdere aangiften van diefstal gedaan zijn voor sieraden die de vrouw bij de goudinkoper verkocht heeft. Op 8 april 2026 is de vrouw aangehouden op verdenking van diefstal en witwassen. Honderden sieraden Een aantal van de sieraden is in ieder geval afkomstig van diefstal. Tegelijkertijd zijn er een hele hoop sieraden die door de verdachte zijn verkocht, waarvan de eigenaar nog niet bekend is. De politie heeft sterk het vermoeden dat deze sieraden ook gestolen zijn. Het gaat om honderden gouden sieraden, waaronder kettingen en (trouw)ringen. Eigenaren gezocht De politie is nog druk bezig met het onderzoek. Daarom roepen we u op om u te melden als u eigenaar van een van de sieraden bent, of wanneer u een sieraad herkent omdat dit bijvoorbeeld van een bekende of familielid van u is geweest. Verloren gegaan De sieraden kunnen helaas niet meer teruggegeven worden aan de rechtmatige eigenaren, omdat deze al zijn omgesmolten. De politie beschikt enkel over foto's vastgelegd door de inkoper. De politie realiseert zich dat deze sieraden, los van materiele waarde, ook veel emotionele waarde hebben. Om de verdachte te kunnen berechten voor dit aangedane leed, is het van belang om de eigenaren te achterhalen. Sieradenoverzicht Sommigen van deze sieraden bevatten inscripties met namen en data. Zo zijn er ringen met de volgende inscripties: With Love Truus Rozalinde 21-7-63 12-2-72 Ronald 27-3-71 Johan 2-11-73 Wim 11-3-60 Paula 6-9-58 en Jaques 6-8-58 Nico 12-8-50 Cees 28.9.63 1.12.66 Piet 5.4.52 26-12-55 Piet 28-4-56 en Innie 28-4-56 L.v 1951 M.j.m 1951 22-7-67 9-9-77 Leen Charles 29-3-58 3-9-59 M.S. Carla JV (zegelringen Hoe kunt u melden? Als u eigenaar van één of meer van de sieraden bent, of wanneer u een sieraad herkent omdat dit bijvoorbeeld van een bekende of familielid van u is geweest, neem dan contact op met de recherche van district Zuid via 0900-8844 of vul het tipformulier op onze website in.",
+    "scraped_at": "2026-05-19T06:54:03.525898Z",
+    "id": "ccb3a6c456d2a7efcd5c76f81ffe6cf6e396bc4009484092e0051fa8651b3514",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/15/07-politie-zoekt-eigenaren-van-honderden-gestolen-gouden-sieraden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De verdachte is een 30-jarige vrouw uit Hoogvliet. Zij was de afgelopen jaren werkzaam als uitzendkracht in verschillende ouderenzorginstellingen in Rotterdam en omgeving, waaronder Berkel en Rodenrijs en Rhoon. Vermoedelijk heeft de vrouw deze sieraden gestolen van bewoners om deze vervolgens te verkopen bij enkele goudinkopers in Rotterdam. Deze diefstallen zijn waarschijnlijk gepleegd in de periode september 2023 tot april 2026. De politie kreeg de verdachte begin 2026 in het vizier, na een registercontrole bij een goudinkoper in Rotterdam-Zuid. Daaruit bleek dat de vrouw tienduizenden euro’s had verdiend met het verkopen van gouden sieraden. Uit onderzoek kwam naar voren dat er meerdere aangiften van diefstal gedaan zijn voor sieraden die de vrouw bij de goudinkoper verkocht heeft. Op 8 april 2026 is de vrouw aangehouden op verdenking van diefstal en witwassen. Honderden sieraden Een aantal van de sieraden is in ieder geval afkomstig van diefstal. Tegelijkertijd zijn er een hele hoop sieraden die door de verdachte zijn verkocht, waarvan de eigenaar nog niet bekend is. De politie heeft sterk het vermoeden dat deze sieraden ook gestolen zijn. Het gaat om honderden gouden sieraden, waaronder kettingen en (trouw)ringen. Eigenaren gezocht De politie is nog druk bezig met het onderzoek. Daarom roepen we u op om u te melden als u eigenaar van een van de sieraden bent, of wanneer u een sieraad herkent omdat dit bijvoorbeeld van een bekende of familielid van u is geweest. Verloren gegaan De sieraden kunnen helaas niet meer teruggegeven worden aan de rechtmatige eigenaren, omdat deze al zijn omgesmolten. De politie beschikt enkel over foto's vastgelegd door de inkoper. De politie realiseert zich dat deze sieraden, los van materiele waarde, ook veel emotionele waarde hebben. Om de verdachte te kunnen berechten voor dit aangedane leed, is het van belang om de eigenaren te achterhalen. Sieradenoverzicht Sommigen van deze sieraden bevatten inscripties met namen en data. Zo zijn er ringen met de volgende inscripties: With Love Truus Rozalinde 21-7-63 12-2-72 Ronald 27-3-71 Johan 2-11-73 Wim 11-3-60 Paula 6-9-58 en Jaques 6-8-58 Nico 12-8-50 Cees 28.9.63 1.12.66 Piet 5.4.52 26-12-55 Piet 28-4-56 en Innie 28-4-56 L.v 1951 M.j.m 1951 22-7-67 9-9-77 Leen Charles 29-3-58 3-9-59 M.S. Carla JV (zegelringen Hoe kunt u melden? Als u eigenaar van één of meer van de sieraden bent, of wanneer u een sieraad herkent omdat dit bijvoorbeeld van een bekende of familielid van u is geweest, neem dan contact op met de recherche van district Zuid via 0900-8844 of vul het tipformulier op onze website in.",
+    "locations": [
+      "Zuid"
+    ],
+    "country": "NL",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "Hoogvliet",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Berkel",
+        "DE"
+      ],
+      [
+        "Rodenrijs",
+        "NL"
+      ],
+      [
+        "Rhoon",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Zuid",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.7071355649089452,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "With Love Truus",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Ronald 27-3-71",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Wim 11-3-60",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jaques 6-8-58",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "62cfe262188a96f2bae6bb8bdb5c9105": {
+    "feed": "Politie.nl",
+    "title": "Verdachte steekpartij aangehouden in Kaatsheuvel",
+    "url": "https://www.politie.nl/nieuws/2026/mei/18/08-verdachte-met-mes-aangehouden-in-kaatsheuvel.html",
+    "published": "Mon, 18 May 2026 14:25:00 GMT",
+    "summary": "Zondagmiddag 17 mei rond 17.00 uur komt er een melding binnen bij de 112-meldkamer. Een melder vertelt dat iemand zou zijn neergestoken aan de Roestelbergseweg in Kaatsheuvel. Ambulance en politie gaan direct met spoed ter plaatse. Omdat mogelijk de verdachte nog aanwezig is, rijdt ook een hondengeleider mee.",
+    "full_text": "Eenmaal aangekomen ontfermen agenten zich over het slachtoffer, terwijl andere agenten direct starten met de zoektocht naar de verdachte.  Na een korte zoektocht krijgt de hondengeleider zicht op de verdachte. Een 37-jarige man uit Kaatsheuvel wordt aangehouden en overgebracht naar het politiebureau. Hij zit nog vast en wordt verhoord. Het slachtoffer is behandeld aan de verwondingen en daarna met spoed naar het ziekenhuis gebracht.",
+    "scraped_at": "2026-05-19T06:54:03.526049Z",
+    "id": "785896d6712a062212c1759718a6315550abeb2c132d78fbc05804040267a73e",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/18/08-verdachte-met-mes-aangehouden-in-kaatsheuvel.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Eenmaal aangekomen ontfermen agenten zich over het slachtoffer, terwijl andere agenten direct starten met de zoektocht naar de verdachte.  Na een korte zoektocht krijgt de hondengeleider zicht op de verdachte. Een 37-jarige man uit Kaatsheuvel wordt aangehouden en overgebracht naar het politiebureau. Hij zit nog vast en wordt verhoord. Het slachtoffer is behandeld aan de verwondingen en daarna met spoed naar het ziekenhuis gebracht.",
+    "locations": [
+      "Kaatsheuvel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Kaatsheuvel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "8b00f2226c6b21b8170d5fbf54ec7ad2": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in verband met opruiing op social media",
+    "url": "https://www.politie.nl/nieuws/2026/mei/18/02-aanhouding-in-verband-met-opruiing-op-social-media.html",
+    "published": "Mon, 18 May 2026 09:41:00 GMT",
+    "summary": "De politie heeft zaterdagavond 16 mei een 49- jarige man uit Leerdam aangehouden die wordt verdacht van opruiing via sociale media rondom de demonstraties in Apeldoorn. Wat de verdachte precies heeft geplaatst, kan niet gedeeld worden. Dit maakt deel uit van het verdere onderzoek.",
+    "full_text": "De 49 -jarige man kwam bij de politie in beeld door intensieve monitoring van openbare bronnen. Op social media zijn verschillende berichten zichtbaar geweest, waaronder het bericht van de man dat ertoe heeft geleid dat er verder onderzoek plaatsvond. Uit dit onderzoek kwam deze aanhouding voort. De afgelopen dagen hebben er verschillende demonstraties plaatsgevonden in Apeldoorn rondom de mogelijke komst van een opvangcentrum voor vluchtelingen.  De verdachte is gehoord en inmiddels heengezonden. De politie onderzoekt de zaak in samenwerking met het Openbaar Ministerie. Berichten zijn nooit anoniem Het opzettelijk verspreiden van berichten die kunnen leiden tot onrust of opruiing zijn strafbaar. Het verspreiden van berichten via onder ander sociale media is nooit anoniem. Eén van de primaire taken van politiemensen is het snel kunnen schakelen en opsporen van verdachte(n) die strafbare feiten gepleegd hebben. In dit geval leidde dat tot een snelle aanhouding. Het Openbaar Ministerie en politie grijpen dit moment aan om iedereen te informeren en te waarschuwen dat het verspreiden van opruiende berichten strafbaar is en dat verdachte(n) uit de anonimiteit gehaald worden. Melding maken Onder andere het delen van valse informatie, maar ook het verspreiden van berichten die kunnen leiden tot opruiing is strafbaar. Mocht u zelf iets tegenkomen waarvan u denkt dat het valse informatie is of dat het opruiende berichten zijn, dan roepen wij altijd op om melding te maken. Deze meldingen kunnen gedaan worden via 0900 8844 of via onderstaande tipformulier. Geheel anoniem informatie doorgeven kan ook via Meld Misdaad Anoniem. Dit is een onafhankelijk meldpunt waar alle informatie volstrekt anoniem verwerkt wordt. Melding maken kan zowel telefonisch als online via onderstaande formulieren.",
+    "scraped_at": "2026-05-19T06:54:03.527728Z",
+    "id": "1c00fbc4dfabbcdc26e358b4f790a25877f4eba83c66fc941f089103e37a776f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/18/02-aanhouding-in-verband-met-opruiing-op-social-media.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De 49 -jarige man kwam bij de politie in beeld door intensieve monitoring van openbare bronnen. Op social media zijn verschillende berichten zichtbaar geweest, waaronder het bericht van de man dat ertoe heeft geleid dat er verder onderzoek plaatsvond. Uit dit onderzoek kwam deze aanhouding voort. De afgelopen dagen hebben er verschillende demonstraties plaatsgevonden in Apeldoorn rondom de mogelijke komst van een opvangcentrum voor vluchtelingen.  De verdachte is gehoord en inmiddels heengezonden. De politie onderzoekt de zaak in samenwerking met het Openbaar Ministerie. Berichten zijn nooit anoniem Het opzettelijk verspreiden van berichten die kunnen leiden tot onrust of opruiing zijn strafbaar. Het verspreiden van berichten via onder ander sociale media is nooit anoniem. Eén van de primaire taken van politiemensen is het snel kunnen schakelen en opsporen van verdachte(n) die strafbare feiten gepleegd hebben. In dit geval leidde dat tot een snelle aanhouding. Het Openbaar Ministerie en politie grijpen dit moment aan om iedereen te informeren en te waarschuwen dat het verspreiden van opruiende berichten strafbaar is en dat verdachte(n) uit de anonimiteit gehaald worden. Melding maken Onder andere het delen van valse informatie, maar ook het verspreiden van berichten die kunnen leiden tot opruiing is strafbaar. Mocht u zelf iets tegenkomen waarvan u denkt dat het valse informatie is of dat het opruiende berichten zijn, dan roepen wij altijd op om melding te maken. Deze meldingen kunnen gedaan worden via 0900 8844 of via onderstaande tipformulier. Geheel anoniem informatie doorgeven kan ook via Meld Misdaad Anoniem. Dit is een onafhankelijk meldpunt waar alle informatie volstrekt anoniem verwerkt wordt. Melding maken kan zowel telefonisch als online via onderstaande formulieren.",
+    "locations": [
+      "Apeldoorn"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Apeldoorn",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "56.3"
+    ]
   }
 }

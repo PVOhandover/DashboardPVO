@@ -1390,5 +1390,9 @@
   "gemeente Opsterland": {
     "lat": 53.0187892,
     "lon": 6.0381543
+  },
+  "Kaatsheuvel": {
+    "lat": 51.6598038,
+    "lon": 5.0319484
   }
 }
