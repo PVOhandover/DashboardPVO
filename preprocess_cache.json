@@ -59751,5 +59751,95 @@
       "not_affected",
       "56.3"
     ]
+  },
+  "ae83681769225c490ef557424642be19": {
+    "feed": "L1 Nieuws",
+    "title": "Botjes d’Artagnan niet teruggegeven: inspectie en politie bij archeoloog langs",
+    "url": "https://www.l1nieuws.nl/nieuws/3164522/botjes-dartagnan-niet-teruggegeven-inspectie-en-politie-bij-archeoloog-langs",
+    "published": "Tue, 19 May 2026 18:15:35 GMT",
+    "summary": "Dat er in München dna-onderzoek werd gedaan op mogelijke resten van d’Artagnan was al bekend. Maar dat archeoloog Wim Dijkman, die resten vorige week zelf uit München heeft opgehaald, niet. Voor de erfgoedinspectie reden om maandag, samen met de politie, bij hem langs te gaan.",
+    "full_text": "Dat er in München dna-onderzoek werd gedaan op mogelijke resten van d’Artagnan was al bekend. Maar dat archeoloog Wim Dijkman, die resten vorige week zelf uit München heeft opgehaald, niet. Voor de erfgoedinspectie reden om maandag, samen met de politie, bij hem langs te gaan.",
+    "scraped_at": "2026-05-20T06:54:14.272777Z",
+    "id": "862faf04e40b402b513946584d68ae93056d53daacf08d9fd53b0b17e56b68d9",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3164522/botjes-dartagnan-niet-teruggegeven-inspectie-en-politie-bij-archeoloog-langs",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dat er in München dna-onderzoek werd gedaan op mogelijke resten van d’Artagnan was al bekend. Maar dat archeoloog Wim Dijkman, die resten vorige week zelf uit München heeft opgehaald, niet. Voor de erfgoedinspectie reden om maandag, samen met de politie, bij hem langs te gaan.",
+    "locations": [
+      "München"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "München",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Wim Dijkman",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "9260f0d9480eddf6ea2b0240902eb9d8": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in Spanje leidt naar loods vol drugs in Rotterdam",
+    "url": "https://www.politie.nl/nieuws/2026/mei/19/07-aanhouding-in-spanje-leidt-naar-loods-vol-drugs-in-rotterdam.html",
+    "published": "Tue, 19 May 2026 09:03:00 GMT",
+    "summary": "Woensdag 14 mei 2026 heeft de Spaanse Policia Nacional, afdeling UDYCO, op Ibiza een 23 jarige man uit ‘s-Hertogenbosch aangehouden. De Nederlander werd op heterdaad betrapt met een koffer vol verdovende middelen. De Policia Nacional vond in totaal 49,5 kilogram ketamine en 56.000 XTC pillen. De man zit vast op Ibiza.",
+    "full_text": "Naar aanleiding van deze aanhouding en door een adequate informatie-uitwisseling tussen beide landen, heeft de politie eenheid Rotterdam later op die dag een loods in Rotterdam doorzocht die op naam stond van de man. In de loods trof de politie ruim 100 kilo MDMA (de werkzame stof in XTC) en ruim 1000 kilo grondstoffen aan voor de bereiding van drugs. De aangetroffen verdovende middelen en grondstoffen zijn in beslag genomen. De man die in de loods aanwezig was is aangehouden. Het betreft een 33-jarige man uit Capelle aan den IJssel.",
+    "scraped_at": "2026-05-20T06:54:08.991241Z",
+    "id": "54fbbea880c4c690521c7d6dc70ef6fb56b17a3bbc6b25dbf990086840f517f2",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/19/07-aanhouding-in-spanje-leidt-naar-loods-vol-drugs-in-rotterdam.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Naar aanleiding van deze aanhouding en door een adequate informatie-uitwisseling tussen beide landen, heeft de politie eenheid Rotterdam later op die dag een loods in Rotterdam doorzocht die op naam stond van de man. In de loods trof de politie ruim 100 kilo MDMA (de werkzame stof in XTC) en ruim 1000 kilo grondstoffen aan voor de bereiding van drugs. De aangetroffen verdovende middelen en grondstoffen zijn in beslag genomen. De man die in de loods aanwezig was is aangehouden. Het betreft een 33-jarige man uit Capelle aan den IJssel.",
+    "locations": [
+      "Capelle"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Capelle",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "MDMA",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
