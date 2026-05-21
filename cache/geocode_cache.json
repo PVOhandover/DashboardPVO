@@ -1394,5 +1394,13 @@
   "Kaatsheuvel": {
     "lat": 51.6598038,
     "lon": 5.0319484
+  },
+  "Nederweert": {
+    "lat": 51.2918913,
+    "lon": 5.7481464
+  },
+  "gemeente Maastricht": {
+    "lat": 50.8513099,
+    "lon": 5.6643928
   }
 }

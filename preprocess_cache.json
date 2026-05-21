@@ -59841,5 +59841,107 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "43267e6cab6c192a0632521a269fe28a": {
+    "feed": "L1 Nieuws",
+    "title": "Archeoloog gearresteerd na achterhouden botresten vermeende d'Artagnan",
+    "url": "https://www.l1nieuws.nl/nieuws/3165580/archeoloog-gearresteerd-na-achterhouden-botresten-vermeende-dartagnan",
+    "published": "Wed, 20 May 2026 17:18:35 GMT",
+    "summary": "Een paar dagen na het achterhouden van botresten die mogelijk afkomstig zijn van d'Artagnan, is de Maastrichtse archeoloog Wim Dijkman woensdagmiddag gearresteerd.",
+    "full_text": "Dijkman ziet zichzelf als leider van het onderzoek, maar daar is de gemeente Maastricht het niet mee eens. \"De gemeente voert de regie over het archeologisch onderzoek dat op 13 maart jl. in de kerk van Wolder werd uitgevoerd\", laat een woordvoerder van de stad weten. \"Dat onderzoek vond plaats onder verantwoordelijkheid van archeologisch adviesbureau BAAC/Saxion en op basis van een door de gemeente vastgesteld programma van eisen. Juist vanwege het mogelijk grote belang van de vondst kiest de gemeente ervoor om volgens de geldende archeologische normen en protocollen te werken\", gaat de verklaring verder.",
+    "scraped_at": "2026-05-21T06:58:09.382711Z",
+    "id": "4944238c2850f8dbe036bcec492a6fc67e21942a4dcdadaafd5b05239155d7b7",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3165580/archeoloog-gearresteerd-na-achterhouden-botresten-vermeende-dartagnan",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dijkman ziet zichzelf als leider van het onderzoek, maar daar is de gemeente Maastricht het niet mee eens. \"De gemeente voert de regie over het archeologisch onderzoek dat op 13 maart jl. in de kerk van Wolder werd uitgevoerd\", laat een woordvoerder van de stad weten. \"Dat onderzoek vond plaats onder verantwoordelijkheid van archeologisch adviesbureau BAAC/Saxion en op basis van een door de gemeente vastgesteld programma van eisen. Juist vanwege het mogelijk grote belang van de vondst kiest de gemeente ervoor om volgens de geldende archeologische normen en protocollen te werken\", gaat de verklaring verder.",
+    "locations": [
+      "gemeente Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Dijkman",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Wolder",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "BAAC/Saxion",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "0cc0fc111b2277a42da820c0a193b776": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in onderzoek naar doxing rond protesten Apeldoorn",
+    "url": "https://www.politie.nl/nieuws/2026/mei/20/02-apeldoorn-aanhouding-in-onderzoek-naar-doxing-rond-protesten-apeldoorn.html",
+    "published": "Wed, 20 May 2026 15:59:00 GMT",
+    "summary": "De politie heeft woensdagochtend een aanhouding verricht in een onderzoek dat werd opgestart naar doxing. Een man uit Voorthuizen werd vroeg in de ochtend aangehouden op verdenking van bedreiging. Meer aanhoudingen worden de komende tijd niet uitgesloten.",
+    "full_text": "De politie moest de afgelopen tijd meerdere keren worden ingezet tijdens demonstraties, waaronder in Apeldoorn. Beelden van dat optreden werden veelvuldig gedeeld op sociale media. Dat kan en mag. Wat een grens overgaat is het doelbewust jacht maken op de privégegevens van politiemensen. Er is zelfs geconstateerd dat er uitlatingen zijn gedaan die veel verder gaan dan doxing en strafbaar zijn als bedreiging of opruiing. De impact daarvan is groot. Doxing strafbaar Doxing, kortweg het met kwade bedoelingen verzamelen of (verder) verspreiden van persoonlijke, gevoelige of privéinformatie, is sinds 1 januari 2024 strafbaar. Het kan leiden tot een maximale gevangenisstraf van twee jaar of een flinke geldboete. Dat geldt niet alleen voor doxing van politiemensen, maar voor doxing van eenieder. Denk bijvoorbeeld ook aan politici, journalisten en andere mensen in publieke functies. Gezien de grote impact hebben zaken als deze hoge prioriteit voor politie en het Openbaar Ministerie. Duidelijke grens Het verdere onderzoek loopt nog altijd. Politie en het Openbaar Ministerie roepen op: kritiek hebben mag, maar er zijn tal van manieren om dit kenbaar te maken. Bij doxing of andere strafbare feiten trekken we een hele duidelijke grens. Daarnaast vertellen korte beeldfragmenten op sociale media vaak niet het hele verhaal. Geweld dat daar bijvoorbeeld op te zien is, wordt niet lichtzinnig gebruikt. Als de politie geweld heeft moeten toepassen, wordt dit altijd getoetst. Waar nodig kijken we kritisch naar ons eigen optreden. Meer informatie daarover, is te vinden in dit recente bericht.",
+    "scraped_at": "2026-05-21T06:58:05.930808Z",
+    "id": "7f46f83a7e9515f50cb40b530439ea306205a06818f5b053c736810430b4bd7a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/20/02-apeldoorn-aanhouding-in-onderzoek-naar-doxing-rond-protesten-apeldoorn.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie moest de afgelopen tijd meerdere keren worden ingezet tijdens demonstraties, waaronder in Apeldoorn. Beelden van dat optreden werden veelvuldig gedeeld op sociale media. Dat kan en mag. Wat een grens overgaat is het doelbewust jacht maken op de privégegevens van politiemensen. Er is zelfs geconstateerd dat er uitlatingen zijn gedaan die veel verder gaan dan doxing en strafbaar zijn als bedreiging of opruiing. De impact daarvan is groot. Doxing strafbaar Doxing, kortweg het met kwade bedoelingen verzamelen of (verder) verspreiden van persoonlijke, gevoelige of privéinformatie, is sinds 1 januari 2024 strafbaar. Het kan leiden tot een maximale gevangenisstraf van twee jaar of een flinke geldboete. Dat geldt niet alleen voor doxing van politiemensen, maar voor doxing van eenieder. Denk bijvoorbeeld ook aan politici, journalisten en andere mensen in publieke functies. Gezien de grote impact hebben zaken als deze hoge prioriteit voor politie en het Openbaar Ministerie. Duidelijke grens Het verdere onderzoek loopt nog altijd. Politie en het Openbaar Ministerie roepen op: kritiek hebben mag, maar er zijn tal van manieren om dit kenbaar te maken. Bij doxing of andere strafbare feiten trekken we een hele duidelijke grens. Daarnaast vertellen korte beeldfragmenten op sociale media vaak niet het hele verhaal. Geweld dat daar bijvoorbeeld op te zien is, wordt niet lichtzinnig gebruikt. Als de politie geweld heeft moeten toepassen, wordt dit altijd getoetst. Waar nodig kijken we kritisch naar ons eigen optreden. Meer informatie daarover, is te vinden in dit recente bericht.",
+    "locations": [
+      "Apeldoorn"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Apeldoorn",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
