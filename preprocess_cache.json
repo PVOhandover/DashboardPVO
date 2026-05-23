@@ -60419,5 +60419,300 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "937570e379e340ee6e8ff35d97417732": {
+    "feed": "L1 Nieuws",
+    "title": "Politieonderzoek afgerond na vondst lichaam in Maastricht: geen sprake van misdrijf",
+    "url": "https://www.l1nieuws.nl/nieuws/3166494/politieonderzoek-afgerond-na-vondst-lichaam-in-maastricht-geen-sprake-van-misdrijf",
+    "published": "Fri, 22 May 2026 08:31:00 GMT",
+    "summary": "Het onderzoek naar de overleden persoon die donderdag in Maastricht werd gevonden, is afgerond. De politie gaat niet uit van een misdrijf.",
+    "full_text": "Het onderzoek naar de overleden persoon die donderdag in Maastricht werd gevonden, is afgerond. De politie gaat niet uit van een misdrijf.",
+    "scraped_at": "2026-05-23T06:17:25.782877Z",
+    "id": "7bd08b86922c06b545df318f77816d6966a09f192c0c6dce2f5c72350be63bba",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3166494/politieonderzoek-afgerond-na-vondst-lichaam-in-maastricht-geen-sprake-van-misdrijf",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het onderzoek naar de overleden persoon die donderdag in Maastricht werd gevonden, is afgerond. De politie gaat niet uit van een misdrijf.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "febf48138f10533fafbbdd967264cfb6": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Dringende oproep door hacken met AI: 'We moeten supersnel kunnen reageren'",
+    "url": "https://nos.nl/l/2615399",
+    "published": "Fri, 22 May 2026 11:59:07 +0200",
+    "summary": "<p>Snel en makkelijk zoeken naar veiligheidsproblemen in computerprogramma's: het kan met kunstmatige intelligentie (AI). Deze AI-systemen werken sneller dan een mens en worden nooit moe. En dat kan grote gevolgen hebben voor de digitale beveiliging voor allerlei bedrijven en organisaties.</p>\n        <p>De AI-systemen kunnen ernstige veiligheidsproblemen ontdekken. Bijvoorbeeld waarmee je computers kunt hacken of platleggen. Het kunnen fouten zijn die al jaren in computerprogramma's zitten, terwijl niemand dat doorhad.</p>\n        <p>\"Daarom moeten bedrijven en organisaties supersnel kunnen reageren\", waarschuwt Matthijs van Amelsfort, directeur van het Nationaal Cyber Security Centrum (NCSC). \"Vroeger duurde het dagen voordat een aanvaller een fout misbruikte, nu is dat uren\", zegt hij. \"Dat zal minuten worden.\"</p>\n        <p>De dringende waarschuwing is bekend bij de mensen die erover gaan, zegt Dimitri van Zantvliet. Hij is voorzitter van de beroepsvereniging voor die mensen: het CISO Platform. \"Er is geen paniek, maar het is zeker urgent\", zegt hij.</p>\n        <p>Deze week kwamen honderden daarvan bij elkaar op een evenement, onder meer om het hierover te hebben. \"Deze ontwikkeling betekent dat er kwetsbaarheden gevonden worden in systemen die al twintig jaar oud zijn. We moeten versnellen, zodat we die fouten oplossen voordat ze misbruikt worden.\"</p>\n        <h2>Overheid met hulp van AI gehackt</h2>\n        <p>Dat je met AI-programma's snel en automatisch veiligheidsproblemen kunt vinden, bewijst Rogier Fischer van cybersecuritybedrijf Hadrian. In het kantoor in Amsterdam laat hij zien hoe hij daarmee de overheid kon hacken.</p>\n        <p>Fischer liet een AI-systeem kijken naar de programmeercode van een overheidswebsite. Hij vroeg of er een bepaalde fout in zat waarmee hij toegang kon krijgen tot bestanden die niet toegankelijk horen te zijn. Het AI-programma antwoordde dat dit inderdaad zo is.</p>\n        <p>Door die fout kon Fischer een bestand downloaden, terwijl het niet de bedoeling is dat hij erbij kan. Hij wijst het aan op zijn scherm. \"Hier zie je letterlijk de wachtwoorden\", zegt hij.</p>\n        <p>Daarmee kon Fischer inloggen op de database van de website. \"Er is niets dat me tegenhield\", zegt de hacker. \"Als je binnen bent, kun je bijvoorbeeld dingen aanpassen. Of in die database nieuwe aanvallen uitvoeren. Dat doen we niet: wij hebben al aangetoond dat we toegang hadden. Dus toen stopten we met de aanval.\"</p>\n        <h2>'Volledige toegang voor 10 euro'</h2>\n        <p>Hadrian kon de overheid hacken met een goedkoop AI-programma van OpenAI, het bedrijf achter ChatGPT, vertelt Fischer. De totale aanval kostte hem ongeveer 10 euro, schat hij. \"Daarmee kreeg ik dus volledige toegang.\"</p>\n        <p>Andere goedkope AI-programma's zijn ook geschikt om dit soort fouten te vinden, blijkt uit onderzoek van cybersecuritybedrijf AISLE. Sinds september heeft het bedrijf meer dan tweehonderd fouten gevonden met behulp van allerlei AI-systemen, zegt Jaya Baloo, een van de oprichters.</p>\n        <p>AISLE onderzocht onder meer of goedkope systemen fouten kon vinden in twee computerprogramma's die pas geleden ook al werden ontdekt met het AI-programma Mythos. Het bedrijf achter Mythos gebruikte die twee fouten die het programma vond om reclame te maken voor het AI-systeem. Dit is zo goed, zei het bedrijf, dat maar een heel kleine groep er toegang toe krijgt.</p>\n        <p>\"Het verhaal was dat AI 'opeens' heel goed was in het vinden van kwetsbaarheden\", zegt Baloo. \"Maar wij konden met oudere AI-systemen diezelfde fouten vinden. Dus hoezo 'opeens'? Wij doen dit al maanden.\"</p>\n        <h2>Nog meer fouten vinden</h2>\n        <p>Baloo en Fischer denken dat de verdedigers op dit moment in het voordeel zijn. Maar er is haast, zeggen ze: als de criminele hackers aan de slag gaan met deze AI-programma's, kunnen zij deze veiligheidsproblemen ook vinden en misbruiken.</p>\n        <p>\"Technologie wordt vaak na een aantal maanden gebruikt door mensen met slechte bedoelingen\", zegt NCSC-directeur Van Amelsfort. Het is belangrijk om daar serieus rekening mee te houden, omdat het gaat over de digitale veiligheid van ons allemaal, zegt hij.</p>\n        <p>\"We hebben al meegemaakt dat een haven platligt of dat onze gegevens worden gestolen. Nederland is heel erg digitaal. Dat maakt ons ook kwetsbaar. Aanvallers en verdedigers zullen met elkaar in gevecht blijven, ook met deze AI-ontwikkeling. We moeten echt zorgen dat onze verdediging op orde is.\"</p>",
+    "full_text": "NOS Nieuws • gisteren, 11:59 • Aangepast gisteren, 13:02 Snel en makkelijk zoeken naar veiligheidsproblemen in computerprogramma's: het kan met kunstmatige intelligentie (AI). Deze AI-systemen werken sneller dan een mens en worden nooit moe. En dat kan grote gevolgen hebben voor de digitale beveiliging voor allerlei bedrijven en organisaties. De AI-systemen kunnen ernstige veiligheidsproblemen ontdekken. Bijvoorbeeld waarmee je computers kunt hacken of platleggen. Het kunnen fouten zijn die al jaren in computerprogramma's zitten, terwijl niemand dat doorhad. \"Daarom moeten bedrijven en organisaties supersnel kunnen reageren\", waarschuwt Matthijs van Amelsfort, directeur van het Nationaal Cyber Security Centrum (NCSC). \"Vroeger duurde het dagen voordat een aanvaller een fout misbruikte, nu is dat uren\", zegt hij. \"Dat zal minuten worden.\" De dringende waarschuwing is bekend bij de mensen die erover gaan, zegt Dimitri van Zantvliet. Hij is voorzitter van de beroepsvereniging voor die mensen: het CISO Platform. \"Er is geen paniek, maar het is zeker urgent\", zegt hij. Deze week kwamen honderden daarvan bij elkaar op een evenement, onder meer om het hierover te hebben. \"Deze ontwikkeling betekent dat er kwetsbaarheden gevonden worden in systemen die al twintig jaar oud zijn. We moeten versnellen, zodat we die fouten oplossen voordat ze misbruikt worden.\" Overheid met hulp van AI gehackt Dat je met AI-programma's snel en automatisch veiligheidsproblemen kunt vinden, bewijst Rogier Fischer van cybersecuritybedrijf Hadrian. In het kantoor in Amsterdam laat hij zien hoe hij daarmee de overheid kon hacken. Fischer liet een AI-systeem kijken naar de programmeercode van een overheidswebsite. Hij vroeg of er een bepaalde fout in zat waarmee hij toegang kon krijgen tot bestanden die niet toegankelijk horen te zijn. Het AI-programma antwoordde dat dit inderdaad zo is. Door die fout kon Fischer een bestand downloaden, terwijl het niet de bedoeling is dat hij erbij kan. Hij wijst het aan op zijn scherm. \"Hier zie je letterlijk de wachtwoorden\", zegt hij. Daarmee kon Fischer inloggen op de database van de website. \"Er is niets dat me tegenhield\", zegt de hacker. \"Als je binnen bent, kun je bijvoorbeeld dingen aanpassen. Of in die database nieuwe aanvallen uitvoeren. Dat doen we niet: wij hebben al aangetoond dat we toegang hadden. Dus toen stopten we met de aanval.\" 'Volledige toegang voor 10 euro' Hadrian kon de overheid hacken met een goedkoop AI-programma van OpenAI, het bedrijf achter ChatGPT, vertelt Fischer. De totale aanval kostte hem ongeveer 10 euro, schat hij. \"Daarmee kreeg ik dus volledige toegang.\" Andere goedkope AI-programma's zijn ook geschikt om dit soort fouten te vinden, blijkt uit onderzoek van cybersecuritybedrijf AISLE. Sinds september heeft het bedrijf meer dan tweehonderd fouten gevonden met behulp van allerlei AI-systemen, zegt Jaya Baloo, een van de oprichters. AISLE onderzocht onder meer of goedkope systemen fouten kon vinden in twee computerprogramma's die pas geleden ook al werden ontdekt met het AI-programma Mythos. Het bedrijf achter Mythos gebruikte die twee fouten die het programma vond om reclame te maken voor het AI-systeem. Dit is zo goed, zei het bedrijf, dat maar een heel kleine groep er toegang toe krijgt. \"Het verhaal was dat AI 'opeens' heel goed was in het vinden van kwetsbaarheden\", zegt Baloo. \"Maar wij konden met oudere AI-systemen diezelfde fouten vinden. Dus hoezo 'opeens'? Wij doen dit al maanden.\" Nog meer fouten vinden Baloo en Fischer denken dat de verdedigers op dit moment in het voordeel zijn. Maar er is haast, zeggen ze: als de criminele hackers aan de slag gaan met deze AI-programma's, kunnen zij deze veiligheidsproblemen ook vinden en misbruiken. \"Technologie wordt vaak na een aantal maanden gebruikt door mensen met slechte bedoelingen\", zegt NCSC-directeur Van Amelsfort. Het is belangrijk om daar serieus rekening mee te houden, omdat het gaat over de digitale veiligheid van ons allemaal, zegt hij. \"We hebben al meegemaakt dat een haven platligt of dat onze gegevens worden gestolen. Nederland is heel erg digitaal. Dat maakt ons ook kwetsbaar. Aanvallers en verdedigers zullen met elkaar in gevecht blijven, ook met deze AI-ontwikkeling. We moeten echt zorgen dat onze verdediging op orde is.\"",
+    "scraped_at": "2026-05-23T06:16:06.777146Z",
+    "id": "314c286d404e9e56866497f0389f21a42769d165bc42398fbb95d2db5eddc276",
+    "canonical_url": "https://nos.nl/l/2615399",
+    "published_ts": "2026-05-22T09:59:07Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 11:59 • Aangepast gisteren, 13:02 Snel en makkelijk zoeken naar veiligheidsproblemen in computerprogramma's: het kan met kunstmatige intelligentie (AI). Deze AI-systemen werken sneller dan een mens en worden nooit moe. En dat kan grote gevolgen hebben voor de digitale beveiliging voor allerlei bedrijven en organisaties. De AI-systemen kunnen ernstige veiligheidsproblemen ontdekken. Bijvoorbeeld waarmee je computers kunt hacken of platleggen. Het kunnen fouten zijn die al jaren in computerprogramma's zitten, terwijl niemand dat doorhad. \"Daarom moeten bedrijven en organisaties supersnel kunnen reageren\", waarschuwt Matthijs van Amelsfort, directeur van het Nationaal Cyber Security Centrum (NCSC). \"Vroeger duurde het dagen voordat een aanvaller een fout misbruikte, nu is dat uren\", zegt hij. \"Dat zal minuten worden.\" De dringende waarschuwing is bekend bij de mensen die erover gaan, zegt Dimitri van Zantvliet. Hij is voorzitter van de beroepsvereniging voor die mensen: het CISO Platform. \"Er is geen paniek, maar het is zeker urgent\", zegt hij. Deze week kwamen honderden daarvan bij elkaar op een evenement, onder meer om het hierover te hebben. \"Deze ontwikkeling betekent dat er kwetsbaarheden gevonden worden in systemen die al twintig jaar oud zijn. We moeten versnellen, zodat we die fouten oplossen voordat ze misbruikt worden.\" Overheid met hulp van AI gehackt Dat je met AI-programma's snel en automatisch veiligheidsproblemen kunt vinden, bewijst Rogier Fischer van cybersecuritybedrijf Hadrian. In het kantoor in Amsterdam laat hij zien hoe hij daarmee de overheid kon hacken. Fischer liet een AI-systeem kijken naar de programmeercode van een overheidswebsite. Hij vroeg of er een bepaalde fout in zat waarmee hij toegang kon krijgen tot bestanden die niet toegankelijk horen te zijn. Het AI-programma antwoordde dat dit inderdaad zo is. Door die fout kon Fischer een bestand downloaden, terwijl het niet de bedoeling is dat hij erbij kan. Hij wijst het aan op zijn scherm. \"Hier zie je letterlijk de wachtwoorden\", zegt hij. Daarmee kon Fischer inloggen op de database van de website. \"Er is niets dat me tegenhield\", zegt de hacker. \"Als je binnen bent, kun je bijvoorbeeld dingen aanpassen. Of in die database nieuwe aanvallen uitvoeren. Dat doen we niet: wij hebben al aangetoond dat we toegang hadden. Dus toen stopten we met de aanval.\" 'Volledige toegang voor 10 euro' Hadrian kon de overheid hacken met een goedkoop AI-programma van OpenAI, het bedrijf achter ChatGPT, vertelt Fischer. De totale aanval kostte hem ongeveer 10 euro, schat hij. \"Daarmee kreeg ik dus volledige toegang.\" Andere goedkope AI-programma's zijn ook geschikt om dit soort fouten te vinden, blijkt uit onderzoek van cybersecuritybedrijf AISLE. Sinds september heeft het bedrijf meer dan tweehonderd fouten gevonden met behulp van allerlei AI-systemen, zegt Jaya Baloo, een van de oprichters. AISLE onderzocht onder meer of goedkope systemen fouten kon vinden in twee computerprogramma's die pas geleden ook al werden ontdekt met het AI-programma Mythos. Het bedrijf achter Mythos gebruikte die twee fouten die het programma vond om reclame te maken voor het AI-systeem. Dit is zo goed, zei het bedrijf, dat maar een heel kleine groep er toegang toe krijgt. \"Het verhaal was dat AI 'opeens' heel goed was in het vinden van kwetsbaarheden\", zegt Baloo. \"Maar wij konden met oudere AI-systemen diezelfde fouten vinden. Dus hoezo 'opeens'? Wij doen dit al maanden.\" Nog meer fouten vinden Baloo en Fischer denken dat de verdedigers op dit moment in het voordeel zijn. Maar er is haast, zeggen ze: als de criminele hackers aan de slag gaan met deze AI-programma's, kunnen zij deze veiligheidsproblemen ook vinden en misbruiken. \"Technologie wordt vaak na een aantal maanden gebruikt door mensen met slechte bedoelingen\", zegt NCSC-directeur Van Amelsfort. Het is belangrijk om daar serieus rekening mee te houden, omdat het gaat over de digitale veiligheid van ons allemaal, zegt hij. \"We hebben al meegemaakt dat een haven platligt of dat onze gegevens worden gestolen. Nederland is heel erg digitaal. Dat maakt ons ook kwetsbaar. Aanvallers en verdedigers zullen met elkaar in gevecht blijven, ook met deze AI-ontwikkeling. We moeten echt zorgen dat onze verdediging op orde is.\"",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6809353327149118,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Matthijs van Amelsfort",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Nationaal Cyber Security Centrum",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NCSC",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Dimitri van Zantvliet",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "CISO Platform",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Rogier Fischer van cybersecuritybedrijf Hadrian",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fischer",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "AISLE",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jaya Baloo",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "dd8ac1218187e1ede647ed28e9635b1e": {
+    "feed": "Politie.nl",
+    "title": "Nepagent loopt tegen de lamp",
+    "url": "https://www.politie.nl/nieuws/2026/mei/22/09-nepagent-loopt-tegen-de-lamp.html",
+    "published": "Fri, 22 May 2026 13:56:00 GMT",
+    "summary": "De politie hield 18 mei een 26-jarige man uit Amsterdam aan in een onderzoek naar oplichting door nepagenten.",
+    "full_text": "De man werd op 20 oktober 2025 op heterdaad betrapt bij een oplichting in Heeze. Toen werd een ouder slachtoffer gebeld door een persoon die zich voordeed als medewerker van de politie. Deze liet zich echter niet beetnemen en belde direct 112. Vervolgens werden de twee verdachten uit Amsterdam in en rond de woning opgewacht door agenten en konden worden aangehouden. Daarop startte de politie een uitgebreid onderzoek naar de 26-jarige hoofdverdachte. In de tussentijd werd hij in vrijheid gesteld, maar bleef wel verdachte. Door zeer uitvoerig onderzoek van met name digitale specialisten van de politie is de man nu verdachte in 13 zaken. Daarbij richtte hij zich als nepagent voornamelijk op oudere en kwetsbare slachtoffers. Aanhouding Uiteindelijk is hij maandag 18 mei in zijn woning in Amsterdam aangehouden. Inmiddels is hij door het Openbaar Ministerie voorgeleid aan de rechter-commissaris. Die besloot dat hij in ieder geval nog twee weken langer vast moet zitten. Het onderzoek loopt. Wees Alert Helaas is oplichting door nepagenten nog steeds een actueel thema. Wees daarom alert en laat je niet verrassen. Schaam je niet om te melden dat je slachtoffer bent geworden en doe aangifte. Het heeft zin. We blijven herhalen dat de politie nooit bij je aan de deur komt om kostbare spullen, documenten of bankpassen op te halen. Vraag bij twijfel altijd om een politielegitimatiebewijs en bel 112 om het te checken. Meer weten over de werkwijze van nepagenten en hoe je ze mogelijk kunt herkennen? Klik dan voor meer info op de link naar onze website: https://www.politie.nl/onderwerpen/nepagenten.html",
+    "scraped_at": "2026-05-23T06:17:20.901079Z",
+    "id": "b9489c325e7909e1f23170eb684d244844ccaea531ad3fc2a2a62116a1ba18cd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/22/09-nepagent-loopt-tegen-de-lamp.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De man werd op 20 oktober 2025 op heterdaad betrapt bij een oplichting in Heeze. Toen werd een ouder slachtoffer gebeld door een persoon die zich voordeed als medewerker van de politie. Deze liet zich echter niet beetnemen en belde direct 112. Vervolgens werden de twee verdachten uit Amsterdam in en rond de woning opgewacht door agenten en konden worden aangehouden. Daarop startte de politie een uitgebreid onderzoek naar de 26-jarige hoofdverdachte. In de tussentijd werd hij in vrijheid gesteld, maar bleef wel verdachte. Door zeer uitvoerig onderzoek van met name digitale specialisten van de politie is de man nu verdachte in 13 zaken. Daarbij richtte hij zich als nepagent voornamelijk op oudere en kwetsbare slachtoffers. Aanhouding Uiteindelijk is hij maandag 18 mei in zijn woning in Amsterdam aangehouden. Inmiddels is hij door het Openbaar Ministerie voorgeleid aan de rechter-commissaris. Die besloot dat hij in ieder geval nog twee weken langer vast moet zitten. Het onderzoek loopt. Wees Alert Helaas is oplichting door nepagenten nog steeds een actueel thema. Wees daarom alert en laat je niet verrassen. Schaam je niet om te melden dat je slachtoffer bent geworden en doe aangifte. Het heeft zin. We blijven herhalen dat de politie nooit bij je aan de deur komt om kostbare spullen, documenten of bankpassen op te halen. Vraag bij twijfel altijd om een politielegitimatiebewijs en bel 112 om het te checken. Meer weten over de werkwijze van nepagenten en hoe je ze mogelijk kunt herkennen? Klik dan voor meer info op de link naar onze website: https://www.politie.nl/onderwerpen/nepagenten.html",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304614602696039,
+    "sector_info": {
+      "sector_code": "47.19",
+      "sector_name": "Other retail sale in non-specialised stores"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      },
+      {
+        "company_name": "Alert",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47.19"
+    ]
+  },
+  "ceb28932d42ce5653291d7e3019ab1cb": {
+    "feed": "Politie.nl",
+    "title": "Twee mannen aangehouden voor phishing",
+    "url": "https://www.politie.nl/nieuws/2026/mei/22/pl1100---twee-mannen-aangehouden-voor-phishing.html",
+    "published": "Fri, 22 May 2026 11:42:00 GMT",
+    "summary": "Op maandag 19 mei heeft de politie twee 23-jarige mannen uit Bergschenhoek aangehouden in een onderzoek van het Team Cybercrime van Eenheid Noord-Holland.",
+    "full_text": "De mannen worden verdacht van het verkopen van zogenoemde phishingpanelen. Dit is een vorm van “Phishing as a Service” (PhaaS). Daarbij bieden criminelen kant-en-klare phishingwebsites en hulpmiddelen aan andere criminelen aan. Hierdoor kunnen ook mensen zonder technische kennis phishingaanvallen uitvoeren. Bij phishing worden slachtoffers misleid om persoonlijke gegevens, inlogcodes en bankgegevens in te vullen op nepwebsites. Criminelen gebruiken deze gegevens vervolgens om geld van bankrekeningen te stelen. De mannen uit Bergschenhoek worden ervan verdacht phishingpanelen te hebben verkocht gericht op banken uit heel Europa. Hiermee konden nepwebsites worden opgezet die sterk leken op echte bankwebsites. De phishingpanelen werden via sociale mediakanalen verkocht aan gebruikers in verschillende landen. De twee verdachten zitten momenteel vast en zijn verhoord. Nu zij zich hebben verantwoord tegenover de Nederlandse politie zijn zij overgeleverd aan België. Ook daar moeten zij zich tegenover de autoriteiten verantwoorden voor strafbare feiten. Het Nederlandse onderzoek naar de twee verdachten wordt voortgezet. Phishing Bij phishing draait het criminelen om één ding: op een laffe manier zoveel mogelijk gegevens verzamelen om uiteindelijk geld of goederen van slachtoffers afhandig te maken. De oplichters ‘vissen’ naar informatie die u geheim probeert te houden. Dat doen zij op verschillende manieren, zoals het sturen van links naar nepwebsites van banken, webshops of andere bekende bedrijven. Slachtoffers laten daar nietsvermoedend hun gegevens achter, waarna deze door criminelen worden misbruikt. Ter plaatse bij digitale criminaliteit De politie komt ook ter plaatse bij online criminaliteit. Denk daarbij aan bankhelpdeskfraude, telefonische helpdeskfraude, hulpvraagfraude, beleggingsfraude, (bank)phishing en wraakporno/sextortion. Slachtoffers zijn vaak erg geschrokken of schamen zich. De politie kan helpen bij het doen van aangifte en het veiligstellen van digitale sporen voor het onderzoek. Bent u slachtoffer geworden van phishing? Doe aangifte, u hoeft zich niet te schamen. Dit kan iedereen overkomen. Meer weten? Direct hulp bij digitale criminaliteit Wat is phishing? Wat is phishing? Aangifte doen van phishing? Aangifte doen van phishing",
+    "scraped_at": "2026-05-23T06:17:20.902620Z",
+    "id": "f1b155c8e4fc03355fdbac12d26df594ac9fe82153fa93f8a4a03e02ff6e307f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/22/pl1100---twee-mannen-aangehouden-voor-phishing.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De mannen worden verdacht van het verkopen van zogenoemde phishingpanelen. Dit is een vorm van “Phishing as a Service” (PhaaS). Daarbij bieden criminelen kant-en-klare phishingwebsites en hulpmiddelen aan andere criminelen aan. Hierdoor kunnen ook mensen zonder technische kennis phishingaanvallen uitvoeren. Bij phishing worden slachtoffers misleid om persoonlijke gegevens, inlogcodes en bankgegevens in te vullen op nepwebsites. Criminelen gebruiken deze gegevens vervolgens om geld van bankrekeningen te stelen. De mannen uit Bergschenhoek worden ervan verdacht phishingpanelen te hebben verkocht gericht op banken uit heel Europa. Hiermee konden nepwebsites worden opgezet die sterk leken op echte bankwebsites. De phishingpanelen werden via sociale mediakanalen verkocht aan gebruikers in verschillende landen. De twee verdachten zitten momenteel vast en zijn verhoord. Nu zij zich hebben verantwoord tegenover de Nederlandse politie zijn zij overgeleverd aan België. Ook daar moeten zij zich tegenover de autoriteiten verantwoorden voor strafbare feiten. Het Nederlandse onderzoek naar de twee verdachten wordt voortgezet. Phishing Bij phishing draait het criminelen om één ding: op een laffe manier zoveel mogelijk gegevens verzamelen om uiteindelijk geld of goederen van slachtoffers afhandig te maken. De oplichters ‘vissen’ naar informatie die u geheim probeert te houden. Dat doen zij op verschillende manieren, zoals het sturen van links naar nepwebsites van banken, webshops of andere bekende bedrijven. Slachtoffers laten daar nietsvermoedend hun gegevens achter, waarna deze door criminelen worden misbruikt. Ter plaatse bij digitale criminaliteit De politie komt ook ter plaatse bij online criminaliteit. Denk daarbij aan bankhelpdeskfraude, telefonische helpdeskfraude, hulpvraagfraude, beleggingsfraude, (bank)phishing en wraakporno/sextortion. Slachtoffers zijn vaak erg geschrokken of schamen zich. De politie kan helpen bij het doen van aangifte en het veiligstellen van digitale sporen voor het onderzoek. Bent u slachtoffer geworden van phishing? Doe aangifte, u hoeft zich niet te schamen. Dit kan iedereen overkomen. Meer weten? Direct hulp bij digitale criminaliteit Wat is phishing? Wat is phishing? Aangifte doen van phishing? Aangifte doen van phishing",
+    "locations": [
+      "België"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "België",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.729085593901911,
+    "sme_probability": 0.7727529211280726,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "279532fd448702d8cd610bd7d7d8d7a6": {
+    "feed": "Politie.nl",
+    "title": "Man overleden na aanrijding met trein op station Bijlmer Arena",
+    "url": "https://www.politie.nl/nieuws/2026/mei/22/05-man-overleden-na-aanrijding-met-trein-op-station-bijlmer-arena.html",
+    "published": "Fri, 22 May 2026 11:05:00 GMT",
+    "summary": "Een 68-jarige man uit Den Haag is op donderdagmiddag 21 mei overleden na een aanrijding met een trein op station Bijlmer Arena. Door de aanzuigkracht van een passerende trein is de man zwaargewond geraakt.",
+    "full_text": "Iets voor 15.00 uur krijgen hulpdiensten meldingen van het incident. Ter plaatse treffen hulpverleners het slachtoffer aan. Er wordt direct eerste hulpverleend, maar dit mag helaas niet baten. De man overlijdt ter plaatse aan zijn verwondingen. Noodlottig ongeval Volgens onderzoek gaat het om een noodlottig ongeval. Een misdrijf kan worden uitgesloten. Slachtofferhulp voor getuigen Meerdere mensen zijn getuige geweest van het ongeval. De politie vangt zoveel mogelijk getuigen op en brengt hen in contact met Slachtofferhulp Nederland. Getuigen kunnen ook zelfstandig contact opnemen met Slachtofferhulp voor ondersteuning.",
+    "scraped_at": "2026-05-23T06:17:20.902891Z",
+    "id": "1d4df5d6985e04091d45a179ba26c72a34ae26791d3db79d4a644bb6f4708bd4",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/22/05-man-overleden-na-aanrijding-met-trein-op-station-bijlmer-arena.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Iets voor 15.00 uur krijgen hulpdiensten meldingen van het incident. Ter plaatse treffen hulpverleners het slachtoffer aan. Er wordt direct eerste hulpverleend, maar dit mag helaas niet baten. De man overlijdt ter plaatse aan zijn verwondingen. Noodlottig ongeval Volgens onderzoek gaat het om een noodlottig ongeval. Een misdrijf kan worden uitgesloten. Slachtofferhulp voor getuigen Meerdere mensen zijn getuige geweest van het ongeval. De politie vangt zoveel mogelijk getuigen op en brengt hen in contact met Slachtofferhulp Nederland. Getuigen kunnen ook zelfstandig contact opnemen met Slachtofferhulp voor ondersteuning.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "39205bd5cc8c72e2a9b25da935f3b844": {
+    "feed": "Politie.nl",
+    "title": "Aanhoudingen in onderzoek naar criminele witwasorganisatie",
+    "url": "https://www.politie.nl/nieuws/2026/mei/22/aanhoudingen-in-onderzoek-naar-criminele-witwasorganisatie.html",
+    "published": "Fri, 22 May 2026 09:25:00 GMT",
+    "summary": "In een onderzoek naar een criminele witwasorganisatie heeft de Eenheid Landelijke Opsporing, onder gezag van het Landelijk Parket, op dinsdag 19 mei twee verdachten aangehouden in Rotterdam. Het echtpaar wordt ervan verdacht grote geldbedragen wit te wassen vanuit een Surinaamse toko. Ook zijn er vier doorzoekingen in Rotterdam gedaan. Op 21 mei is aanvullend nog een doorzoeking gedaan in Amsterdam, waarbij ook contant geld is aangetroffen.",
+    "full_text": "De aangehouden personen zijn een 51-jarige man en een 42-jarige vrouw. Zij zijn de eigenaren van de onderneming in Surinaamse gerechten en worden ervan verdacht zich de schuldig gemaakt te hebben aan witwassen. Uit het politieonderzoek ontstond het vermoeden dat men vanuit deze onderneming onder meer cryptovaluta kon omwisselen voor contant geld. Het contante geld werd, om niet op te vallen, vermoedelijk meegegeven in tasjes van de Surinaamse toko. In de keuken van het restaurant werd een geldtelmachine aangetroffen. Verder werden bij de vier doorzoekingen in het Rotterdamse restaurant, de woning van de verdachten, de woning van de vader van de hoofdverdachte en in een opslag, mobiele telefoons, laptop en in totaal rond de 13.000 euro aan contant geld in beslag genomen. In Amsterdam werd een aanvullende doorzoeking gedaan bij een reisbureau, waarbij ruim 12.000 euro aan contant geld, administratie en telefoons in beslag zijn genomen. De mannelijke verdachte zit vast en wordt vrijdagmiddag 22 mei voorgeleid aan de rechter-commissaris. De vrouw is heengezonden, maar blijft verdachte in het onderzoek. Ondergronds bankieren Geld is de drijfveer van bijna elke vorm van criminaliteit. Criminele geldstromen zijn nodig om criminele netwerken en activiteiten te onderhouden. Het (ondergronds) verplaatsen van misdaadgeld is daarom van groot belang voor het laten draaien van de internationaal opererende georganiseerde misdaad. Ondergronds bankieren is een vorm van georganiseerde criminaliteit waarbij binnen een netwerk van ondergronds bankiers grote hoeveelheden contant geld worden verplaatst of omgezet in cryptovaluta. Dit geld is voornamelijk afkomstig uit drughandel en wordt gebruikt voor investeringen in vermogen of criminele activiteiten. Via het netwerk van ondergronds bankiers kan overal ter wereld een betaling plaatsvinden zonder dat het geld fysiek de grens over hoeft te gaan. Een ondergronds bankier is daarmee een sleutelfiguur, een cruciale schakel, in de georganiseerde misdaad. Ondergronds bankiers zijn onderdeel van een criminele organisatie en houden zich bezig met witwasactiviteiten. Vermenging onderwereld en bovenwereld Ondermijnende criminaliteit gaat over de vermenging tussen de onderwereld en de bovenwereld. Criminelen misbruiken burgers, ondernemers en dienstverleners voor hun eigen gewin. Dit ondermijnt de rechtsstaat en vormt een bedreiging voor de veiligheid. In woonwijken kunnen bewoners geconfronteerd worden met intimidatie, afpersing, geweld, explosies, en risico’s zoals brand door drugslabs of milieuvervuiling door drugsdumpingen. Jij kunt helpen door verdachte situaties in je omgeving te melden. Lees meer over hoe jij kunt helpen op houdmisdaaduitjebuurt.nl.",
+    "scraped_at": "2026-05-23T06:17:20.903441Z",
+    "id": "5eb8237f4e106a7e8b50b5a5e092c24e58da7df58649f61a076a7c72afa2b0b6",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/22/aanhoudingen-in-onderzoek-naar-criminele-witwasorganisatie.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De aangehouden personen zijn een 51-jarige man en een 42-jarige vrouw. Zij zijn de eigenaren van de onderneming in Surinaamse gerechten en worden ervan verdacht zich de schuldig gemaakt te hebben aan witwassen. Uit het politieonderzoek ontstond het vermoeden dat men vanuit deze onderneming onder meer cryptovaluta kon omwisselen voor contant geld. Het contante geld werd, om niet op te vallen, vermoedelijk meegegeven in tasjes van de Surinaamse toko. In de keuken van het restaurant werd een geldtelmachine aangetroffen. Verder werden bij de vier doorzoekingen in het Rotterdamse restaurant, de woning van de verdachten, de woning van de vader van de hoofdverdachte en in een opslag, mobiele telefoons, laptop en in totaal rond de 13.000 euro aan contant geld in beslag genomen. In Amsterdam werd een aanvullende doorzoeking gedaan bij een reisbureau, waarbij ruim 12.000 euro aan contant geld, administratie en telefoons in beslag zijn genomen. De mannelijke verdachte zit vast en wordt vrijdagmiddag 22 mei voorgeleid aan de rechter-commissaris. De vrouw is heengezonden, maar blijft verdachte in het onderzoek. Ondergronds bankieren Geld is de drijfveer van bijna elke vorm van criminaliteit. Criminele geldstromen zijn nodig om criminele netwerken en activiteiten te onderhouden. Het (ondergronds) verplaatsen van misdaadgeld is daarom van groot belang voor het laten draaien van de internationaal opererende georganiseerde misdaad. Ondergronds bankieren is een vorm van georganiseerde criminaliteit waarbij binnen een netwerk van ondergronds bankiers grote hoeveelheden contant geld worden verplaatst of omgezet in cryptovaluta. Dit geld is voornamelijk afkomstig uit drughandel en wordt gebruikt voor investeringen in vermogen of criminele activiteiten. Via het netwerk van ondergronds bankiers kan overal ter wereld een betaling plaatsvinden zonder dat het geld fysiek de grens over hoeft te gaan. Een ondergronds bankier is daarmee een sleutelfiguur, een cruciale schakel, in de georganiseerde misdaad. Ondergronds bankiers zijn onderdeel van een criminele organisatie en houden zich bezig met witwasactiviteiten. Vermenging onderwereld en bovenwereld Ondermijnende criminaliteit gaat over de vermenging tussen de onderwereld en de bovenwereld. Criminelen misbruiken burgers, ondernemers en dienstverleners voor hun eigen gewin. Dit ondermijnt de rechtsstaat en vormt een bedreiging voor de veiligheid. In woonwijken kunnen bewoners geconfronteerd worden met intimidatie, afpersing, geweld, explosies, en risico’s zoals brand door drugslabs of milieuvervuiling door drugsdumpingen. Jij kunt helpen door verdachte situaties in je omgeving te melden. Lees meer over hoe jij kunt helpen op houdmisdaaduitjebuurt.nl.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.7071355618229913,
+    "sme_probability": 0.8042889417341504,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "telefoons",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
