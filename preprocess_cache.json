@@ -60714,5 +60714,73 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "864ad227fc8f046a165352f5660db82c": {
+    "feed": "Politie.nl",
+    "title": "Vrouw komt om het leven na te water raken in Roermond",
+    "url": "https://www.politie.nl/nieuws/2026/mei/24/vrouw-komt-om-het-leven-na-te-water-raken-in-roermond.html",
+    "published": "Sun, 24 May 2026 06:36:00 GMT",
+    "summary": "Politie kreeg rond 05:00 uur in de nacht van zaterdag op zondag 24 mei de melding dat een persoon mogelijk in het water was gevallen bij jachthaven Hatenboer in Roermond.",
+    "full_text": "Na een korte zoekactie is een lichaam aangetroffen in het water. Het gaat om een 98-jarige vrouw uit Duitsland. Helaas kwam hulp te laat en bleek de vrouw al overleden te zijn. De politie gaat uit van een noodlottig ongeval.",
+    "scraped_at": "2026-05-24T06:41:18.146712Z",
+    "id": "8131602721e9227ce438270160975f5a8c5864adef4af41a136257c985797013",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/24/vrouw-komt-om-het-leven-na-te-water-raken-in-roermond.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Na een korte zoekactie is een lichaam aangetroffen in het water. Het gaat om een 98-jarige vrouw uit Duitsland. Helaas kwam hulp te laat en bleek de vrouw al overleden te zijn. De politie gaat uit van een noodlottig ongeval.",
+    "locations": [
+      "Duitsland"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Duitsland",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "a42a4b702ee6289f8cb50b3019b9fd3d": {
+    "feed": "Politie.nl",
+    "title": "22-jarige automobilist overleden bij verkeersongeval in Beverwijk",
+    "url": "https://www.politie.nl/nieuws/2026/mei/23/22-jarige-automobilist-overleden-bij-verkeersongeval-in-beverwijk.html",
+    "published": "Sat, 23 May 2026 13:45:00 GMT",
+    "summary": "Op zaterdag 23 mei 2026 rond 11.10 uur vond een ernstig ongeval plaats tussen een vrachtwagen en een auto op de Kanaalweg in Beverwijk. Hierbij is de bestuurder van de auto, een 22-jarige man uit Haarlem, komen te overlijden. De politie onderzoekt de toedracht van het verkeersongeval.",
+    "full_text": "Na het ongeval werd bij het slachtoffer medische hulp verleend. Helaas mocht dit niet meer baten. De rol van de vrachtwagenchauffeur is, volgens procedure, in onderzoek. Getuigenoproep Bent u getuige geweest? Of beschikt u over relevant beeldmateriaal (foto’s of video’s) van de situatie? Neem dan contact met ons op. Dat kan via onderstaand tipformulier. Ook kunt u bellen met 0900-8844. Slachtofferhulp Het meemaken van een verkeersongeval is zeer ingrijpend. Daarom kunt u als getuige of omstander bij Slachtofferhulp terecht voor steun. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp een bericht achter met verzoek tot contact. U kunt ook contact opnemen met de politie via nummer 0900-8844. Hier kunt u ook uw gegevens achterlaten, waarna slachtofferhulp Nederland contact met u zal opnemen.",
+    "scraped_at": "2026-05-24T06:41:18.147665Z",
+    "id": "092008f7c242bbcfe7ae8a643c101b922128db0799e1829834bfdac50332162d",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/23/22-jarige-automobilist-overleden-bij-verkeersongeval-in-beverwijk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Na het ongeval werd bij het slachtoffer medische hulp verleend. Helaas mocht dit niet meer baten. De rol van de vrachtwagenchauffeur is, volgens procedure, in onderzoek. Getuigenoproep Bent u getuige geweest? Of beschikt u over relevant beeldmateriaal (foto’s of video’s) van de situatie? Neem dan contact met ons op. Dat kan via onderstaand tipformulier. Ook kunt u bellen met 0900-8844. Slachtofferhulp Het meemaken van een verkeersongeval is zeer ingrijpend. Daarom kunt u als getuige of omstander bij Slachtofferhulp terecht voor steun. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp een bericht achter met verzoek tot contact. U kunt ook contact opnemen met de politie via nummer 0900-8844. Hier kunt u ook uw gegevens achterlaten, waarna slachtofferhulp Nederland contact met u zal opnemen.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
   }
 }
