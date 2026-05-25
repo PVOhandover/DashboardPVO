@@ -60782,5 +60782,40 @@
     "all_sectors_in_article": [
       "49-53"
     ]
+  },
+  "7f3fa914016fadec6273d7272e8a96ae": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws zondag 24 mei: Politie lost waarschuwingsschoten in Ter Apelkanaal na negeren stopteken",
+    "url": "https://www.rtvnoord.nl/112/1407460/112-nieuws-zondag-24-mei-politie-lost-waarschuwingsschoten-in-ter-apelkanaal-na-negeren-stopteken",
+    "published": "Sun, 24 May 2026 20:43:39 GMT",
+    "summary": "In dit 112-blog houden we je deze zondag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De politie heeft zondagavond rond kwart over zeven twee waarschuwingsschoten gelost op de Avebeweg in Ter Apelkanaal. Dat gebeurde nadat de bestuurders van twee motorvoertuigen een stopteken hadden genegerd. De twee gingen er vervolgens vandoor, waarna de achtervolging werd ingezet. Toen de politie de twee aantrof, verzetten ze zich tegen hun aanhouding. Daarop zag de politie zich genoodzaakt de waarschuwingsschoten te lossen. De twee zijn overgebracht naar het cellencomplex in Stad.",
+    "scraped_at": "2026-05-25T07:20:56.310800Z",
+    "id": "06588af63b1e8407a71ef29da08d896514e4a790598a62b08fc28bdc23a1868a",
+    "canonical_url": "https://www.rtvnoord.nl/112/1407460/112-nieuws-zondag-24-mei-politie-lost-waarschuwingsschoten-in-ter-apelkanaal-na-negeren-stopteken",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft zondagavond rond kwart over zeven twee waarschuwingsschoten gelost op de Avebeweg in Ter Apelkanaal. Dat gebeurde nadat de bestuurders van twee motorvoertuigen een stopteken hadden genegerd. De twee gingen er vervolgens vandoor, waarna de achtervolging werd ingezet. Toen de politie de twee aantrof, verzetten ze zich tegen hun aanhouding. Daarop zag de politie zich genoodzaakt de waarschuwingsschoten te lossen. De twee zijn overgebracht naar het cellencomplex in Stad.",
+    "locations": [
+      "Ter Apelkanaal"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apelkanaal",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
