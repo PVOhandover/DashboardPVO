@@ -60817,5 +60817,41 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "f1eb1161c493d421be0461bb995b7669": {
+    "feed": "RTV Noord",
+    "title": "Man uit gemeente Westerwolde vast na bedreiging van agenten",
+    "url": "https://www.rtvnoord.nl/112/1407596/man-uit-gemeente-westerwolde-vast-na-bedreiging-van-agenten",
+    "published": "Mon, 25 May 2026 10:57:32 GMT",
+    "summary": "Een 45-jarige man uit de gemeente Westerwolde is zondagavond opgepakt, nadat hij dreigde een bierflesje naar agenten te gooien. Een 30-jarige man uit Emmer-Compascuum bedreigde tegelijkertijd een agent met een bijl. Dit vond plaats in Ter Apelkanaal, waarna de politie zich genoodzaakt zag waarschuwingsschoten te lossen.",
+    "full_text": "Een 45-jarige man uit de gemeente Westerwolde is zondagavond opgepakt, nadat hij dreigde een bierflesje naar agenten te gooien. Een 30-jarige man uit Emmer-Compascuum bedreigde tegelijkertijd een agent met een bijl. Dit vond plaats in Ter Apelkanaal, waarna de politie zich genoodzaakt zag waarschuwingsschoten te lossen.",
+    "scraped_at": "2026-05-26T06:53:44.038329Z",
+    "id": "dfc4fce3f8c5b4747dd8903b8145292ea89215a4a706050e8614eaab6488c64a",
+    "canonical_url": "https://www.rtvnoord.nl/112/1407596/man-uit-gemeente-westerwolde-vast-na-bedreiging-van-agenten",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een 45-jarige man uit de gemeente Westerwolde is zondagavond opgepakt, nadat hij dreigde een bierflesje naar agenten te gooien. Een 30-jarige man uit Emmer-Compascuum bedreigde tegelijkertijd een agent met een bijl. Dit vond plaats in Ter Apelkanaal, waarna de politie zich genoodzaakt zag waarschuwingsschoten te lossen.",
+    "locations": [
+      "gemeente Westerwolde",
+      "Ter Apelkanaal"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apelkanaal",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
