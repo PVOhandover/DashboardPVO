@@ -1410,5 +1410,9 @@
   "Ter Apelkanaal": {
     "lat": 52.9093231,
     "lon": 7.0482534
+  },
+  "Hazerswoude-Rijndijk": {
+    "lat": 52.1269925,
+    "lon": 4.5922382
   }
 }

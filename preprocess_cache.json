@@ -60853,5 +60853,97 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "3f3dc7ea4204a66f255e97265c4d16bf": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in onderzoek naar liquidatie Zwolle",
+    "url": "https://www.politie.nl/nieuws/2026/mei/26/02-aanhouding-in-onderzoek-naar-liquidatie-zwolle.html",
+    "published": "Tue, 26 May 2026 20:20:00 GMT",
+    "summary": "Op dinsdag 26 mei is een 51-jarige man uit Zwolle aangehouden op verdenking van betrokkenheid bij de liquidatie aan de Vondelkade in Zwolle. Een 34-jarige man werd op zondagavond 22 februari neergeschoten en overleed ter plekke.",
+    "full_text": "De verdachte zit in volledige beperkingen en daarom zijn we terughoudend met het delen van verdere informatie. Het onderzoek gaat door en meer aanhoudingen worden niet uitgesloten. Vanaf 22 februari werkte een Team Grootschalige Opsporing onophoudelijk aan dit onderzoek. Vorige week maakten we bekend dat het gebruikte vuurwapen was gevonden en zijn op verschillende plekken in Zwolle flyers uitgedeeld om in contact te komen met inwoners van Zwolle die mogelijk over informatie beschikten. Ook werd in het opsporingsprogramma Plaats Delict aandacht aan deze zaak besteed. Naar aanleiding van alle aandacht zijn verschillende tips binnengekomen over de gezochte scooter waar de schutters op reden, en zijn ook namen genoemd van mogelijke betrokkenen. Getuigen worden nog gezocht Ondanks de aanhouding gaat het onderzoek verder. Het onderzoeksteam wil nog graag in contact komen met drie getuigen die op de bewuste avond de verdachten mogelijk hebben gezien. Kijk hier voor het item in Plaats Delict en de vragen die we nog hebben. Meer mensen moeten iets weten, deel je informatie nu! Het onderzoeksteam bedankt iedereen die informatie heeft gedeeld en roept iedereen die informatie heeft, maar nog niet met de politie heeft gesproken, dat nu te doen. Informatie delen kan via deze pagina, of anoniem via 0800-7000 of www.meldmisdaadanoniem.nl .",
+    "scraped_at": "2026-05-27T07:08:47.636256Z",
+    "id": "3441c3f6b7255268bb584758af943d0721a62a30a9c40270f106ee543d9bf9d1",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/26/02-aanhouding-in-onderzoek-naar-liquidatie-zwolle.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De verdachte zit in volledige beperkingen en daarom zijn we terughoudend met het delen van verdere informatie. Het onderzoek gaat door en meer aanhoudingen worden niet uitgesloten. Vanaf 22 februari werkte een Team Grootschalige Opsporing onophoudelijk aan dit onderzoek. Vorige week maakten we bekend dat het gebruikte vuurwapen was gevonden en zijn op verschillende plekken in Zwolle flyers uitgedeeld om in contact te komen met inwoners van Zwolle die mogelijk over informatie beschikten. Ook werd in het opsporingsprogramma Plaats Delict aandacht aan deze zaak besteed. Naar aanleiding van alle aandacht zijn verschillende tips binnengekomen over de gezochte scooter waar de schutters op reden, en zijn ook namen genoemd van mogelijke betrokkenen. Getuigen worden nog gezocht Ondanks de aanhouding gaat het onderzoek verder. Het onderzoeksteam wil nog graag in contact komen met drie getuigen die op de bewuste avond de verdachten mogelijk hebben gezien. Kijk hier voor het item in Plaats Delict en de vragen die we nog hebben. Meer mensen moeten iets weten, deel je informatie nu! Het onderzoeksteam bedankt iedereen die informatie heeft gedeeld en roept iedereen die informatie heeft, maar nog niet met de politie heeft gesproken, dat nu te doen. Informatie delen kan via deze pagina, of anoniem via 0800-7000 of www.meldmisdaadanoniem.nl .",
+    "locations": [
+      "Zwolle"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zwolle",
+        "NL"
+      ],
+      [
+        "Zwolle",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Team Grootschalige",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Plaats Delict",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "70027880f91c1d0c60b73a43511a063e": {
+    "feed": "Politie.nl",
+    "title": "Getuigen gezocht: brandstichting fabriek Hazerswoude-Rijndijk",
+    "url": "https://www.politie.nl/nieuws/2026/mei/26/06-getuigen-gezocht.html",
+    "published": "Tue, 26 May 2026 13:37:00 GMT",
+    "summary": "Van vrijdag 22 op zaterdag 23 mei heeft er in de nacht een brand gewoed in een fabriek in Hazerswoude-Rijndijk. Bij het incident raakte niemand gewond, wel is er schade ontstaan aan het pand. De politie is op zoek naar getuigen.",
+    "full_text": "Rond 1:30 kwam de melding binnen. De politie gaat uit van brandstichting en doet verder onderzoek. Getuigen gezocht Op de beelden is ook te zien dat er tijdens de brand fietsers langsrijden. We zijn dus op zoek naar die specifieke getuigen die zaterdag 23 mei rond 1:30 langs de Rijndijk in Hazerswoude-Rijndijk fietsten en mogelijk iets hebben gezien. Ook komt de politie graag in contact met mensen die in het bezit zijn van camerabeelden, denk bijvoorbeeld aan een beveiligingscamera of dashcam uit de omgeving waarop iets verdachts te zien is. Beschikt u over informatie of beelden? Deel deze dan met ons via het tipformulier. Of neem telefonisch contact met ons op. Dat kan via de tiplijn en Meld Misdaad Anoniem.",
+    "scraped_at": "2026-05-27T07:08:47.638314Z",
+    "id": "d57635ba0f935200c5fec04431ae4f2a0d0bb90c7da6d7ee1370c816ec1440a1",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/26/06-getuigen-gezocht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 1:30 kwam de melding binnen. De politie gaat uit van brandstichting en doet verder onderzoek. Getuigen gezocht Op de beelden is ook te zien dat er tijdens de brand fietsers langsrijden. We zijn dus op zoek naar die specifieke getuigen die zaterdag 23 mei rond 1:30 langs de Rijndijk in Hazerswoude-Rijndijk fietsten en mogelijk iets hebben gezien. Ook komt de politie graag in contact met mensen die in het bezit zijn van camerabeelden, denk bijvoorbeeld aan een beveiligingscamera of dashcam uit de omgeving waarop iets verdachts te zien is. Beschikt u over informatie of beelden? Deel deze dan met ons via het tipformulier. Of neem telefonisch contact met ons op. Dat kan via de tiplijn en Meld Misdaad Anoniem.",
+    "locations": [
+      "Hazerswoude-Rijndijk"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hazerswoude-Rijndijk",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
