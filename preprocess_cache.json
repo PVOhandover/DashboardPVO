@@ -60945,5 +60945,112 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "f708e27dc7011aebad3f1f166c8c5b09": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws woensdag 27 mei: Auto belandt in water na achtervolging in Delfzijl: twee aanhoudingen",
+    "url": "https://www.rtvnoord.nl/112/1408014/112-nieuws-woensdag-27-mei-auto-belandt-in-water-na-achtervolging-in-delfzijl-twee-aanhoudingen",
+    "published": "Wed, 27 May 2026 21:59:37 GMT",
+    "summary": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Aan de Kustweg in Delfzijl is een voertuig te water geraakt. Onder andere brandweer, ambulance, het Mobiel Medisch Team (MMT) als politie kwamen ter plaatse. Er zijn twee aanhoudingen verricht. De politie wilde in Delfzijl een bestuurder van een auto controleren, maar die ging ervandoor na een stopteken. Vervolgens verloor de bestuurder op hoge snelheid de macht over het stuur en belandde het voertuig in het water. Uiteindelijk konden twee personen aangehouden worden. Volgens een woordvoerder van de politie was er onduidelijkheid over een eventuele derde inzittende. Er is daarom in het water gezocht. De politie denkt vooralsnog dat het om twee betrokkenen bij het incident gaat. Die zijn dus allebei aangehouden.",
+    "scraped_at": "2026-05-28T06:59:57.990748Z",
+    "id": "1912124b40692d7b848a97f531b881df36d56b568e853ed70dd5764c79cb44ec",
+    "canonical_url": "https://www.rtvnoord.nl/112/1408014/112-nieuws-woensdag-27-mei-auto-belandt-in-water-na-achtervolging-in-delfzijl-twee-aanhoudingen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Aan de Kustweg in Delfzijl is een voertuig te water geraakt. Onder andere brandweer, ambulance, het Mobiel Medisch Team (MMT) als politie kwamen ter plaatse. Er zijn twee aanhoudingen verricht. De politie wilde in Delfzijl een bestuurder van een auto controleren, maar die ging ervandoor na een stopteken. Vervolgens verloor de bestuurder op hoge snelheid de macht over het stuur en belandde het voertuig in het water. Uiteindelijk konden twee personen aangehouden worden. Volgens een woordvoerder van de politie was er onduidelijkheid over een eventuele derde inzittende. Er is daarom in het water gezocht. De politie denkt vooralsnog dat het om twee betrokkenen bij het incident gaat. Die zijn dus allebei aangehouden.",
+    "locations": [
+      "Delfzijl"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Delfzijl",
+        "NL"
+      ],
+      [
+        "Delfzijl",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Mobiel Medisch Team",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "MMT",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "e3322ac1d1fb235403270fd6a07d6233": {
+    "feed": "Politie.nl",
+    "title": "Nodige bestuurders onder invloed, blijkt tijdens controle in Apeldoorn",
+    "url": "https://www.politie.nl/nieuws/2026/mei/27/02-nodige-bestuurders-onder-invloed-blijkt-tijdens-controle-in-apeldoorn.html",
+    "published": "Wed, 27 May 2026 12:16:00 GMT",
+    "summary": "De politie heeft dinsdagmiddag- en avond een grote verkeerscontrole gehouden in de omgeving van Sportpark Orderbos in Apeldoorn. In totaal werden er zo’n 165 voertuigen gecontroleerd. Zeven automobilisten bleken vermoedelijk onder invloed.",
+    "full_text": "In zes van de zeven gevallen ging het om een positieve speekseltest. Deze test op het gebruik van verdovende middelen. Op locatie zijn de automobilisten aangehouden, voorgeleid en is er direct bloed afgenomen. Uit dat bloedonderzoek moeten definitieve waardes blijken. Auto in beslag genomen In één geval ging het om rijden onder invloed van alcohol. Een 52-jarige man uit Apeldoorn blies uiteindelijk 520 ug/l bij de zogenoemde ademanalyse. De man reed verder met een ongeldig verklaard rijbewijs. Aangezien hij al meerdere, recente antecedenten had op het gebied van rijden onder invloed, werd zijn voertuig in beslag genomen. Naast de politie waren ook de Koninklijke Marechaussee, gemeentelijke handhaving, Douane en de Belastingdienst bij de controle betrokken. Die startte rond 14.30 uur en eindigde rond 22.00 uur. Verkeersovertredingen Bij twee gecontroleerde automobilisten werd een kleine hoeveelheid softdrugs in beslag genomen. Verder werd er voor verschillende verkeersovertredingen bekeurd. Denk aan het rijden met de mobiele telefoon in de hand (tien keer, waarvan één fietser), het niet dragen van de gordel (acht keer), snelheid (vier keer) en rijden zonder rijbewijs (één keer).",
+    "scraped_at": "2026-05-28T06:59:07.472281Z",
+    "id": "2eb660ac9bf6148882dd68f8d81b58b69efe9ede88a20688a7f233a5e6f8e2b2",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/27/02-nodige-bestuurders-onder-invloed-blijkt-tijdens-controle-in-apeldoorn.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In zes van de zeven gevallen ging het om een positieve speekseltest. Deze test op het gebruik van verdovende middelen. Op locatie zijn de automobilisten aangehouden, voorgeleid en is er direct bloed afgenomen. Uit dat bloedonderzoek moeten definitieve waardes blijken. Auto in beslag genomen In één geval ging het om rijden onder invloed van alcohol. Een 52-jarige man uit Apeldoorn blies uiteindelijk 520 ug/l bij de zogenoemde ademanalyse. De man reed verder met een ongeldig verklaard rijbewijs. Aangezien hij al meerdere, recente antecedenten had op het gebied van rijden onder invloed, werd zijn voertuig in beslag genomen. Naast de politie waren ook de Koninklijke Marechaussee, gemeentelijke handhaving, Douane en de Belastingdienst bij de controle betrokken. Die startte rond 14.30 uur en eindigde rond 22.00 uur. Verkeersovertredingen Bij twee gecontroleerde automobilisten werd een kleine hoeveelheid softdrugs in beslag genomen. Verder werd er voor verschillende verkeersovertredingen bekeurd. Denk aan het rijden met de mobiele telefoon in de hand (tien keer, waarvan één fietser), het niet dragen van de gordel (acht keer), snelheid (vier keer) en rijden zonder rijbewijs (één keer).",
+    "locations": [
+      "Apeldoorn"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Apeldoorn",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Auto",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koninklijke Marechaussee",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Belastingdienst",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82",
+      "not_affected"
+    ]
   }
 }

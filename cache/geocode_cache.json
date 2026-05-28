@@ -1414,5 +1414,9 @@
   "Hazerswoude-Rijndijk": {
     "lat": 52.1269925,
     "lon": 4.5922382
+  },
+  "Delfzijl": {
+    "lat": 53.3325644,
+    "lon": 6.9135144
   }
 }
