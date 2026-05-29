@@ -61052,5 +61052,306 @@
       "69-82",
       "not_affected"
     ]
+  },
+  "b5d998c2edc2f460b5da8da7ea4b8026": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Europese Commissie onderzoekt Chinese staatssteun bij overname",
+    "url": "https://nos.nl/l/2616221",
+    "published": "Thu, 28 May 2026 19:24:50 +0200",
+    "summary": "<p>Het Chinese bedrijf JD.com heeft mogelijk financiële steun ontvangen van China voor een overname op de Europese markt. Dat vermoedt de Europese Commissie na een eerste onderzoek. De Commissie start nu een dieper onderzoek naar de overname.</p>\n        <p>JD.com deed vorig jaar een bod om Ceconomy over te nemen, een Duits retailbedrijf waar onder andere Mediamarkt onder valt. Uit <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1164\">het onderzoek</a> van de Commissie blijkt dat het bedrijf mogelijk overheidssteun heeft gekregen in de vorm van gunstige leningen, belastingvoordelen en subsidies.</p>\n        <p>Dat zou ervoor hebben gezorgd dat JD.com een hoog overnamebod kon doen. Bij de Commissie zijn ook zorgen over verstoring van de interne markt.</p>\n        <h2>Nog niet goedgekeurd</h2>\n        <p>Uit het diepere onderzoek dat de Commissie is gestart moet blijken of daadwerkelijk sprake is van Chinese overheidssteun en of dat een negatieve impact heeft op de interne Europese markt.</p>\n        <p>Het overnamebod van 2,2 miljard euro is nog niet goedgekeurd door de Europese Commissie.</p>\n        <p>Uiterlijk in oktober moet het diepere onderzoek zijn afgerond. De Commissie heeft dan drie opties. Wel of juist geen bezwaar maken tegen de overname, met als derde optie de overname laten doorgaan als JD.com oplossingen biedt voor de bezwaren van de Commissie.</p>",
+    "full_text": "NOS Nieuws • gisteren, 19:24 Het Chinese bedrijf JD.com heeft mogelijk financiële steun ontvangen van China voor een overname op de Europese markt. Dat vermoedt de Europese Commissie na een eerste onderzoek. De Commissie start nu een dieper onderzoek naar de overname. JD.com deed vorig jaar een bod om Ceconomy over te nemen, een Duits retailbedrijf waar onder andere Mediamarkt onder valt. Uit het onderzoek (opent in nieuw venster) van de Commissie blijkt dat het bedrijf mogelijk overheidssteun heeft gekregen in de vorm van gunstige leningen, belastingvoordelen en subsidies. Dat zou ervoor hebben gezorgd dat JD.com een hoog overnamebod kon doen. Bij de Commissie zijn ook zorgen over verstoring van de interne markt. Nog niet goedgekeurd Uit het diepere onderzoek dat de Commissie is gestart moet blijken of daadwerkelijk sprake is van Chinese overheidssteun en of dat een negatieve impact heeft op de interne Europese markt. Het overnamebod van 2,2 miljard euro is nog niet goedgekeurd door de Europese Commissie. Uiterlijk in oktober moet het diepere onderzoek zijn afgerond. De Commissie heeft dan drie opties. Wel of juist geen bezwaar maken tegen de overname, met als derde optie de overname laten doorgaan als JD.com oplossingen biedt voor de bezwaren van de Commissie.",
+    "scraped_at": "2026-05-29T06:58:37.489699Z",
+    "id": "09ff59558e084da6d5b602a785559f6a39da2297b464d8ac8776e6c7f331a768",
+    "canonical_url": "https://nos.nl/l/2616221",
+    "published_ts": "2026-05-28T17:24:50Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 19:24 Het Chinese bedrijf JD.com heeft mogelijk financiële steun ontvangen van China voor een overname op de Europese markt. Dat vermoedt de Europese Commissie na een eerste onderzoek. De Commissie start nu een dieper onderzoek naar de overname. JD.com deed vorig jaar een bod om Ceconomy over te nemen, een Duits retailbedrijf waar onder andere Mediamarkt onder valt. Uit het onderzoek (opent in nieuw venster) van de Commissie blijkt dat het bedrijf mogelijk overheidssteun heeft gekregen in de vorm van gunstige leningen, belastingvoordelen en subsidies. Dat zou ervoor hebben gezorgd dat JD.com een hoog overnamebod kon doen. Bij de Commissie zijn ook zorgen over verstoring van de interne markt. Nog niet goedgekeurd Uit het diepere onderzoek dat de Commissie is gestart moet blijken of daadwerkelijk sprake is van Chinese overheidssteun en of dat een negatieve impact heeft op de interne Europese markt. Het overnamebod van 2,2 miljard euro is nog niet goedgekeurd door de Europese Commissie. Uiterlijk in oktober moet het diepere onderzoek zijn afgerond. De Commissie heeft dan drie opties. Wel of juist geen bezwaar maken tegen de overname, met als derde optie de overname laten doorgaan als JD.com oplossingen biedt voor de bezwaren van de Commissie.",
+    "locations": [
+      "blijken"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "blijken",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "JD.com heeft mogelijk financiële steun ontvangen van",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Europese Commissie",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "De Commissie",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "Europese Commissie",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "JD.com",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "6f3881932a58190badc703334eeb1219": {
+    "feed": "L1 Nieuws",
+    "title": "Komt er snel nieuws over d'Artagnan? Gemeente Maastricht geeft midden juni persconferentie",
+    "url": "https://www.l1nieuws.nl/nieuws/3169833/komt-er-snel-nieuws-over-dartagnan-gemeente-maastricht-geeft-midden-juni-persconferentie",
+    "published": "Thu, 28 May 2026 13:09:09 GMT",
+    "summary": "De gemeente Maastricht geeft midden juni een persconferentie over het onderzoek naar de resten van d'Artagnan. Dat bevestigen verschillende bronnen aan L1.",
+    "full_text": "De beoogde datum voor het persmoment is 17 juni. Het kerkbestuur van de Sint-Petrus-en-Pauluskerk in Wolder is hierover geïnformeerd door de gemeente Maastricht. \"Wat ze daar bekend gaan maken, weten we niet\", zegt diaken Jos Valke. \"Het onderzoek naar skelet is volgens onze informatie nog niet afgerond.\"",
+    "scraped_at": "2026-05-29T07:00:08.334777Z",
+    "id": "4a178f22c685f4ae7ef687d6c3ab2e04cee8bd64e1e0c46b9289a5e14399370e",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3169833/komt-er-snel-nieuws-over-dartagnan-gemeente-maastricht-geeft-midden-juni-persconferentie",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De beoogde datum voor het persmoment is 17 juni. Het kerkbestuur van de Sint-Petrus-en-Pauluskerk in Wolder is hierover geïnformeerd door de gemeente Maastricht. \"Wat ze daar bekend gaan maken, weten we niet\", zegt diaken Jos Valke. \"Het onderzoek naar skelet is volgens onze informatie nog niet afgerond.\"",
+    "locations": [
+      "gemeente Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Jos Valke",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "2e6bcea0a8e70906261155409028b5c3": {
+    "feed": "Politie.nl",
+    "title": "Man aangehouden na steekincident Hildebrandplein",
+    "url": "https://www.politie.nl/nieuws/2026/mei/28/man-aangehouden-na-steekincident-hildebrandplein.html",
+    "published": "Thu, 28 May 2026 14:55:00 GMT",
+    "summary": "Op woensdagavond 27 mei heeft rond 20:25 uur een steekincident plaatsgevonden op het Hildebrandplein in Den Haag. Bij het incident raakten drie personen gewond. De verdachte is aangehouden.",
+    "full_text": "De politie ontving rond 20:25 uur een melding van een vechtpartij waarbij mogelijk ook gestoken was op het Hildebrandplein in Den Haag. Ter plaatse troffen agenten de verdachte aan die door omstanders onder controle werd gehouden. De verdachte werd aangehouden. Het gaat om een 38-jarige man uit Den Haag. Eén van de slachtoffers is naar het ziekenhuis vervoerd. De recherche doet onderzoek naar het incident.",
+    "scraped_at": "2026-05-29T07:00:00.498907Z",
+    "id": "78ee84688038afd86ec6904dc6c77f569c1707294c8e4d21582ae012f0624088",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/28/man-aangehouden-na-steekincident-hildebrandplein.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie ontving rond 20:25 uur een melding van een vechtpartij waarbij mogelijk ook gestoken was op het Hildebrandplein in Den Haag. Ter plaatse troffen agenten de verdachte aan die door omstanders onder controle werd gehouden. De verdachte werd aangehouden. Het gaat om een 38-jarige man uit Den Haag. Eén van de slachtoffers is naar het ziekenhuis vervoerd. De recherche doet onderzoek naar het incident.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "b70970eb362653b0ca0103eee16047f5": {
+    "feed": "Politie.nl",
+    "title": "Vier aanhoudingen bij inval in Tilburg",
+    "url": "https://www.politie.nl/nieuws/2026/mei/28/08-vier-aanhoudingen-bij-inval-in-tilburg.html",
+    "published": "Thu, 28 May 2026 11:47:00 GMT",
+    "summary": "De politie heeft woensdag 27 mei 2026 invallen gedaan aan de Piusstraat en de Lijsterstraat in Tilburg. Daarbij zijn meerdere goederen in beslag genomen. Vier verdachten zijn aangehouden.",
+    "full_text": "Het gaat om drie mannen van 59, 60 en 63 jaar, en een 64-jarige vrouw, allen afkomstig uit Tilburg. Meerdere kilo’s aan verdovende middelen, contant geld en een voertuig zijn in beslag genomen. De politie onderzoekt de zaak verder. De in beslag genomen verdovende middelen zullen worden vernietigd. Melden heeft altijd zin! Als u iets verdachts ziet, hoort of ruikt, meld dit dan bij ons. Denk aan personen die ergens rondhangen en snel iets uitwisselen met voorbijgangers. Woningen of voertuigen waar mensen steeds iets afhalen of juist iets komen brengen, soms op gekke tijden. Melden heeft altijd zin: ook als u niet zeker weet of u het goed gezien of gehoord heeft. Bij een acute situatie kunt u 112 bellen. Andere tips en informatie kunt u doorgeven via 0900-8844 of anoniem via Meld Misdaad Anoniem: 0800-7000.",
+    "scraped_at": "2026-05-29T07:00:00.499268Z",
+    "id": "a22cbb4aa96468555b86b3395ad014e6f66d9127db1169c6261a4f8d68c05baa",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/28/08-vier-aanhoudingen-bij-inval-in-tilburg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het gaat om drie mannen van 59, 60 en 63 jaar, en een 64-jarige vrouw, allen afkomstig uit Tilburg. Meerdere kilo’s aan verdovende middelen, contant geld en een voertuig zijn in beslag genomen. De politie onderzoekt de zaak verder. De in beslag genomen verdovende middelen zullen worden vernietigd. Melden heeft altijd zin! Als u iets verdachts ziet, hoort of ruikt, meld dit dan bij ons. Denk aan personen die ergens rondhangen en snel iets uitwisselen met voorbijgangers. Woningen of voertuigen waar mensen steeds iets afhalen of juist iets komen brengen, soms op gekke tijden. Melden heeft altijd zin: ook als u niet zeker weet of u het goed gezien of gehoord heeft. Bij een acute situatie kunt u 112 bellen. Andere tips en informatie kunt u doorgeven via 0900-8844 of anoniem via Meld Misdaad Anoniem: 0800-7000.",
+    "locations": [
+      "Melden"
+    ],
+    "country": "BE",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Tilburg",
+        "NL"
+      ],
+      [
+        "Melden",
+        "BE"
+      ],
+      [
+        "Melden",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304615609480185,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "1ebb990d301fd012eab9d0e29801ad91": {
+    "feed": "Politie.nl",
+    "title": "Politie en NCSC halen groot botnetwerk offline",
+    "url": "https://www.politie.nl/nieuws/2026/mei/28/06-politie-en-ncsc-halen-groot-botnetwerk-offline.html",
+    "published": "Thu, 28 May 2026 10:05:00 GMT",
+    "summary": "Dankzij een succesvolle samenwerking tussen de politie en het Nationaal Cyber Security Centrum (NCSC) is een groot botnet offline gehaald. Hierbij zijn er 200 servers geïdentificeerd waar actie op is ondernomen. De servers stuurden miljoenen geïnfecteerde apparaten zoals computers, tablets en smartphones aan om cyberaanvallen uit te voeren.",
+    "full_text": "Het netwerk is ontdekt door een melding van een beveiligingsonderzoeker van het NCSC. Hierop heeft het NCSC de politie geïnformeerd. Gezamenlijk hebben zij de melding opgepakt en onderzoek gedaan. Het onderzoek toonde aan dat het botnetwerk uit tenminste 17 miljoen besmette apparaten bestond en dat de 200 servers die gebruikt werden om de infrastructuur te hosten, zich in Nederland bevonden. Team cybercrime van de politie eenheid Den Haag heeft daarop meerdere servers van het botnet voor onderzoek in beslag genomen bij een hostingsprovider. Het botnet is door de provider offline gehaald omdat deze gebruikt werd voor criminele doeleinden. Wat is een botnetwerk? Een botnetwerk is een netwerk van computers, routers en slimme apparaten, zoals beveiligingscamera’s, dat besmet is met schadelijke software. Deze apparaten worden vervolgens misbruikt voor illegale activiteiten. Criminelen kunnen de apparaten op afstand aansturen, vaak zonder dat de eigenaar daar iets van merkt. Botnetwerken worden onder meer gebruikt voor cyberaanvallen, het versturen van spam en phishingmails, online fraude en het verstoren van websites door grote hoeveelheden internetverkeer tegelijk te versturen. Wat kan ik doen om te voorkomen dat mijn apparaten onderdeel worden van een botnetwerk? Apparaten kunnen onderdeel worden van een botnet wanneer ze besmet raken met malware. Om te voorkomen dat uw apparaten misbruikt worden kunt u een aantal maatregelen nemen: Zorg ervoor dat besturingssysteem, router en apps altijd up-to-date zodat bekende beveiligingslekken worden gedicht. Zorg dus voor goede patchmanagement en update op tijd. Heb zicht op uw edge device . Dit betekent dat u weet welke slimme apparaten op uw netwerk zitten. Gebruik sterke, unieke wachtwoorden en zet waar mogelijk tweefactorauthenticatie aan. Installeer alleen software en apps uit betrouwbare bronnen en klik niet zomaar op verdachte links of bijlagen. Beveilig uw wifinetwerk met WPA2 of WPA3 en verander de standaardwachtwoorden van slimme apparaten en routers direct. Gebruik antivirus- of beveiligingssoftware en controleer regelmatig welke apparaten met uw netwerk verbonden zijn. Zwak beveiligde consumentenapparatuur geliefd doelwit Consumentenapparatuur zoals routers, mobiele en Iot-apparaten zijn een geliefd doelwit voor cybercriminelen. Deze zogenoemde 'residential proxies' kunnen ingezet worden voor diverse soorten cyberaanvallen. Hoe dit werkt, leest u in deze expertblog van NCSC.",
+    "scraped_at": "2026-05-29T07:00:00.500276Z",
+    "id": "405d6134246e44051e7e69dd702b6b94667eade9af14c9b57dfc25d964906b45",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/28/06-politie-en-ncsc-halen-groot-botnetwerk-offline.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het netwerk is ontdekt door een melding van een beveiligingsonderzoeker van het NCSC. Hierop heeft het NCSC de politie geïnformeerd. Gezamenlijk hebben zij de melding opgepakt en onderzoek gedaan. Het onderzoek toonde aan dat het botnetwerk uit tenminste 17 miljoen besmette apparaten bestond en dat de 200 servers die gebruikt werden om de infrastructuur te hosten, zich in Nederland bevonden. Team cybercrime van de politie eenheid Den Haag heeft daarop meerdere servers van het botnet voor onderzoek in beslag genomen bij een hostingsprovider. Het botnet is door de provider offline gehaald omdat deze gebruikt werd voor criminele doeleinden. Wat is een botnetwerk? Een botnetwerk is een netwerk van computers, routers en slimme apparaten, zoals beveiligingscamera’s, dat besmet is met schadelijke software. Deze apparaten worden vervolgens misbruikt voor illegale activiteiten. Criminelen kunnen de apparaten op afstand aansturen, vaak zonder dat de eigenaar daar iets van merkt. Botnetwerken worden onder meer gebruikt voor cyberaanvallen, het versturen van spam en phishingmails, online fraude en het verstoren van websites door grote hoeveelheden internetverkeer tegelijk te versturen. Wat kan ik doen om te voorkomen dat mijn apparaten onderdeel worden van een botnetwerk? Apparaten kunnen onderdeel worden van een botnet wanneer ze besmet raken met malware. Om te voorkomen dat uw apparaten misbruikt worden kunt u een aantal maatregelen nemen: Zorg ervoor dat besturingssysteem, router en apps altijd up-to-date zodat bekende beveiligingslekken worden gedicht. Zorg dus voor goede patchmanagement en update op tijd. Heb zicht op uw edge device . Dit betekent dat u weet welke slimme apparaten op uw netwerk zitten. Gebruik sterke, unieke wachtwoorden en zet waar mogelijk tweefactorauthenticatie aan. Installeer alleen software en apps uit betrouwbare bronnen en klik niet zomaar op verdachte links of bijlagen. Beveilig uw wifinetwerk met WPA2 of WPA3 en verander de standaardwachtwoorden van slimme apparaten en routers direct. Gebruik antivirus- of beveiligingssoftware en controleer regelmatig welke apparaten met uw netwerk verbonden zijn. Zwak beveiligde consumentenapparatuur geliefd doelwit Consumentenapparatuur zoals routers, mobiele en Iot-apparaten zijn een geliefd doelwit voor cybercriminelen. Deze zogenoemde 'residential proxies' kunnen ingezet worden voor diverse soorten cyberaanvallen. Hoe dit werkt, leest u in deze expertblog van NCSC.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.7071354599865031,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NCSC",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "NCSC",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "WPA2 of WPA3",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NCSC",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "62"
+    ]
+  },
+  "2a76671b342186d5e56a57e09b2e917b": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws donderdag 28 mei: Flink wat schade bij kop-staartbotsing in Winschoten • Kind op fatbike gewond na aanrijding",
+    "url": "https://www.rtvnoord.nl/112/1408333/112-nieuws-donderdag-28-mei-flink-wat-schade-bij-kop-staartbotsing-in-winschoten-kind-op-fatbike-gewond-na-aanrijding",
+    "published": "Thu, 28 May 2026 20:55:18 GMT",
+    "summary": "In dit 112-blog houden we je deze donderdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De politie doet onderzoek naar de oorzaak van aan de Zuidveldweg in Sellingen op dinsdagavond. Bij de brand raakte niemand gewond, wel raakte de woning onherstelbaar beschadigd. Volgens een politiewoordvoerder is het gezien de hevigheid van de brand wel de vraag of het onderzoek bruikbare resultaten gaat opleveren, omdat het vuur mogelijke sporen heeft vernietigd.",
+    "scraped_at": "2026-05-29T07:01:03.269791Z",
+    "id": "77c97c648e5ce8ab8383f7f3a53d1cb26f62174b4075c7b95fa6ae1da57409e3",
+    "canonical_url": "https://www.rtvnoord.nl/112/1408333/112-nieuws-donderdag-28-mei-flink-wat-schade-bij-kop-staartbotsing-in-winschoten-kind-op-fatbike-gewond-na-aanrijding",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie doet onderzoek naar de oorzaak van aan de Zuidveldweg in Sellingen op dinsdagavond. Bij de brand raakte niemand gewond, wel raakte de woning onherstelbaar beschadigd. Volgens een politiewoordvoerder is het gezien de hevigheid van de brand wel de vraag of het onderzoek bruikbare resultaten gaat opleveren, omdat het vuur mogelijke sporen heeft vernietigd.",
+    "locations": [
+      "Sellingen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Sellingen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304615609480185,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
