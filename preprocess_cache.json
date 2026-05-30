@@ -61353,5 +61353,208 @@
     "all_sectors_in_article": [
       "56.3"
     ]
+  },
+  "fcf7ef09c99fe17bb8e5a69e8953e436": {
+    "feed": "Omroep West - Economie",
+    "title": "Deze week failliet: 'ingrijpend bericht' voor kinderen na faillissement kliniek",
+    "url": "https://www.omroepwest.nl/economie/5108036/deze-week-failliet-ingrijpend-bericht-voor-kinderen-na-faillissement-kliniek",
+    "published": "Fri, 29 May 2026 14:00:00 GMT",
+    "summary": "Een praktijk waar kinderen werden geholpen, een kliniek voor gezichtsbehandeling en lasertherapie en een vliegtuigontwerper: deze week gingen er meerdere bedrijven failliet. Een 'ingrijpend bericht', noemt de eigenaresse van de praktijk het.",
+    "full_text": "De rechtbank heeft DMK Totaal Afbouw , een bouwbedrijf uit Den Haag, failliet verklaard. Het gaat hier om een eenmanszaak die in mei 2019 werd gestart. Verder is er niet veel bekend over DMK, omdat het bedrijf geen eigen website heeft en ook niet actief lijkt op social media.",
+    "scraped_at": "2026-05-30T06:27:53.028382Z",
+    "id": "a69a51b8a83727ce19a7539a4cb471b8bbebf9e3c78012a6e5ef7b9d5322225b",
+    "canonical_url": "https://www.omroepwest.nl/economie/5108036/deze-week-failliet-ingrijpend-bericht-voor-kinderen-na-faillissement-kliniek",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De rechtbank heeft DMK Totaal Afbouw , een bouwbedrijf uit Den Haag, failliet verklaard. Het gaat hier om een eenmanszaak die in mei 2019 werd gestart. Verder is er niet veel bekend over DMK, omdat het bedrijf geen eigen website heeft en ook niet actief lijkt op social media.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "DMK",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "4ac3dd17b4288e01fb2ae345eac15cc2": {
+    "feed": "Politie.nl",
+    "title": "Onderzoek na vondst dode man",
+    "url": "https://www.politie.nl/nieuws/2026/mei/29/onderzoek-na-vondst-dode-man.html",
+    "published": "Fri, 29 May 2026 18:21:00 GMT",
+    "summary": "In de Hoefstraat in Herpen vonden passanten vrijdagmiddag rond half één een dode man. Hij lag in een sloot en op basis van de aangetroffen situatie gaan we ervan dat hij zeer waarschijnlijk door een misdrijf om het leven kwam. In de loop van de middag hielden we op een locatie in Berghem een 33-jarige man uit die plaats aan. We verdenken hem ervan dat hij mogelijk betrokken was bij de dood van het slachtoffer. Voor het onderzoek naar deze zaak werd een team grootschalige opsporing (TGO) gestart.",
+    "full_text": "Wat het slachtoffer, een 47-jarige inwoner van Berghem, precies is overkomen en onder welke omstandigheden dat gebeurde, wordt onderzocht. Vooralsnog is veel onduidelijk. Op de plaats waar de man werd gevonden is een plaats delict ingericht. Daar is een unit bij geplaatst van waaruit de coördinatie van het onderzoek ter plekke plaatsvindt. De omgeving werd ruim afgezet en collega’s van de forensische opsporing zijn ter plaatse om sporenonderzoek te doen. De plaats delict en de omgeving worden onder andere met een speciale camera in beeld gebracht. We doen uitgebreid onderzoek in de omgeving, waarbij we op zoek zijn naar camerabeelden die mogelijk duidelijkheid kunnen bieden. Burgernet Kort na de vondst van het slachtoffer werd een burgernet melding verspreid, waarin het signalement van een man werd gedeeld, die mogelijke meer zou kunnen weten over de zaak. Naar aanleiding van deze melding ontvingen we meerdere tips, die nader worden onderzocht. Over de bruikbaarheid van deze tips doen we in dit stadium van het onderzoek geen verdere mededelingen.",
+    "scraped_at": "2026-05-30T06:27:40.730489Z",
+    "id": "88487a2013b7726fd509e74fb5f8556a1ae4b02083355f43e7ddccac24265dcb",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/29/onderzoek-na-vondst-dode-man.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Wat het slachtoffer, een 47-jarige inwoner van Berghem, precies is overkomen en onder welke omstandigheden dat gebeurde, wordt onderzocht. Vooralsnog is veel onduidelijk. Op de plaats waar de man werd gevonden is een plaats delict ingericht. Daar is een unit bij geplaatst van waaruit de coördinatie van het onderzoek ter plekke plaatsvindt. De omgeving werd ruim afgezet en collega’s van de forensische opsporing zijn ter plaatse om sporenonderzoek te doen. De plaats delict en de omgeving worden onder andere met een speciale camera in beeld gebracht. We doen uitgebreid onderzoek in de omgeving, waarbij we op zoek zijn naar camerabeelden die mogelijk duidelijkheid kunnen bieden. Burgernet Kort na de vondst van het slachtoffer werd een burgernet melding verspreid, waarin het signalement van een man werd gedeeld, die mogelijke meer zou kunnen weten over de zaak. Naar aanleiding van deze melding ontvingen we meerdere tips, die nader worden onderzocht. Over de bruikbaarheid van deze tips doen we in dit stadium van het onderzoek geen verdere mededelingen.",
+    "locations": [
+      "Berghem"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Berghem",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "73c22e93b35210079db1097aa44be48c": {
+    "feed": "Politie.nl",
+    "title": "Verdachte steekincident Utrecht aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/mei/29/03-verdachte-steekincident-utrecht-aangehouden.html",
+    "published": "Fri, 29 May 2026 13:14:00 GMT",
+    "summary": "De politie heeft op 29 mei een verdachte aangehouden voor het steken van een man op de Mariaplaats in Utrecht. De verdachte is een 22-jarige man zonder vaste woon- en verblijfplaats. We toonden eerder beelden van deze verdachte via Bureau Hengeveld en social media.",
+    "full_text": "Op maandag 25 mei rond 13.50 uur vond het steekincident plaats op de Mariaplaats. Het slachtoffer zat op zijn laptop te werken wanneer de verdachte op hem afkwam. De verdachte trok een mes en stak het slachtoffer. Het slachtoffer wist te ontkomen door gelijk weg te rennen. De verdachte vluchtte hierna. Het slachtoffer werd zwaargewond naar het ziekenhuis gebracht. Hij is buiten levensgevaar. Verdachte aangehouden In de vroege ochtend van vrijdag 29 mei is de 22-jarige verdachte aangehouden in Venlo. Hij wordt verdacht van het steken van een man op de Mariaplaats in Utrecht.",
+    "scraped_at": "2026-05-30T06:27:40.732070Z",
+    "id": "50e025acd7045b0c5792445230a4d479883632f4518bacb33dfbe680b7efc4f1",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/29/03-verdachte-steekincident-utrecht-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op maandag 25 mei rond 13.50 uur vond het steekincident plaats op de Mariaplaats. Het slachtoffer zat op zijn laptop te werken wanneer de verdachte op hem afkwam. De verdachte trok een mes en stak het slachtoffer. Het slachtoffer wist te ontkomen door gelijk weg te rennen. De verdachte vluchtte hierna. Het slachtoffer werd zwaargewond naar het ziekenhuis gebracht. Hij is buiten levensgevaar. Verdachte aangehouden In de vroege ochtend van vrijdag 29 mei is de 22-jarige verdachte aangehouden in Venlo. Hij wordt verdacht van het steken van een man op de Mariaplaats in Utrecht.",
+    "locations": [
+      "Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Utrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "daa947aed730b5bb86dbc394f3bcd015": {
+    "feed": "Politie.nl",
+    "title": "5-jarig jongetje overleden na val in water",
+    "url": "https://www.politie.nl/nieuws/2026/mei/29/06-5-jarig-jongetje-overleden-na-val-in-water.html",
+    "published": "Fri, 29 May 2026 12:10:00 GMT",
+    "summary": "Op donderdagavond 28 mei raakte in Lisse een kind te water. Het 5-jarig jongetje overleed later in het ziekenhuis.",
+    "full_text": "Op donderdagavond om 19.15 uur kwam bij de politie de melding binnen dat een kind werd gereanimeerd op de Noorderkroon in Lisse. Toen agenten ter plaatse kwamen, bleek het te gaan om een 5-jarig jongetje dat te water was geraakt. Hij werd naar het ziekenhuis vervoerd, waar hij helaas kwam te overlijden. Onderzoek Bij het overlijden van een minderjarige wordt altijd onderzoek gedaan. Zo ook in dit geval. Uit dit onderzoek is gebleken dat het een noodlottig ongeval betreft. Een misdrijf is uitgesloten. Slachtofferhulp Wij wensen alle betrokkenen veel sterkte toe. Was je getuige van dit incident? We kunnen ons voorstellen dat dit een enorme impact heeft gemaakt. Erover praten helpt. Dit kan bijvoorbeeld met Slachtofferhulp Nederland waar professionals kunnen helpen met het verwerken van deze gebeurtenis.",
+    "scraped_at": "2026-05-30T06:27:40.732430Z",
+    "id": "7844a36224a05ffe8c66dbe4e013e21d3736c4459afc2eee46f187da35e0a995",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/29/06-5-jarig-jongetje-overleden-na-val-in-water.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op donderdagavond om 19.15 uur kwam bij de politie de melding binnen dat een kind werd gereanimeerd op de Noorderkroon in Lisse. Toen agenten ter plaatse kwamen, bleek het te gaan om een 5-jarig jongetje dat te water was geraakt. Hij werd naar het ziekenhuis vervoerd, waar hij helaas kwam te overlijden. Onderzoek Bij het overlijden van een minderjarige wordt altijd onderzoek gedaan. Zo ook in dit geval. Uit dit onderzoek is gebleken dat het een noodlottig ongeval betreft. Een misdrijf is uitgesloten. Slachtofferhulp Wij wensen alle betrokkenen veel sterkte toe. Was je getuige van dit incident? We kunnen ons voorstellen dat dit een enorme impact heeft gemaakt. Erover praten helpt. Dit kan bijvoorbeeld met Slachtofferhulp Nederland waar professionals kunnen helpen met het verwerken van deze gebeurtenis.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Lisse",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "25dd1972868263539918786ffb419504": {
+    "feed": "Politie.nl",
+    "title": "Grootschalig witwasonderzoek Utrecht",
+    "url": "https://www.politie.nl/nieuws/2026/mei/28/grootschalig-witwasonderzoek-utrecht.html",
+    "published": "Fri, 29 May 2026 10:19:00 GMT",
+    "summary": "In het kader van een grootschalig witwasonderzoek heeft de politie 12 mei jongstleden op twee verschillende plaatsen in Utrecht doorzoekingen gedaan en nam onder andere twee auto’s, contant geld en luxe kleding in beslag.",
+    "full_text": "De doorzoekingen waren onderdeel van een opsporingsonderzoek van de Districtsrecherche Utrecht-Stad. Uit financieel onderzoek was de verdenking ontstaan dat de verdachte zich bezighield met het witwassen van crimineel vermogen door middel van de handel en verhuur van auto’s. Het witwasonderzoek was het resultaat van nauwe integrale samenwerking tussen de politie, OM, FIOD, Belastingdienst en de gemeente Utrecht. In de afgelopen maanden is er genoeg informatie verzameld om over te gaan tot een actiedag met doorzoekingen op twee verschillende locaties. De doorzoekingen vonden tegelijkertijd plaats in een woning in Overvecht en bij een autoverhuurbedrijf op Bedrijventerrein Nieuw Overvecht. Er werd gelijktijdig binnengetreden op de twee locaties. Bij de zoekingen werd de politie ondersteund door rechercheurs van de FIOD. Ook toezichthouders vanuit de gemeente waren aanwezig om eigen waarnemingen te doen. Tijdens de doorzoekingen zijn twee auto’s, contant geld, luxe kleding, gegevensdragers en administratie aangetroffen en in beslaggenomen. Van de auto’s, het contante geld en de luxe kleding bestaat de verdenking dat deze zijn betaald met crimineel vermogen. We zien vaak dat criminelen bij het uitvoeren van illegale activiteiten, zoals het witwassen van fout geld, gebruik maken van hulp uit de bovenwereld en dat gebeurt onder andere via autoverhuurbedrijven. Autoverhuurbedrijven werken als facilitator door het verzorgen van voertuigen voor het plegen van strafbare feiten, zoals plofkraken en drugshandel. Daarnaast kunnen de bedrijven worden gebruikt als vehikel voor het witwassen van crimineel geld, waar nog veel gebruik wordt gemaakt van contant geld en het toezicht beperkt is. Daarom heeft de autoverhuurbranche de nadrukkelijke aandacht van de politie.",
+    "scraped_at": "2026-05-30T06:27:40.733619Z",
+    "id": "7e4a07f581a56e5bc9f0409e7dd1e04340f5edeba17145a3e4eabf99a2446a16",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/28/grootschalig-witwasonderzoek-utrecht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De doorzoekingen waren onderdeel van een opsporingsonderzoek van de Districtsrecherche Utrecht-Stad. Uit financieel onderzoek was de verdenking ontstaan dat de verdachte zich bezighield met het witwassen van crimineel vermogen door middel van de handel en verhuur van auto’s. Het witwasonderzoek was het resultaat van nauwe integrale samenwerking tussen de politie, OM, FIOD, Belastingdienst en de gemeente Utrecht. In de afgelopen maanden is er genoeg informatie verzameld om over te gaan tot een actiedag met doorzoekingen op twee verschillende locaties. De doorzoekingen vonden tegelijkertijd plaats in een woning in Overvecht en bij een autoverhuurbedrijf op Bedrijventerrein Nieuw Overvecht. Er werd gelijktijdig binnengetreden op de twee locaties. Bij de zoekingen werd de politie ondersteund door rechercheurs van de FIOD. Ook toezichthouders vanuit de gemeente waren aanwezig om eigen waarnemingen te doen. Tijdens de doorzoekingen zijn twee auto’s, contant geld, luxe kleding, gegevensdragers en administratie aangetroffen en in beslaggenomen. Van de auto’s, het contante geld en de luxe kleding bestaat de verdenking dat deze zijn betaald met crimineel vermogen. We zien vaak dat criminelen bij het uitvoeren van illegale activiteiten, zoals het witwassen van fout geld, gebruik maken van hulp uit de bovenwereld en dat gebeurt onder andere via autoverhuurbedrijven. Autoverhuurbedrijven werken als facilitator door het verzorgen van voertuigen voor het plegen van strafbare feiten, zoals plofkraken en drugshandel. Daarnaast kunnen de bedrijven worden gebruikt als vehikel voor het witwassen van crimineel geld, waar nog veel gebruik wordt gemaakt van contant geld en het toezicht beperkt is. Daarom heeft de autoverhuurbranche de nadrukkelijke aandacht van de politie.",
+    "locations": [
+      "gemeente Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Utrecht",
+        "NL"
+      ],
+      [
+        "Overvecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "FIOD",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "FIOD",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
