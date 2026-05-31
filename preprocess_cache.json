@@ -61556,5 +61556,43 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "192ab772f03e1e3ba8173948b7568a7f": {
+    "feed": "Politie.nl",
+    "title": "Beelden op social media over aanhouding Zeist",
+    "url": "https://www.politie.nl/nieuws/2026/mei/30/03-beelden-op-social-media-over-aanhouding-zeist.html",
+    "published": "Sat, 30 May 2026 10:53:00 GMT",
+    "summary": "Er gaan beelden rond op social media over een aanhouding waar door de politie geweld is gebruikt. De agenten hebben opgetreden naar aanleiding van een melding van bedreiging en vernieling, waarbij sprake was van een mes. Zij hebben in een dynamische situatie snel willen handelen voor de veiligheid van de aanwezigen en zichzelf.",
+    "full_text": "Deze beelden laten een deel van de gebeurtenis van 19 mei jl. zien. Uiteraard wordt zorgvuldig gekeken naar alle feiten en omstandigheden. Tegelijkertijd hebben wij vertrouwen in het vakmanschap van onze collega's en realiseren wij ons dat zij dag in dag uit onder hoge druk keuzes maken. Bedreiging Op 19 mei rond 21:50 uur zijn agenten afgegaan op een melding van vernieling en bedreiging aan de Kampweg in Zeist. Vervolgens ontstond de situatie die op de beelden gedeeltelijk zichtbaar is. Hierbij is een 30-jarige man uit Zeist aangehouden. Bij iedere geweldsaanwending wordt gekeken naar de feiten, omstandigheden en de informatie waarover collega's op dat moment beschikken. Dat dat zal in deze casus ook gebeuren. Wil jij meer weten over hoe geweldgebruik van de politie wordt beoordeeld? Kijk dan op politie.nl/politiegeweld",
+    "scraped_at": "2026-05-31T07:02:43.352333Z",
+    "id": "f5f1dee4aa1647475310feb4568d3c8d35b3f657123b128d0e48242306cfcf6f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/30/03-beelden-op-social-media-over-aanhouding-zeist.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Deze beelden laten een deel van de gebeurtenis van 19 mei jl. zien. Uiteraard wordt zorgvuldig gekeken naar alle feiten en omstandigheden. Tegelijkertijd hebben wij vertrouwen in het vakmanschap van onze collega's en realiseren wij ons dat zij dag in dag uit onder hoge druk keuzes maken. Bedreiging Op 19 mei rond 21:50 uur zijn agenten afgegaan op een melding van vernieling en bedreiging aan de Kampweg in Zeist. Vervolgens ontstond de situatie die op de beelden gedeeltelijk zichtbaar is. Hierbij is een 30-jarige man uit Zeist aangehouden. Bij iedere geweldsaanwending wordt gekeken naar de feiten, omstandigheden en de informatie waarover collega's op dat moment beschikken. Dat dat zal in deze casus ook gebeuren. Wil jij meer weten over hoe geweldgebruik van de politie wordt beoordeeld? Kijk dan op politie.nl/politiegeweld",
+    "locations": [
+      "Zeist",
+      "Zeist"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zeist",
+        "NL"
+      ],
+      [
+        "Zeist",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
