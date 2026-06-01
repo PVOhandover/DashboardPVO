@@ -61594,5 +61594,38 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "e6682effa2d0afbd177c65651d1bbbf6": {
+    "feed": "Politie.nl",
+    "title": "Man zwaait met mes tijdens uitgaansnacht in Bergen op Zoom",
+    "url": "https://www.politie.nl/nieuws/2026/mei/31/08-man-zwaait-met-mes-tijdens-uitgaansnacht-in-bergen-op-zoom.html",
+    "published": "Sun, 31 May 2026 13:08:00 GMT",
+    "summary": "In de vroege zondagochtend 31 mei 2026, omstreeks 04.00 uur, meldden meerdere getuigen via 112 dat er een man met een groot mes zwaaide op het Beursplein in Bergen op Zoom.",
+    "full_text": "Agenten gingen, net na vier uur, meteen ter plaatse. Aan hen was een signalement van de verdachte doorgegeven. Ze zagen de omschreven man wegrennen van het Beursplein toen zij daar aan kwamen rijden. De man, een 23-jarige inwoner van Bergen op Zoom, is op het Mineurplein aangehouden en ingesloten in een politiecellencomplex. Hij wordt zondag gehoord. De man wordt verdacht van bedreiging. Het mes is in beslag genomen. Door de politie worden getuigenverklaringen opgenomen. Op dit moment is de politie bezig met een huiszoeking op het woonadres van de aangehouden verdachte. Er kunnen nog geen mededelingen worden gedaan over wat er is aangetroffen.",
+    "scraped_at": "2026-06-01T08:39:31.594793Z",
+    "id": "7b150c11bb9c8fba1f3648846d3907721b741c88700166c58247859a04806cbf",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/mei/31/08-man-zwaait-met-mes-tijdens-uitgaansnacht-in-bergen-op-zoom.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten gingen, net na vier uur, meteen ter plaatse. Aan hen was een signalement van de verdachte doorgegeven. Ze zagen de omschreven man wegrennen van het Beursplein toen zij daar aan kwamen rijden. De man, een 23-jarige inwoner van Bergen op Zoom, is op het Mineurplein aangehouden en ingesloten in een politiecellencomplex. Hij wordt zondag gehoord. De man wordt verdacht van bedreiging. Het mes is in beslag genomen. Door de politie worden getuigenverklaringen opgenomen. Op dit moment is de politie bezig met een huiszoeking op het woonadres van de aangehouden verdachte. Er kunnen nog geen mededelingen worden gedaan over wat er is aangetroffen.",
+    "locations": [
+      "Bergen op Zoom"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Bergen op Zoom",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
