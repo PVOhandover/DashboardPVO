@@ -62523,5 +62523,83 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "963f7996c0f0598648ebd6b858a43866": {
+    "feed": "L1 Nieuws",
+    "title": "Grensdrugsdeal: aanhouding van Belg en Nederlander bij Roosteren",
+    "url": "https://www.l1nieuws.nl/nieuws/3173526/grensdrugsdeal-aanhouding-van-belg-en-nederlander-bij-roosteren",
+    "published": "Thu, 04 Jun 2026 08:42:29 GMT",
+    "summary": "De politie uit Echt en de Belgische politie hebben een Nederlander en Belg aangehouden. Beide Limburgers hadden net een drugsdeal gesloten.",
+    "full_text": "Tijdens een late dienst, vorige week donderdag, stuitten collega's van de politie Echt en politiezone Maasland op een mogelijke drugsdeal. Dit gebeurde net over de Maasbrug van Maaseik richting Roosteren. Een 25-jarige man uit Maaseik had drugs gekocht van een man van 42 jaar uit Susteren. De Limburgers werden aangehouden.",
+    "scraped_at": "2026-06-05T07:13:15.995315Z",
+    "id": "a54dafe63931894dd76589a8379e8706127f650406f581a2ae53962e7042dc94",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3173526/grensdrugsdeal-aanhouding-van-belg-en-nederlander-bij-roosteren",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens een late dienst, vorige week donderdag, stuitten collega's van de politie Echt en politiezone Maasland op een mogelijke drugsdeal. Dit gebeurde net over de Maasbrug van Maaseik richting Roosteren. Een 25-jarige man uit Maaseik had drugs gekocht van een man van 42 jaar uit Susteren. De Limburgers werden aangehouden.",
+    "locations": [
+      "Maaseik"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Maasland",
+        "NL"
+      ],
+      [
+        "Roosteren",
+        "NL"
+      ],
+      [
+        "Maaseik",
+        "BE"
+      ],
+      [
+        "Susteren",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "01c3abe9455503325111cff0a2f1ce1e": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws: Grote stroomstoring in Hoogkerk en omgeving opgelost",
+    "url": "https://www.rtvnoord.nl/112/1410264/112-nieuws-grote-stroomstoring-in-hoogkerk-en-omgeving-opgelost",
+    "published": "Thu, 04 Jun 2026 19:49:42 GMT",
+    "summary": "In dit 112-blog houden we je deze donderdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De politie is donderdagmiddag, onder andere met een helikopter, een vermiste vrouw in de omgeving van het Paterswoldsemeer bij Eelderwolde. Het gaat om een 28-jarige vrouw met donkerblond haar en een slangetje uit haar neus (een voedingssonde). Het kan zijn dat ze een fiets en tas bij zich heeft.",
+    "scraped_at": "2026-06-05T07:13:52.788027Z",
+    "id": "f0433b5111b85c85e705ff4bf79524da52479196b089801a38bd08c3623ffef5",
+    "canonical_url": "https://www.rtvnoord.nl/112/1410264/112-nieuws-grote-stroomstoring-in-hoogkerk-en-omgeving-opgelost",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie is donderdagmiddag, onder andere met een helikopter, een vermiste vrouw in de omgeving van het Paterswoldsemeer bij Eelderwolde. Het gaat om een 28-jarige vrouw met donkerblond haar en een slangetje uit haar neus (een voedingssonde). Het kan zijn dat ze een fiets en tas bij zich heeft.",
+    "locations": [
+      "Eelderwolde"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eelderwolde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
