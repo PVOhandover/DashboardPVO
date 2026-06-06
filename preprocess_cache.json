@@ -62601,5 +62601,230 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "3c10a0856f82f66192eaac6c8d876c0b": {
+    "feed": "L1 Nieuws",
+    "title": "'De allereerste Nederlander sprak met een zachte G'",
+    "url": "https://www.l1nieuws.nl/nieuws/3174480/de-allereerste-nederlander-sprak-met-een-zachte-g",
+    "published": "Fri, 05 Jun 2026 15:54:05 GMT",
+    "summary": "In de Maastrichtse wijk Caberg werd vrijdag bodemonderzoek afgerond. Sporen van Limburgse neanderthalers zijn wellicht 100.000 jaar ouder dan gedacht.",
+    "full_text": "De boringen kunnen niet meer plaatsvinden in groeve Belvédère, die vanaf 1994 vooral fungeerde als afvalstation en momenteel volledig begroeid is. Daarom wordt er vrijdag voor het laatst geboord bij een nabijgelegen handelaar in pallets. \"We zitten hier op 30 meter van de oorspronkelijke groeve, dus dat is perfect\", aldus Busschers, die het onderzoek uitvoert namens de TNO, de Universiteit Leiden en het cluster Cultureel Erfgoed van de gemeente Maastricht. De uitkomsten van het onderzoek zullen pas over enkele maanden bekend zijn.",
+    "scraped_at": "2026-06-06T06:35:35.664372Z",
+    "id": "a43f721b331dcb9a7477878f9ed1937b27bb1467d4e0f8692df3555dc4065dbb",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3174480/de-allereerste-nederlander-sprak-met-een-zachte-g",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De boringen kunnen niet meer plaatsvinden in groeve Belvédère, die vanaf 1994 vooral fungeerde als afvalstation en momenteel volledig begroeid is. Daarom wordt er vrijdag voor het laatst geboord bij een nabijgelegen handelaar in pallets. \"We zitten hier op 30 meter van de oorspronkelijke groeve, dus dat is perfect\", aldus Busschers, die het onderzoek uitvoert namens de TNO, de Universiteit Leiden en het cluster Cultureel Erfgoed van de gemeente Maastricht. De uitkomsten van het onderzoek zullen pas over enkele maanden bekend zijn.",
+    "locations": [
+      "gemeente Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "47",
+      "sector_name": "Retail trade"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "TNO",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Universiteit Leiden",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47"
+    ]
+  },
+  "7e1157e03dd7ceb5c6e196a21ffc2b70": {
+    "feed": "L1 Nieuws",
+    "title": "Nazaat d'Artagnan doet voor het eerst zijn verhaal: 'Frankrijk moet alle onderzoeken overnemen'",
+    "url": "https://www.l1nieuws.nl/nieuws/3174179/nazaat-dartagnan-doet-voor-het-eerst-zijn-verhaal-frankrijk-moet-alle-onderzoeken-overnemen",
+    "published": "Fri, 05 Jun 2026 15:05:25 GMT",
+    "summary": "Maandenlang hield hij zich op de achtergrond. Terwijl de mogelijke vondst van het skelet van d'Artagnan wereldwijd de aandacht trok, zweeg Aymeri de Montesquiou d'Artagnan. Nu doet de Franse graaf en verre verwant van de beroemdste musketier voor het eerst zijn verhaal aan Nederlandse media. Zijn boodschap: laat Frankrijk het overnemen. Hij heeft zorgen over hoe alles is aangepakt in Maastricht.",
+    "full_text": "De situatie rondom het identificatieonderzoek in Maastricht volgt hij dan ook vooral op afstand, zegt hij. Hoewel de gang van zaken hem niet koud laat. \"Wat ik betreur, is dat het verwarring schept.\" Volgens hem hadden de analyses beter in Frankrijk kunnen plaatsvinden. \"Ik denk echt, en ik zeg dit niet uit nationalisme, dat de analyses in Frankrijk hadden moeten gebeuren, in een laboratorium van de politie of de gendarmerie. Dan zou alles waarschijnlijk rustiger verlopen.\" Maar het is volgens hem nog niet te laat. Frankrijk kan ook nu nog de regie pakken door alles over te nemen.",
+    "scraped_at": "2026-06-06T06:35:36.976806Z",
+    "id": "df58c955ca1b690005731062b37c3a2cc292d842625b4ac8da2d20be80d05106",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3174179/nazaat-dartagnan-doet-voor-het-eerst-zijn-verhaal-frankrijk-moet-alle-onderzoeken-overnemen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De situatie rondom het identificatieonderzoek in Maastricht volgt hij dan ook vooral op afstand, zegt hij. Hoewel de gang van zaken hem niet koud laat. \"Wat ik betreur, is dat het verwarring schept.\" Volgens hem hadden de analyses beter in Frankrijk kunnen plaatsvinden. \"Ik denk echt, en ik zeg dit niet uit nationalisme, dat de analyses in Frankrijk hadden moeten gebeuren, in een laboratorium van de politie of de gendarmerie. Dan zou alles waarschijnlijk rustiger verlopen.\" Maar het is volgens hem nog niet te laat. Frankrijk kan ook nu nog de regie pakken door alles over te nemen.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "BE",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Frankrijk",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "534d9b5f100172ff3265da43ff9d8946": {
+    "feed": "L1 Nieuws",
+    "title": "Celstraffen tot 4,5 jaar voor drie daders Venlose woningoverval",
+    "url": "https://www.l1nieuws.nl/nieuws/3174244/celstraffen-tot-4-5-jaar-voor-drie-daders-venlose-woningoverval",
+    "published": "Fri, 05 Jun 2026 13:02:39 GMT",
+    "summary": "Drie mannen uit Venray, Rotterdam en Breda moeten 4 tot 4,5 jaar de cel in voor een gewelddadige overval in Venlo. Zes jaar geleden overvielen ze een man thuis in zijn woning.",
+    "full_text": "Via de telefoon kreeg de politie de daders in beeld. De telefoonfunctie 'Find my iPhone', bracht agenten naar een plek in Eindhoven. Daar werd een auto met handschoenen, de gestolen iPhone en drie vuurwapens aangetroffen. Op de vuurwapens en in de auto werd DNA van de drie verdachten en het slachtoffer gevonden.",
+    "scraped_at": "2026-06-06T06:35:39.985336Z",
+    "id": "3f372258ff028d13d8ed070af60d8a4d1af6d97b772d604fde127fff25e759b0",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3174244/celstraffen-tot-4-5-jaar-voor-drie-daders-venlose-woningoverval",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Via de telefoon kreeg de politie de daders in beeld. De telefoonfunctie 'Find my iPhone', bracht agenten naar een plek in Eindhoven. Daar werd een auto met handschoenen, de gestolen iPhone en drie vuurwapens aangetroffen. Op de vuurwapens en in de auto werd DNA van de drie verdachten en het slachtoffer gevonden.",
+    "locations": [
+      "Eindhoven"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eindhoven",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "DNA",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "325fb2a945ee26bacb6cf73642b9b067": {
+    "feed": "Politie.nl",
+    "title": "Alerte getuige helpt politie om twee verdachten aan te houden na mishandeling",
+    "url": "https://www.politie.nl/nieuws/2026/juni/5/02-alerte-getuige-helpt-politie-om-twee-verdachten-aan-te-houden-na-mishandeling.html",
+    "published": "Fri, 05 Jun 2026 13:28:00 GMT",
+    "summary": "Op donderdag 4 juni vond er een mishandeling plaats bij een horecagelegenheid aan de Spijkerlaan in Arnhem. De twee verdachten namen de benen. Een alerte getuige zag de twee mannen vluchtten en schreef het kenteken op. Daardoor konden de twee verdachte binnen een uur worden aangehouden.",
+    "full_text": "Rond 19.30 uur drongen twee mannen de zaak binnen. De medewerker die aan het werk was werd hierbij mishandeld. Uiteindelijk vluchtten de verdachten de horecagelegenheid uit en stapten in een auto. Alerte getuige schrijft kenteken op Een alerte getuige vond het gedrag van de mannen verdacht en besloot het kenteken op te schrijven en door te geven aan de politie. Het kenteken werd in de ANPR gezet en de verdachten konden na een uur worden aangehouden in Maarssen. Het gaat om een 20-jarige man uit Diemen en een 29-jarige man uit Alkmaar. De medewerker raakte tijdens de mishandeling lichtgewond. Kleine handeling, groot effect Doordat de getuige alert was en het kenteken opschreef konden de twee verdachten binnen een uur worden aangehouden. Een kenteken noteren lijkt misschien een kleine handeling, maar kan van grote waarde zijn in een opsporingsonderzoek. In dit geval speelde het kenteken een cruciale rol bij het snel opsporen en aanhouden van de verdachten. Schrijf relevante informatie op Zie je een verdachte situatie? Schrijf dan relevante informatie, zoals kentekens, signalement of rijrichting, op en deel dit met de politie.Zelfs informatie waar je over twijfelt om te delen kan een belangrijk puzzelstukje zijn in een onderzoek. 2026275703 AC",
+    "scraped_at": "2026-06-06T06:35:29.255643Z",
+    "id": "eff66fdd4f465030a27bfb5bbd597af0af5f52f717cbf25b749b8cff88f0e71d",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/5/02-alerte-getuige-helpt-politie-om-twee-verdachten-aan-te-houden-na-mishandeling.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 19.30 uur drongen twee mannen de zaak binnen. De medewerker die aan het werk was werd hierbij mishandeld. Uiteindelijk vluchtten de verdachten de horecagelegenheid uit en stapten in een auto. Alerte getuige schrijft kenteken op Een alerte getuige vond het gedrag van de mannen verdacht en besloot het kenteken op te schrijven en door te geven aan de politie. Het kenteken werd in de ANPR gezet en de verdachten konden na een uur worden aangehouden in Maarssen. Het gaat om een 20-jarige man uit Diemen en een 29-jarige man uit Alkmaar. De medewerker raakte tijdens de mishandeling lichtgewond. Kleine handeling, groot effect Doordat de getuige alert was en het kenteken opschreef konden de twee verdachten binnen een uur worden aangehouden. Een kenteken noteren lijkt misschien een kleine handeling, maar kan van grote waarde zijn in een opsporingsonderzoek. In dit geval speelde het kenteken een cruciale rol bij het snel opsporen en aanhouden van de verdachten. Schrijf relevante informatie op Zie je een verdachte situatie? Schrijf dan relevante informatie, zoals kentekens, signalement of rijrichting, op en deel dit met de politie.Zelfs informatie waar je over twijfelt om te delen kan een belangrijk puzzelstukje zijn in een onderzoek. 2026275703 AC",
+    "locations": [
+      "Maarssen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maarssen",
+        "NL"
+      ],
+      [
+        "Diemen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "ANPR",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "6af37f67c0d89ae35579693d649e490a": {
+    "feed": "Politie.nl",
+    "title": "Politie doet onderzoek na vondst onbekende dode vrouw",
+    "url": "https://www.politie.nl/nieuws/2026/juni/5/06-politie-doet-onderzoek-na-vondst-onbekende-dode-vrouw.html",
+    "published": "Fri, 05 Jun 2026 11:23:00 GMT",
+    "summary": "De politie is een onderzoek gestart nadat donderdagochtend 4 juni een lichaam is aangetroffen in het water langs de Mandjeskade in Delft. De identiteit van de dode vrouw is vooralsnog onbekend, evenals de doodsoorzaak.",
+    "full_text": "Rond 10.45 uur kreeg de politie een melding van een wandelaar die een lichaam in het water had zien liggen nabij de Mantjeskade en het Vockestaertpad in Delft. Ter plaatse kon het lichaam door de brandweer geborgen worden, waarna de politie onderzoek heeft gedaan. De identiteit van het slachtoffer kon niet worden vastgesteld. Kenmerken slachtoffer Het slachtoffer is een witte vrouw van rond de 30 jaar oud met een normaal postuur en half lang blond haar. Ze droeg een zilveren ring met een groene edelsteen en had twee kenmerkende tatoeages; een op haar linker onderarm en een rondom haar onderbuik. Informatie gezocht Denkt u te weten wie de vrouw is of heeft u informatie dat de politie kan helpen in het onderzoek? Neem dan contact op via onderstaand tipformulier of bel met 0900-8844. Anoniem tippen kan ook via Meld Misdaad Anoniem: 0800-7000.",
+    "scraped_at": "2026-06-06T06:35:29.256677Z",
+    "id": "c7e3b1cf40759456585d54a0cc1347671a42905ea98f7eb98c6f21b6d5d48171",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/5/06-politie-doet-onderzoek-na-vondst-onbekende-dode-vrouw.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 10.45 uur kreeg de politie een melding van een wandelaar die een lichaam in het water had zien liggen nabij de Mantjeskade en het Vockestaertpad in Delft. Ter plaatse kon het lichaam door de brandweer geborgen worden, waarna de politie onderzoek heeft gedaan. De identiteit van het slachtoffer kon niet worden vastgesteld. Kenmerken slachtoffer Het slachtoffer is een witte vrouw van rond de 30 jaar oud met een normaal postuur en half lang blond haar. Ze droeg een zilveren ring met een groene edelsteen en had twee kenmerkende tatoeages; een op haar linker onderarm en een rondom haar onderbuik. Informatie gezocht Denkt u te weten wie de vrouw is of heeft u informatie dat de politie kan helpen in het onderzoek? Neem dan contact op via onderstaand tipformulier of bel met 0900-8844. Anoniem tippen kan ook via Meld Misdaad Anoniem: 0800-7000.",
+    "locations": [
+      "Delft"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Delft",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Anoniem",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
