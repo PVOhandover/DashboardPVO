@@ -62826,5 +62826,193 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "e1d500cdf8a4d30997a8a0842b77d55c": {
+    "feed": "Politie.nl",
+    "title": "Fietsendief aangehouden in Vlissingen",
+    "url": "https://www.politie.nl/nieuws/2026/juni/8/08-fietsendief-aangehouden-in-vlissingen.html",
+    "published": "Mon, 08 Jun 2026 15:44:00 GMT",
+    "summary": "Een gestolen fiets is zondagavond 7 juni na een korte zoektocht teruggevonden en teruggegeven aan de rechtmatige eigenaar. Rond 20.15 uur krijgt de politie een melding van de diefstal aan het Ruyterplein in Vlissingen. De eigenaar kan de locatie van de fiets live volgen, waardoor agenten gericht kunnen zoeken. Ook is er een signalement van de verdachte bekend. Meerdere agenten gaan direct op zoek.",
+    "full_text": "Signalement zorgt voor aanhouding Agenten verspreiden het signalement onder collega’s die in Vlissingen aan het zoeken zijn. Ondertussen ontvangt de politie steeds nieuwe locaties van de eigenaar van de fiets. Na meerdere locaties gecontroleerd te hebben, treffen agenten de verdachte aan bij het Nollehoofd. De jongen voldoet aan het opgegeven signalement. Ook wordt de gestolen fiets gevonden. Bureau Halt De minderjarige verdachte wordt aangehouden en overgebracht naar het politiebureau. De jongen is doorverwezen naar Bureau Halt.",
+    "scraped_at": "2026-06-09T06:56:11.924542Z",
+    "id": "92fd3220e272d9adeb5a0addda32b5f5b3d8ad535843ab03a3aef828743bbca3",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/8/08-fietsendief-aangehouden-in-vlissingen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Signalement zorgt voor aanhouding Agenten verspreiden het signalement onder collega’s die in Vlissingen aan het zoeken zijn. Ondertussen ontvangt de politie steeds nieuwe locaties van de eigenaar van de fiets. Na meerdere locaties gecontroleerd te hebben, treffen agenten de verdachte aan bij het Nollehoofd. De jongen voldoet aan het opgegeven signalement. Ook wordt de gestolen fiets gevonden. Bureau Halt De minderjarige verdachte wordt aangehouden en overgebracht naar het politiebureau. De jongen is doorverwezen naar Bureau Halt.",
+    "locations": [
+      "Vlissingen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Vlissingen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "16a7b090e8ceb33ff961f91dd3fe48b6": {
+    "feed": "Politie.nl",
+    "title": "Fietsendief binnen kwartier aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/juni/8/08-fietsendief-binnen-kwartier-aangehouden.html",
+    "published": "Mon, 08 Jun 2026 13:58:00 GMT",
+    "summary": "In de vroege ochtend van zondag 7 juni wordt er 112 gebeld door een inwoner uit Loon op Zand. De melder vertelt dat op dat moment iemand probeert een fiets te stelen aan de Midden-Brabantweg. Ook wordt een signalement van de verdachte doorgegeven. Daarnaast meldt de melder dat er een auto bij de man staat. Agenten worden direct door de meldkamer aangestuurd en rijden met spoed naar de locatie.",
+    "full_text": "Tijdens het aanrijden zien agenten de auto rijden die door de melder is omschreven. De bestuurder krijgt direct een stopteken. Agenten zien meteen dat er een fiets in het voertuig staat. De bestuurder wordt gecontroleerd. In het voertuig vinden agenten de gestolen fiets en gereedschap waarmee sloten kunnen worden doorgeknipt. Exact elf minuten na de 112-melding houdt de politie een 57-jarige man uit Tilburg aan. Of het een persoonlijk record is van de agenten, is onbekend. Snel was het in ieder geval wel. Op zoek naar de eigenaar van de fiets De politie is op zoek naar de eigenaar van de donkere Sparta fiets. Bent u of kent u de eigenaar van deze fiets? Bel dan met 0900-8844. Zaaksnummer 2026153146.",
+    "scraped_at": "2026-06-09T06:56:11.924950Z",
+    "id": "6e2bc3c6276e44617f2955e2087decf31b889f5a251c84739095e4c7175fe4c5",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/8/08-fietsendief-binnen-kwartier-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens het aanrijden zien agenten de auto rijden die door de melder is omschreven. De bestuurder krijgt direct een stopteken. Agenten zien meteen dat er een fiets in het voertuig staat. De bestuurder wordt gecontroleerd. In het voertuig vinden agenten de gestolen fiets en gereedschap waarmee sloten kunnen worden doorgeknipt. Exact elf minuten na de 112-melding houdt de politie een 57-jarige man uit Tilburg aan. Of het een persoonlijk record is van de agenten, is onbekend. Snel was het in ieder geval wel. Op zoek naar de eigenaar van de fiets De politie is op zoek naar de eigenaar van de donkere Sparta fiets. Bent u of kent u de eigenaar van deze fiets? Bel dan met 0900-8844. Zaaksnummer 2026153146.",
+    "locations": [
+      "Tilburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Tilburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "01f11a644449f648d9b34ae365343787": {
+    "feed": "Politie.nl",
+    "title": "Direct handelen leidt tot snelle aanhouding",
+    "url": "https://www.politie.nl/nieuws/2026/juni/8/08-direct-handelen-leidt-tot-snelle-aanhouding.html",
+    "published": "Mon, 08 Jun 2026 13:18:00 GMT",
+    "summary": "In de nacht van zaterdag 6 juni op zondag 7 juni kreeg de politie een melding van een heterdaad diefstal in Veen. Verschillende agenten reden met spoed naar de locatie. Agenten waren op tijd. De verdachte was nog aanwezig en kon direct worden aangehouden.",
+    "full_text": "Heterdaad diefstal De melder gaf aan dat de diefstal nog bezig was. Verschillende agenten reden daarom met spoed naar de Dr. Tjalmastraat in Veen. Eenmaal aangekomen zagen agenten een auto staan. De bestuurder werd gecontroleerd. In het voertuig zagen agenten goederen liggen die overeenkwamen met de gestolen spullen. Na een kort onderzoek wisten de agenten het zeker. Het ging om de gestolen goederen. De 31-jarige man uit Tilburg werd direct aangehouden. Meer aangetroffen dan vooraf gedacht Het voertuig werd in beslag genomen. In de auto vond de politie naast de gestolen goederen uit Veen nog meer goederen. Ook hiervan bleek dat het om gestolen spullen ging. Omdat er in de goederen een tracker zat, kon het slachtoffer de locatie zien van zijn verdwenen spullen. Zo wist de politie ook een tweede diefstalzaak op te lossen.  De politie doet verder onderzoek en sluit meerdere aanhoudingen niet uit.",
+    "scraped_at": "2026-06-09T06:56:11.925132Z",
+    "id": "ca72b56c27ae6dc23ba3ca3f26e3f0181ab21e00d6657bd5dc552256fb97b3eb",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/8/08-direct-handelen-leidt-tot-snelle-aanhouding.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heterdaad diefstal De melder gaf aan dat de diefstal nog bezig was. Verschillende agenten reden daarom met spoed naar de Dr. Tjalmastraat in Veen. Eenmaal aangekomen zagen agenten een auto staan. De bestuurder werd gecontroleerd. In het voertuig zagen agenten goederen liggen die overeenkwamen met de gestolen spullen. Na een kort onderzoek wisten de agenten het zeker. Het ging om de gestolen goederen. De 31-jarige man uit Tilburg werd direct aangehouden. Meer aangetroffen dan vooraf gedacht Het voertuig werd in beslag genomen. In de auto vond de politie naast de gestolen goederen uit Veen nog meer goederen. Ook hiervan bleek dat het om gestolen spullen ging. Omdat er in de goederen een tracker zat, kon het slachtoffer de locatie zien van zijn verdwenen spullen. Zo wist de politie ook een tweede diefstalzaak op te lossen.  De politie doet verder onderzoek en sluit meerdere aanhoudingen niet uit.",
+    "locations": [
+      "Veen"
+    ],
+    "country": "DE",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Veen",
+        "DE"
+      ],
+      [
+        "Tilburg",
+        "NL"
+      ],
+      [
+        "Veen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "f26e9f79706d44f9892282bbf64e3177": {
+    "feed": "Politie.nl",
+    "title": "Politie doet onderzoek naar brand in Zwaanshoek",
+    "url": "https://www.politie.nl/nieuws/2026/juni/8/04-politie-doet-onderzoek-naar-brand-in-zwaanshoek.html",
+    "published": "Mon, 08 Jun 2026 08:55:00 GMT",
+    "summary": "Zondag 7 juni, omstreeks 16:15 uur, ontstaat er brand in een bedrijfspand aan de Hillegommerdijk in Zwaanshoek. \r\nDe politie onderzoekt de oorzaak van de brand en zoekt getuigen.",
+    "full_text": "De 112 meldkamer krijgt zondag 7 juni om 16.15 uur meerdere meldingen van de brand en explosies in het pand aan de Hillegommerdijk. De brandweer is de gehele nacht aan het blussen. De politie onderzoekt de oorzaak en omstandigheden van de brand. Op het moment van publiceren van dit stuk is het nog niet veilig voor de Forensische Opsporing om het pand te onderzoeken. De omgeving van het pand is afgezet. Er zijn geen gewonden gemeld. Het gerucht gaat dat er een aanhouding was. Dit klopt niet. Er is niemand aangehouden. Getuigen en beelden gezocht Weet u meer over de oorzaak van de brand, of heeft u beelden die relevant zijn? Neem direct contact op met de politie. Telefonisch via 0900-8844, of via het tipformulier . In het formulier deelt u eenvoudig beelden of bestanden met de politie. Blijft u liever anoniem, bel dan met 0800-7000 Omwonenden In de omgeving staat een aantal voertuigen. Staat uw auto binnen het afgezette gebied? Bel dan met de politie: 0900-8844. Woont of werkt u in de omgeving en heeft u vragen? Bel dan met het klantcontact centrum van de gemeente Haarlemmermeer: 0900-1852",
+    "scraped_at": "2026-06-09T06:56:11.925594Z",
+    "id": "b038c200243c6a8155e0c98202155360cea80ae8126adcc984ec6a0a7ab5d6c5",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/8/04-politie-doet-onderzoek-naar-brand-in-zwaanshoek.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De 112 meldkamer krijgt zondag 7 juni om 16.15 uur meerdere meldingen van de brand en explosies in het pand aan de Hillegommerdijk. De brandweer is de gehele nacht aan het blussen. De politie onderzoekt de oorzaak en omstandigheden van de brand. Op het moment van publiceren van dit stuk is het nog niet veilig voor de Forensische Opsporing om het pand te onderzoeken. De omgeving van het pand is afgezet. Er zijn geen gewonden gemeld. Het gerucht gaat dat er een aanhouding was. Dit klopt niet. Er is niemand aangehouden. Getuigen en beelden gezocht Weet u meer over de oorzaak van de brand, of heeft u beelden die relevant zijn? Neem direct contact op met de politie. Telefonisch via 0900-8844, of via het tipformulier . In het formulier deelt u eenvoudig beelden of bestanden met de politie. Blijft u liever anoniem, bel dan met 0800-7000 Omwonenden In de omgeving staat een aantal voertuigen. Staat uw auto binnen het afgezette gebied? Bel dan met de politie: 0900-8844. Woont of werkt u in de omgeving en heeft u vragen? Bel dan met het klantcontact centrum van de gemeente Haarlemmermeer: 0900-1852",
+    "locations": [
+      "gemeente Haarlemmermeer"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Haarlemmermeer",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "3704d4445e2fab0c75b27f6d5f642860": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws maandag 8 juni: Zaagmuldersweg afgesloten om dreigende situatie • Auto belandt in sloot",
+    "url": "https://www.rtvnoord.nl/112/1411534/112-nieuws-maandag-8-juni-zaagmuldersweg-afgesloten-om-dreigende-situatie-auto-belandt-in-sloot",
+    "published": "Mon, 08 Jun 2026 19:55:07 GMT",
+    "summary": "In dit 112-blog houden we je deze maandag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Op de N46 in Groningen heeft een verkeersongeval plaatsgevonden tussen tenminste een personenauto en een vrachtwagen. Hulpdiensten, waaronder politie, ambulance en brandweer, kwamen met spoed ter plaatse. Meerdere personen zijn gecontroleerd door de ambulancedienst, het is niet bekend of iemand vervoerd is naar een ziekenhuis. Door het ongeval is één rijstrook afgesloten, wat heeft geleid tot een file en verkeershinder op de N46 richting Groningen. Over de oorzaak van het ongeval is momenteel nog niets bekend.",
+    "scraped_at": "2026-06-09T06:57:09.260464Z",
+    "id": "ca28c5c23fa95f97e9af0af4fb42571ac2f2ebb030823258d537862270572176",
+    "canonical_url": "https://www.rtvnoord.nl/112/1411534/112-nieuws-maandag-8-juni-zaagmuldersweg-afgesloten-om-dreigende-situatie-auto-belandt-in-sloot",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op de N46 in Groningen heeft een verkeersongeval plaatsgevonden tussen tenminste een personenauto en een vrachtwagen. Hulpdiensten, waaronder politie, ambulance en brandweer, kwamen met spoed ter plaatse. Meerdere personen zijn gecontroleerd door de ambulancedienst, het is niet bekend of iemand vervoerd is naar een ziekenhuis. Door het ongeval is één rijstrook afgesloten, wat heeft geleid tot een file en verkeershinder op de N46 richting Groningen. Over de oorzaak van het ongeval is momenteel nog niets bekend.",
+    "locations": [
+      "Groningen",
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
   }
 }
