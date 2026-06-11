@@ -63189,5 +63189,99 @@
     "all_sectors_in_article": [
       "49-53"
     ]
+  },
+  "8b42f80d7fe6a303880a67c6f73a4d06": {
+    "feed": "RTV Noord",
+    "title": "IND in Ter Apel zegt klaar te zijn voor uitvoeren van strengere Europese asielaanpak",
+    "url": "https://www.rtvnoord.nl/politiek/1412417/ind-in-ter-apel-zegt-klaar-te-zijn-voor-uitvoeren-van-strengere-europese-asielaanpak",
+    "published": "Thu, 11 Jun 2026 04:00:00 GMT",
+    "summary": "De Immigratie- en naturalisatiedienst (IND) in Ter Apel is klaar voor de invoering van het Europese Migratiepact, dat vrijdag van kracht wordt. Dat is de rotsvaste overtuiging van de organisatie zelf.",
+    "full_text": "Als nieuwe asielzoekers zich in Ter Apel melden, wordt als eerste handeling onderzoek gedaan naar hun identiteit. Daarbij worden hun gegevens gecontroleerd. Dat gebeurt onder meer aan de hand van vingerafdrukken en gezichtsherkenning. Die gegevens worden vervolgens vergeleken met nationale en Europese databases. Het doel is via deze weg zo snel mogelijk de juiste informatie te krijgen over deze asielzoekers. Eerder werden ook laptops en mobiele telefoons onder de loep genomen, maar dat stopt na de invoering van het Europese Migratiepact. De Dienst Identificatie en Screening Asielzoekers (DISA) nam anderhalf jaar geleden dit werk over van de nationale politie, die hier onvoldoende capaciteit voor had. Vanaf vrijdag is deze screening de verantwoordelijkheid van de Immigratie en Naturalisatiedienst (IND).",
+    "scraped_at": "2026-06-11T08:10:01.757538Z",
+    "id": "33e810849a9d6149e9a0e781f19ad16b16091506dcd747a3620c9a9d489430da",
+    "canonical_url": "https://www.rtvnoord.nl/politiek/1412417/ind-in-ter-apel-zegt-klaar-te-zijn-voor-uitvoeren-van-strengere-europese-asielaanpak",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Als nieuwe asielzoekers zich in Ter Apel melden, wordt als eerste handeling onderzoek gedaan naar hun identiteit. Daarbij worden hun gegevens gecontroleerd. Dat gebeurt onder meer aan de hand van vingerafdrukken en gezichtsherkenning. Die gegevens worden vervolgens vergeleken met nationale en Europese databases. Het doel is via deze weg zo snel mogelijk de juiste informatie te krijgen over deze asielzoekers. Eerder werden ook laptops en mobiele telefoons onder de loep genomen, maar dat stopt na de invoering van het Europese Migratiepact. De Dienst Identificatie en Screening Asielzoekers (DISA) nam anderhalf jaar geleden dit werk over van de nationale politie, die hier onvoldoende capaciteit voor had. Vanaf vrijdag is deze screening de verantwoordelijkheid van de Immigratie en Naturalisatiedienst (IND).",
+    "locations": [
+      "Ter Apel",
+      "Naturalisatiedienst"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Europese Migratiepact",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Dienst Identificatie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "DISA",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "IND",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "786914ff98dc07d9637913d4e6810bda": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws woensdag 10 juni: Man (88) overleden na aanrijding met vrachtwagen in Zuidhorn",
+    "url": "https://www.rtvnoord.nl/112/1412234/112-nieuws-woensdag-10-juni-man-88-overleden-na-aanrijding-met-vrachtwagen-in-zuidhorn",
+    "published": "Wed, 10 Jun 2026 19:43:27 GMT",
+    "summary": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Een 46-jarige inwoner van de gemeente Groningen is dinsdag aangehouden, op verdenking van rijden onder invloed en bezit van harddrugs. De auto waarin hij reed werd in de nacht van maandag op dinsdag aan de kant gezet langs de N360, ter hoogte van Garrelsweer. De man had 490 gram harddrugs bij zich, pillen en zo'n 1.100 euro aan contant geld. Het geld, de drugs en de auto zijn in beslag genomen.",
+    "scraped_at": "2026-06-11T08:10:03.626583Z",
+    "id": "ce75ec2a725a36b84c2c303d9d096357e61b3ef91b11c225ec34323b84d3dd95",
+    "canonical_url": "https://www.rtvnoord.nl/112/1412234/112-nieuws-woensdag-10-juni-man-88-overleden-na-aanrijding-met-vrachtwagen-in-zuidhorn",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een 46-jarige inwoner van de gemeente Groningen is dinsdag aangehouden, op verdenking van rijden onder invloed en bezit van harddrugs. De auto waarin hij reed werd in de nacht van maandag op dinsdag aan de kant gezet langs de N360, ter hoogte van Garrelsweer. De man had 490 gram harddrugs bij zich, pillen en zo'n 1.100 euro aan contant geld. Het geld, de drugs en de auto zijn in beslag genomen.",
+    "locations": [
+      "gemeente Groningen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Groningen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
