@@ -1434,5 +1434,9 @@
   "Naturalisatiedienst": {
     "lat": 52.5027804,
     "lon": 6.0808583
+  },
+  "Vogelwaarde": {
+    "lat": 51.3249192,
+    "lon": 3.9723356
   }
 }

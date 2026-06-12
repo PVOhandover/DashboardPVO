@@ -63283,5 +63283,235 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "378540ccc6cd57392b7ca6c61a001e8a": {
+    "feed": "Politie.nl",
+    "title": "Een aanhouding in onderzoek naar mogelijke drugshandel",
+    "url": "https://www.politie.nl/nieuws/2026/juni/11/een-aanhouding-in-onderzoek-naar-mogelijke-drugshandel.html",
+    "published": "Thu, 11 Jun 2026 22:18:00 GMT",
+    "summary": "De politie is donderdagavond, in samenwerking met de gemeente Maastricht, een pand aan de Frankenstraat binnengevallen in het kader van een onderzoek naar mogelijke drugshandel. Aanleiding voor de actie waren signalen en informatie waaruit het vermoeden ontstond dat vanuit het pand drugsgerelateerde activiteiten plaatsvonden. Er is één persoon aangehouden.",
+    "full_text": "De actie werd ingezet rond 20.00u en is op dit moment nog bezig. In het pand waren veertien personen aanwezig. Er is op dit moment één persoon aangehouden, een 45-jarige man uit Lanaken. Hij wordt verdacht van het overtreden van de opiumwet. In het pand zijn verdovende middelen aangetroffen. Op dit moment is nog niet duidelijk om welke hoeveelheid het gaat. De politie sluit meerdere aanhoudingen niet uit. Bestuurlijke maatregelen De gemeente Maastricht zal op basis van de bevindingen van de politie beoordelen of bestuurlijke maatregelen aan de orde zijn. Daarbij wordt bekeken of de situatie aanleiding geeft om gebruik te maken van de bevoegdheden die de burgemeester heeft om de openbare orde en veiligheid te beschermen. De aanpak van drugscriminaliteit blijft een belangrijk aandachtspunt voor de gemeente Maastricht en haar veiligheidspartners. Drugshandel en de aanwezigheid van drugsgerelateerde activiteiten in woningen en bedrijfspanden leiden tot onveilige situaties en overlast voor omwonenden. Gemeente, politie en het Openbaar Ministerie werken daarom samen om signalen van ondermijnende criminaliteit op te sporen en aan te pakken. Daarbij zijn meldingen van inwoners van grote waarde. Meld verdachte situaties Inwoners die signalen opvangen van mogelijke drugshandel of andere vormen van ondermijnende criminaliteit worden verzocht hiervan melding te maken. Dit kan via de politie (0900-8844). Bij spoedeisende situaties dient altijd 112 te worden gebeld.Anoniem melden is mogelijk via Meld Misdaad Anoniem.",
+    "scraped_at": "2026-06-12T07:28:08.473834Z",
+    "id": "a48697f36ef9c0b89ad0c1d9fa48c1f72c76e63746b154561278fabce1315b49",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/11/een-aanhouding-in-onderzoek-naar-mogelijke-drugshandel.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De actie werd ingezet rond 20.00u en is op dit moment nog bezig. In het pand waren veertien personen aanwezig. Er is op dit moment één persoon aangehouden, een 45-jarige man uit Lanaken. Hij wordt verdacht van het overtreden van de opiumwet. In het pand zijn verdovende middelen aangetroffen. Op dit moment is nog niet duidelijk om welke hoeveelheid het gaat. De politie sluit meerdere aanhoudingen niet uit. Bestuurlijke maatregelen De gemeente Maastricht zal op basis van de bevindingen van de politie beoordelen of bestuurlijke maatregelen aan de orde zijn. Daarbij wordt bekeken of de situatie aanleiding geeft om gebruik te maken van de bevoegdheden die de burgemeester heeft om de openbare orde en veiligheid te beschermen. De aanpak van drugscriminaliteit blijft een belangrijk aandachtspunt voor de gemeente Maastricht en haar veiligheidspartners. Drugshandel en de aanwezigheid van drugsgerelateerde activiteiten in woningen en bedrijfspanden leiden tot onveilige situaties en overlast voor omwonenden. Gemeente, politie en het Openbaar Ministerie werken daarom samen om signalen van ondermijnende criminaliteit op te sporen en aan te pakken. Daarbij zijn meldingen van inwoners van grote waarde. Meld verdachte situaties Inwoners die signalen opvangen van mogelijke drugshandel of andere vormen van ondermijnende criminaliteit worden verzocht hiervan melding te maken. Dit kan via de politie (0900-8844). Bij spoedeisende situaties dient altijd 112 te worden gebeld.Anoniem melden is mogelijk via Meld Misdaad Anoniem.",
+    "locations": [
+      "gemeente Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Lanaken",
+        "BE"
+      ],
+      [
+        "gemeente Maastricht",
+        "NL"
+      ],
+      [
+        "gemeente Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "fe729f59af82357ffba4669db676b752": {
+    "feed": "Politie.nl",
+    "title": "Zeer heftig verkeersongeval met meerdere dodelijke slachtoffers te betreuren",
+    "url": "https://www.politie.nl/nieuws/2026/juni/11/08-zeer-heftig-verkeersongeval-met-meerdere-dodelijke-slachtoffers-te-betreuren.html",
+    "published": "Thu, 11 Jun 2026 19:26:00 GMT",
+    "summary": "Vanmiddag, donderdag 11 juni 2026, vond er een zeer heftig ongeval plaats op de N290. Hierbij zijn vier dodelijke slachtoffers te betreuren. Het gaat om een volwassene en drie kinderen. Meerdere gewonden zijn naar ziekenhuizen overgebracht. Een 19-jarige man uit de gemeente Hulst is aangehouden. Zijn betrokkenheid bij het ongeval wordt onderzocht.",
+    "full_text": "Rond 12.30 uur is een auto in botsing gekomen met een groep fietsers. De groep fietsers is afkomstig van een basisschool uit Axel. Heel veel hulpverleners zijn ingezet bij dit heftige incident waaronder meerdere traumahelikopters. Bij het ongeval zijn ter plekke drie personen overleden, een volwassene en twee kinderen. Later is in het ziekenhuis een kind overleden. Meerdere slachtoffers zijn naar ziekenhuizen overgebracht. De overige betrokkenen zijn opgevangen, voor hen en hun naasten wordt hulp georganiseerd. Bent u getuige geweest van het ongeval en behoefte aan hulp, neem dan contact op met Slachtofferhulp Nederland via 0900 - 01 01. Getuigen De politie doet verder onderzoek naar de toedracht. Heeft u iets gezien ten tijde van het ongeluk in Vogelwaarde of in de directe omgeving? De kleinste details kunnen van belang zijn in het onderzoek. Wij horen dit graag! U kunt contact opnemen via 0900-8844.",
+    "scraped_at": "2026-06-12T07:28:08.474296Z",
+    "id": "1de7ca32da49d4b4603f5c5bde60a6e372ff6593f846695014323a59e9fdbbf8",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/11/08-zeer-heftig-verkeersongeval-met-meerdere-dodelijke-slachtoffers-te-betreuren.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 12.30 uur is een auto in botsing gekomen met een groep fietsers. De groep fietsers is afkomstig van een basisschool uit Axel. Heel veel hulpverleners zijn ingezet bij dit heftige incident waaronder meerdere traumahelikopters. Bij het ongeval zijn ter plekke drie personen overleden, een volwassene en twee kinderen. Later is in het ziekenhuis een kind overleden. Meerdere slachtoffers zijn naar ziekenhuizen overgebracht. De overige betrokkenen zijn opgevangen, voor hen en hun naasten wordt hulp georganiseerd. Bent u getuige geweest van het ongeval en behoefte aan hulp, neem dan contact op met Slachtofferhulp Nederland via 0900 - 01 01. Getuigen De politie doet verder onderzoek naar de toedracht. Heeft u iets gezien ten tijde van het ongeluk in Vogelwaarde of in de directe omgeving? De kleinste details kunnen van belang zijn in het onderzoek. Wij horen dit graag! U kunt contact opnemen via 0900-8844.",
+    "locations": [
+      "Vogelwaarde"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Vogelwaarde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Axel",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "6020e6f51260ee0e77f38d60bc5fdba5": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Chinese webwinkel Joybuy wil Nederland veroveren: 'We moeten niet naïef zijn'",
+    "url": "https://nos.nl/l/2618073",
+    "published": "Thu, 11 Jun 2026 12:20:20 +0200",
+    "summary": "<p>Een zo groot mogelijk aanbod zo snel mogelijk bezorgen. Het online winkelen heeft hier de afgelopen jaren een enorme vlucht genomen en daarom is de Nederlandse markt interessant voor veel buitenlandse webshopbedrijven. Met als laatste toevoeging: het Chinese Joybuy. Maar er zijn twijfels of Joybuy wel een eerlijke concurrent is.</p>\n        <p>Om een serieuze Europese speler te worden wil JD.com ook het moederbedrijf van MediaMarkt overnemen. Vorig jaar deden ze al een bod, maar de Europese Commissie <a href=\"https://nos.nl/artikel/2616221-europese-commissie-onderzoekt-chinese-staatssteun-bij-overname\">onderzoekt</a> of dat mogelijk deels gefinancierd werd door de Chinese overheid.</p>\n        <p>Dit voorjaar lanceerde JD.com het dochtermerk Joybuy officieel in zes Europese landen, waaronder Nederland. De webshop belooft veel producten, van elektronica tot dagelijkse boodschappen, te bezorgen op dezelfde dag dat de klant bestelt.</p>\n        <h2>'In de top 5'</h2>\n        <p>JD.com is één van de grootste winkels van China. Die positie willen ze ook in Nederland bereiken. \"We streven ernaar om de komende jaren een van de topspelers te zijn, laten we zeggen in de top 5\", zegt Nirav Haria, countrymananger van Joybuy in Nederland<em>.</em></p>\n        <p>\"Als we het straks hebben over online winkels, zoals Bol, Coolblue of Amazon, zullen Nederlanders hopelijk ook zeggen: \"JoyBuy.\" Dat is ons doel.\"</p>\n        <p>In China heeft JD.com te maken met flinke concurrentie. Doordat het moet concurreren met bijvoorbeeld Alibaba en het moederbedrijf van Temu staan de prijzen, en daarmee de winst, onder druk. Zo leed JD.com in het laatste kwartaal van 2025 verlies en was de winst van de laatste maanden 53% <a href=\"https://ir.jd.com/static-files/aa3128de-d344-4069-86f8-83e0141b95e8\">lager</a> ten opzichte van een jaar eerder.</p>\n        <h2>Overstap naar Europa</h2>\n        <p>Een belangrijke reden dat JD.com de overstap naar Europa waagt is vanwege de extreem competitieve markt in China, zegt e-commerce expert voor China John Lin.<strong> </strong></p>\n        <p>Al eerder probeerde het bedrijf het in Europa, maar dat slaagde volgens Lin maar matig. Deze keer is volgens hem anders. \"In China zijn ze heel groot, de slagkracht is er nu en er is meer aandacht voor de Europese markt. JD.com zegt sterk genoeg te zijn en wil de spierballen laten zien. Dus als ze één van de grootste kunnen worden in China, dan ook wereldwijd.\"</p>\n        <p>Europarlementariër Dirk Gotink (NSC) had om het onderzoek naar staatssteun door China gevraagd. \"We moeten niet naïef zijn. China is te groot om hun bedrijven zomaar onze markt op te laten, zonder dat we ze spelregels meegeven. Ze krijgen daar zoveel staatssteun, hun markt is zeer beschermd. Europese bedrijven worden daar niet op deze manier toegelaten. Dus we mogen daar een stuk strenger in zijn.\"</p>\n        <p>Het onderzoek naar de overname wordt in november afgerond. \"Als die overname doorgaat kunnen we ook in Nederland serieuze concurrentie verwachten\", zegt retaildeskundige van ING Dirk Mulder.</p>\n        <p>Doordat Mediamarkt veel klanten heeft in Nederland, kunnen ze met de overname volgens Lin hier wel eens een top 10-positie krijgen \"Ik denk dat ze met een onbeperkt budget best ver komen, het is namelijk een gigantische, serieuze speler. Het is niet de vraag of ze ertussen komen, maar of ze de grootste worden.\"</p>\n        <h2>Lage prijzen</h2>\n        <p>Maar ook door hun eigen Chinese producten voor een zo laag mogelijke prijs af te zetten probeert JD zijn concurrenten uit te dagen. \"JD.com is zelf de hele spin in het web tussen producent en consument. Wat ze goed doen is dat ze een directe verbinding zijn tussen de fabriek in China en de consument in het Westen. Daardoor kunnen ze die producten ook voor lagere prijzen aanbieden\", zegt Mulder.</p>\n        <p>Bovendien heeft JD.com volgens Lin een ander groot voordeel doordat ze veel spullen die al in China worden gemaakt ook in China verkopen. \"Ze staan in direct contact met Chinese merken. Ze krijgen daardoor een betere deal dan Bol of Amazon.\"</p>\n        <p>\"Zeker wanneer we de hele klantreis verzorgen is de economische haalbaarheid altijd een vraag. Maar we zijn hier voor de lange termijn. Dus we maken ons geen zorgen over de noodzaak om morgen winst te maken\", zegt Haria van Joybuy.</p>\n        <p>Daarbovenop heeft Joybuy een zogenoemde 'summer black friday' aangekondigd, waarin ze twee weken lang hun producten voor lagere prijzen aanbieden.</p>\n        <h2>Concurrentie in Nederland</h2>\n        <p>Toch moet Joybuy specifiek in Nederland concurreren met veel andere bedrijven. Zo staat Bol al jarenlang bovenaan de lijst van grote webwinkels. Daar kruipt Amazon de laatste jaren wat dichterbij, maar haalt Bol nog niet in. Het is dus een uitdaging voor Joybuy om ertussen te komen.</p>\n        <p>\"Bol was als eerste hier, dus heeft daarmee een groot voordeel. Maar Amazon zal bang en voorbereid moeten zijn, want JD.com vormt voor hen een serieuze concurrent\", zegt John Lin.</p>\n        <p>Dat China geldt als het land van goedkope producten is volgens Mulder inmiddels niet meer terecht. Volgens hem moeten Europese bedrijven daarom vooral oppassen op het gebied van elektronica. \"Kijk bijvoorbeeld naar de elektrische auto's, die zien we hier steeds vaker.\"</p>",
+    "full_text": "NOS Nieuws • gisteren, 12:20 • Aangepast gisteren, 16:29 Pomme Rademaker redacteur Economie Pomme Rademaker redacteur Economie Een zo groot mogelijk aanbod zo snel mogelijk bezorgen. Het online winkelen heeft hier de afgelopen jaren een enorme vlucht genomen en daarom is de Nederlandse markt interessant voor veel buitenlandse webshopbedrijven. Met als laatste toevoeging: het Chinese Joybuy. Maar er zijn twijfels of Joybuy wel een eerlijke concurrent is. Om een serieuze Europese speler te worden wil JD.com ook het moederbedrijf van MediaMarkt overnemen. Vorig jaar deden ze al een bod, maar de Europese Commissie onderzoekt of dat mogelijk deels gefinancierd werd door de Chinese overheid. Dit voorjaar lanceerde JD.com het dochtermerk Joybuy officieel in zes Europese landen, waaronder Nederland. De webshop belooft veel producten, van elektronica tot dagelijkse boodschappen, te bezorgen op dezelfde dag dat de klant bestelt. 'In de top 5' JD.com is één van de grootste winkels van China. Die positie willen ze ook in Nederland bereiken. \"We streven ernaar om de komende jaren een van de topspelers te zijn, laten we zeggen in de top 5\", zegt Nirav Haria, countrymananger van Joybuy in Nederland . \"Als we het straks hebben over online winkels, zoals Bol, Coolblue of Amazon, zullen Nederlanders hopelijk ook zeggen: \"JoyBuy.\" Dat is ons doel.\" In China heeft JD.com te maken met flinke concurrentie. Doordat het moet concurreren met bijvoorbeeld Alibaba en het moederbedrijf van Temu staan de prijzen, en daarmee de winst, onder druk. Zo leed JD.com in het laatste kwartaal van 2025 verlies en was de winst van de laatste maanden 53% lager (opent in nieuw venster) ten opzichte van een jaar eerder. Overstap naar Europa Een belangrijke reden dat JD.com de overstap naar Europa waagt is vanwege de extreem competitieve markt in China, zegt e-commerce expert voor China John Lin. Al eerder probeerde het bedrijf het in Europa, maar dat slaagde volgens Lin maar matig. Deze keer is volgens hem anders. \"In China zijn ze heel groot, de slagkracht is er nu en er is meer aandacht voor de Europese markt. JD.com zegt sterk genoeg te zijn en wil de spierballen laten zien. Dus als ze één van de grootste kunnen worden in China, dan ook wereldwijd.\" Europarlementariër Dirk Gotink (NSC) had om het onderzoek naar staatssteun door China gevraagd. \"We moeten niet naïef zijn. China is te groot om hun bedrijven zomaar onze markt op te laten, zonder dat we ze spelregels meegeven. Ze krijgen daar zoveel staatssteun, hun markt is zeer beschermd. Europese bedrijven worden daar niet op deze manier toegelaten. Dus we mogen daar een stuk strenger in zijn.\" Het onderzoek naar de overname wordt in november afgerond. \"Als die overname doorgaat kunnen we ook in Nederland serieuze concurrentie verwachten\", zegt retaildeskundige van ING Dirk Mulder. Doordat Mediamarkt veel klanten heeft in Nederland, kunnen ze met de overname volgens Lin hier wel eens een top 10-positie krijgen \"Ik denk dat ze met een onbeperkt budget best ver komen, het is namelijk een gigantische, serieuze speler. Het is niet de vraag of ze ertussen komen, maar of ze de grootste worden.\" Lage prijzen Maar ook door hun eigen Chinese producten voor een zo laag mogelijke prijs af te zetten probeert JD zijn concurrenten uit te dagen. \"JD.com is zelf de hele spin in het web tussen producent en consument. Wat ze goed doen is dat ze een directe verbinding zijn tussen de fabriek in China en de consument in het Westen. Daardoor kunnen ze die producten ook voor lagere prijzen aanbieden\", zegt Mulder. Bovendien heeft JD.com volgens Lin een ander groot voordeel doordat ze veel spullen die al in China worden gemaakt ook in China verkopen. \"Ze staan in direct contact met Chinese merken. Ze krijgen daardoor een betere deal dan Bol of Amazon.\" \"Zeker wanneer we de hele klantreis verzorgen is de economische haalbaarheid altijd een vraag. Maar we zijn hier voor de lange termijn. Dus we maken ons geen zorgen over de noodzaak om morgen winst te maken\", zegt Haria van Joybuy. Daarbovenop heeft Joybuy een zogenoemde 'summer black friday' aangekondigd, waarin ze twee weken lang hun producten voor lagere prijzen aanbieden. Concurrentie in Nederland Toch moet Joybuy specifiek in Nederland concurreren met veel andere bedrijven. Zo staat Bol al jarenlang bovenaan de lijst van grote webwinkels. Daar kruipt Amazon de laatste jaren wat dichterbij, maar haalt Bol nog niet in. Het is dus een uitdaging voor Joybuy om ertussen te komen. \"Bol was als eerste hier, dus heeft daarmee een groot voordeel. Maar Amazon zal bang en voorbereid moeten zijn, want JD.com vormt voor hen een serieuze concurrent\", zegt John Lin. Dat China geldt als het land van goedkope producten is volgens Mulder inmiddels niet meer terecht. Volgens hem moeten Europese bedrijven daarom vooral oppassen op het gebied van elektronica. \"Kijk bijvoorbeeld naar de elektrische auto's, die zien we hier steeds vaker.\"",
+    "scraped_at": "2026-06-12T07:26:35.335241Z",
+    "id": "aeaa4be1d5e78582993a3c1a2aa23274bd2f1e819b202448b88bb7d1f6df835c",
+    "canonical_url": "https://nos.nl/l/2618073",
+    "published_ts": "2026-06-11T10:20:20Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 12:20 • Aangepast gisteren, 16:29 Pomme Rademaker redacteur Economie Pomme Rademaker redacteur Economie Een zo groot mogelijk aanbod zo snel mogelijk bezorgen. Het online winkelen heeft hier de afgelopen jaren een enorme vlucht genomen en daarom is de Nederlandse markt interessant voor veel buitenlandse webshopbedrijven. Met als laatste toevoeging: het Chinese Joybuy. Maar er zijn twijfels of Joybuy wel een eerlijke concurrent is. Om een serieuze Europese speler te worden wil JD.com ook het moederbedrijf van MediaMarkt overnemen. Vorig jaar deden ze al een bod, maar de Europese Commissie onderzoekt of dat mogelijk deels gefinancierd werd door de Chinese overheid. Dit voorjaar lanceerde JD.com het dochtermerk Joybuy officieel in zes Europese landen, waaronder Nederland. De webshop belooft veel producten, van elektronica tot dagelijkse boodschappen, te bezorgen op dezelfde dag dat de klant bestelt. 'In de top 5' JD.com is één van de grootste winkels van China. Die positie willen ze ook in Nederland bereiken. \"We streven ernaar om de komende jaren een van de topspelers te zijn, laten we zeggen in de top 5\", zegt Nirav Haria, countrymananger van Joybuy in Nederland . \"Als we het straks hebben over online winkels, zoals Bol, Coolblue of Amazon, zullen Nederlanders hopelijk ook zeggen: \"JoyBuy.\" Dat is ons doel.\" In China heeft JD.com te maken met flinke concurrentie. Doordat het moet concurreren met bijvoorbeeld Alibaba en het moederbedrijf van Temu staan de prijzen, en daarmee de winst, onder druk. Zo leed JD.com in het laatste kwartaal van 2025 verlies en was de winst van de laatste maanden 53% lager (opent in nieuw venster) ten opzichte van een jaar eerder. Overstap naar Europa Een belangrijke reden dat JD.com de overstap naar Europa waagt is vanwege de extreem competitieve markt in China, zegt e-commerce expert voor China John Lin. Al eerder probeerde het bedrijf het in Europa, maar dat slaagde volgens Lin maar matig. Deze keer is volgens hem anders. \"In China zijn ze heel groot, de slagkracht is er nu en er is meer aandacht voor de Europese markt. JD.com zegt sterk genoeg te zijn en wil de spierballen laten zien. Dus als ze één van de grootste kunnen worden in China, dan ook wereldwijd.\" Europarlementariër Dirk Gotink (NSC) had om het onderzoek naar staatssteun door China gevraagd. \"We moeten niet naïef zijn. China is te groot om hun bedrijven zomaar onze markt op te laten, zonder dat we ze spelregels meegeven. Ze krijgen daar zoveel staatssteun, hun markt is zeer beschermd. Europese bedrijven worden daar niet op deze manier toegelaten. Dus we mogen daar een stuk strenger in zijn.\" Het onderzoek naar de overname wordt in november afgerond. \"Als die overname doorgaat kunnen we ook in Nederland serieuze concurrentie verwachten\", zegt retaildeskundige van ING Dirk Mulder. Doordat Mediamarkt veel klanten heeft in Nederland, kunnen ze met de overname volgens Lin hier wel eens een top 10-positie krijgen \"Ik denk dat ze met een onbeperkt budget best ver komen, het is namelijk een gigantische, serieuze speler. Het is niet de vraag of ze ertussen komen, maar of ze de grootste worden.\" Lage prijzen Maar ook door hun eigen Chinese producten voor een zo laag mogelijke prijs af te zetten probeert JD zijn concurrenten uit te dagen. \"JD.com is zelf de hele spin in het web tussen producent en consument. Wat ze goed doen is dat ze een directe verbinding zijn tussen de fabriek in China en de consument in het Westen. Daardoor kunnen ze die producten ook voor lagere prijzen aanbieden\", zegt Mulder. Bovendien heeft JD.com volgens Lin een ander groot voordeel doordat ze veel spullen die al in China worden gemaakt ook in China verkopen. \"Ze staan in direct contact met Chinese merken. Ze krijgen daardoor een betere deal dan Bol of Amazon.\" \"Zeker wanneer we de hele klantreis verzorgen is de economische haalbaarheid altijd een vraag. Maar we zijn hier voor de lange termijn. Dus we maken ons geen zorgen over de noodzaak om morgen winst te maken\", zegt Haria van Joybuy. Daarbovenop heeft Joybuy een zogenoemde 'summer black friday' aangekondigd, waarin ze twee weken lang hun producten voor lagere prijzen aanbieden. Concurrentie in Nederland Toch moet Joybuy specifiek in Nederland concurreren met veel andere bedrijven. Zo staat Bol al jarenlang bovenaan de lijst van grote webwinkels. Daar kruipt Amazon de laatste jaren wat dichterbij, maar haalt Bol nog niet in. Het is dus een uitdaging voor Joybuy om ertussen te komen. \"Bol was als eerste hier, dus heeft daarmee een groot voordeel. Maar Amazon zal bang en voorbereid moeten zijn, want JD.com vormt voor hen een serieuze concurrent\", zegt John Lin. Dat China geldt als het land van goedkope producten is volgens Mulder inmiddels niet meer terecht. Volgens hem moeten Europese bedrijven daarom vooral oppassen op het gebied van elektronica. \"Kijk bijvoorbeeld naar de elektrische auto's, die zien we hier steeds vaker.\"",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "47",
+      "sector_name": "Retail trade"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Pomme Rademaker",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Pomme Rademaker",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Joybuy",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "JD.com",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Europese Commissie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Chinese overheid",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "JD.com",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Joybuy",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "JD.com",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "47"
+    ]
   }
 }
