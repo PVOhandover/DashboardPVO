@@ -63513,5 +63513,77 @@
       "not_affected",
       "47"
     ]
+  },
+  "31f00fc00169f0412c1e7053834c7410": {
+    "feed": "Politie.nl",
+    "title": "Grote vechtpartij op school, zes aanhoudingen",
+    "url": "https://www.politie.nl/nieuws/2026/juni/12/grote-vechtpartij-op-school-zes-aanhoudingen.html",
+    "published": "Fri, 12 Jun 2026 14:12:00 GMT",
+    "summary": "Op donderdag 11 juni vond op een school aan de Lijnbaan een grote vechtpartij plaats tussen groepen jongeren. Agenten hielden 6 personen aan. Bij het incident raakten twee slachtoffers gewond. De politie doet verder onderzoek naar wat er precies is gebeurd.",
+    "full_text": "De politie kreeg rond 12.30 uur meldingen van een conflict en ging met meerdere eenheden naar de school toe. Agenten troffen daar een vechtpartij aan waarbij tientallen personen betrokken waren. Toen de politie de groepen uit elkaar probeerde te houden, ontstond opnieuw onrust tussen de groepen. Om de situatie onder controle te krijgen vormden agenten een linie met getrokken wapenstokken en haalden zij de groepen uit elkaar, waarnaar de rust terugkeerde. Daarnaast werd de hond van de hondengeleider ingezet. Tijdens de inzet verleenden zij ook eerste hulp aan slachtoffers. Twee personen raakten verwond, waarvan er een naar het ziekenhuis is gebracht. De politie hield in totaal zes personen aan. Het gaat om drie minderjarigen en drie mannen uit Terneuzen, Middelburg en Goes. Hun betrokkenheid bij het incident wordt onderzocht.",
+    "scraped_at": "2026-06-13T07:02:34.872035Z",
+    "id": "2ecbe6da2e0642876c4d7ffd367ab3e3720ebd91d7c2000b6a16aa56da5b8278",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/12/grote-vechtpartij-op-school-zes-aanhoudingen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie kreeg rond 12.30 uur meldingen van een conflict en ging met meerdere eenheden naar de school toe. Agenten troffen daar een vechtpartij aan waarbij tientallen personen betrokken waren. Toen de politie de groepen uit elkaar probeerde te houden, ontstond opnieuw onrust tussen de groepen. Om de situatie onder controle te krijgen vormden agenten een linie met getrokken wapenstokken en haalden zij de groepen uit elkaar, waarnaar de rust terugkeerde. Daarnaast werd de hond van de hondengeleider ingezet. Tijdens de inzet verleenden zij ook eerste hulp aan slachtoffers. Twee personen raakten verwond, waarvan er een naar het ziekenhuis is gebracht. De politie hield in totaal zes personen aan. Het gaat om drie minderjarigen en drie mannen uit Terneuzen, Middelburg en Goes. Hun betrokkenheid bij het incident wordt onderzocht.",
+    "locations": [
+      "Goes"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Middelburg",
+        "DE"
+      ],
+      [
+        "Goes",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "a90bda716cabddfd1b2a9c3be1e90779": {
+    "feed": "L1 Nieuws",
+    "title": "Aanhouding bij eet- en theehuis Maricha in Maastricht",
+    "url": "https://www.l1nieuws.nl/nieuws/3178160/aanhouding-bij-eet-en-theehuis-maricha-in-maastricht",
+    "published": "Fri, 12 Jun 2026 07:51:16 GMT",
+    "summary": "Bij een politie-inval bij een eet- en theehuis aan de Frankenstraat in Maastricht is een persoon aangehouden.",
+    "full_text": "Door een sterk vermoeden dat vanuit het pand druggerelateerde activiteiten plaatsvonden, viel de politie het pand in Wittevrouwenveld binnen. Op dat moment waren 14 personen aanwezig. Bij de inval is een persoon aangehouden, een 45-jarige man uit Lanaken. Hij wordt verdacht van het overtreden van de opiumwet.",
+    "scraped_at": "2026-06-13T07:02:41.577751Z",
+    "id": "6131f0a7c403aa36a34f4eeaacee831e0b1fe370fdb875717c3dbe5646aa549b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3178160/aanhouding-bij-eet-en-theehuis-maricha-in-maastricht",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Door een sterk vermoeden dat vanuit het pand druggerelateerde activiteiten plaatsvonden, viel de politie het pand in Wittevrouwenveld binnen. Op dat moment waren 14 personen aanwezig. Bij de inval is een persoon aangehouden, een 45-jarige man uit Lanaken. Hij wordt verdacht van het overtreden van de opiumwet.",
+    "locations": [
+      "Lanaken"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Lanaken",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
