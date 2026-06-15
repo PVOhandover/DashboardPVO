@@ -63585,5 +63585,83 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "3b484850f93348f99af6ad3e7ffb89aa": {
+    "feed": "Politie.nl",
+    "title": "Derde persoon aangehouden na eerdere verdachte situatie in Heemstede",
+    "url": "https://www.politie.nl/nieuws/2026/juni/14/04-derde-persoon-aangehouden-na-verdachte-situatie-in-heemstede.html",
+    "published": "Sun, 14 Jun 2026 14:40:00 GMT",
+    "summary": "De politie Noord-Holland heeft op 9 juni 2026 een derde verdachte aangehouden voor de verdachte situatie op de Adriaan Pauwlaan in Heemstede op 20 maart jl.  De politie en het Openbaar Ministerie houden er rekening mee dat een synagoge in de buurt doelwit is geweest van een op handen zijnde explosie. Dit is door de inzet van de politie voorkomen.",
+    "full_text": "De 20-jarige man wordt verdacht van het treffen van voorbereidingshandelingen om een explosie te veroorzaken dan wel brand te stichten in vereniging, met een terroristisch motief. De verdachte is vrijdag voorgeleid aan de rechter commissaris bij de rechtbank in Amsterdam. Die heeft besloten dat hij nog 14 dagen in voorarrest moet blijven zitten. De verdachte zit in beperkingen. Dit houdt in dat de verdachte alleen contact mag hebben met zijn advocaat en dat de politie verder geen mededelingen kan doen. Het (forensisch) onderzoek wordt voorgezet. In het belang van het strafrechtelijke onderzoek worden op dit moment verder geen mededelingen gedaan. Bekijk voor meer informatie: https://www.om.nl/actueel/nieuws/2026/03/23/update-twee-personen-aangehouden-na-verdachte-situatie-heemstede https://www.politie.nl/nieuws/2026/maart/20/04-twee-personen-aangehouden-na-verdachte-situatie-in-heemstede.html",
+    "scraped_at": "2026-06-15T09:27:37.183303Z",
+    "id": "1e7b2194d4b8b099e8581ff708cdf1e0e70f15aa507d7c2723b835d79cd86091",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/14/04-derde-persoon-aangehouden-na-verdachte-situatie-in-heemstede.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De 20-jarige man wordt verdacht van het treffen van voorbereidingshandelingen om een explosie te veroorzaken dan wel brand te stichten in vereniging, met een terroristisch motief. De verdachte is vrijdag voorgeleid aan de rechter commissaris bij de rechtbank in Amsterdam. Die heeft besloten dat hij nog 14 dagen in voorarrest moet blijven zitten. De verdachte zit in beperkingen. Dit houdt in dat de verdachte alleen contact mag hebben met zijn advocaat en dat de politie verder geen mededelingen kan doen. Het (forensisch) onderzoek wordt voorgezet. In het belang van het strafrechtelijke onderzoek worden op dit moment verder geen mededelingen gedaan. Bekijk voor meer informatie: https://www.om.nl/actueel/nieuws/2026/03/23/update-twee-personen-aangehouden-na-verdachte-situatie-heemstede https://www.politie.nl/nieuws/2026/maart/20/04-twee-personen-aangehouden-na-verdachte-situatie-in-heemstede.html",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "21dba449010e33f2b4b1dd9a34693da7": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws zondag 14 juni: Brand in Uithuizermeeden snel geblust • Steekpartij in azc Ter Apel",
+    "url": "https://www.rtvnoord.nl/112/1413207/112-nieuws-zondag-14-juni-brand-in-uithuizermeeden-snel-geblust-steekpartij-in-azc-ter-apel",
+    "published": "Sun, 14 Jun 2026 21:00:07 GMT",
+    "summary": "In dit 112-blog houden we je deze zondag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Bij een schietpartij in Zuidlaren is afgelopen nacht een 34-jarige man uit de gemeente Oldambt zwaargewond geraakt, meldt . Kort na de schietpartij is een 27-jarige vrouw uit Zuidlaren aangehouden. De politie sluit meerdere aanhoudingen niet uit.",
+    "scraped_at": "2026-06-15T09:28:28.751926Z",
+    "id": "64519b5df8b1efe0194be76f99f168194cc53bc61cd4a91a6d6d1dd506ad2b4e",
+    "canonical_url": "https://www.rtvnoord.nl/112/1413207/112-nieuws-zondag-14-juni-brand-in-uithuizermeeden-snel-geblust-steekpartij-in-azc-ter-apel",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij een schietpartij in Zuidlaren is afgelopen nacht een 34-jarige man uit de gemeente Oldambt zwaargewond geraakt, meldt . Kort na de schietpartij is een 27-jarige vrouw uit Zuidlaren aangehouden. De politie sluit meerdere aanhoudingen niet uit.",
+    "locations": [
+      "Zuidlaren",
+      "gemeente Oldambt",
+      "Zuidlaren"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zuidlaren",
+        "NL"
+      ],
+      [
+        "gemeente Oldambt",
+        "NL"
+      ],
+      [
+        "Zuidlaren",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
