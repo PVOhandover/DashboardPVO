@@ -63806,5 +63806,67 @@
     "all_sectors_in_article": [
       "86"
     ]
+  },
+  "f8015b6f6ebe6b85b1fa763838c7b98d": {
+    "feed": "Politie.nl",
+    "title": "Drie verdachten aangehouden voor ontvoering en gijzeling",
+    "url": "https://www.politie.nl/nieuws/2026/juni/16/drie-verdachten-aangehouden-voor-ontvoering-en-gijzeling.html",
+    "published": "Tue, 16 Jun 2026 12:55:00 GMT",
+    "summary": "De politie heeft dinsdag in Rotterdam, Pernis en Utrecht drie mannen (tussen de 20 en 36 jaar)  aangehouden die worden verdacht van een ontvoering en gijzeling, waarbij het slachtoffer zwaar is mishandeld. Daarnaast werden huiszoekingen gedaan in Pernis, Amsterdam, Utrecht en Den Haag. Daarbij is onder meer een vuurwapen aangetroffen.",
+    "full_text": "Het 37-jarige slachtoffer werd op 15 februari 2026 in Pernis ontvoerd. De man met Spaanse nationaliteit werd vervolgens dagenlang vastgehouden en zwaar mishandeld. Dit gebeurde op twee locaties: in een garagebox in Rotterdam en in een appartement in Utrecht. Op 24 februari kon het slachtoffer ontkomen van zijn ontvoerders, waarna hij contact opnam met de politie. De Eenheid Landelijk Opsporing en Interventies startte een grootschalig onderzoek. Eind februari en begin maart werden eerder al twee verdachten aangehouden in deze zaak. De aanleiding voor de ontvoering is vermoedelijk een ruzie over een partij drugs. Na aandacht voor de zaak in het tv-programma Opsporing Verzocht en nader onderzoek van de Eenheid Landelijke Opsporing en interventies konden de Dienst Speciale Interventies (DSI) en Ondersteuningsgroep van de Eenheid Landelijke Expertise en Operaties dinsdag overgaan tot de aanhouding van de drie mannen. De politie gaat verder met het onderzoek en sluit meer aanhoudingen niet uit.",
+    "scraped_at": "2026-06-17T08:33:07.201114Z",
+    "id": "333e91a8093b86f7c93048fdfc3b3850a7864d29a70fbd90d67516433006a013",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/16/drie-verdachten-aangehouden-voor-ontvoering-en-gijzeling.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het 37-jarige slachtoffer werd op 15 februari 2026 in Pernis ontvoerd. De man met Spaanse nationaliteit werd vervolgens dagenlang vastgehouden en zwaar mishandeld. Dit gebeurde op twee locaties: in een garagebox in Rotterdam en in een appartement in Utrecht. Op 24 februari kon het slachtoffer ontkomen van zijn ontvoerders, waarna hij contact opnam met de politie. De Eenheid Landelijk Opsporing en Interventies startte een grootschalig onderzoek. Eind februari en begin maart werden eerder al twee verdachten aangehouden in deze zaak. De aanleiding voor de ontvoering is vermoedelijk een ruzie over een partij drugs. Na aandacht voor de zaak in het tv-programma Opsporing Verzocht en nader onderzoek van de Eenheid Landelijke Opsporing en interventies konden de Dienst Speciale Interventies (DSI) en Ondersteuningsgroep van de Eenheid Landelijke Expertise en Operaties dinsdag overgaan tot de aanhouding van de drie mannen. De politie gaat verder met het onderzoek en sluit meer aanhoudingen niet uit.",
+    "locations": [
+      "Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Pernis",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Dienst Speciale Interventies",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "DSI",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Landelijke Expertise",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
