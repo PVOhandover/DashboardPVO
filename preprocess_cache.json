@@ -64124,5 +64124,59 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "6fcd8df91ddb4624538af32a4d3f8071": {
+    "feed": "Politie.nl",
+    "title": "Drie verdachten aangehouden in lopend cyberonderzoek",
+    "url": "https://www.politie.nl/nieuws/2026/juni/19/08-drie-verdachten-aangehouden-in-lopend-cyberonderzoek.html",
+    "published": "Fri, 19 Jun 2026 11:07:00 GMT",
+    "summary": "In een cyberonderzoek dat al maanden loopt werden afgelopen dinsdag (16 juni 2026) drie verdachten van hun bed gelicht door de politie. Dit gebeurde bij invallen in twee woningen in Terneuzen en één woning in Capelle aan den IJssel.",
+    "full_text": "De drie worden ervan verdacht mensen te hebben opgelicht door mails (phishing) en sms’jes (smishing) te sturen uit naam van overheidsdiensten zoals de Belastingdienst. In de mails en sms’jes werd een link meegestuurd waarvan het leek of mensen een betalingsachterstand hadden bij die dienst. De links waar sommige mensen op klikten verwezen alleen niet naar het rekeningnummer van de Belastingdienst, maar naar de bankrekening van de verdachten. Hierdoor wisten zij onder valse voorwendselen geld af te troggelen van meerdere mensen in Nederland. Het exacte aantal slachtoffers is niet bekend, tot nu toe zijn er 11 concrete aangiftes aan te koppelen. Overheid communiceert altijd via beveiligde websites Dit soort fraudeurs zetten ontvangers van de mails en sms’jes onder druk door in hun berichten aan te geven dat mensen snel moeten betalen, omdat anders de kosten nog hoger worden dan ze al zijn. Sommige mensen zijn daar gevoelig voor en klikken op de link. De politie waarschuwt dat diensten als de Belastingdienst nooit incassoverzoeken doen via een sms of een e-mail. Klik dus niet op dit soort links. Blokkeren en verwijderen Wanneer u een dergelijke e-mail of sms ontvangt dan kunt u het beste het mailadres of telefoonnummer direct blokkeren en de mail of sms verwijderen. Om na te gaan of zo’n bericht echt van een bepaalde instantie afkomstig is kunt u altijd telefonisch contact opnemen met de betreffende instantie. Nog wel verdachte De drie mannen die verdacht worden van betrokkenheid bij deze zaak zijn allemaal woonachtig in Terneuzen. Ze zijn 21, 22 en 30 jaar oud. De mannen zijn ingesloten in een politiecellencomplex. Daar hebben ze vastgezeten en zijn ze verhoord door rechercheurs. Inmiddels zijn de mannen weer in vrijheid gesteld. Ze zijn nog wel verdachten in deze zaak en moeten zich te zijner tijd voor de rechter verantwoorden. Naar aanleiding van dit onderzoek werd in vier woningen in Terneuzen huiszoeking gedaan. Ook in Bergen op Zoom, Rotterdam en Capelle aan den IJssel deden politieagenten huiszoekingen. Bij deze huiszoekingen zijn goederen aangetroffen die van belang kunnen zijn bij het onderzoek. Het ging onder andere om gegevensdragers.",
+    "scraped_at": "2026-06-20T07:05:19.386285Z",
+    "id": "e3d2a27b15c19c9a9579c962401110a4ee53f809dac591dff4e4b0256cb63742",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/19/08-drie-verdachten-aangehouden-in-lopend-cyberonderzoek.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De drie worden ervan verdacht mensen te hebben opgelicht door mails (phishing) en sms’jes (smishing) te sturen uit naam van overheidsdiensten zoals de Belastingdienst. In de mails en sms’jes werd een link meegestuurd waarvan het leek of mensen een betalingsachterstand hadden bij die dienst. De links waar sommige mensen op klikten verwezen alleen niet naar het rekeningnummer van de Belastingdienst, maar naar de bankrekening van de verdachten. Hierdoor wisten zij onder valse voorwendselen geld af te troggelen van meerdere mensen in Nederland. Het exacte aantal slachtoffers is niet bekend, tot nu toe zijn er 11 concrete aangiftes aan te koppelen. Overheid communiceert altijd via beveiligde websites Dit soort fraudeurs zetten ontvangers van de mails en sms’jes onder druk door in hun berichten aan te geven dat mensen snel moeten betalen, omdat anders de kosten nog hoger worden dan ze al zijn. Sommige mensen zijn daar gevoelig voor en klikken op de link. De politie waarschuwt dat diensten als de Belastingdienst nooit incassoverzoeken doen via een sms of een e-mail. Klik dus niet op dit soort links. Blokkeren en verwijderen Wanneer u een dergelijke e-mail of sms ontvangt dan kunt u het beste het mailadres of telefoonnummer direct blokkeren en de mail of sms verwijderen. Om na te gaan of zo’n bericht echt van een bepaalde instantie afkomstig is kunt u altijd telefonisch contact opnemen met de betreffende instantie. Nog wel verdachte De drie mannen die verdacht worden van betrokkenheid bij deze zaak zijn allemaal woonachtig in Terneuzen. Ze zijn 21, 22 en 30 jaar oud. De mannen zijn ingesloten in een politiecellencomplex. Daar hebben ze vastgezeten en zijn ze verhoord door rechercheurs. Inmiddels zijn de mannen weer in vrijheid gesteld. Ze zijn nog wel verdachten in deze zaak en moeten zich te zijner tijd voor de rechter verantwoorden. Naar aanleiding van dit onderzoek werd in vier woningen in Terneuzen huiszoeking gedaan. Ook in Bergen op Zoom, Rotterdam en Capelle aan den IJssel deden politieagenten huiszoekingen. Bij deze huiszoekingen zijn goederen aangetroffen die van belang kunnen zijn bij het onderzoek. Het ging onder andere om gegevensdragers.",
+    "locations": [
+      "Bergen op Zoom"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Bergen op Zoom",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Capelle",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.7609770012736969,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Belastingdienst",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
