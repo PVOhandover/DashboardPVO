@@ -64178,5 +64178,91 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "bbed5542787e6c7892d4bf9f001ffe47": {
+    "feed": "Politie.nl",
+    "title": "Automobilist rijdt door na aanrijding met bromfiets",
+    "url": "https://www.politie.nl/nieuws/2026/juni/21/08-automobilist-rijdt-door-na-aanrijding-met-scooter.html",
+    "published": "Sun, 21 Jun 2026 11:33:00 GMT",
+    "summary": "In de nacht van zaterdag op zondag 21 juni heeft een verkeersongeval plaatsgevonden tussen een auto en een bromfiets. Het incident vond plaats op de kruising van de Lunetstraat en de Tramsingel. De betrokken automobilist is na de aanrijding doorgereden en heeft de slachtoffers achtergelaten.",
+    "full_text": "Een automobilist reed rond 00.30 uur over het kruispunt en kwam vermoedelijk in botsing met een bromfiets waarop twee personen zaten. Beiden kwamen ten val en raakten gewond. De automobilist reed na de aanrijding door en liet aanzienlijke schade achter. Omstanders ontfermden zich vervolgens over de slachtoffers, waarna zij per ambulance zijn overgebracht naar het ziekenhuis. Kort na het incident heeft de bestuurder zich gemeld. Het gaat om een 23-jarige man uit Breda, die vermoedelijk onder invloed van alcohol verkeerde. Hij is aangehouden en overgebracht naar het politiebureau. Zijn rijbewijs is ingevorderd en het voertuig is in beslag genomen voor verder onderzoek.",
+    "scraped_at": "2026-06-22T09:16:01.021590Z",
+    "id": "4a76ba916fbaf42fc8e69c667f5f706b602d872e67c454453531aeaef8e2920f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/21/08-automobilist-rijdt-door-na-aanrijding-met-scooter.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een automobilist reed rond 00.30 uur over het kruispunt en kwam vermoedelijk in botsing met een bromfiets waarop twee personen zaten. Beiden kwamen ten val en raakten gewond. De automobilist reed na de aanrijding door en liet aanzienlijke schade achter. Omstanders ontfermden zich vervolgens over de slachtoffers, waarna zij per ambulance zijn overgebracht naar het ziekenhuis. Kort na het incident heeft de bestuurder zich gemeld. Het gaat om een 23-jarige man uit Breda, die vermoedelijk onder invloed van alcohol verkeerde. Hij is aangehouden en overgebracht naar het politiebureau. Zijn rijbewijs is ingevorderd en het voertuig is in beslag genomen voor verder onderzoek.",
+    "locations": [
+      "Breda"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breda",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "2ac5cbbe7f692efa4e03bbd0162d8f27": {
+    "feed": "L1 Nieuws",
+    "title": "De NeBeDeAgPol controleert aan de grens: wat is dat eigenlijk?",
+    "url": "https://www.l1nieuws.nl/nieuws/3182615/de-nebedeagpol-controleert-aan-de-grens-wat-is-dat-eigenlijk",
+    "published": "Mon, 22 Jun 2026 05:00:44 GMT",
+    "summary": "De politie controleert geregeld aan de grenzen met België en Duitsland. Soms kleinschalig, soms worden er honderden agenten ingezet en werken ze samen met collega's uit de buurlanden. Juist dan is het belangrijk dat verschillende politiediensten, met ieder hun eigen wetten en regels, goed met elkaar kunnen samenwerken.",
+    "full_text": "Ontstaan samenwerkingsverband De oorsprong van het samenwerkingsverband gaat bijna honderd jaar terug. Tijdens een internationale politieconferentie in Maastricht in 1933 werd voor het eerst samengewerkt bij de bestrijding van illegale handel. Enkele decennia later ontstond een werkgroep met de hoofden van politie uit de grensregio rond Aken. In 1979 werd het Samenwerkingsverband van de hoofden van Nederlandse, Belgische en Duitse politie in de grensregio Aken opgericht. In 2000 werd de naam aangepast en veranderde de regio Aken in de regio Maas-Rijn.",
+    "scraped_at": "2026-06-22T09:16:04.078784Z",
+    "id": "c3a308982cbfcc039168524a107ae6c8c0ebe3f75d4a4c4311cf2cb4c3e74c22",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3182615/de-nebedeagpol-controleert-aan-de-grens-wat-is-dat-eigenlijk",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Ontstaan samenwerkingsverband De oorsprong van het samenwerkingsverband gaat bijna honderd jaar terug. Tijdens een internationale politieconferentie in Maastricht in 1933 werd voor het eerst samengewerkt bij de bestrijding van illegale handel. Enkele decennia later ontstond een werkgroep met de hoofden van politie uit de grensregio rond Aken. In 1979 werd het Samenwerkingsverband van de hoofden van Nederlandse, Belgische en Duitse politie in de grensregio Aken opgericht. In 2000 werd de naam aangepast en veranderde de regio Aken in de regio Maas-Rijn.",
+    "locations": [
+      "Maastricht",
+      "Aken",
+      "Samenwerkingsverband van de hoofden van",
+      "Aken",
+      "Aken"
+    ],
+    "country": "DE",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Aken",
+        "DE"
+      ],
+      [
+        "Aken",
+        "DE"
+      ],
+      [
+        "Aken",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
