@@ -64264,5 +64264,208 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "98be7f1c0c80baa505bbdd2241a15d8f": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt vijf verdachten aan in zedenzaak",
+    "url": "https://www.politie.nl/nieuws/2026/juni/22/09-politie-houdt-vijf-verdachten-aan-in-zedenzaak.html",
+    "published": "Mon, 22 Jun 2026 13:39:00 GMT",
+    "summary": "Vier mannen in de leeftijd van 26 tot 34 jaar uit Eindhoven en Veldhoven zijn maandagochtend in hun woonplaats opgepakt op verdenking van een ernstig zedendelict. Een vijfde verdachte, een man van 28 uit Eindhoven werd eerder in de nacht van zondag op maandag aangehouden in Overijssel.",
+    "full_text": "Het misdrijf zou plaats hebben gevonden op 15 maart 2026 in Eindhoven. Een jonge vrouw zou daarvan het slachtoffer zijn. Volledige beperkingen Alle vijf de verdachten worden verhoord en zitten op dit moment vast in volledige beperkingen. Dat wil zeggen dat de verdachten geen contact mogen hebben met de buitenwereld, maar alleen mogen spreken met een advocaat. Om die reden is de politie terughoudend met het geven van informatie over het onderzoek.",
+    "scraped_at": "2026-06-23T06:56:08.689141Z",
+    "id": "62778976edd912303c4b222609876887355c16779fdc8a16a3118e3a559a4a99",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/22/09-politie-houdt-vijf-verdachten-aan-in-zedenzaak.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het misdrijf zou plaats hebben gevonden op 15 maart 2026 in Eindhoven. Een jonge vrouw zou daarvan het slachtoffer zijn. Volledige beperkingen Alle vijf de verdachten worden verhoord en zitten op dit moment vast in volledige beperkingen. Dat wil zeggen dat de verdachten geen contact mogen hebben met de buitenwereld, maar alleen mogen spreken met een advocaat. Om die reden is de politie terughoudend met het geven van informatie over het onderzoek.",
+    "locations": [
+      "Eindhoven"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eindhoven",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "98ca8e7c9e1e1513118765642ee85362": {
+    "feed": "Politie.nl",
+    "title": "Verdachte steekincident Bergstraat aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/juni/22/10-verdachte-steekincident-bergstraat-aangehouden.html",
+    "published": "Mon, 22 Jun 2026 13:23:00 GMT",
+    "summary": "De politie heeft een 34-jarige man aangehouden op verdenking van betrokkenheid bij het steekincident dat op zondag 21 juni rond 22:50 uur plaatsvond op de Bergstraat in Roermond.",
+    "full_text": "Getuigen meldden zondagavond dat een persoon gewond was geraakt als gevolg van een steekincident. Hulpdiensten waren snel ter plaatse en troffen een gewonde man aan. Het 31-jarige slachtoffer werd overgebracht naar het ziekenhuis. Later in de nacht rond 02:50 uur meldde de verdachte zich aan het bureau in Roermond waarna hij werd aangehouden. Hij wordt verdachte van poging tot doodslag. Hij zit vast op het politiebureau. Het onderzoek loopt.",
+    "scraped_at": "2026-06-23T06:56:08.689377Z",
+    "id": "3c77d4b8e87a87c53c6b7c7d435ffa882b4c7b9ce4627498577e28de34bd3ea9",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/22/10-verdachte-steekincident-bergstraat-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Getuigen meldden zondagavond dat een persoon gewond was geraakt als gevolg van een steekincident. Hulpdiensten waren snel ter plaatse en troffen een gewonde man aan. Het 31-jarige slachtoffer werd overgebracht naar het ziekenhuis. Later in de nacht rond 02:50 uur meldde de verdachte zich aan het bureau in Roermond waarna hij werd aangehouden. Hij wordt verdachte van poging tot doodslag. Hij zit vast op het politiebureau. Het onderzoek loopt.",
+    "locations": [
+      "Roermond"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Roermond",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "2cce8e4c9b4cc0c337e2f3b26581f3a9": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding in coldcase-onderzoek Bergen op Zoom uit 2006",
+    "url": "https://www.politie.nl/nieuws/2026/juni/22/08-aanhouding-in-coldcase-onderzoek-bergen-op-zoom-uit-2006.html",
+    "published": "Mon, 22 Jun 2026 12:14:00 GMT",
+    "summary": "Het coldcaseteam van de politie Zeeland-West-Brabant heeft een 38-jarige man uit Halsteren aangehouden op verdenking van betrokkenheid bij een verkrachting en een poging tot moord dan wel doodslag in Bergen op Zoom in 2006.",
+    "full_text": "De verdachte werd begin juni opgepakt en is afgelopen week voor de raadkamer van de rechtbank verschenen. Die heeft bepaald dat het voorarrest met negentig dagen wordt verlengd. De feiten vonden plaats in de nacht van dinsdag 6 juni 2006 tussen aan de Burgemeester Stulemeijerlaan in Bergen op Zoom. Hoewel de zaak al bijna twintig jaar oud is, is deze nooit uit het oog verloren. Dankzij een match van aangetroffen DNA-sporen in deze zaak en DNA in de databank kon een verdachte in beeld worden gebracht. Je wordt niet vergeten Voor de politie maakt het niet uit hoe oud een zaak is. Waar mogelijkheden zijn, blijven rechercheurs van het coldcaseteam kijken naar nieuwe aanknopingspunten. Ook na vele jaren kunnen nieuwe technieken, informatie of ontwikkelingen leiden tot een doorbraak. Informatie blijft welkom Mensen die denken informatie te hebben over deze zaak, of die eerder nog niet met de politie hebben gesproken, worden opgeroepen zich alsnog te melden. Ook informatie waarvan u denkt dat deze niet meer relevant is, kan van waarde zijn voor het onderzoek. Heeft u informatie die u met de politie wilt delen? Neem dan contact op via 0900-8844. Anoniem melden kan via Meld Misdaad Anoniem via 0800-7000.",
+    "scraped_at": "2026-06-23T06:56:08.689959Z",
+    "id": "91e663eb5a0d72c4c904f3174c3cc149ca5bf8abf88aa644083b34a550632a18",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/22/08-aanhouding-in-coldcase-onderzoek-bergen-op-zoom-uit-2006.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De verdachte werd begin juni opgepakt en is afgelopen week voor de raadkamer van de rechtbank verschenen. Die heeft bepaald dat het voorarrest met negentig dagen wordt verlengd. De feiten vonden plaats in de nacht van dinsdag 6 juni 2006 tussen aan de Burgemeester Stulemeijerlaan in Bergen op Zoom. Hoewel de zaak al bijna twintig jaar oud is, is deze nooit uit het oog verloren. Dankzij een match van aangetroffen DNA-sporen in deze zaak en DNA in de databank kon een verdachte in beeld worden gebracht. Je wordt niet vergeten Voor de politie maakt het niet uit hoe oud een zaak is. Waar mogelijkheden zijn, blijven rechercheurs van het coldcaseteam kijken naar nieuwe aanknopingspunten. Ook na vele jaren kunnen nieuwe technieken, informatie of ontwikkelingen leiden tot een doorbraak. Informatie blijft welkom Mensen die denken informatie te hebben over deze zaak, of die eerder nog niet met de politie hebben gesproken, worden opgeroepen zich alsnog te melden. Ook informatie waarvan u denkt dat deze niet meer relevant is, kan van waarde zijn voor het onderzoek. Heeft u informatie die u met de politie wilt delen? Neem dan contact op via 0900-8844. Anoniem melden kan via Meld Misdaad Anoniem via 0800-7000.",
+    "locations": [
+      "Bergen op Zoom"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Bergen op Zoom",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "DNA",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "97bea9e1a4164e72eaee544ca7ae15e8": {
+    "feed": "Politie.nl",
+    "title": "Steekincident in Zaandam, verdachte aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/juni/22/04-steekincident-in-zaandam-verdachte-aangehouden.html",
+    "published": "Mon, 22 Jun 2026 11:56:00 GMT",
+    "summary": "De politie onderzoekt een geweldsincident bij een woonlocatie aan de Gerrit Bolkade in Zaandam. Er is een verdachte aangehouden.",
+    "full_text": "Dit incident vond plaats op 22-6-2026 om 00.24 uur. De politie kreeg melding van een gewelddadig conflict tussen twee personen. Gewonden De politie trof twee gewonde personen aan. De aanwezige beveiliging verleende medewerking. Hierdoor kon de politie snel het sein veilig afgeven voor de ambulance. Een ambulance bracht de twee personen naar het ziekenhuis. Aanhouding De politie hield één van de twee aan als verdachte. Het gaat om een 22-jarige man uit Zaandam. Onderzoek De politie is een onderzoek gestart naar de toedracht. Er is een plaats delict opgemaakt op de locatie. Getuigen en beelden gezocht van steekincident Gerrit Bolkade in Zaandam De politie komt graag in contact met mensen die beelden hebben. Upload deze via politie.nl/tipformulier of bel uw informatie door via 0900-8844. Zaaknummer: 2026148338",
+    "scraped_at": "2026-06-23T06:56:08.690437Z",
+    "id": "487411c2b1b1c9727b1a8996dfd80843c6b9c408cd7d77c55e77cb70dd7007cc",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/22/04-steekincident-in-zaandam-verdachte-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dit incident vond plaats op 22-6-2026 om 00.24 uur. De politie kreeg melding van een gewelddadig conflict tussen twee personen. Gewonden De politie trof twee gewonde personen aan. De aanwezige beveiliging verleende medewerking. Hierdoor kon de politie snel het sein veilig afgeven voor de ambulance. Een ambulance bracht de twee personen naar het ziekenhuis. Aanhouding De politie hield één van de twee aan als verdachte. Het gaat om een 22-jarige man uit Zaandam. Onderzoek De politie is een onderzoek gestart naar de toedracht. Er is een plaats delict opgemaakt op de locatie. Getuigen en beelden gezocht van steekincident Gerrit Bolkade in Zaandam De politie komt graag in contact met mensen die beelden hebben. Upload deze via politie.nl/tipformulier of bel uw informatie door via 0900-8844. Zaaknummer: 2026148338",
+    "locations": [
+      "Zaandam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zaandam",
+        "NL"
+      ],
+      [
+        "Zaandam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Gerrit",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "fbcda0161ea4a4ffdb9e52538012588e": {
+    "feed": "L1 Nieuws",
+    "title": "Man (34) aangehouden voor steekpartij Roermond",
+    "url": "https://www.l1nieuws.nl/nieuws/3183511/man-34-aangehouden-voor-steekpartij-roermond",
+    "published": "Mon, 22 Jun 2026 11:40:21 GMT",
+    "summary": "Een 34-jarige man is aangehouden voor een steekpartij in Roermond zondagavond.",
+    "full_text": "'s Nachts, rond 2:50 uur, meldde de man zich op het politiebureau in Roermond. Hij werd daarop aangehouden. De 34-jarige wordt verdacht van een poging tot doodslag.",
+    "scraped_at": "2026-06-23T06:56:15.119237Z",
+    "id": "e2b443ad3c5baa8afb0b40c6bb7ad8f3d3ed6c8511ea84b0562e2dea94a77687",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3183511/man-34-aangehouden-voor-steekpartij-roermond",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "'s Nachts, rond 2:50 uur, meldde de man zich op het politiebureau in Roermond. Hij werd daarop aangehouden. De 34-jarige wordt verdacht van een poging tot doodslag.",
+    "locations": [
+      "Roermond"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Roermond",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
