@@ -64467,5 +64467,182 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "85f9af5b373b2423f0ec5a2fe6243d3f": {
+    "feed": "Politie.nl",
+    "title": "Doorzoeking woning in onderzoek naar vermissing Trudy uit Heiloo",
+    "url": "https://www.politie.nl/nieuws/2026/juni/24/04-doorzoeking-woning-in-onderzoek-naar-vermissing-trudy-uit-heiloo.html",
+    "published": "Wed, 24 Jun 2026 08:00:00 GMT",
+    "summary": "Sinds vrijdag 20 of zaterdag 21 februari 2026 is de 75-jarige Trudy uit Heiloo vermist. In het onderzoek naar de vermissing van Trudy doet de politie op woensdag 24 juni opnieuw een doorzoeking in een woning aan de Gouwe Boom in Heiloo. In de vermissingszaak onderzoekt de politie meerdere scenario’s. Daarbij wordt ook onderzocht of er sprake is van een misdrijf. Op dit moment ontbreekt ieder spoor van haar. De politie komt graag spoedig in contact met mensen die over informatie of camerabeelden beschikken die het onderzoek naar de vermissing van Trudy kunnen helpen. Camerabeelden van 20 t/m 25 februari gericht op of met zicht op de openbare weg in de omgeving van Heiloo, Castricum, Bakkum en Limmen. Vul het tipformulier in of bel: 0800-6070. Anoniem via: 0800-7000.",
+    "full_text": "Vermissing Op zaterdag 21 februari 2026 is Trudy mogelijk naar winkelcentrum ‘’t Loo’ en winkelcentrum ‘Het Hoekstuk’ in Heiloo gegaan. Ze is eerder in Heiloo vastgelegd op camerabeeld. Trudy droeg toen een witte lange jas met capuchon en zandkleurige bontkraag, een spijkerrok en lichtkleurige/beige laarsjes. Lees hier het vermissingsbericht. Meerdere scenario’s worden onderzocht Het onderzoeksteam onderzoekt meerdere scenario’s rond de vermissing van Trudy. Daarbij wordt ook onderzocht of er sprake is van een misdrijf. Het is op dit moment onduidelijk waar Trudy is en of zij nog in leven is. Help de politie! Help de politie bij het terugvinden van Trudy. Heeft u belangrijke informatie en nog niet met de politie gesproken? Meld het dan direct. Heeft u Trudy op vrijdag 20 of zaterdag 21 februari of daarna ergens gezien of gesproken? Of weet u waar Trudy op dit moment is? Vul dan het tipformulier in of bel de politie via: 0800-6070. Anoniem tippen kan bij Meld Misdaad Anoniem via: 0800-7000. De politie ontvangt ook graag alle camerabeelden van 20 t/m 25 februari gericht op of met zicht op de openbare weg in de omgeving van Heiloo, Castricum, Bakkum en Limmen. Graag tippen onder vermelding van zaaknummer: PL1100-2026042008",
+    "scraped_at": "2026-06-24T06:54:25.438464Z",
+    "id": "acfa542c70c6d370e09c63d6985d89e92dac935b539365d93eb78eec5dbe63bb",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/24/04-doorzoeking-woning-in-onderzoek-naar-vermissing-trudy-uit-heiloo.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Vermissing Op zaterdag 21 februari 2026 is Trudy mogelijk naar winkelcentrum ‘’t Loo’ en winkelcentrum ‘Het Hoekstuk’ in Heiloo gegaan. Ze is eerder in Heiloo vastgelegd op camerabeeld. Trudy droeg toen een witte lange jas met capuchon en zandkleurige bontkraag, een spijkerrok en lichtkleurige/beige laarsjes. Lees hier het vermissingsbericht. Meerdere scenario’s worden onderzocht Het onderzoeksteam onderzoekt meerdere scenario’s rond de vermissing van Trudy. Daarbij wordt ook onderzocht of er sprake is van een misdrijf. Het is op dit moment onduidelijk waar Trudy is en of zij nog in leven is. Help de politie! Help de politie bij het terugvinden van Trudy. Heeft u belangrijke informatie en nog niet met de politie gesproken? Meld het dan direct. Heeft u Trudy op vrijdag 20 of zaterdag 21 februari of daarna ergens gezien of gesproken? Of weet u waar Trudy op dit moment is? Vul dan het tipformulier in of bel de politie via: 0800-6070. Anoniem tippen kan bij Meld Misdaad Anoniem via: 0800-7000. De politie ontvangt ook graag alle camerabeelden van 20 t/m 25 februari gericht op of met zicht op de openbare weg in de omgeving van Heiloo, Castricum, Bakkum en Limmen. Graag tippen onder vermelding van zaaknummer: PL1100-2026042008",
+    "locations": [
+      "Heiloo",
+      "Heiloo",
+      "Heiloo"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Heiloo",
+        "NL"
+      ],
+      [
+        "Heiloo",
+        "NL"
+      ],
+      [
+        "Heiloo",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "47.19",
+      "sector_name": "Other retail sale in non-specialised stores"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Trudy",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      },
+      {
+        "company_name": "Trudy",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      },
+      {
+        "company_name": "Help de politie bij",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Trudy",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Castricum",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bakkum",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      },
+      {
+        "company_name": "PL1100-2026042008",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47.19",
+      "not_affected"
+    ]
+  },
+  "8bc8a547d1ee1c26b1dc9447d42323eb": {
+    "feed": "Politie.nl",
+    "title": "Vrouwelijke fietsers betast in Hendrik-Ido-Ambacht en Zwijndrecht; politie zoekt getuigen",
+    "url": "https://www.politie.nl/nieuws/2026/juni/23/07-vrouwelijke-fietsers-betast-in-hendrik-ido-ambacht-en-zwijndrecht-politie-zoekt-getuigen.html",
+    "published": "Tue, 23 Jun 2026 13:34:00 GMT",
+    "summary": "De politie doet onderzoek naar zeven meldingen die zijn gemaakt door vrouwelijke fietsers die zijn betast in Hendrik-Ido-Ambacht en Zwijndrecht . Op basis van het signalement vermoedt de politie dat het om één en dezelfde persoon gaat.",
+    "full_text": "In één van de gevallen heeft de verdachte ook seksueel getinte opmerkingen gemaakt naar een slachtoffer. De incidenten vonden plaats op fietspaden op de Hoge Kade en Sophialaan in Hendrik-Ido-Ambacht en op de Ringdijk in Zwijndrecht. De politie is op zoek naar de verdachte en roept getuigen op zich te melden. De politie doet onderzoek naar de incidenten en kijkt hiervoor camerabeelden uit, doet sporenonderzoek en spreekt met getuigen. Dit heeft vooralsnog niet geleid tot de aanhouding van de verdachte. Daarom spreekt de politie graag met mensen die één van de incidenten hebben zien gebeuren. De verdachte heeft een licht getinte huidskleur, rijdt op een zwarte fatbike, draagt witte schoenen en is tussen de 15 en 25 jaar oud. Zeven meldingen De afgelopen weken hebben we zeven meldingen gekregen van vrouwen die zijn betast in Hendrik-Ido-Ambacht en Zwijndrecht. Het kan zijn dat meer vrouwen slachtoffer zijn van deze verdachte. Heb je dit ook meegemaakt, maar nog geen melding gemaakt bij de politie? Doe dit dan alsnog! Alle tips en informatie hierover zijn heel erg welkom. Ook camerabeelden ontvangen wij graag. Heb je meer informatie? Geef het door via de onderstaande opties.",
+    "scraped_at": "2026-06-24T06:54:25.459312Z",
+    "id": "7c61245161c11c03d10f8405e9433d4c7754c6c41b7f93e7cd9bcec6985536a5",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/23/07-vrouwelijke-fietsers-betast-in-hendrik-ido-ambacht-en-zwijndrecht-politie-zoekt-getuigen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In één van de gevallen heeft de verdachte ook seksueel getinte opmerkingen gemaakt naar een slachtoffer. De incidenten vonden plaats op fietspaden op de Hoge Kade en Sophialaan in Hendrik-Ido-Ambacht en op de Ringdijk in Zwijndrecht. De politie is op zoek naar de verdachte en roept getuigen op zich te melden. De politie doet onderzoek naar de incidenten en kijkt hiervoor camerabeelden uit, doet sporenonderzoek en spreekt met getuigen. Dit heeft vooralsnog niet geleid tot de aanhouding van de verdachte. Daarom spreekt de politie graag met mensen die één van de incidenten hebben zien gebeuren. De verdachte heeft een licht getinte huidskleur, rijdt op een zwarte fatbike, draagt witte schoenen en is tussen de 15 en 25 jaar oud. Zeven meldingen De afgelopen weken hebben we zeven meldingen gekregen van vrouwen die zijn betast in Hendrik-Ido-Ambacht en Zwijndrecht. Het kan zijn dat meer vrouwen slachtoffer zijn van deze verdachte. Heb je dit ook meegemaakt, maar nog geen melding gemaakt bij de politie? Doe dit dan alsnog! Alle tips en informatie hierover zijn heel erg welkom. Ook camerabeelden ontvangen wij graag. Heb je meer informatie? Geef het door via de onderstaande opties.",
+    "locations": [
+      "Zwijndrecht"
+    ],
+    "country": "BE",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Zwijndrecht",
+        "BE"
+      ],
+      [
+        "Hendrik-Ido-Ambacht",
+        "NL"
+      ],
+      [
+        "Zwijndrecht",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "96",
+      "sector_name": "Other personal service activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "96"
+    ]
+  },
+  "3c5edddef62972b0d0dbeae5fa58f472": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws dinsdag 23 juni: Auto slaat over de kop op N33 bij Meeden • Startprocedure afgebroken op vliegveld Eelde",
+    "url": "https://www.rtvnoord.nl/112/1415320/112-nieuws-dinsdag-23-juni-auto-slaat-over-de-kop-op-n33-bij-meeden-startprocedure-afgebroken-op-vliegveld-eelde",
+    "published": "Tue, 23 Jun 2026 16:14:48 GMT",
+    "summary": "In dit 112-blog houden we je deze dinsdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Op de N33 is een auto op de kop op de weg beland. Hoe dat is gebeurd, is onbekend, daar doet de politie onderzoek naar. De hulpdiensten hebben de weg tussen Veendam en knooppunt Zuidbroek in beide richtingen tijdelijk volledig afgesloten. Of er gewonden zijn, is niet bekend.",
+    "scraped_at": "2026-06-24T06:55:38.600863Z",
+    "id": "889c67a33f926e16722d0faeae8e2ebe472acb41c0540d485bacf9a382fa4eb3",
+    "canonical_url": "https://www.rtvnoord.nl/112/1415320/112-nieuws-dinsdag-23-juni-auto-slaat-over-de-kop-op-n33-bij-meeden-startprocedure-afgebroken-op-vliegveld-eelde",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op de N33 is een auto op de kop op de weg beland. Hoe dat is gebeurd, is onbekend, daar doet de politie onderzoek naar. De hulpdiensten hebben de weg tussen Veendam en knooppunt Zuidbroek in beide richtingen tijdelijk volledig afgesloten. Of er gewonden zijn, is niet bekend.",
+    "locations": [
+      "Veendam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Veendam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
