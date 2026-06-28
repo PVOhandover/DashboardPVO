@@ -64752,5 +64752,83 @@
     "all_sectors_in_article": [
       "45"
     ]
+  },
+  "a5f78eda47ccaafae723427e9e78af85": {
+    "feed": "Politie.nl",
+    "title": "Man gewond geraakt bij steekincident in Goes",
+    "url": "https://www.politie.nl/nieuws/2026/juni/27/08-man-gewond-bij-steekincident-in-goes.html",
+    "published": "Sat, 27 Jun 2026 08:47:00 GMT",
+    "summary": "Vrijdagavond 26 juni 2026 is er een steekincident geweest in de buurt van de Anthony Fokkerstraat in Goes. Hierbij is een man gewond geraakt. Er is al snel een verdachte aangehouden.",
+    "full_text": "Bij het steekincident rond 19.00 uur is een 19-jarige man uit Goes gewond geraakt, hij is overgebracht naar het ziekenhuis voor behandeling. Na het horen van getuigen werd al vrij snel duidelijk wie de verdachte kon zijn en heeft onder meer een politiehond meegezocht naar de verdachte. Rond 21.30 uur is een 19-jarige man uit Goes aangehouden, zijn rol wordt verder onderzocht. Aanleiding van het steekincident was mogelijk een conflict wat eerder op de dag al had gespeeld. Dit wordt uiteraard nog verder onderzocht.",
+    "scraped_at": "2026-06-28T07:06:37.310973Z",
+    "id": "066ce431f038a52fd507abafddfd1506584d089a90b702968efa9dc391f13985",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/27/08-man-gewond-bij-steekincident-in-goes.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij het steekincident rond 19.00 uur is een 19-jarige man uit Goes gewond geraakt, hij is overgebracht naar het ziekenhuis voor behandeling. Na het horen van getuigen werd al vrij snel duidelijk wie de verdachte kon zijn en heeft onder meer een politiehond meegezocht naar de verdachte. Rond 21.30 uur is een 19-jarige man uit Goes aangehouden, zijn rol wordt verder onderzocht. Aanleiding van het steekincident was mogelijk een conflict wat eerder op de dag al had gespeeld. Dit wordt uiteraard nog verder onderzocht.",
+    "locations": [
+      "Goes",
+      "Goes"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Goes",
+        "DE"
+      ],
+      [
+        "Goes",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "9e673b5a640f54751a1d1532cd2fd7da": {
+    "feed": "RTV Noord",
+    "title": "27 juni 1991: de dag dat de 11-jarige Jessica Laven spoorloos verdween",
+    "url": "https://www.rtvnoord.nl/cultuur/1416318/27-juni-1991-de-dag-dat-de-11-jarige-jessica-laven-spoorloos-verdween",
+    "published": "Sat, 27 Jun 2026 06:30:00 GMT",
+    "summary": "Op deze dag in de geschiedenis, zaterdag 27 juni 1991, verdween de elfjarige Jessica Laven uit het Noord-Hollandse Blokker. Ze was op haar fiets naar zwembad De Wijzend in Zwaag gegaan, maar kon na het zwemmen haar fietssleuteltje nergens meer vinden. Een vrachtwagenchauffeur schoot haar te hulp en bood haar een lift aan. Vier dagen later werd haar lichaam in Nieuweschans teruggevonden.",
+    "full_text": "Vijfendertig jaar geleden was Nederland een ander land. Er waren geen mobiele telefoons, geen routeplanners, geen deurbelcamera’s, en DNA-onderzoek stond nog in de kinderschoenen. Toen de 11-jarige Jessica Laven op 27 juni 1991 verdween bij het zwembad in Zwaag, stond de politie vrijwel machteloos. Er waren geen getuigen en geen camerabeelden om te bekijken. De angst was groot, maar er restte weinig anders dan afwachten.",
+    "scraped_at": "2026-06-28T07:07:11.681166Z",
+    "id": "12cb1ba33a66449e68a60fcea1043aeded9817b56434b7ad83804a9114b02ed3",
+    "canonical_url": "https://www.rtvnoord.nl/cultuur/1416318/27-juni-1991-de-dag-dat-de-11-jarige-jessica-laven-spoorloos-verdween",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Vijfendertig jaar geleden was Nederland een ander land. Er waren geen mobiele telefoons, geen routeplanners, geen deurbelcamera’s, en DNA-onderzoek stond nog in de kinderschoenen. Toen de 11-jarige Jessica Laven op 27 juni 1991 verdween bij het zwembad in Zwaag, stond de politie vrijwel machteloos. Er waren geen getuigen en geen camerabeelden om te bekijken. De angst was groot, maar er restte weinig anders dan afwachten.",
+    "locations": [
+      "Nederland",
+      "Zwaag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Zwaag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
