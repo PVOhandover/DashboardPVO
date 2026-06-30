@@ -64964,5 +64964,145 @@
     "all_sectors_in_article": [
       "49-53"
     ]
+  },
+  "fbbb8d8c85b03df6907265ce6b56a9d0": {
+    "feed": "Politie.nl",
+    "title": "Man aangehouden na geweldsincident en belediging agenten",
+    "url": "https://www.politie.nl/nieuws/2026/juni/29/08-man-aangehouden-na-geweldsincident-en-belediging-agenten.html",
+    "published": "Mon, 29 Jun 2026 16:57:00 GMT",
+    "summary": "Bij een geweldsincident in Breda hield de politie zondag 28 juni 2026 een man aan op verdenking van mishandeling. Tijdens zijn aanhouding verzette de verdachte zich en beledigde hij de agenten.",
+    "full_text": "Omstreeks 22.15 uur ontving de politie een melding van een vechtpartij aan de Veilingkade in Breda. De verdachte zou meerdere personen hebben geslagen en autosleutels hebben gestolen. Later bleek dat hij mogelijk ook met glas bij een van de slachtoffers in zijn nek had gestoken. Ter plaatse troffen de agenten een groep mensen aan die de verdachte probeerden onder controle te houden. De agenten namen het van ze over en hielden de man aan op verdenking van mishandeling. Tijdens de aanhouding wilde de man niet meewerken, bleef hij schreeuwen tegen de agenten en om zich heen trappen. Daarvoor werd hem ook het beledigen van een ambtenaar in functie ten laste gelegd. Het betreft een 36-jarige man uit Etten-Leur. Hij is meegenomen naar het politiecellencomplex en zit op dit moment vast voor verhoor. Geweld tegen politieambtenaren (GTPA) onacceptabel Agressie en geweld tegen politie en hulpverleners is onacceptabel. Politiebeambten hebben een verantwoordelijke rol in de samenleving en moeten zonder te worden gehinderd hun werk kunnen doen. Agressie of geweld, in welke vorm dan ook, tegen medewerkers wordt niet getolereerd. Dit geldt voor iedereen die bij de politie werkt: agenten, rechercheurs, medewerkers van de meldkamer, baliemedewerkers en medewerkers van ondersteunende afdelingen. Geweld tegen mensen met een publieke taak krijgt bij de politie altijd prioriteit. Bekijk voor meer informatie deze pagina .",
+    "scraped_at": "2026-06-30T07:00:57.891874Z",
+    "id": "0ada9f923a2bac2fda1de737aa3aac94524338346659bf203d6843b550657622",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/29/08-man-aangehouden-na-geweldsincident-en-belediging-agenten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 22.15 uur ontving de politie een melding van een vechtpartij aan de Veilingkade in Breda. De verdachte zou meerdere personen hebben geslagen en autosleutels hebben gestolen. Later bleek dat hij mogelijk ook met glas bij een van de slachtoffers in zijn nek had gestoken. Ter plaatse troffen de agenten een groep mensen aan die de verdachte probeerden onder controle te houden. De agenten namen het van ze over en hielden de man aan op verdenking van mishandeling. Tijdens de aanhouding wilde de man niet meewerken, bleef hij schreeuwen tegen de agenten en om zich heen trappen. Daarvoor werd hem ook het beledigen van een ambtenaar in functie ten laste gelegd. Het betreft een 36-jarige man uit Etten-Leur. Hij is meegenomen naar het politiecellencomplex en zit op dit moment vast voor verhoor. Geweld tegen politieambtenaren (GTPA) onacceptabel Agressie en geweld tegen politie en hulpverleners is onacceptabel. Politiebeambten hebben een verantwoordelijke rol in de samenleving en moeten zonder te worden gehinderd hun werk kunnen doen. Agressie of geweld, in welke vorm dan ook, tegen medewerkers wordt niet getolereerd. Dit geldt voor iedereen die bij de politie werkt: agenten, rechercheurs, medewerkers van de meldkamer, baliemedewerkers en medewerkers van ondersteunende afdelingen. Geweld tegen mensen met een publieke taak krijgt bij de politie altijd prioriteit. Bekijk voor meer informatie deze pagina .",
+    "locations": [
+      "Breda",
+      "Etten-Leur"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breda",
+        "NL"
+      ],
+      [
+        "Etten-Leur",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "meldkamer",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "dcb0ac7a2bfdc4553b7d2a24a2305dd9": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden na steekincident Haarlemmerplein",
+    "url": "https://www.politie.nl/nieuws/2026/juni/29/05-verdachte-aangehouden-na-steekincident-haarlemmerplein.html",
+    "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+    "summary": "De politie kreeg op maandag 29 juni 2026 rond 14.50 uur een melding van een steekincident bij de oversteekplaats nabij het Haarlemmerplein. Meerdere eenheden en de recherche kwamen ter plaatse. Door goed samenwerken konden we snel de verdachte aanhouden.",
+    "full_text": "De verdachte betreft een 57-jarige man uit Amsterdam. Bij het incident is één persoon zwaargewond geraakt. Dit slachtoffer is naar het ziekenhuis gebracht. De politie is ter plaatse en verricht onderzoek. Getuige of beelden Inwoners die beelden of informatie hebben vragen wij contact op te nemen met de politie via 0900-8844. Beelden kunnen ook worden gedeeld via politie.nl/upload . Slachtofferhulp Mensen die getuige zijn geweest van het incident en behoefte hebben aan ondersteuning, kunnen terecht bij Slachtofferhulp.",
+    "scraped_at": "2026-06-30T07:00:57.892662Z",
+    "id": "82f84bb0ee6874778b0bb1bf7df4670df7a1228c0ea5f0f592287a7051ad9544",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juni/29/05-verdachte-aangehouden-na-steekincident-haarlemmerplein.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De verdachte betreft een 57-jarige man uit Amsterdam. Bij het incident is één persoon zwaargewond geraakt. Dit slachtoffer is naar het ziekenhuis gebracht. De politie is ter plaatse en verricht onderzoek. Getuige of beelden Inwoners die beelden of informatie hebben vragen wij contact op te nemen met de politie via 0900-8844. Beelden kunnen ook worden gedeeld via politie.nl/upload . Slachtofferhulp Mensen die getuige zijn geweest van het incident en behoefte hebben aan ondersteuning, kunnen terecht bij Slachtofferhulp.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "0cb7011674814c3c28e366a536cc5b5b": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Frankrijk verbiedt reclame voor ultrafastfashionwinkels als Shein en Temu",
+    "url": "https://nos.nl/l/2620936",
+    "published": "Tue, 30 Jun 2026 05:56:42 +0200",
+    "summary": "<p>Ultrafastfashionwinkels zoals Shein, Temu en AliExpress mogen in Frankrijk binnenkort geen reclame meer maken. De Franse politiek heeft een wet aangenomen die dat per 1 januari verbiedt. Ook voor influencers geldt een verbod om deze merken te promoten, bij overtreding riskeren zij boetes.</p>\n        <p>Het plan was om de hele industrie van goedkope, niet-duurzame mode aan te pakken, maar de wet is nu specifiek gericht op de 'ultrafastfashion-bedrijven', zoals ze in het wetsvoorstel worden genoemd. Dat zijn bedrijven die grote hoeveelheden producten tegen zulke lage prijzen verkopen dat het voor consumenten niet loont om versleten kleding te laten repareren en de kleding al snel in de vuilnisbak terechtkomt.</p>\n        <p>De wet lijkt gericht tegen de Chinese fashiongiganten en niet op Franse of Europese merken, al moet de precieze definitie nog worden vastgesteld.</p>\n        <h2>Aanmoedigen tot reparatie</h2>\n        <p>Frankrijk gaat deze bedrijven ook verplichten een milieuheffing per product te betalen. Daarnaast moeten de webshops verplicht berichten tonen die consumenten aanmoedigen tot reparatie, hergebruik en terughoudendheid bij het winkelen.</p>\n        <p>De Franse overheid pakt Shein ook op andere fronten aan. Zo kreeg de Chinese webgigant begin deze maand een boete van 22 miljoen euro omdat kopers spullen niet goed kunnen retourneren en omdat het bedrijf niet open was over het gebruik van materialen en de herkomst ervan. Shein kreeg in juli vorig jaar ook al een Franse boete van 40 miljoen euro wegens nepkortingen.</p>\n        <p>Ook is de Europese Commissie bezig met een onderzoek naar Shein, omdat het mogelijk te weinig heeft gedaan om de verkoop van illegale producten te beperken of gebruikers te beschermen tegen het verslavende ontwerp van de website en app.</p>",
+    "full_text": "NOS Nieuws • vandaag, 05:56 Ultrafastfashionwinkels zoals Shein, Temu en AliExpress mogen in Frankrijk binnenkort geen reclame meer maken. De Franse politiek heeft een wet aangenomen die dat per 1 januari verbiedt. Ook voor influencers geldt een verbod om deze merken te promoten, bij overtreding riskeren zij boetes. Het plan was om de hele industrie van goedkope, niet-duurzame mode aan te pakken, maar de wet is nu specifiek gericht op de 'ultrafastfashion-bedrijven', zoals ze in het wetsvoorstel worden genoemd. Dat zijn bedrijven die grote hoeveelheden producten tegen zulke lage prijzen verkopen dat het voor consumenten niet loont om versleten kleding te laten repareren en de kleding al snel in de vuilnisbak terechtkomt. De wet lijkt gericht tegen de Chinese fashiongiganten en niet op Franse of Europese merken, al moet de precieze definitie nog worden vastgesteld. Aanmoedigen tot reparatie Frankrijk gaat deze bedrijven ook verplichten een milieuheffing per product te betalen. Daarnaast moeten de webshops verplicht berichten tonen die consumenten aanmoedigen tot reparatie, hergebruik en terughoudendheid bij het winkelen. De Franse overheid pakt Shein ook op andere fronten aan. Zo kreeg de Chinese webgigant begin deze maand een boete van 22 miljoen euro omdat kopers spullen niet goed kunnen retourneren en omdat het bedrijf niet open was over het gebruik van materialen en de herkomst ervan. Shein kreeg in juli vorig jaar ook al een Franse boete van 40 miljoen euro wegens nepkortingen. Ook is de Europese Commissie bezig met een onderzoek naar Shein, omdat het mogelijk te weinig heeft gedaan om de verkoop van illegale producten te beperken of gebruikers te beschermen tegen het verslavende ontwerp van de website en app.",
+    "scraped_at": "2026-06-30T06:59:21.651352Z",
+    "id": "9c61bb0960284f3c0b1defca39199488b970a0b781b6228c4ab80c4472216ba9",
+    "canonical_url": "https://nos.nl/l/2620936",
+    "published_ts": "2026-06-30T03:56:42Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • vandaag, 05:56 Ultrafastfashionwinkels zoals Shein, Temu en AliExpress mogen in Frankrijk binnenkort geen reclame meer maken. De Franse politiek heeft een wet aangenomen die dat per 1 januari verbiedt. Ook voor influencers geldt een verbod om deze merken te promoten, bij overtreding riskeren zij boetes. Het plan was om de hele industrie van goedkope, niet-duurzame mode aan te pakken, maar de wet is nu specifiek gericht op de 'ultrafastfashion-bedrijven', zoals ze in het wetsvoorstel worden genoemd. Dat zijn bedrijven die grote hoeveelheden producten tegen zulke lage prijzen verkopen dat het voor consumenten niet loont om versleten kleding te laten repareren en de kleding al snel in de vuilnisbak terechtkomt. De wet lijkt gericht tegen de Chinese fashiongiganten en niet op Franse of Europese merken, al moet de precieze definitie nog worden vastgesteld. Aanmoedigen tot reparatie Frankrijk gaat deze bedrijven ook verplichten een milieuheffing per product te betalen. Daarnaast moeten de webshops verplicht berichten tonen die consumenten aanmoedigen tot reparatie, hergebruik en terughoudendheid bij het winkelen. De Franse overheid pakt Shein ook op andere fronten aan. Zo kreeg de Chinese webgigant begin deze maand een boete van 22 miljoen euro omdat kopers spullen niet goed kunnen retourneren en omdat het bedrijf niet open was over het gebruik van materialen en de herkomst ervan. Shein kreeg in juli vorig jaar ook al een Franse boete van 40 miljoen euro wegens nepkortingen. Ook is de Europese Commissie bezig met een onderzoek naar Shein, omdat het mogelijk te weinig heeft gedaan om de verkoop van illegale producten te beperken of gebruikers te beschermen tegen het verslavende ontwerp van de website en app.",
+    "locations": [
+      "Frankrijk"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Frankrijk",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "AliExpress",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Europese Commissie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
