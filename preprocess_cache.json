@@ -65369,5 +65369,65 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "5a1de3c3e55f5946dae7c589ff35c40a": {
+    "feed": "Politie.nl",
+    "title": "Nieuwe aanhouding woningoverval Breezand",
+    "url": "https://www.politie.nl/nieuws/2026/juli/1/04-nieuwe-aanhouding-woningoverval-breezand.html",
+    "published": "Wed, 01 Jul 2026 13:31:00 GMT",
+    "summary": "Op 26 oktober 2025 vond een brute gewapende overval plaats bij een woning in Breezand. Op het moment van de overval was een gezin met kleine kinderen thuis. Op 29 juni is opnieuw een verdachte aangehouden, het gaat om een 19-jarige man uit Maastricht.",
+    "full_text": "Woningoverval In hun eigen woning in Breezand is in de nacht van 25 op 26 oktober 2025 een gezin met twee kinderen overvallen door meerdere personen met bivakmutsen op. Moeder werd onder schot gehouden in bijzijn van haar kinderen. En onder dreiging van een vuurwapen heeft de man des huizes de kluis moeten openen. De verdachten hebben daarbij tassen vol waardevolle spullen buitgemaakt. De overval is ontzettend traumatisch geweest voor alle betrokkenen uit het gezin. Aanhoudingen De politie is direct een onderzoek gestart. Diezelfde nacht is een man van 26 jaar uit Kerkrade aangehouden. Hij zit sinds zijn aanhouding in voorlopige hechtenis. Later zijn een 17-jarige jongeman uit Maastricht en een 23-jarige man eveneens uit Maastricht aangehouden. De minderjarige is geschorst maar blijft nog wel verdachte in dit onderzoek. De 23-jarige man zit vast. De 25-jarige man uit België die was aangehouden voor betrokkenheid bij de woningoverval is half maart in vrijheid gesteld. Verder heeft de politie gedurende het onderzoek zicht gekregen op een verdachte uit Margraten, die verhoord is in deze strafzaak. De laatste verdachte in het onderzoek, een 19-jarige man uit Maastricht, is op maandag 29 juni aangehouden en wordt donderdag 2 juli voorgeleid aan de rechter-commissaris.",
+    "scraped_at": "2026-07-02T06:45:30.059712Z",
+    "id": "9a3401401638b0a9837b7e76117509b49227435d1c4896076aa8f2590e0d1047",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/1/04-nieuwe-aanhouding-woningoverval-breezand.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Woningoverval In hun eigen woning in Breezand is in de nacht van 25 op 26 oktober 2025 een gezin met twee kinderen overvallen door meerdere personen met bivakmutsen op. Moeder werd onder schot gehouden in bijzijn van haar kinderen. En onder dreiging van een vuurwapen heeft de man des huizes de kluis moeten openen. De verdachten hebben daarbij tassen vol waardevolle spullen buitgemaakt. De overval is ontzettend traumatisch geweest voor alle betrokkenen uit het gezin. Aanhoudingen De politie is direct een onderzoek gestart. Diezelfde nacht is een man van 26 jaar uit Kerkrade aangehouden. Hij zit sinds zijn aanhouding in voorlopige hechtenis. Later zijn een 17-jarige jongeman uit Maastricht en een 23-jarige man eveneens uit Maastricht aangehouden. De minderjarige is geschorst maar blijft nog wel verdachte in dit onderzoek. De 23-jarige man zit vast. De 25-jarige man uit België die was aangehouden voor betrokkenheid bij de woningoverval is half maart in vrijheid gesteld. Verder heeft de politie gedurende het onderzoek zicht gekregen op een verdachte uit Margraten, die verhoord is in deze strafzaak. De laatste verdachte in het onderzoek, een 19-jarige man uit Maastricht, is op maandag 29 juni aangehouden en wordt donderdag 2 juli voorgeleid aan de rechter-commissaris.",
+    "locations": [
+      "Breezand",
+      "Maastricht",
+      "Maastricht",
+      "België",
+      "Margraten",
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 0.8333333333333334,
+    "country_evidence": [
+      [
+        "Breezand",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Margraten",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.707135453814594,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
