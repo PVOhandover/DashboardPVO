@@ -65429,5 +65429,79 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "aba19c83d9c0c1f6e308ae1c6e2eb746": {
+    "feed": "Politie.nl",
+    "title": "Meerdere aanhoudingen na vuurwerkincident bij penitentiaire inrichting Roermond",
+    "url": "https://www.politie.nl/nieuws/2026/juli/3/meerdere-aanhoudingen-na-vuurwerkincident-bij-penitentiaire-inrichting-roermond.html",
+    "published": "Fri, 03 Jul 2026 11:17:00 GMT",
+    "summary": "De politie heeft meerdere verdachten aangehouden in een onderzoek naar een vuurwerkincident bij de penitentiaire inrichting in Roermond.",
+    "full_text": "Op 31 december 2025 werd rond 19.00 uur een grote hoeveelheid zwaar illegaal vuurwerk over de hekwerken van de penitentiaire inrichting in Roermond gegooid. Bij het incident waren meerdere personen betrokken. Twee dagen later bleek dat ook de kunstgras sportvelden op het terrein door het vuurwerk waren vernield. Na uitgebreid opsporingsonderzoek vonden op 10 juni 2026 in de vroege ochtend aanhoudingen plaats in de omgeving van Heerlen. Zes verdachten werden aangehouden op verdenking van openlijke geweldpleging en vernieling in vereniging. Diezelfde dag werd een zevende verdachte herkend en gesignaleerd. Op 13 juni 2026 werd ook deze verdachte aangehouden. De verdachte werd in eerste instantie aangehouden voor een winkeldiefstal en vervolgens gehoord in het onderzoek naar het vuurwerkincident. Met de aanhoudingen is het onderzoek afgerond.  De strafzaak zal op een later moment door de rechtbank worden behandeld.",
+    "scraped_at": "2026-07-04T06:25:21.588328Z",
+    "id": "bc45fc9357567e9b3c4497a248fbb599ba56e183c24f94885645494ff2836947",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/3/meerdere-aanhoudingen-na-vuurwerkincident-bij-penitentiaire-inrichting-roermond.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op 31 december 2025 werd rond 19.00 uur een grote hoeveelheid zwaar illegaal vuurwerk over de hekwerken van de penitentiaire inrichting in Roermond gegooid. Bij het incident waren meerdere personen betrokken. Twee dagen later bleek dat ook de kunstgras sportvelden op het terrein door het vuurwerk waren vernield. Na uitgebreid opsporingsonderzoek vonden op 10 juni 2026 in de vroege ochtend aanhoudingen plaats in de omgeving van Heerlen. Zes verdachten werden aangehouden op verdenking van openlijke geweldpleging en vernieling in vereniging. Diezelfde dag werd een zevende verdachte herkend en gesignaleerd. Op 13 juni 2026 werd ook deze verdachte aangehouden. De verdachte werd in eerste instantie aangehouden voor een winkeldiefstal en vervolgens gehoord in het onderzoek naar het vuurwerkincident. Met de aanhoudingen is het onderzoek afgerond.  De strafzaak zal op een later moment door de rechtbank worden behandeld.",
+    "locations": [
+      "Roermond"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Roermond",
+        "NL"
+      ],
+      [
+        "Heerlen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "495590c3527a8156270090a595dd0b6d": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws vrijdag 3 juli: Frontale aanrijding bij Nietap • Tweede aanhouding ernstige mishandeling Grijpskerk",
+    "url": "https://www.rtvnoord.nl/112/1418218/112-nieuws-vrijdag-3-juli-frontale-aanrijding-bij-nietap-tweede-aanhouding-ernstige-mishandeling-grijpskerk",
+    "published": "Fri, 03 Jul 2026 17:41:14 GMT",
+    "summary": "In dit 112-blog houden we je deze vrijdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Woensdagavond 1 juli is iemand mishandeld in recreatiegebied Borgerswold in Veendam. Dat gebeurde tussen restaurant De Ranch en de waterskibaan. Volgens de politie liep het slachtoffer daar en werd diegene uit het niets mishandeld. Twee getuigen hebben zich achteraf bij het slachtoffer gemeld, maar niet bij de politie. Zij roept iedereen die iets weet of beeldmateriaal heeft, op om van zich te laten horen.",
+    "scraped_at": "2026-07-04T06:26:13.853490Z",
+    "id": "b7065458bb1e5cfb49d5c6a1cb9d0f0982538c013ed2850b6a9290e5f5c89229",
+    "canonical_url": "https://www.rtvnoord.nl/112/1418218/112-nieuws-vrijdag-3-juli-frontale-aanrijding-bij-nietap-tweede-aanhouding-ernstige-mishandeling-grijpskerk",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Woensdagavond 1 juli is iemand mishandeld in recreatiegebied Borgerswold in Veendam. Dat gebeurde tussen restaurant De Ranch en de waterskibaan. Volgens de politie liep het slachtoffer daar en werd diegene uit het niets mishandeld. Twee getuigen hebben zich achteraf bij het slachtoffer gemeld, maar niet bij de politie. Zij roept iedereen die iets weet of beeldmateriaal heeft, op om van zich te laten horen.",
+    "locations": [
+      "Veendam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Veendam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.10",
+      "sector_name": "Restaurants and mobile food service activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.10"
+    ]
   }
 }
