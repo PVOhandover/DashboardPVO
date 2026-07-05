@@ -65503,5 +65503,40 @@
     "all_sectors_in_article": [
       "56.10"
     ]
+  },
+  "7ed36cdd06836592db16686e0296b23b": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding na zedenmisdrijven in Spijkenisse",
+    "url": "https://www.politie.nl/nieuws/2026/juli/4/07-aanhouding-na-zedenmisdrijven-in-spijkenisse.html",
+    "published": "Sat, 04 Jul 2026 11:34:00 GMT",
+    "summary": "In zeer korte tijd kregen wij op vrijdag 3 juli meerdere meldingen van zedenincidenten in Spijkenisse. De politie heeft daar direct groots op ingezet en door samenwerking met alerte burgers en Burgernet, kon de verdachte snel worden aangehouden.",
+    "full_text": "Wij realiseren ons dat deze zaak grote impact heeft op zowel slachtoffers, als op inwoners van Spijkenisse. Vanwege privacy en de gevoeligheid rondom zedenzaken, zijn we verder terughoudend in de informatie die we delen. Het is van groot belang dat het onderzoek in alle rust kan plaatsvinden. Zedenrechercheurs hebben een specifieke opleiding gevolgd om zedenslachtoffers op een juiste manier te helpen. Voor de slachtoffers in deze zaak is hulpverlening opgestart. Informatie Heeft u nog informatie die van belang kan zijn voor het onderzoek of bent u zelf slachtoffer geworden, maar heeft u nog geen melding gemaakt bij de politie. Meld het dan bij ons via 0900-8844.",
+    "scraped_at": "2026-07-05T06:45:47.778998Z",
+    "id": "e1a8a2b3dfb9e9a310c67dd1320624eae787921cd9e2ff451013fee6f5650db7",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/4/07-aanhouding-na-zedenmisdrijven-in-spijkenisse.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Wij realiseren ons dat deze zaak grote impact heeft op zowel slachtoffers, als op inwoners van Spijkenisse. Vanwege privacy en de gevoeligheid rondom zedenzaken, zijn we verder terughoudend in de informatie die we delen. Het is van groot belang dat het onderzoek in alle rust kan plaatsvinden. Zedenrechercheurs hebben een specifieke opleiding gevolgd om zedenslachtoffers op een juiste manier te helpen. Voor de slachtoffers in deze zaak is hulpverlening opgestart. Informatie Heeft u nog informatie die van belang kan zijn voor het onderzoek of bent u zelf slachtoffer geworden, maar heeft u nog geen melding gemaakt bij de politie. Meld het dan bij ons via 0900-8844.",
+    "locations": [
+      "Spijkenisse"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Spijkenisse",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
