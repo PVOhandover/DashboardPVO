@@ -65538,5 +65538,58 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "1530b285d86f19daa2da900c5fb83bda": {
+    "feed": "Politie.nl",
+    "title": "Vier aanhoudingen bij ongeregeldheden na voetbalfeest",
+    "url": "https://www.politie.nl/nieuws/2026/juli/5/08-vier-aanhoudingen-bij-ongeregeldheden-na-voetbalfeest.html",
+    "published": "Sun, 05 Jul 2026 10:55:00 GMT",
+    "summary": "Bij ongeregeldheden na de feestelijkheden rond de voetbalwinst van Marokko op Canada heeft de politie in Tilburg vier aanhoudingen verricht. Deze personen gooiden vuurwerk naar agenten en worden verdachte van poging tot doodslag.",
+    "full_text": "Zoals verwacht bracht de overwinning van Marokko ook in Tilburg veel supporters op de been. Zo’n 500 personen vierden in het feest in het centrum van de stad. Dat verliep over het algemeen gemoedelijk ondanks dat er ook vuurwerk werd afgestoken. Nadat rond 23.00 uur een groot deel van de feestvierders was vertrokken bleef er echter een kleine groep over die kennelijk wat minder goeds in de zin had. Daarbij werd ook vuurwerp naar en tegen agenten gegooid. De politie besloot vervolgens om op linie op te treden en de openbare weg tussen Heuvelring en het NS-plein ‘schoon te vegen’. Mede door inzet van medewerkers van het Cameratoezicht in Tilburg konden er vier personen worden geïdentificeerd die vuurwerk naar de politie hadden gegooid. Zij werden aangehouden en worden verdacht van poging tot doodslag.",
+    "scraped_at": "2026-07-06T07:18:33.244116Z",
+    "id": "50869f03caa337b70565de82c0ced9655f3ab52342d596aa710c20a422e3626a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/5/08-vier-aanhoudingen-bij-ongeregeldheden-na-voetbalfeest.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Zoals verwacht bracht de overwinning van Marokko ook in Tilburg veel supporters op de been. Zo’n 500 personen vierden in het feest in het centrum van de stad. Dat verliep over het algemeen gemoedelijk ondanks dat er ook vuurwerk werd afgestoken. Nadat rond 23.00 uur een groot deel van de feestvierders was vertrokken bleef er echter een kleine groep over die kennelijk wat minder goeds in de zin had. Daarbij werd ook vuurwerp naar en tegen agenten gegooid. De politie besloot vervolgens om op linie op te treden en de openbare weg tussen Heuvelring en het NS-plein ‘schoon te vegen’. Mede door inzet van medewerkers van het Cameratoezicht in Tilburg konden er vier personen worden geïdentificeerd die vuurwerk naar de politie hadden gegooid. Zij werden aangehouden en worden verdacht van poging tot doodslag.",
+    "locations": [
+      "Tilburg",
+      "Tilburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Tilburg",
+        "NL"
+      ],
+      [
+        "Tilburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Marokko",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Heuvelring",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
