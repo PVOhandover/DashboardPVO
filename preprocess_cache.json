@@ -65972,5 +65972,298 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "7973a888949510326e7f7c55d69a8d43": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding voor invoer van cocaïne zeehaven",
+    "url": "https://www.politie.nl/nieuws/2026/juli/8/08-aanhouding-voor-invoer-van-cocaine-zeehaven.html",
+    "published": "Wed, 08 Jul 2026 16:44:00 GMT",
+    "summary": "De Zeehavenpolitie ZWB heeft woensdag 8 juli op het industrieterrein in Moerdijk een 39-jarige inwoner uit Dordrecht aangehouden voor het faciliteren bij het invoeren van cocaïne.",
+    "full_text": "De Zeehavenpolitie Zeeland-West-Brabant startte in mei een onderzoek, nadat er bij drie vestigingen van supermarkten in Sint-Oedenrode, ’s-Hertogenbosch en Panningen tussen de bananen cocaïne werd aangetroffen. Uit het ingestelde onderzoek kwam naar voren dat de 39-jarige verdachte uit Dordrecht hier mogelijk een rol in heeft gespeeld. Het externe logistieke bedrijf waar de bewuste medewerker werkzaam was, is niet betrokken bij de drugssmokkel. Doorzoeking De woning van de verdachte is onder leiding van de rechter-commissaris doorzocht. Naast een geldbedrag van €53.000,- werd er een personenauto en een motorboot in beslag genomen. Hulp van binnenuit Criminele organisaties hebben vaak 'hulp van binnenuit' nodig om cocaïne via de logistieke keten Nederland binnen te krijgen. Daarom proberen ze medewerkers in het logistieke proces of overheidsmedewerkers onder druk te zetten of hoge geldbedragen te bieden om hen te helpen. De Zeehavenpolitie onderzoekt of daar in dit geval sprake van is geweest. Informatie over ronselpraktijken? De Zeehavenpolitie vermoedt dat er onder havenmedewerkers en medewerkers in de logistieke keten of in hun omgeving meer informatie bekend is over ronselpraktijken. Voor de politie heeft de aanpak van deze vorm van criminaliteit hoge prioriteit. Wanneer u hierover informatie heeft, ontvangt de politie dit graag. Naast het melden via de bekende nummers, kan informatie ook anoniem worden gemeld via Meld Misdaad Anoniem (0800-7000) of via het Team Criminele Inlichtingen (0900-8844) Hierbij specifiek aangeven dat u een vertrouwelijk gesprek wil aangaan.",
+    "scraped_at": "2026-07-09T06:50:09.862125Z",
+    "id": "ba5abe5a4f640a1a69a53d0af1c4f136fa6d8375cf8ec64b2c44912576cf7419",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/8/08-aanhouding-voor-invoer-van-cocaine-zeehaven.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De Zeehavenpolitie Zeeland-West-Brabant startte in mei een onderzoek, nadat er bij drie vestigingen van supermarkten in Sint-Oedenrode, ’s-Hertogenbosch en Panningen tussen de bananen cocaïne werd aangetroffen. Uit het ingestelde onderzoek kwam naar voren dat de 39-jarige verdachte uit Dordrecht hier mogelijk een rol in heeft gespeeld. Het externe logistieke bedrijf waar de bewuste medewerker werkzaam was, is niet betrokken bij de drugssmokkel. Doorzoeking De woning van de verdachte is onder leiding van de rechter-commissaris doorzocht. Naast een geldbedrag van €53.000,- werd er een personenauto en een motorboot in beslag genomen. Hulp van binnenuit Criminele organisaties hebben vaak 'hulp van binnenuit' nodig om cocaïne via de logistieke keten Nederland binnen te krijgen. Daarom proberen ze medewerkers in het logistieke proces of overheidsmedewerkers onder druk te zetten of hoge geldbedragen te bieden om hen te helpen. De Zeehavenpolitie onderzoekt of daar in dit geval sprake van is geweest. Informatie over ronselpraktijken? De Zeehavenpolitie vermoedt dat er onder havenmedewerkers en medewerkers in de logistieke keten of in hun omgeving meer informatie bekend is over ronselpraktijken. Voor de politie heeft de aanpak van deze vorm van criminaliteit hoge prioriteit. Wanneer u hierover informatie heeft, ontvangt de politie dit graag. Naast het melden via de bekende nummers, kan informatie ook anoniem worden gemeld via Meld Misdaad Anoniem (0800-7000) of via het Team Criminele Inlichtingen (0900-8844) Hierbij specifiek aangeven dat u een vertrouwelijk gesprek wil aangaan.",
+    "locations": [
+      "Dordrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Sint-Oedenrode",
+        "NL"
+      ],
+      [
+        "Dordrecht",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "53.000,-",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Team Criminele Inlichtingen",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "c970062990134ea2b9829037b0ebfa92": {
+    "feed": "Politie.nl",
+    "title": "Politie Eenheid Rotterdam concentreert arrestantenzorg voortaan op drie cellencomplexen",
+    "url": "https://www.politie.nl/nieuws/2026/juli/8/politie-eenheid-rotterdam-concentreert-arrestantenzorg-voortaan-op-drie-cellencomplexen.html",
+    "published": "Wed, 08 Jul 2026 14:00:00 GMT",
+    "summary": "De Politie Eenheid Rotterdam brengt het aantal cellencomplexen terug van zes naar drie. De cellencomplexen aan het Marconiplein en Zuidplein in Rotterdam en aan de Overkampweg in Dordrecht blijven open. Het complex in Capelle aan den IJssel is vorig jaar zomer gesloten en blijft dicht. De complexen aan het Doelwater in Rotterdam en in Spijkenisse (gemeente Nissewaard) sluiten naar verwachting vanaf het najaar van 2026. Hierdoor komt meer politiecapaciteit beschikbaar voor de basisteams en de opsporing, terwijl de beschikbare celcapaciteit voldoende blijft.",
+    "full_text": "Het openhouden van alle complexen kost veel capaciteit en leidt tot een hoge werkdruk onder de arrestantenverzorgers, terwijl na een uitgebreide analyse bleek dat de huidige celcapaciteit te groot is: maar 44 procent van de cellen wordt benut. Door de arrestantenzorg te concentreren op drie locaties in plaats van zes kunnen capaciteit en financiën die vrijkomen door de sluiting van de complexen, worden ingezet voor de versterking van onder meer de basisteams en de opsporing. Bij de keuze voor de drie cellencomplexen die openblijven, is rekening gehouden met op welke locaties de meeste verdachten worden aangehouden. Impactanalyse Aan het besluit ging een uitgebreide impactanalyse vooraf. De gevolgen die de sluiting van de drie complexen heeft op de verschillende onderdelen binnen de organisatie zijn in kaart gebracht. Het terugbrengen van het aantal cellencomplexen kan bijvoorbeeld betekenen dat agenten verder moeten rijden en dus langer onderweg zijn om een arrestant naar een cel te brengen. Daar staat tegenover dat er meer politiecapaciteit beschikbaar komt voor de GGP en opsporing. Ook is uitgewerkt welke maatregelen er genomen moeten worden om de gevolgen zo klein als mogelijk te houden. Een aantal van de maatregelen, zoals het regionaal regie voeren op de celcapaciteit, is al ingevoerd. Komende maanden zullen ook de andere maatregelen ingevoerd worden. Evaluatie De politie evalueert de nieuwe werkwijze een jaar na de invoering, waarna het Regionaal Veiligheidsoverleg (RVO) met alle burgemeesters van de Politie Eenheid Rotterdam beoordeelt of de beoogde effecten zijn bereikt en of aanvullende maatregelen nodig zijn.",
+    "scraped_at": "2026-07-09T06:50:09.862865Z",
+    "id": "0bf4a53e3a5603228991916820e30e14b66072677b982376a22bbb1199f4de66",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/8/politie-eenheid-rotterdam-concentreert-arrestantenzorg-voortaan-op-drie-cellencomplexen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het openhouden van alle complexen kost veel capaciteit en leidt tot een hoge werkdruk onder de arrestantenverzorgers, terwijl na een uitgebreide analyse bleek dat de huidige celcapaciteit te groot is: maar 44 procent van de cellen wordt benut. Door de arrestantenzorg te concentreren op drie locaties in plaats van zes kunnen capaciteit en financiën die vrijkomen door de sluiting van de complexen, worden ingezet voor de versterking van onder meer de basisteams en de opsporing. Bij de keuze voor de drie cellencomplexen die openblijven, is rekening gehouden met op welke locaties de meeste verdachten worden aangehouden. Impactanalyse Aan het besluit ging een uitgebreide impactanalyse vooraf. De gevolgen die de sluiting van de drie complexen heeft op de verschillende onderdelen binnen de organisatie zijn in kaart gebracht. Het terugbrengen van het aantal cellencomplexen kan bijvoorbeeld betekenen dat agenten verder moeten rijden en dus langer onderweg zijn om een arrestant naar een cel te brengen. Daar staat tegenover dat er meer politiecapaciteit beschikbaar komt voor de GGP en opsporing. Ook is uitgewerkt welke maatregelen er genomen moeten worden om de gevolgen zo klein als mogelijk te houden. Een aantal van de maatregelen, zoals het regionaal regie voeren op de celcapaciteit, is al ingevoerd. Komende maanden zullen ook de andere maatregelen ingevoerd worden. Evaluatie De politie evalueert de nieuwe werkwijze een jaar na de invoering, waarna het Regionaal Veiligheidsoverleg (RVO) met alle burgemeesters van de Politie Eenheid Rotterdam beoordeelt of de beoogde effecten zijn bereikt en of aanvullende maatregelen nodig zijn.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "GGP",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "RVO",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "3a26864de279a4c726a5c452f5f73926": {
+    "feed": "NOS.nl (Economie)",
+    "title": "OM start onderzoek naar plasticfabrikant Sabic: 'Vermoedelijk pfas geloosd'",
+    "url": "https://nos.nl/l/2622174",
+    "published": "Wed, 8 Jul 2026 12:00:01 +0200",
+    "summary": "<p>Het Openbaar Ministerie (OM) start een strafrechtelijk onderzoek naar plasticfabrikant Sabic wegens het lozen van een schadelijke pfas-stof zonder vergunning. De fabrikant in Bergen op Zoom heeft zich volgens het OM vermoedelijk schuldig gemaakt aan het lozen van PFBS (perfluorbutaansulfonzuur) in de Westerschelde en Theodorushaven.</p>\n        <p>Het onderzoek is gestart na een gezamenlijke aangifte van vier stichtingen. Zij stellen dat Sabic afvalwater via een leidingstelsel transporteert en daarna bij Waarde in de Westerschelde loost. Volgens het OM zijn er voldoende aanknopingspunten om een strafrechtelijk onderzoek te starten.</p>\n        <p>PFBS is een stof die wordt toegevoegd als vlamvertrager aan kunststof producten. In de natuur wordt die nauwelijks afgebroken.</p>\n        <h2>Onderzoek duurt even</h2>\n        <p>Het strafrechtelijke onderzoek wordt geleid door het Functioneel Parket. Dat is een onderdeel van het Openbaar Ministerie gespecialiseerd in de bestrijding van fraude, milieucriminaliteit en ingewikkelde ontnemingszaken. Het onderzoek zal even duren denkt het OM, maar zal \"gelet op de mogelijke gevolgen voor mens en milieu, de vaart erin houden\".</p>\n        <p>Bij dit onderzoek wordt gekeken of Sabic en diens leidinggevenden schadelijke stoffen in het oppervlaktewater heeft gebracht of laten brengen.</p>\n        <h2>Wat is pfas?</h2>\n        <p>Pfas is een groep van chemische stoffen die schadelijk kunnen zijn en niet of nauwelijks afbreken, waardoor ze steeds meer in het milieu voorkomen. Ze kunnen schadelijk zijn voor het immuunsysteem, de vruchtbaarheid, het ongeboren kind en organen als de lever en de schildklier. Ook kunnen ze kanker veroorzaken.</p>\n        <p>Bij Sabic gaat het specifiek om de lozing van PFBS, perfluorbutaansulfonzuur, een variant in de pfas-groep. Het wordt sinds de beginjaren 2000 voornamelijk gebruikt in textiel, voedselverpakkingen, brandblusschuim en schoonmaakmiddelen. In het menselijk lichaam breekt het in 30 dagen relatief snel af, maar in het milieu gebeurt dat nauwelijks.</p>\n        <p>In oktober kreeg de plasticfabrikant al een <a href=\"https://nos.nl/artikel/2585600-fabrikant-sabic-moet-pfas-lozing-in-westerschelde-terugdringen\">limiet opgelegd</a> van de rechtbank Oost-Brabant voor het lozen van PBFS. Niet meer dan 2,75 kilo PFBS per jaar lozen in het afvalwater was toen het oordeel. Eerder loosde het bedrijf 51 kilo per jaar van de stof.<strong> </strong>De provincie Noord-Brabant wilde dat beperken en legde daarom een strenge norm op.</p>\n        <p>De rechtbank oordeelde toen dat het een zware, maar niet onmogelijke opgave zou zijn om de norm te halen. \"Sabic heeft veel gedaan in de afgelopen periode om de lozing van PFBS te beperken en is hierin al grotendeels geslaagd.\"</p>\n        <p>Eerder vandaag deelde het OM mee dat het Tata Steel <a href=\"https://nos.nl/artikel/2622154-om-vervolgt-tata-steel-strafrechtelijk-voor-opzettelijk-vervuilen\">strafrechtelijk gaat vervolgen</a>. Volgens justitie stoot het bedrijf in IJmuiden opzettelijk stoffen uit die gevaarlijk zijn voor de gezondheid van omwonenden. Ook wordt Tata beschuldigd van het slecht onderhouden van fabrieken, soms zonder de juiste vergunning te werken en incidenten onder de pet te houden.</p>",
+    "full_text": "NOS Nieuws • gisteren, 12:00 Het Openbaar Ministerie (OM) start een strafrechtelijk onderzoek naar plasticfabrikant Sabic wegens het lozen van een schadelijke pfas-stof zonder vergunning. De fabrikant in Bergen op Zoom heeft zich volgens het OM vermoedelijk schuldig gemaakt aan het lozen van PFBS (perfluorbutaansulfonzuur) in de Westerschelde en Theodorushaven. Het onderzoek is gestart na een gezamenlijke aangifte van vier stichtingen. Zij stellen dat Sabic afvalwater via een leidingstelsel transporteert en daarna bij Waarde in de Westerschelde loost. Volgens het OM zijn er voldoende aanknopingspunten om een strafrechtelijk onderzoek te starten. PFBS is een stof die wordt toegevoegd als vlamvertrager aan kunststof producten. In de natuur wordt die nauwelijks afgebroken. Onderzoek duurt even Het strafrechtelijke onderzoek wordt geleid door het Functioneel Parket. Dat is een onderdeel van het Openbaar Ministerie gespecialiseerd in de bestrijding van fraude, milieucriminaliteit en ingewikkelde ontnemingszaken. Het onderzoek zal even duren denkt het OM, maar zal \"gelet op de mogelijke gevolgen voor mens en milieu, de vaart erin houden\". Bij dit onderzoek wordt gekeken of Sabic en diens leidinggevenden schadelijke stoffen in het oppervlaktewater heeft gebracht of laten brengen. Pfas is een groep van chemische stoffen die schadelijk kunnen zijn en niet of nauwelijks afbreken, waardoor ze steeds meer in het milieu voorkomen. Ze kunnen schadelijk zijn voor het immuunsysteem, de vruchtbaarheid, het ongeboren kind en organen als de lever en de schildklier. Ook kunnen ze kanker veroorzaken. Bij Sabic gaat het specifiek om de lozing van PFBS, perfluorbutaansulfonzuur, een variant in de pfas-groep. Het wordt sinds de beginjaren 2000 voornamelijk gebruikt in textiel, voedselverpakkingen, brandblusschuim en schoonmaakmiddelen. In het menselijk lichaam breekt het in 30 dagen relatief snel af, maar in het milieu gebeurt dat nauwelijks. In oktober kreeg de plasticfabrikant al een limiet opgelegd van de rechtbank Oost-Brabant voor het lozen van PBFS. Niet meer dan 2,75 kilo PFBS per jaar lozen in het afvalwater was toen het oordeel. Eerder loosde het bedrijf 51 kilo per jaar van de stof. De provincie Noord-Brabant wilde dat beperken en legde daarom een strenge norm op. De rechtbank oordeelde toen dat het een zware, maar niet onmogelijke opgave zou zijn om de norm te halen. \"Sabic heeft veel gedaan in de afgelopen periode om de lozing van PFBS te beperken en is hierin al grotendeels geslaagd.\" Eerder vandaag deelde het OM mee dat het Tata Steel strafrechtelijk gaat vervolgen . Volgens justitie stoot het bedrijf in IJmuiden opzettelijk stoffen uit die gevaarlijk zijn voor de gezondheid van omwonenden. Ook wordt Tata beschuldigd van het slecht onderhouden van fabrieken, soms zonder de juiste vergunning te werken en incidenten onder de pet te houden.",
+    "scraped_at": "2026-07-09T06:49:06.644115Z",
+    "id": "7c49cf59d0d5d082b67413d8903812fe3630b309dbcd6f1aae8a1b8af5078c9f",
+    "canonical_url": "https://nos.nl/l/2622174",
+    "published_ts": "2026-07-08T10:00:01Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 12:00 Het Openbaar Ministerie (OM) start een strafrechtelijk onderzoek naar plasticfabrikant Sabic wegens het lozen van een schadelijke pfas-stof zonder vergunning. De fabrikant in Bergen op Zoom heeft zich volgens het OM vermoedelijk schuldig gemaakt aan het lozen van PFBS (perfluorbutaansulfonzuur) in de Westerschelde en Theodorushaven. Het onderzoek is gestart na een gezamenlijke aangifte van vier stichtingen. Zij stellen dat Sabic afvalwater via een leidingstelsel transporteert en daarna bij Waarde in de Westerschelde loost. Volgens het OM zijn er voldoende aanknopingspunten om een strafrechtelijk onderzoek te starten. PFBS is een stof die wordt toegevoegd als vlamvertrager aan kunststof producten. In de natuur wordt die nauwelijks afgebroken. Onderzoek duurt even Het strafrechtelijke onderzoek wordt geleid door het Functioneel Parket. Dat is een onderdeel van het Openbaar Ministerie gespecialiseerd in de bestrijding van fraude, milieucriminaliteit en ingewikkelde ontnemingszaken. Het onderzoek zal even duren denkt het OM, maar zal \"gelet op de mogelijke gevolgen voor mens en milieu, de vaart erin houden\". Bij dit onderzoek wordt gekeken of Sabic en diens leidinggevenden schadelijke stoffen in het oppervlaktewater heeft gebracht of laten brengen. Pfas is een groep van chemische stoffen die schadelijk kunnen zijn en niet of nauwelijks afbreken, waardoor ze steeds meer in het milieu voorkomen. Ze kunnen schadelijk zijn voor het immuunsysteem, de vruchtbaarheid, het ongeboren kind en organen als de lever en de schildklier. Ook kunnen ze kanker veroorzaken. Bij Sabic gaat het specifiek om de lozing van PFBS, perfluorbutaansulfonzuur, een variant in de pfas-groep. Het wordt sinds de beginjaren 2000 voornamelijk gebruikt in textiel, voedselverpakkingen, brandblusschuim en schoonmaakmiddelen. In het menselijk lichaam breekt het in 30 dagen relatief snel af, maar in het milieu gebeurt dat nauwelijks. In oktober kreeg de plasticfabrikant al een limiet opgelegd van de rechtbank Oost-Brabant voor het lozen van PBFS. Niet meer dan 2,75 kilo PFBS per jaar lozen in het afvalwater was toen het oordeel. Eerder loosde het bedrijf 51 kilo per jaar van de stof. De provincie Noord-Brabant wilde dat beperken en legde daarom een strenge norm op. De rechtbank oordeelde toen dat het een zware, maar niet onmogelijke opgave zou zijn om de norm te halen. \"Sabic heeft veel gedaan in de afgelopen periode om de lozing van PFBS te beperken en is hierin al grotendeels geslaagd.\" Eerder vandaag deelde het OM mee dat het Tata Steel strafrechtelijk gaat vervolgen . Volgens justitie stoot het bedrijf in IJmuiden opzettelijk stoffen uit die gevaarlijk zijn voor de gezondheid van omwonenden. Ook wordt Tata beschuldigd van het slecht onderhouden van fabrieken, soms zonder de juiste vergunning te werken en incidenten onder de pet te houden.",
+    "locations": [
+      "provincie Noord-Brabant"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Bergen op Zoom",
+        "NL"
+      ],
+      [
+        "Waarde",
+        "BE"
+      ],
+      [
+        "provincie Noord-Brabant",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.7071355618229913,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "PFBS",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Functioneel Parket",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "PBFS",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tata",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
+  },
+  "5482c2bd0aa6b1719dbc0472b92585fb": {
+    "feed": "NOS.nl (Economie)",
+    "title": "OM vervolgt Tata Steel strafrechtelijk voor opzettelijk vervuilen",
+    "url": "https://nos.nl/l/2622154",
+    "published": "Wed, 8 Jul 2026 08:30:02 +0200",
+    "summary": "<p>Het Openbaar Ministerie (OM) gaat Tata Steel strafrechtelijk vervolgen. Volgens justitie stoot het bedrijf in IJmuiden opzettelijk stoffen uit die gevaarlijk zijn voor de gezondheid van omwonenden.</p>\n        <p>Tata wordt ervan beschuldigd de fabrieken slecht te onderhouden, soms zonder de juiste vergunning te werken en incidenten onder de pet te houden.</p>\n        <p>De staalgigant zegt dat het besluit het bedrijf raakt. Tata Steel noemt het in een reactie \"essentieel om een goede buur te zijn voor omwonenden\". \"Zorgen en kritiek neemt het bedrijf serieus, maatregelen ter verbetering worden onverminderd genomen\", staat in een verklaring van Tata Steel.</p>\n        <p>Eerder dit jaar kreeg het staalbedrijf <a href=\"https://nos.nl/artikel/2610834-tata-steel-moet-weer-8-5-miljoen-euro-betalen-vanwege-te-veel-uitstoot\">tot twee maal toe</a> een miljoenenboete opgelegd. Het OM gaat een stap verder en nu moet Tata dus voor voor de strafrechter verschijnen.</p>\n        <h2>Massa-aangifte</h2>\n        <p>De strafzaak van het OM is een vervolg op de massa-aangifte door advocaat Bénédicte Ficq. In 2021 deed zij, namens 800 omwonenden, aangifte tegen Tata.</p>\n        <p>Die aangifte was aanleiding voor een jarenlang onderzoek. Dat liet het OM uitvoeren door de Inspectie Leefomgeving en Transport (ILT) met hulp van andere politie- en milieudiensten.</p>\n        <p>Het onderzoek geeft genoeg aanknopingspunten voor strafrechtelijke vervolging, zegt het OM. Of ook leidinggevenden van Tata persoonlijk vervolgd zullen worden, wordt nog onderzocht. Op 20 november dit jaar start de zaak, met een regiezitting.</p>\n        <h2>Kooksgasfabrieken</h2>\n        <p>Het OM keek voor het onderzoek naar het productieproces van Tata Steel. In het bijzonder naar de werking van de kooksgasfabrieken. Omwonenden klagen al jaren over de uitstoot van deze fabrieken. Hierin wordt steenkool door sterke verhitting verwerkt tot kooks, een basisproduct voor staal.</p>\n        <p>Vanwege de uitstoot van stoffen die schadelijk zijn voor mens en milieu wil de Omgevingsdienst Noordzeekanaalgebied al langer de vergunningen van de kooksgasfabrieken intrekken.</p>\n        <p><em>Tata Steel ligt in de IJmond, tussen meerdere plaatsen in. Ontdek hieronder meer over het staalbedrijf en de omgeving: </em></p>\n        <p>Tata zei onlangs de kooksgasfabrieken, eerder dan gepland, te kunnen gaan sluiten. In dat geval zouden de kooks geïmporteerd moeten worden. Het bedrijf zei dat in aanloop van een Kamerdebat, waarin de Tweede Kamer instemde met 2 miljard euro overheidssteun voor de staalproducent om te verduurzamen.</p>\n        <p>Het staalbedrijf noemt om die reden een strafzaak hierover \"onnodig\" en spreekt van een \"beperkt aantal incidenten\" die daarna ook hebben geleid tot technische verbeteringen.</p>\n        <h2>'Krachtige belissing'</h2>\n        <p>Advocaat Ficq, die de massa-aangifte indiende, reageert blij op het nieuws van het OM. \"We zitten al jaren te wachten op deze krachtige beslissing van het OM. Ik denk dat dit een ongelofelijk belangrijk signaal is richting vervuilers.\"</p>\n        <p>Dat er nog geen beslissing is gevallen of er ook leidinggevenden persoonlijk vervolgd gaan worden, begrijpt Ficq. Het OM doet daar nog verder onderzoek naar. \"Ik hoop natuurlijk dat de menselijke beslissing een grote rol gaat spelen. Een bedrijf draait omdat er mensen de leiding hebben en daar beslissingen genomen worden.\"</p>",
+    "full_text": "NOS Nieuws • gisteren, 08:30 • Aangepast gisteren, 09:20 Het Openbaar Ministerie (OM) gaat Tata Steel strafrechtelijk vervolgen. Volgens justitie stoot het bedrijf in IJmuiden opzettelijk stoffen uit die gevaarlijk zijn voor de gezondheid van omwonenden. Tata wordt ervan beschuldigd de fabrieken slecht te onderhouden, soms zonder de juiste vergunning te werken en incidenten onder de pet te houden. De staalgigant zegt dat het besluit het bedrijf raakt. Tata Steel noemt het in een reactie \"essentieel om een goede buur te zijn voor omwonenden\". \"Zorgen en kritiek neemt het bedrijf serieus, maatregelen ter verbetering worden onverminderd genomen\", staat in een verklaring van Tata Steel. Eerder dit jaar kreeg het staalbedrijf tot twee maal toe een miljoenenboete opgelegd. Het OM gaat een stap verder en nu moet Tata dus voor voor de strafrechter verschijnen. Massa-aangifte De strafzaak van het OM is een vervolg op de massa-aangifte door advocaat Bénédicte Ficq. In 2021 deed zij, namens 800 omwonenden, aangifte tegen Tata. Die aangifte was aanleiding voor een jarenlang onderzoek. Dat liet het OM uitvoeren door de Inspectie Leefomgeving en Transport (ILT) met hulp van andere politie- en milieudiensten. Het onderzoek geeft genoeg aanknopingspunten voor strafrechtelijke vervolging, zegt het OM. Of ook leidinggevenden van Tata persoonlijk vervolgd zullen worden, wordt nog onderzocht. Op 20 november dit jaar start de zaak, met een regiezitting. Kooksgasfabrieken Het OM keek voor het onderzoek naar het productieproces van Tata Steel. In het bijzonder naar de werking van de kooksgasfabrieken. Omwonenden klagen al jaren over de uitstoot van deze fabrieken. Hierin wordt steenkool door sterke verhitting verwerkt tot kooks, een basisproduct voor staal. Vanwege de uitstoot van stoffen die schadelijk zijn voor mens en milieu wil de Omgevingsdienst Noordzeekanaalgebied al langer de vergunningen van de kooksgasfabrieken intrekken. Tata Steel ligt in de IJmond, tussen meerdere plaatsen in. Ontdek hieronder meer over het staalbedrijf en de omgeving: Vorige slide Volgende slide Tata zei onlangs de kooksgasfabrieken, eerder dan gepland, te kunnen gaan sluiten. In dat geval zouden de kooks geïmporteerd moeten worden. Het bedrijf zei dat in aanloop van een Kamerdebat, waarin de Tweede Kamer instemde met 2 miljard euro overheidssteun voor de staalproducent om te verduurzamen. Het staalbedrijf noemt om die reden een strafzaak hierover \"onnodig\" en spreekt van een \"beperkt aantal incidenten\" die daarna ook hebben geleid tot technische verbeteringen. 'Krachtige belissing' Advocaat Ficq, die de massa-aangifte indiende, reageert blij op het nieuws van het OM. \"We zitten al jaren te wachten op deze krachtige beslissing van het OM. Ik denk dat dit een ongelofelijk belangrijk signaal is richting vervuilers.\" Dat er nog geen beslissing is gevallen of er ook leidinggevenden persoonlijk vervolgd gaan worden, begrijpt Ficq. Het OM doet daar nog verder onderzoek naar. \"Ik hoop natuurlijk dat de menselijke beslissing een grote rol gaat spelen. Een bedrijf draait omdat er mensen de leiding hebben en daar beslissingen genomen worden.\"",
+    "scraped_at": "2026-07-09T06:49:07.253515Z",
+    "id": "9e4b2233b1257c820c9607e91f981f5041a0c23d21fff429a625f3453d8bee2e",
+    "canonical_url": "https://nos.nl/l/2622154",
+    "published_ts": "2026-07-08T06:30:02Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 08:30 • Aangepast gisteren, 09:20 Het Openbaar Ministerie (OM) gaat Tata Steel strafrechtelijk vervolgen. Volgens justitie stoot het bedrijf in IJmuiden opzettelijk stoffen uit die gevaarlijk zijn voor de gezondheid van omwonenden. Tata wordt ervan beschuldigd de fabrieken slecht te onderhouden, soms zonder de juiste vergunning te werken en incidenten onder de pet te houden. De staalgigant zegt dat het besluit het bedrijf raakt. Tata Steel noemt het in een reactie \"essentieel om een goede buur te zijn voor omwonenden\". \"Zorgen en kritiek neemt het bedrijf serieus, maatregelen ter verbetering worden onverminderd genomen\", staat in een verklaring van Tata Steel. Eerder dit jaar kreeg het staalbedrijf tot twee maal toe een miljoenenboete opgelegd. Het OM gaat een stap verder en nu moet Tata dus voor voor de strafrechter verschijnen. Massa-aangifte De strafzaak van het OM is een vervolg op de massa-aangifte door advocaat Bénédicte Ficq. In 2021 deed zij, namens 800 omwonenden, aangifte tegen Tata. Die aangifte was aanleiding voor een jarenlang onderzoek. Dat liet het OM uitvoeren door de Inspectie Leefomgeving en Transport (ILT) met hulp van andere politie- en milieudiensten. Het onderzoek geeft genoeg aanknopingspunten voor strafrechtelijke vervolging, zegt het OM. Of ook leidinggevenden van Tata persoonlijk vervolgd zullen worden, wordt nog onderzocht. Op 20 november dit jaar start de zaak, met een regiezitting. Kooksgasfabrieken Het OM keek voor het onderzoek naar het productieproces van Tata Steel. In het bijzonder naar de werking van de kooksgasfabrieken. Omwonenden klagen al jaren over de uitstoot van deze fabrieken. Hierin wordt steenkool door sterke verhitting verwerkt tot kooks, een basisproduct voor staal. Vanwege de uitstoot van stoffen die schadelijk zijn voor mens en milieu wil de Omgevingsdienst Noordzeekanaalgebied al langer de vergunningen van de kooksgasfabrieken intrekken. Tata Steel ligt in de IJmond, tussen meerdere plaatsen in. Ontdek hieronder meer over het staalbedrijf en de omgeving: Vorige slide Volgende slide Tata zei onlangs de kooksgasfabrieken, eerder dan gepland, te kunnen gaan sluiten. In dat geval zouden de kooks geïmporteerd moeten worden. Het bedrijf zei dat in aanloop van een Kamerdebat, waarin de Tweede Kamer instemde met 2 miljard euro overheidssteun voor de staalproducent om te verduurzamen. Het staalbedrijf noemt om die reden een strafzaak hierover \"onnodig\" en spreekt van een \"beperkt aantal incidenten\" die daarna ook hebben geleid tot technische verbeteringen. 'Krachtige belissing' Advocaat Ficq, die de massa-aangifte indiende, reageert blij op het nieuws van het OM. \"We zitten al jaren te wachten op deze krachtige beslissing van het OM. Ik denk dat dit een ongelofelijk belangrijk signaal is richting vervuilers.\" Dat er nog geen beslissing is gevallen of er ook leidinggevenden persoonlijk vervolgd gaan worden, begrijpt Ficq. Het OM doet daar nog verder onderzoek naar. \"Ik hoop natuurlijk dat de menselijke beslissing een grote rol gaat spelen. Een bedrijf draait omdat er mensen de leiding hebben en daar beslissingen genomen worden.\"",
+    "locations": [
+      "IJmond"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "IJmond",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tata Steel",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tata",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tata Steel",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tata",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bénédicte Ficq",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tata",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Inspectie Leefomgeving",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "ILT",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "62"
+    ]
   }
 }
