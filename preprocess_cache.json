@@ -66265,5 +66265,78 @@
       "not_affected",
       "62"
     ]
+  },
+  "e2fe9a7acbbc38425c90b25695100287": {
+    "feed": "RTV Noord",
+    "title": "Asielminister bezoekt Ter Apel tussen de steekincidenten door",
+    "url": "https://www.rtvnoord.nl/politiek/1419890/asielminister-bezoekt-ter-apel-tussen-de-steekincidenten-door",
+    "published": "Thu, 09 Jul 2026 17:00:00 GMT",
+    "summary": "Toeval of niet: uitgerekend deze week, met twee steekincidenten bij het aanmeldcentrum in Ter Apel, bracht asielminister Bart van den Brink zijn derde bezoek aan de locatie. Hij was geen getuige van de steekincidenten, maar is er wel van op de hoogte.",
+    "full_text": "Als gevolg daarvan viel zijn geplande bezoek van woensdagmiddag aan het aanmeldcentrum wat later uit, omdat de politie nog bezig was met onderzoek naar de tweede steekpartij. Dinsdag was er ook al één. Toen de minister eind mei naar Ter Apel kwam, was er vlak voor zijn komst een vechtpartij. Dat kon, net voordat hij arriveerde, in de kiem worden gesmoord.",
+    "scraped_at": "2026-07-10T06:52:04.395119Z",
+    "id": "5041563f5f9a2c07256b6afac2bda7815cdccf310705e0cb8c87dcb7c7083150",
+    "canonical_url": "https://www.rtvnoord.nl/politiek/1419890/asielminister-bezoekt-ter-apel-tussen-de-steekincidenten-door",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Als gevolg daarvan viel zijn geplande bezoek van woensdagmiddag aan het aanmeldcentrum wat later uit, omdat de politie nog bezig was met onderzoek naar de tweede steekpartij. Dinsdag was er ook al één. Toen de minister eind mei naar Ter Apel kwam, was er vlak voor zijn komst een vechtpartij. Dat kon, net voordat hij arriveerde, in de kiem worden gesmoord.",
+    "locations": [
+      "Ter Apel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "66c6057745e46bb1b7a37e59857956b4": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws woensdag 8 juli: A7 afgesloten richting Duitse grens",
+    "url": "https://www.rtvnoord.nl/112/1419565/112-nieuws-woensdag-8-juli-a7-afgesloten-richting-duitse-grens",
+    "published": "Wed, 08 Jul 2026 19:33:13 GMT",
+    "summary": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Er is opnieuw een steekincident geweest aan de Ter Apelervenen in Ter Apel. Daarbij is een gewonde gevallen. De melding kwam rond 14.45 uur binnen bij de politie. Het slachtoffer kon ter plekke worden behandeld en hoefde niet mee naar het ziekenhuis. De politie heeft een verdachte aangehouden. Die wordt gehoord. Het is momenteel onrustig bij het aanmeldcentrum in Ter Apel. Dinsdagmiddag viel ook al een gewonde bij een steekincident. Dinsdagavond kwam eveneens een melding binnen bij de politie, maar die kan niet zeggen of er toen ook sprake was van een steekincident.",
+    "scraped_at": "2026-07-10T06:52:19.828937Z",
+    "id": "38ff399ae6105a2e7a7ca54fe826d121ad4867e28188b0cd7cd373abc3242001",
+    "canonical_url": "https://www.rtvnoord.nl/112/1419565/112-nieuws-woensdag-8-juli-a7-afgesloten-richting-duitse-grens",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Er is opnieuw een steekincident geweest aan de Ter Apelervenen in Ter Apel. Daarbij is een gewonde gevallen. De melding kwam rond 14.45 uur binnen bij de politie. Het slachtoffer kon ter plekke worden behandeld en hoefde niet mee naar het ziekenhuis. De politie heeft een verdachte aangehouden. Die wordt gehoord. Het is momenteel onrustig bij het aanmeldcentrum in Ter Apel. Dinsdagmiddag viel ook al een gewonde bij een steekincident. Dinsdagavond kwam eveneens een melding binnen bij de politie, maar die kan niet zeggen of er toen ook sprake was van een steekincident.",
+    "locations": [
+      "Ter Apel",
+      "Ter Apel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ],
+      [
+        "Ter Apel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
   }
 }
