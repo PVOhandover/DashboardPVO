@@ -66794,5 +66794,88 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "a60886683d6fb5c0a61ba11181af0f50": {
+    "feed": "Politie.nl",
+    "title": "Twee verdachten aangehouden na beroving in Franeker",
+    "url": "https://www.politie.nl/nieuws/2026/juli/13/01-twee-verdachten-aangehouden-na-beroving-in-franeker.html",
+    "published": "Mon, 13 Jul 2026 15:02:00 GMT",
+    "summary": "Een 29-jarige man uit Franeker parkeerde zijn auto op zondagavond 12 juli omstreeks 19:00 uur aan het Sint Martiniplantsoen en is kort daarna door een onbekende man bedreigd met een mes en beroofd van zijn eigendommen. De man sloeg op de vlucht. Kort daarna heeft de politie twee verdachten aan kunnen houden.",
+    "full_text": "Omstreeks 18:55 uur komt bij de politie de melding binnen van een beroving aan het Sint Martiniplantsoen in Franeker. Het slachtoffer, een 29-jarige man uit dezelfde plaats, is met een mes bedreigd en beroofd door een onbekende man. Deze verdachte ging er rennend vandoor en stapte in een auto. Door oplettendheid van het slachtoffer kon het kenteken van de desbetreffende auto worden doorgegeven. Het voertuig is later gesignaleerd op de N31 ter hoogte van Garyp. Nadat de bestuurder het stopteken van de politie heeft opgevolgd, zijn beide inzittenden aangehouden. Beide verdachten, een minderjarige jongen uit de gemeente Groningen een 19-jarige man uit Groningen, zitten vast en worden verhoord. Het politieonderzoek naar de beroving en bedreiging gaat verder.",
+    "scraped_at": "2026-07-14T05:36:08.702682Z",
+    "id": "f66590e568bbf09c6e23da8b5eb63538ff6e3821ddb45f14c35bdd9dbf0ea5aa",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/13/01-twee-verdachten-aangehouden-na-beroving-in-franeker.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 18:55 uur komt bij de politie de melding binnen van een beroving aan het Sint Martiniplantsoen in Franeker. Het slachtoffer, een 29-jarige man uit dezelfde plaats, is met een mes bedreigd en beroofd door een onbekende man. Deze verdachte ging er rennend vandoor en stapte in een auto. Door oplettendheid van het slachtoffer kon het kenteken van de desbetreffende auto worden doorgegeven. Het voertuig is later gesignaleerd op de N31 ter hoogte van Garyp. Nadat de bestuurder het stopteken van de politie heeft opgevolgd, zijn beide inzittenden aangehouden. Beide verdachten, een minderjarige jongen uit de gemeente Groningen een 19-jarige man uit Groningen, zitten vast en worden verhoord. Het politieonderzoek naar de beroving en bedreiging gaat verder.",
+    "locations": [
+      "Sint Martiniplantsoen",
+      "Franeker",
+      "gemeente Groningen",
+      "Groningen"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Franeker",
+        "NL"
+      ],
+      [
+        "gemeente Groningen",
+        "NL"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "8a4cb512e7438c11584db048620bb837": {
+    "feed": "Politie.nl",
+    "title": "Verdachte slaat meerdere keren toe, politie houdt man aan",
+    "url": "https://www.politie.nl/nieuws/2026/juli/13/08-verdachte-slaat-meerdere-keren-toe-politie-houdt-man-aan.html",
+    "published": "Mon, 13 Jul 2026 13:56:00 GMT",
+    "summary": "Zondagmiddag 12 juli wordt rond 17.15 uur 112 gebeld vanuit Breda. De melder vertelt dat er zojuist een overval is geweest op een winkel aan de Heksenwaag. Dankzij een duidelijk signalement kan de politie direct een onderzoek starten. Dat onderzoek leidt uiteindelijk naar een verdachte die de afgelopen weken meerdere strafbare feiten zou hebben gepleegd. De man is vandaag, maandag 13 juli, aangehouden.",
+    "full_text": "Overval zondag 12 juli Rond 17.15 uur komt de melding binnen. Volgens de melder heeft een verdachte onder bedreiging van een mes geprobeerd geld buit te maken bij een winkel aan de Heksenwaag. De melder geeft een duidelijk signalement en de vluchtrichting door. Meerdere agenten gaan direct naar de winkel en zoeken in de omgeving naar de verdachte. Terwijl agenten in de winkel de aangifte opnemen, zetten collega's het onderzoek voort. Meerdere incidenten Tijdens het onderzoek blijkt dat de verdachte de afgelopen weken niet heeft stilgezeten. Op 23 juni, 4 juli en 10 juli zou hij bij winkels in Etten-Leur, Breda en Prinsenbeek een graai uit de kassa hebben gedaan. Bij de overval op zondag 12 juli aan de Heksenwaag gebruikte de verdachte volgens de melder zelfs een mes. Aangehouden De verdachte is vandaag, maandag 13 juli, aangehouden. Agenten zagen de man toen zij ter plaatse waren bij een melding. Op bevel van de officier van justitie is hij buiten heterdaad aangehouden. De verdachte zit vast en wordt verhoord.",
+    "scraped_at": "2026-07-14T05:36:08.704059Z",
+    "id": "2d970e67e65ec9cd8cc1d300755e26073db286ef6acd175083f0a08838cad475",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/13/08-verdachte-slaat-meerdere-keren-toe-politie-houdt-man-aan.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Overval zondag 12 juli Rond 17.15 uur komt de melding binnen. Volgens de melder heeft een verdachte onder bedreiging van een mes geprobeerd geld buit te maken bij een winkel aan de Heksenwaag. De melder geeft een duidelijk signalement en de vluchtrichting door. Meerdere agenten gaan direct naar de winkel en zoeken in de omgeving naar de verdachte. Terwijl agenten in de winkel de aangifte opnemen, zetten collega's het onderzoek voort. Meerdere incidenten Tijdens het onderzoek blijkt dat de verdachte de afgelopen weken niet heeft stilgezeten. Op 23 juni, 4 juli en 10 juli zou hij bij winkels in Etten-Leur, Breda en Prinsenbeek een graai uit de kassa hebben gedaan. Bij de overval op zondag 12 juli aan de Heksenwaag gebruikte de verdachte volgens de melder zelfs een mes. Aangehouden De verdachte is vandaag, maandag 13 juli, aangehouden. Agenten zagen de man toen zij ter plaatse waren bij een melding. Op bevel van de officier van justitie is hij buiten heterdaad aangehouden. De verdachte zit vast en wordt verhoord.",
+    "locations": [
+      "Etten-Leur"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Etten-Leur",
+        "NL"
+      ],
+      [
+        "Breda",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "47",
+      "sector_name": "Retail trade"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "47"
+    ]
   }
 }
