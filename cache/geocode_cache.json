@@ -1498,5 +1498,13 @@
   "Veendijk": {
     "lat": 52.7468029,
     "lon": 6.2054075
+  },
+  "Franeker": {
+    "lat": 53.1880505,
+    "lon": 5.5409648
+  },
+  "Sint Martiniplantsoen": {
+    "lat": 53.1868957,
+    "lon": 5.5448504
   }
 }

@@ -66877,5 +66877,38 @@
     "all_sectors_in_article": [
       "47"
     ]
+  },
+  "bdab993750b116a0d1155bdd0e8deed4": {
+    "feed": "RTV Noord",
+    "title": "Lopend Vuur: Ik zoek altijd het goedkoopste tankstation op",
+    "url": "https://www.rtvnoord.nl/meningen/1420864/lopend-vuur-ik-zoek-altijd-het-goedkoopste-tankstation-op",
+    "published": "Wed, 15 Jul 2026 05:00:00 GMT",
+    "summary": "Een volle tank kan tientallen euro’s schelen. Uit onderzoek van Independer blijkt dat het prijsverschil tussen de goedkoopste en duurste pomp in de gemeente Oldambt kan oplopen tot bijna 24 euro voor een volle tank. Ook in andere Groningse gemeenten lopen de verschillen flink uiteen.",
+    "full_text": "Een volle tank kan tientallen euro’s schelen. Uit onderzoek van Independer blijkt dat het prijsverschil tussen de goedkoopste en duurste pomp in de gemeente Oldambt kan oplopen tot bijna 24 euro voor een volle tank. Ook in andere Groningse gemeenten lopen de verschillen flink uiteen.",
+    "scraped_at": "2026-07-15T05:38:06.528860Z",
+    "id": "5122d27db24821a2562e3535a27af98c0befe01e9a4b043414cd4072ec93826c",
+    "canonical_url": "https://www.rtvnoord.nl/meningen/1420864/lopend-vuur-ik-zoek-altijd-het-goedkoopste-tankstation-op",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een volle tank kan tientallen euro’s schelen. Uit onderzoek van Independer blijkt dat het prijsverschil tussen de goedkoopste en duurste pomp in de gemeente Oldambt kan oplopen tot bijna 24 euro voor een volle tank. Ook in andere Groningse gemeenten lopen de verschillen flink uiteen.",
+    "locations": [
+      "gemeente Oldambt"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Oldambt",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
