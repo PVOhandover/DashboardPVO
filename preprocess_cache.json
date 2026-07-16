@@ -66910,5 +66910,113 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "1de791adba5c0794a5ec959219fffc54": {
+    "feed": "L1 Nieuws",
+    "title": "Aantal inbraken in Limburg gedaald ondanks landelijke stijging",
+    "url": "https://www.l1nieuws.nl/nieuws/3208457/aantal-inbraken-in-limburg-gedaald-ondanks-landelijke-stijging",
+    "published": "Thu, 16 Jul 2026 05:05:16 GMT",
+    "summary": "Het aantal inbraken in de eerste helft van dit jaar lag in onze provincie ongeveer 15 procent lager dan in de eerste zes maanden van vorig jaar. Landelijk was er juist sprake van een stijging.",
+    "full_text": "In Limburg telde de politie van januari tot en met juni in totaal 522 inbraken. Vorig jaar waren er dat nog 601 in dezelfde periode. Die daling is niet gelijk verdeeld over de provincie: in 13 Limburgse gemeenten is er juist sprake van een toename. In vergelijking met het aantal inwoners daalde het aantal inbraken van 53 per 100.000 Limburgers vorig jaar, naar 46 per 100.000 dit jaar.",
+    "scraped_at": "2026-07-16T05:46:04.218892Z",
+    "id": "2eaa6641de817774caeb60905c7b3d3973e382eb14085ccfdf8a7496caf11988",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3208457/aantal-inbraken-in-limburg-gedaald-ondanks-landelijke-stijging",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In Limburg telde de politie van januari tot en met juni in totaal 522 inbraken. Vorig jaar waren er dat nog 601 in dezelfde periode. Die daling is niet gelijk verdeeld over de provincie: in 13 Limburgse gemeenten is er juist sprake van een toename. In vergelijking met het aantal inwoners daalde het aantal inbraken van 53 per 100.000 Limburgers vorig jaar, naar 46 per 100.000 dit jaar.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "d4311a85e132c544421c82d2228e7f90": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws woensdag 15 juli: Aanhouding na ruzie op Martinikerkhof",
+    "url": "https://www.rtvnoord.nl/112/1420869/112-nieuws-woensdag-15-juli-aanhouding-na-ruzie-op-martinikerkhof",
+    "published": "Wed, 15 Jul 2026 20:49:53 GMT",
+    "summary": "In dit 112-blog hielden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Bij een ruzie op het Martinikerkhof in het centrum van Groningen is aan het begin van de avond iemand lichtgewond geraakt. Wat hieraan voorafging is niet precies bekend. De hulpdiensten kwamen af op een melding van een steekincident. De politie hield op het Martinikerkhof één van de ruziemakers aan, zo laat een politiewoordvoerder weten. Het slachtoffer is door ambulancepersoneel nagekeken op de verwondingen. Het is op het Martinikerkhof al langer onrustig vanwege drugsoverlast. Omwonenden hebben eerder vandaag al geëist dat burgemeester Roelien Kamminga binnen 48 uur met maatregelen moet komen om deze overlast aan te pakken. Gebeurt dat niet, .",
+    "scraped_at": "2026-07-16T05:47:06.476537Z",
+    "id": "976fb1e6daeb44b2ac2ab90b78b74b50b38dafdff56d4a1e2f3b539bff24af78",
+    "canonical_url": "https://www.rtvnoord.nl/112/1420869/112-nieuws-woensdag-15-juli-aanhouding-na-ruzie-op-martinikerkhof",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij een ruzie op het Martinikerkhof in het centrum van Groningen is aan het begin van de avond iemand lichtgewond geraakt. Wat hieraan voorafging is niet precies bekend. De hulpdiensten kwamen af op een melding van een steekincident. De politie hield op het Martinikerkhof één van de ruziemakers aan, zo laat een politiewoordvoerder weten. Het slachtoffer is door ambulancepersoneel nagekeken op de verwondingen. Het is op het Martinikerkhof al langer onrustig vanwege drugsoverlast. Omwonenden hebben eerder vandaag al geëist dat burgemeester Roelien Kamminga binnen 48 uur met maatregelen moet komen om deze overlast aan te pakken. Gebeurt dat niet, .",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Roelien Kamminga",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "2b733ac5844efa41017819da9ae48450": {
+    "feed": "Politie.nl",
+    "title": "De klok tikt voor oplichters: namen van verdachten beleggingsfraude online",
+    "url": "https://www.politie.nl/nieuws/2026/juli/15/02-de-klok-tikt-voor-oplichters-namen-van-verdachten-online.html",
+    "published": "Wed, 15 Jul 2026 10:17:00 GMT",
+    "summary": "De Nederlandse en Belgische politie hebben zes verdachten aangehouden in een onderzoek naar internationale beleggingsfraude. Naast het opsporen en vervolgen van verdachten, probeert de Nederlandse politie verdachten te stoppen en mogelijke nieuwe daders te ontmoedigen. Zo is er een website gepubliceerd met informatie over de verdachten. Lees verder om te weten hoe de politie daderpreventie oppakt.",
+    "full_text": "Op de website www.operation-sunflower.com staan ongeveer 700 pseudoniemen van zogenaamde accountmanagers. Een klok telt af naar het volgende moment dat hun echte namen, geanonimiseerd, worden weergegeven. De Nederlandse verdachten zijn inmiddels aangehouden. De informatie over de overige verdachten die geïdentificeerd zijn, is in samenwerking met Europol gedeeld met verschillende landen. Zodat deze verdachten ook strafrechtelijk vervolgd kunnen worden. De accountmanagers zijn via brief of e-mail op de hoogte gebracht van deze website. Op de website is ook de mogelijkheid voor verdachten en getuigen om informatie te delen met het onderzoeksteam. Online recruitment voor fraude In het onderzoek kwam naar voren dat er online groepen zijn, waarin doelbewust wordt gezocht naar personen die bereid zijn om geld te verdienen met het oplichten van slachtoffers. In deze groepen heeft de politie waarschuwingsberichten geplaatst. Dit om potentiële daders af te schrikken en te laten zien dat wij online fraude, waaronder beleggingsfraude, onderzoeken en verdachten opsporen. Onderzoek naar internationale beleggingsfraude De politie heeft in mei en juli een enorme klap uitgedeeld in de strijd tegen beleggingsfraude. Op weg van Dubai naar Polen is een man aangehouden die ervan wordt verdacht een grote en onmisbare rol te hebben vervuld in een internationale criminele organisatie met ruim 700 medewerkers. Zij maakten op professionele en gewetenloze wijze dagelijks honderden slachtoffers. De schatting is dat deze organisatie ruim 100 miljoen euro per maand buitmaakte in verschillende landen. Lees hier het bericht over het onderzoek: https://www.politie.nl/nieuws/2026/juli/15/02-criminele-organisatie-met-700-medewerkers-verdachten-beleggingsfraude-gearresteerd.html .",
+    "scraped_at": "2026-07-16T05:46:02.555043Z",
+    "id": "ab2d3655bd47e6a30771b28ed4010603e3562efad94d002477a73382ac236fe6",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/15/02-de-klok-tikt-voor-oplichters-namen-van-verdachten-online.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op de website www.operation-sunflower.com staan ongeveer 700 pseudoniemen van zogenaamde accountmanagers. Een klok telt af naar het volgende moment dat hun echte namen, geanonimiseerd, worden weergegeven. De Nederlandse verdachten zijn inmiddels aangehouden. De informatie over de overige verdachten die geïdentificeerd zijn, is in samenwerking met Europol gedeeld met verschillende landen. Zodat deze verdachten ook strafrechtelijk vervolgd kunnen worden. De accountmanagers zijn via brief of e-mail op de hoogte gebracht van deze website. Op de website is ook de mogelijkheid voor verdachten en getuigen om informatie te delen met het onderzoeksteam. Online recruitment voor fraude In het onderzoek kwam naar voren dat er online groepen zijn, waarin doelbewust wordt gezocht naar personen die bereid zijn om geld te verdienen met het oplichten van slachtoffers. In deze groepen heeft de politie waarschuwingsberichten geplaatst. Dit om potentiële daders af te schrikken en te laten zien dat wij online fraude, waaronder beleggingsfraude, onderzoeken en verdachten opsporen. Onderzoek naar internationale beleggingsfraude De politie heeft in mei en juli een enorme klap uitgedeeld in de strijd tegen beleggingsfraude. Op weg van Dubai naar Polen is een man aangehouden die ervan wordt verdacht een grote en onmisbare rol te hebben vervuld in een internationale criminele organisatie met ruim 700 medewerkers. Zij maakten op professionele en gewetenloze wijze dagelijks honderden slachtoffers. De schatting is dat deze organisatie ruim 100 miljoen euro per maand buitmaakte in verschillende landen. Lees hier het bericht over het onderzoek: https://www.politie.nl/nieuws/2026/juli/15/02-criminele-organisatie-met-700-medewerkers-verdachten-beleggingsfraude-gearresteerd.html .",
+    "locations": [
+      "Polen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Polen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6809353327149118,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
