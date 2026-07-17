@@ -67018,5 +67018,116 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "06d973f14f7cc403a69e40e6bc3fe121": {
+    "feed": "L1 Nieuws",
+    "title": "Hoe vaak is er tot nu toe ingebroken in jouw gemeente? Check het hier",
+    "url": "https://www.l1nieuws.nl/nieuws/3208457/hoe-vaak-is-er-tot-nu-toe-ingebroken-in-jouw-gemeente-check-het-hier",
+    "published": "Thu, 16 Jul 2026 05:05:16 GMT",
+    "summary": "Het aantal inbraken in de eerste helft van dit jaar lag in onze provincie ongeveer 15 procent lager dan in de eerste zes maanden van vorig jaar. Landelijk was er juist sprake van een stijging.",
+    "full_text": "In Limburg telde de politie van januari tot en met juni in totaal 522 inbraken. Vorig jaar waren er dat nog 601 in dezelfde periode. Die daling is niet gelijk verdeeld over de provincie: in 13 Limburgse gemeenten is er juist sprake van een toename. In vergelijking met het aantal inwoners daalde het aantal inbraken van 53 per 100.000 Limburgers vorig jaar, naar 46 per 100.000 dit jaar.",
+    "scraped_at": "2026-07-17T05:47:23.044254Z",
+    "id": "920ac4f62de1c83afc86f3df0cb1868fa14ba395b8d9491f2d219f33ce38edfd",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3208457/hoe-vaak-is-er-tot-nu-toe-ingebroken-in-jouw-gemeente-check-het-hier",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In Limburg telde de politie van januari tot en met juni in totaal 522 inbraken. Vorig jaar waren er dat nog 601 in dezelfde periode. Die daling is niet gelijk verdeeld over de provincie: in 13 Limburgse gemeenten is er juist sprake van een toename. In vergelijking met het aantal inwoners daalde het aantal inbraken van 53 per 100.000 Limburgers vorig jaar, naar 46 per 100.000 dit jaar.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "3db3b873e1d8a913cf87f4bc63a18647": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Cryptoplatform Knaken failliet, 7 miljoen euro van klanten is zoek",
+    "url": "https://nos.nl/l/2623199",
+    "published": "Thu, 16 Jul 2026 12:44:33 +0200",
+    "summary": "<p>Het cryptoplatform Knaken, bekend als voormalig sponsor van Ajax en Feyenoord, is failliet. De rechtbank in Rotterdam heeft het bedrijf op verzoek van het Openbaar Ministerie (OM) failliet verklaard. Volgens justitie is 7 miljoen euro van klanten van Knaken verdwenen.</p>\n        <p>Ruim een maand geleden gingen de app en website van Knaken opeens op zwart. Het OM vroeg het faillissement aan, omdat klanten hun geld niet terugkregen. Het OM is ook een strafrechtelijk onderzoek gestart vanwege mogelijke misstanden bij het bedrijf.</p>\n        <p>Het OM schat dat er ongeveer 30.000 klanten zijn. De rechtbank deelt de zorgen van justitie omdat er niet meer kan worden ingelogd bij Knaken. \"De klanten kunnen niet meer bij hun accounts en tegoeden. Bovendien worden de klanten via de website van Knaken ontmoedigd actie te ondernemen\", zo concludeert de rechter in <a href=\"https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-rotterdam/nieuws/2026/07/knaken-cryptohandel-b.v.-failliet-verklaard\">de uitspraak</a>.</p>\n        <p>Volgens de rechtbank staat vast dat Knaken \"te weinig vermogen heeft om de klanten volledig te betalen\".</p>\n        <h2>Vergunning</h2>\n        <p>Bij het in 2017 opgerichte Knaken konden consumenten geld omzetten in cryptomunten en daarin handelen. Het bedrijf werd in 2021 als 'cryptopartner' sponsor bij enkele eredivisieclubs, waaronder Ajax en Feyenoord.</p>\n        <p>Begin dit jaar kwam Knaken in de problemen doordat cryptobedrijven door nieuwe Europese regels een vergunning nodig hadden. Knaken bleek één van de jonge cryptobedrijven te zijn die niet zomaar aan alle nieuwe eisen konden voldoen.</p>\n        <p>Ondertussen had Knaken het al enkele jaren financieel lastig, blijkt uit het laatste openbare jaarverslag over 2024. Om het bedrijf overeind te houden noemde de accountant de cryptovergunning \"cruciaal\".</p>\n        <h2>Stichting</h2>\n        <p>Het geld van klanten zou bij een aparte stichting moeten staan, die Knaken verplicht was op te richten om te voorkomen dat klanten bij een faillissement hun geld kwijt zouden zijn. Deze Stichting Knaken Payments is niet begonnen met uitkeren, volgens Knaken omdat dit \"juridisch, organisatorisch en operationeel zorgvuldig\" zou moeten worden voorbereid\". \"Dit kost tijd\", schreef Knaken op de eigen website.</p>\n        <p>Twee weken geleden stapte het Openbaar Ministerie naar de rechter om Knaken en de Stichting Knaken Payments <a href=\"https://nos.nl/artikel/2620942-om-vraagt-faillissement-cryptoplatform-knaken-aan-klanten-in-onzekerheid\">failliet te laten verklaren</a>. Omdat er geen geld werd uitgekeerd waren bij justitie de alarmbellen afgegaan. Met een faillissement zou een curator volgens het OM moeten voorkomen dat er geld zou verdwijnen.</p>\n        <p>Nadat een niet door justitie bij naam genoemde toezichthouder aangifte had gedaan, deed de opsporingsdienst FIOD eind juni ook al een inval bij het bedrijf. Hierbij werden computers en telefoons in beslag genomen en werd beslag gelegd op een deel van het vermogen van Knaken.</p>",
+    "full_text": "NOS Nieuws • gisteren, 12:44 Het cryptoplatform Knaken, bekend als voormalig sponsor van Ajax en Feyenoord, is failliet. De rechtbank in Rotterdam heeft het bedrijf op verzoek van het Openbaar Ministerie (OM) failliet verklaard. Volgens justitie is 7 miljoen euro van klanten van Knaken verdwenen. Ruim een maand geleden gingen de app en website van Knaken opeens op zwart. Het OM vroeg het faillissement aan, omdat klanten hun geld niet terugkregen. Het OM is ook een strafrechtelijk onderzoek gestart vanwege mogelijke misstanden bij het bedrijf. Het OM schat dat er ongeveer 30.000 klanten zijn. De rechtbank deelt de zorgen van justitie omdat er niet meer kan worden ingelogd bij Knaken. \"De klanten kunnen niet meer bij hun accounts en tegoeden. Bovendien worden de klanten via de website van Knaken ontmoedigd actie te ondernemen\", zo concludeert de rechter in de uitspraak (opent in nieuw venster) . Volgens de rechtbank staat vast dat Knaken \"te weinig vermogen heeft om de klanten volledig te betalen\". Vergunning Bij het in 2017 opgerichte Knaken konden consumenten geld omzetten in cryptomunten en daarin handelen. Het bedrijf werd in 2021 als 'cryptopartner' sponsor bij enkele eredivisieclubs, waaronder Ajax en Feyenoord. Begin dit jaar kwam Knaken in de problemen doordat cryptobedrijven door nieuwe Europese regels een vergunning nodig hadden. Knaken bleek één van de jonge cryptobedrijven te zijn die niet zomaar aan alle nieuwe eisen konden voldoen. Ondertussen had Knaken het al enkele jaren financieel lastig, blijkt uit het laatste openbare jaarverslag over 2024. Om het bedrijf overeind te houden noemde de accountant de cryptovergunning \"cruciaal\". Stichting Het geld van klanten zou bij een aparte stichting moeten staan, die Knaken verplicht was op te richten om te voorkomen dat klanten bij een faillissement hun geld kwijt zouden zijn. Deze Stichting Knaken Payments is niet begonnen met uitkeren, volgens Knaken omdat dit \"juridisch, organisatorisch en operationeel zorgvuldig\" zou moeten worden voorbereid\". \"Dit kost tijd\", schreef Knaken op de eigen website. Twee weken geleden stapte het Openbaar Ministerie naar de rechter om Knaken en de Stichting Knaken Payments failliet te laten verklaren . Omdat er geen geld werd uitgekeerd waren bij justitie de alarmbellen afgegaan. Met een faillissement zou een curator volgens het OM moeten voorkomen dat er geld zou verdwijnen. Nadat een niet door justitie bij naam genoemde toezichthouder aangifte had gedaan, deed de opsporingsdienst FIOD eind juni ook al een inval bij het bedrijf. Hierbij werden computers en telefoons in beslag genomen en werd beslag gelegd op een deel van het vermogen van Knaken.",
+    "scraped_at": "2026-07-17T05:46:14.900935Z",
+    "id": "f8d582f4b6d93e0c311d0919ea553f4a31d5c15eb10830cca8f4c562f7fa13fe",
+    "canonical_url": "https://nos.nl/l/2623199",
+    "published_ts": "2026-07-16T10:44:33Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 12:44 Het cryptoplatform Knaken, bekend als voormalig sponsor van Ajax en Feyenoord, is failliet. De rechtbank in Rotterdam heeft het bedrijf op verzoek van het Openbaar Ministerie (OM) failliet verklaard. Volgens justitie is 7 miljoen euro van klanten van Knaken verdwenen. Ruim een maand geleden gingen de app en website van Knaken opeens op zwart. Het OM vroeg het faillissement aan, omdat klanten hun geld niet terugkregen. Het OM is ook een strafrechtelijk onderzoek gestart vanwege mogelijke misstanden bij het bedrijf. Het OM schat dat er ongeveer 30.000 klanten zijn. De rechtbank deelt de zorgen van justitie omdat er niet meer kan worden ingelogd bij Knaken. \"De klanten kunnen niet meer bij hun accounts en tegoeden. Bovendien worden de klanten via de website van Knaken ontmoedigd actie te ondernemen\", zo concludeert de rechter in de uitspraak (opent in nieuw venster) . Volgens de rechtbank staat vast dat Knaken \"te weinig vermogen heeft om de klanten volledig te betalen\". Vergunning Bij het in 2017 opgerichte Knaken konden consumenten geld omzetten in cryptomunten en daarin handelen. Het bedrijf werd in 2021 als 'cryptopartner' sponsor bij enkele eredivisieclubs, waaronder Ajax en Feyenoord. Begin dit jaar kwam Knaken in de problemen doordat cryptobedrijven door nieuwe Europese regels een vergunning nodig hadden. Knaken bleek één van de jonge cryptobedrijven te zijn die niet zomaar aan alle nieuwe eisen konden voldoen. Ondertussen had Knaken het al enkele jaren financieel lastig, blijkt uit het laatste openbare jaarverslag over 2024. Om het bedrijf overeind te houden noemde de accountant de cryptovergunning \"cruciaal\". Stichting Het geld van klanten zou bij een aparte stichting moeten staan, die Knaken verplicht was op te richten om te voorkomen dat klanten bij een faillissement hun geld kwijt zouden zijn. Deze Stichting Knaken Payments is niet begonnen met uitkeren, volgens Knaken omdat dit \"juridisch, organisatorisch en operationeel zorgvuldig\" zou moeten worden voorbereid\". \"Dit kost tijd\", schreef Knaken op de eigen website. Twee weken geleden stapte het Openbaar Ministerie naar de rechter om Knaken en de Stichting Knaken Payments failliet te laten verklaren . Omdat er geen geld werd uitgekeerd waren bij justitie de alarmbellen afgegaan. Met een faillissement zou een curator volgens het OM moeten voorkomen dat er geld zou verdwijnen. Nadat een niet door justitie bij naam genoemde toezichthouder aangifte had gedaan, deed de opsporingsdienst FIOD eind juni ook al een inval bij het bedrijf. Hierbij werden computers en telefoons in beslag genomen en werd beslag gelegd op een deel van het vermogen van Knaken.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Feyenoord",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Feyenoord",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Payments",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Payments",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
