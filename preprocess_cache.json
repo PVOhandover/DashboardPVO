@@ -67129,5 +67129,111 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "ab1348c36d12e8f8f4d656c41cae4a68": {
+    "feed": "L1 Nieuws",
+    "title": "Dit jaar al kwart meer meldingen van onbegrepen gedrag in Limburg",
+    "url": "https://www.l1nieuws.nl/nieuws/3209087/dit-jaar-al-kwart-meer-meldingen-van-onbegrepen-gedrag-in-limburg",
+    "published": "Fri, 17 Jul 2026 06:29:05 GMT",
+    "summary": "Het aantal incidenten met verward gedrag in Limburg ligt dit jaar fors hoger dan in 2025. De politie kreeg in de eerste zes maanden dit jaar 4776 meldingen, tegen 3750 in 2025.",
+    "full_text": "In Beek, Valkenburg en Landgraaf is het aantal meldingen zelfs meer dan verdubbeld. Heerlen telde met 624 gevallen veruit de meeste incidenten. In Simpelveld hoefde de politie maar 17 keer in actie te komen omdat 'een persoon onbegrepen gedrag vertoonde' , zoals de politie dit soort incidenten tegenwoordig omschrijft.",
+    "scraped_at": "2026-07-18T05:33:04.432990Z",
+    "id": "00a1c8af27a9556b1361c0eb0d21b2f263c3d245df71ffc976a0d49c59e40291",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3209087/dit-jaar-al-kwart-meer-meldingen-van-onbegrepen-gedrag-in-limburg",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In Beek, Valkenburg en Landgraaf is het aantal meldingen zelfs meer dan verdubbeld. Heerlen telde met 624 gevallen veruit de meeste incidenten. In Simpelveld hoefde de politie maar 17 keer in actie te komen omdat 'een persoon onbegrepen gedrag vertoonde' , zoals de politie dit soort incidenten tegenwoordig omschrijft.",
+    "locations": [
+      "Valkenburg",
+      "Landgraaf",
+      "Simpelveld"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Valkenburg",
+        "NL"
+      ],
+      [
+        "Landgraaf",
+        "NL"
+      ],
+      [
+        "Simpelveld",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "5e06df81743b9b2ce7a6c0c7b14e0ea8": {
+    "feed": "Politie.nl",
+    "title": "Aanhoudingen leggen crimineel witwasnetwerk bloot",
+    "url": "https://www.politie.nl/nieuws/2026/juli/16/11-aanhoudingen-leggen-crimineel-witwasnetwerk-bloot.html",
+    "published": "Fri, 17 Jul 2026 11:00:00 GMT",
+    "summary": "Aanhoudingen en doorzoekingen in een onderzoek naar een criminele organisatie, hebben een witwas- en drugsnetwerk blootgelegd. De Eenheid Landelijke Opsporing en Interventies (LO) heeft deze week, onder gezag van het Landelijk Parket, opnieuw twee aanhoudingen verricht en panden doorzocht op zes locaties. De politie kwam de verdachten op het spoor na doorzoekingen eerder dit jaar bij een Surinaamse toko in Rotterdam.",
+    "full_text": "De aanhoudingen betreffen een 55-jarige man uit Den Haag en een 51-jarige man uit Rotterdam. Beiden worden, naast witwassen, inmiddels ook verdacht van invoer, doorvoer en voorhanden hebben van verdovende middelen, valsheid in geschrifte en deelname aan een criminele organisatie. Voor het uitvoeren van het witwassen, maakten verdachten gebruik van een specifieke vorm van ondergronds bankieren: het zogenaamde Cash Compensatiemodel. Daarbij wordt contant crimineel geld via het opmaken en gebruiken van valse facturen giraal gemaakt en daarmee witgewassen. De verdachten kwamen op de radar van de politie door een eerdere doorzoeking. In dat onderzoek werden onder andere telefoons en laptops in beslaggenomen. De informatie die de politie daarop vond, gaf reden voor nader onderzoek. Het gevolg: nieuwe verdachten, meer doorzoekingen én meer bewijs. Er is beslag gelegd op een woning en een bedrijfspand, en op bankrekeningen van verschillende ondernemingen. De twee verdachten zitten in beperking en worden op 17 juli 2026 voorgeleid aan de rechter-commissaris. Witwassen houdt criminaliteit draaiend Jaarlijks wordt in Nederland voor miljarden euro's aan crimineel geld witgewassen via ondergronds bankieren. De aanpak van ondergronds bankieren heeft prioriteit bij de LO en het Openbaar Ministerie, want het is een belangrijk middel in de bestrijding van ernstige en georganiseerde criminaliteit. Doordat crimineel geld en criminele invloed doordringen in de legale economie en samenleving, worden de gevolgen van witwassen en ondermijning steeds duidelijker. De Taskforce Underground Banking, een samenwerkingsverband tussen Politie en OM, blijft zich inzetten tegen dit fenomeen. Van contant naar giraal geld Het Cash Compensatie Model betreft het ruilen van contant geld uit misdrijven, voor giraal geld van ogenschijnlijk legitieme bedrijven, vaak in sectoren waar veel met contant geld wordt gewerkt. Dat gebeurt via fictieve zakelijke transacties. Zo ontstaat een girale geldstroom die een legale herkomst lijkt te hebben, terwijl het geld in werkelijkheid afkomstig is uit criminele activiteiten. Bij deze witwasmethode worden vaak bedrijven ingezet uit arbeidsintensieve sectoren, zoals de bouw, schoonmaak, transport of beveiliging. In deze branches is het gebruikelijk dat bedrijven elkaar facturen sturen voor personeel of werkzaamheden. Criminelen maken daar misbruik van door valse facturen op te stellen en meerdere bedrijven als schakels in de geldstroom op te nemen. Elke nieuwe schakel maakt het lastiger om de herkomst van het geld te achterhalen.",
+    "scraped_at": "2026-07-18T05:32:55.067313Z",
+    "id": "c1cd934a37d4b1f4adefa141b0a30333d4de5f96f56d22695ab4e15d8dc53a8b",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/16/11-aanhoudingen-leggen-crimineel-witwasnetwerk-bloot.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De aanhoudingen betreffen een 55-jarige man uit Den Haag en een 51-jarige man uit Rotterdam. Beiden worden, naast witwassen, inmiddels ook verdacht van invoer, doorvoer en voorhanden hebben van verdovende middelen, valsheid in geschrifte en deelname aan een criminele organisatie. Voor het uitvoeren van het witwassen, maakten verdachten gebruik van een specifieke vorm van ondergronds bankieren: het zogenaamde Cash Compensatiemodel. Daarbij wordt contant crimineel geld via het opmaken en gebruiken van valse facturen giraal gemaakt en daarmee witgewassen. De verdachten kwamen op de radar van de politie door een eerdere doorzoeking. In dat onderzoek werden onder andere telefoons en laptops in beslaggenomen. De informatie die de politie daarop vond, gaf reden voor nader onderzoek. Het gevolg: nieuwe verdachten, meer doorzoekingen én meer bewijs. Er is beslag gelegd op een woning en een bedrijfspand, en op bankrekeningen van verschillende ondernemingen. De twee verdachten zitten in beperking en worden op 17 juli 2026 voorgeleid aan de rechter-commissaris. Witwassen houdt criminaliteit draaiend Jaarlijks wordt in Nederland voor miljarden euro's aan crimineel geld witgewassen via ondergronds bankieren. De aanpak van ondergronds bankieren heeft prioriteit bij de LO en het Openbaar Ministerie, want het is een belangrijk middel in de bestrijding van ernstige en georganiseerde criminaliteit. Doordat crimineel geld en criminele invloed doordringen in de legale economie en samenleving, worden de gevolgen van witwassen en ondermijning steeds duidelijker. De Taskforce Underground Banking, een samenwerkingsverband tussen Politie en OM, blijft zich inzetten tegen dit fenomeen. Van contant naar giraal geld Het Cash Compensatie Model betreft het ruilen van contant geld uit misdrijven, voor giraal geld van ogenschijnlijk legitieme bedrijven, vaak in sectoren waar veel met contant geld wordt gewerkt. Dat gebeurt via fictieve zakelijke transacties. Zo ontstaat een girale geldstroom die een legale herkomst lijkt te hebben, terwijl het geld in werkelijkheid afkomstig is uit criminele activiteiten. Bij deze witwasmethode worden vaak bedrijven ingezet uit arbeidsintensieve sectoren, zoals de bouw, schoonmaak, transport of beveiliging. In deze branches is het gebruikelijk dat bedrijven elkaar facturen sturen voor personeel of werkzaamheden. Criminelen maken daar misbruik van door valse facturen op te stellen en meerdere bedrijven als schakels in de geldstroom op te nemen. Elke nieuwe schakel maakt het lastiger om de herkomst van het geld te achterhalen.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6809353327149118,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Taskforce Underground Banking",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Cash Compensatie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
   }
 }
