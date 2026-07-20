@@ -67235,5 +67235,88 @@
       "not_affected",
       "00"
     ]
+  },
+  "e3155631576216cfa7cd8120fd7febfd": {
+    "feed": "L1 Nieuws",
+    "title": "‘Autovoeler’ aangehouden na meldingen van verdachte situaties",
+    "url": "https://www.l1nieuws.nl/nieuws/3209891/autovoeler-aangehouden-na-meldingen-van-verdachte-situaties",
+    "published": "Sun, 19 Jul 2026 11:40:24 GMT",
+    "summary": "De politie heeft in de nacht van zaterdag op zondag een man aangehouden in Bunde. Meerdere mensen hadden melding gemaakt van een verdachte persoon die aan auto's voelde.",
+    "full_text": "De politie heeft in de nacht van zaterdag op zondag een man aangehouden in Bunde. Meerdere mensen hadden melding gemaakt van een verdachte persoon die aan auto's voelde.",
+    "scraped_at": "2026-07-20T06:23:23.644951Z",
+    "id": "4bc7f17d24f0cac4a365750065857084dd4f4c25ec7f42819a686560b281e8ab",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3209891/autovoeler-aangehouden-na-meldingen-van-verdachte-situaties",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft in de nacht van zaterdag op zondag een man aangehouden in Bunde. Meerdere mensen hadden melding gemaakt van een verdachte persoon die aan auto's voelde.",
+    "locations": [
+      "Bunde"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Bunde",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "6d93324ff117d0f493deb3b91cbc45f4": {
+    "feed": "Politie.nl",
+    "title": "Spookrijder veroorzaakt ongeval op A1",
+    "url": "https://www.politie.nl/nieuws/2026/juli/19/03-spookrijder-veroorzaakt-botsing-a1.html",
+    "published": "Sun, 19 Jul 2026 09:49:00 GMT",
+    "summary": "Een 33-jarige automobilist uit Amsterdam veroorzaakte zondag 19 juli een ongeval op de A1 in Naarden. De man reed al spookrijdend op de A1 in de richting van Amsterdam en ter hoogte van Naarden botste hij op een ander voertuig.",
+    "full_text": "Een 33-jarige automobilist uit Amsterdam veroorzaakte zondag 19 juli een ongeval op de A1 in Naarden. De man reed al spookrijdend op de A1 in de richting van Amsterdam en ter hoogte van Naarden botste hij op een ander voertuig (taxi met enkele inzittenden). Politieagenten die ter plaatse kwamen, constateerden dat de Amsterdammer onder invloed van alcohol verkeerde. Hij werd aangehouden en moest aan het bureau een ademtest ondergaan. Met een uitslag van 640 ug/l raakte de man ook zijn rijbewijs kwijt. Zijn auto werd in beslaggenomen. Bij het ongeval raakte niemand gewond.",
+    "scraped_at": "2026-07-20T06:23:17.069758Z",
+    "id": "2e06151a53b281274b4c35f6c66801819bceb6d810af9a154d049d0e6b37a33c",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/19/03-spookrijder-veroorzaakt-botsing-a1.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een 33-jarige automobilist uit Amsterdam veroorzaakte zondag 19 juli een ongeval op de A1 in Naarden. De man reed al spookrijdend op de A1 in de richting van Amsterdam en ter hoogte van Naarden botste hij op een ander voertuig (taxi met enkele inzittenden). Politieagenten die ter plaatse kwamen, constateerden dat de Amsterdammer onder invloed van alcohol verkeerde. Hij werd aangehouden en moest aan het bureau een ademtest ondergaan. Met een uitslag van 640 ug/l raakte de man ook zijn rijbewijs kwijt. Zijn auto werd in beslaggenomen. Bij het ongeval raakte niemand gewond.",
+    "locations": [
+      "Amsterdam",
+      "Naarden",
+      "Amsterdam",
+      "Naarden"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Naarden",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Naarden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
   }
 }
