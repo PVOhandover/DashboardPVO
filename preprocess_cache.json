@@ -67318,5 +67318,40 @@
     "all_sectors_in_article": [
       "49-53"
     ]
+  },
+  "9faf669cd42f152e2e382de0750f622b": {
+    "feed": "Politie.nl",
+    "title": "Dodelijk ongeval op Westkanaaldijk",
+    "url": "https://www.politie.nl/nieuws/2026/juli/20/03-dodelijk-ongeval-op-westkanaaldijk.html",
+    "published": "Mon, 20 Jul 2026 08:49:00 GMT",
+    "summary": "Bij een ongeval op de Westkanaaldijk in Maarssen zijn zondagavond 19 juli twee personen om het leven gekomen. De politie is een onderzoek gestart en is daarbij op zoek naar getuigen en of dashcambeelden.",
+    "full_text": "Omstreeks 22.45 uur kreeg het Operationeel Centrum (OC) diverse meldingen van een ernstig ongeval op de Westkanaaldijk in Maarssen. Toen de eerstehulpdiensten ter plaatse waren, troffen zij een personenauto met twee inzittenden tegen een boom aan. Beide personen, een vrouw van 18 en een vrouw van 17 afkomstig uit Maarssen bleken te zijn overleden. De politie is een onderzoek gestart en is daarbij op zoek naar getuigen en of dashcambeelden.",
+    "scraped_at": "2026-07-21T05:56:59.469361Z",
+    "id": "ecf62d051668f2fb19c38a9f1b5b34f60efcf064243cb3a20d81a721261aa259",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/20/03-dodelijk-ongeval-op-westkanaaldijk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 22.45 uur kreeg het Operationeel Centrum (OC) diverse meldingen van een ernstig ongeval op de Westkanaaldijk in Maarssen. Toen de eerstehulpdiensten ter plaatse waren, troffen zij een personenauto met twee inzittenden tegen een boom aan. Beide personen, een vrouw van 18 en een vrouw van 17 afkomstig uit Maarssen bleken te zijn overleden. De politie is een onderzoek gestart en is daarbij op zoek naar getuigen en of dashcambeelden.",
+    "locations": [
+      "Maarssen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maarssen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "47.11",
+      "sector_name": "Retail sale in non-specialised stores with food predominance"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "47.11"
+    ]
   }
 }
