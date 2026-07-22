@@ -67353,5 +67353,252 @@
     "all_sectors_in_article": [
       "47.11"
     ]
+  },
+  "44e9b6730f0e67451e6a61da790a77f9": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws: Politieauto en fietser botsen op Griffeweg in Stad",
+    "url": "https://www.rtvnoord.nl/112/1423056/112-nieuws-politieauto-en-fietser-botsen-op-griffeweg-in-stad",
+    "published": "Wed, 22 Jul 2026 05:19:21 GMT",
+    "summary": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Een politieauto en een fietser zijn afgelopen nacht op elkaar gebotst op de Griffeweg in Groningen. Het ongeluk gebeurde iets na 01.00 uur. Over de toestand van de fietser is niets bekend. Volgens een fotograaf ter plaatse was het slachtoffer wel aanspreekbaar. De politieauto is beschadigd. De politie heeft onderzoek gedaan op de plaats van het ongeval. Daardoor was de Griffeweg enige tijd afgesloten.",
+    "scraped_at": "2026-07-22T05:57:24.668491Z",
+    "id": "48e37f4da0b4efe7b4a27eff060989a44d565c409d2974de295a9af294b818e4",
+    "canonical_url": "https://www.rtvnoord.nl/112/1423056/112-nieuws-politieauto-en-fietser-botsen-op-griffeweg-in-stad",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een politieauto en een fietser zijn afgelopen nacht op elkaar gebotst op de Griffeweg in Groningen. Het ongeluk gebeurde iets na 01.00 uur. Over de toestand van de fietser is niets bekend. Volgens een fotograaf ter plaatse was het slachtoffer wel aanspreekbaar. De politieauto is beschadigd. De politie heeft onderzoek gedaan op de plaats van het ongeval. Daardoor was de Griffeweg enige tijd afgesloten.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "9ae2f04bd584329699a6c02f7103a249": {
+    "feed": "RTV Noord",
+    "title": "Stadjer met zeven kindersekspoppen krijgt mogelijk 2,5 jaar celstraf",
+    "url": "https://www.rtvnoord.nl/misdaad/1422907/stadjer-met-zeven-kindersekspoppen-krijgt-mogelijk-2-5-jaar-celstraf",
+    "published": "Tue, 21 Jul 2026 14:00:51 GMT",
+    "summary": "‘Gewoon bizar’, zei de officier van justitie over de aanhouding van een 45-jarige man uit Groningen in maart. De Stadjer zat in een lokaal café openlijk kinderporno te bekijken en te downloaden. In zijn woning trof de politie vervolgens zeven kindersekspoppen aan. Tegen de verdachte is 2,5 jaar gevangenisstraf geëist, waarvan één jaar voorwaardelijk.",
+    "full_text": "‘Gewoon bizar’, zei de officier van justitie over de aanhouding van een 45-jarige man uit Groningen in maart. De Stadjer zat in een lokaal café openlijk kinderporno te bekijken en te downloaden. In zijn woning trof de politie vervolgens zeven kindersekspoppen aan. Tegen de verdachte is 2,5 jaar gevangenisstraf geëist, waarvan één jaar voorwaardelijk.",
+    "scraped_at": "2026-07-22T05:57:33.199984Z",
+    "id": "ee1767715426bd444a9d58fdb3e670c67f68c4cbf4dd0b54dcc11c67295c3bea",
+    "canonical_url": "https://www.rtvnoord.nl/misdaad/1422907/stadjer-met-zeven-kindersekspoppen-krijgt-mogelijk-2-5-jaar-celstraf",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "‘Gewoon bizar’, zei de officier van justitie over de aanhouding van een 45-jarige man uit Groningen in maart. De Stadjer zat in een lokaal café openlijk kinderporno te bekijken en te downloaden. In zijn woning trof de politie vervolgens zeven kindersekspoppen aan. Tegen de verdachte is 2,5 jaar gevangenisstraf geëist, waarvan één jaar voorwaardelijk.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Stadjer",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "5ded0bb1cfcd3babc7b899cd498c83fa": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden na overval pizzeria Mr. P.J. Troelstralaan",
+    "url": "https://www.politie.nl/nieuws/2026/juli/21/01-verdachte-aangehouden-na-overval-pizzeria-mr.-p.j.-troelstralaan.html",
+    "published": "Tue, 21 Jul 2026 16:48:00 GMT",
+    "summary": "De politie heeft een verdachte aangehouden voor betrokkenheid bij een overval op een pizzeria aan de Mr. P.J. Troelstralaan op maandag 20 juli rond 22:20 uur. De politie is nog op zoek naar een tweede verdachte. Heb je informatie? Meld dit dan bij de politie.",
+    "full_text": "Twee onbekende mannen bedreigden het winkelpersoneel en gingen er met een buit vandoor. Dit gebeurde op maandag 20 juli rond 22:20 uur bij een pizzeria aan de Mr. P.J. Troelstralaan in Assen. We zijn gelijk een onderzoek gestart. Dit heeft geleid tot de aanhouding van een 44-jarige man uit Assen op dinsdag 21 juli. De man zit vast en wordt verhoord. We zijn nog op zoek naar de tweede verdachte. Was je getuige van de overval? Heb je andere informatie en nog niet met de politie gesproken? Meld dit dan bij de politie! Dit kan via 0800-6070 (Opsporingstiplijn) of anoniem via meldmisdaadanoniem.nl of via 0800-7000.",
+    "scraped_at": "2026-07-22T05:56:20.109101Z",
+    "id": "c2e104862de4061cdf27abe60dba9883cc5fddbbf097f2f91a8ce70bf12bd25f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/21/01-verdachte-aangehouden-na-overval-pizzeria-mr.-p.j.-troelstralaan.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Twee onbekende mannen bedreigden het winkelpersoneel en gingen er met een buit vandoor. Dit gebeurde op maandag 20 juli rond 22:20 uur bij een pizzeria aan de Mr. P.J. Troelstralaan in Assen. We zijn gelijk een onderzoek gestart. Dit heeft geleid tot de aanhouding van een 44-jarige man uit Assen op dinsdag 21 juli. De man zit vast en wordt verhoord. We zijn nog op zoek naar de tweede verdachte. Was je getuige van de overval? Heb je andere informatie en nog niet met de politie gesproken? Meld dit dan bij de politie! Dit kan via 0800-6070 (Opsporingstiplijn) of anoniem via meldmisdaadanoniem.nl of via 0800-7000.",
+    "locations": [
+      "Assen",
+      "Assen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Assen",
+        "DE"
+      ],
+      [
+        "Assen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "56.10",
+      "sector_name": "Restaurants and mobile food service activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.10"
+    ]
+  },
+  "d7655f5685807feb78c6e9314b252753": {
+    "feed": "Politie.nl",
+    "title": "Doorzoekingen in onderzoek naar website ‘Motherless’",
+    "url": "https://www.politie.nl/nieuws/2026/juli/21/08-doorzoekingen-in-onderzoek-naar-website-motherless.html",
+    "published": "Tue, 21 Jul 2026 15:15:00 GMT",
+    "summary": "In een groot cyberonderzoek onder leiding van het Openbaar Ministerie Zeeland-West-Brabant heeft Team Cybercrime van de politie Zeeland-West-Brabant  op 21 juli servers van Motherless in beslag genomen.",
+    "full_text": "Dit gebeurde bij invallen bij een hostingbedrijf in Steenbergen, Rotterdam en in Amsterdam. Er zijn servers in beslag genomen welke in eigendom zijn van of gebruikt worden door Motherless. Op die website kunnen gebruikers onder meer beeldmateriaal plaatsen of downloaden waarop reguliere porno maar ook mogelijk seksuele misdrijven te zien zijn, waaronder kinderpornografische afbeeldingen en beeldmateriaal waarbij vrouwen, die vermoedelijk eerst gedrogeerd zijn, ernstig seksueel misbruikt worden. De aanwijzingen hiervoor zijn verkregen vanuit verscheidene landen, waaronder ook Nederland. De data op de inbeslaggenomen servers wordt in verschillende fases de komende tijd uitgebreid onderzocht op de verdenking van deze ernstige seksuele misdrijven. Dit zal mede gebeuren door specialisten van Europol. Europol is een samenwerkingsverband tussen verschillende Europese politiediensten. Met Europol en in een latere fase andere Europese politiediensten zal onderzoek worden verricht naar de makers of plegers van het vermoedelijk strafbaar beeldmateriaal. Ook zal verder onderzoek gedaan worden naar de rol van Motherless. Er zijn tijdens de inval geen aanhoudingen verricht. In het kader van het lopende, internationale, onderzoek kunnen op dit moment verder geen mededelingen worden gedaan. Bij het slachtoffer worden van drogeerporno (seksueel misbruik in bewusteloze toestand en de verspreiding daarvan) kun je direct en vertrouwelijk hulp inschakelen bij verschillende gespecialiseerde instanties in Nederland: · Direct medische en acute hulp: Bel bij acute situaties direct 112. Is het incident korter dan zeven dagen geleden gebeurd, neem dan direct contact op met het Centrum Seksueel Geweld via 0800-0188 voor medische opvang, sporenonderzoek en psychologische steun. [ 1 , 2 ] · Juridische en emotionele steun: Neem contact op met Slachtofferhulp Nederland via 0900-0101 voor emotionele begeleiding en advies tijdens het strafproces. [ 1 , 2 ] · Online verspreiding tegengaan: Heb je hulp nodig bij het offline halen van de beelden? Gebruik de Meldknop.nl om de juiste stappen te zetten, of chat met de hulplijn van Offlimits (voorheen Helpwanted). [ 1 , 2 , 3 ] · Aangifte doen: Meld het misbruik of de chantage bij de politie via 0900-8844. Hier kun je specifiek aangifte doen van de verspreiding van intiem beeldmateriaal zonder toestemming. [ 1 , 2 , 3 ]",
+    "scraped_at": "2026-07-22T05:56:20.111213Z",
+    "id": "f580934cefbce9d1e1f1af95403d8b7ece03a2048a467378f9794f13c4d5dd06",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/21/08-doorzoekingen-in-onderzoek-naar-website-motherless.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dit gebeurde bij invallen bij een hostingbedrijf in Steenbergen, Rotterdam en in Amsterdam. Er zijn servers in beslag genomen welke in eigendom zijn van of gebruikt worden door Motherless. Op die website kunnen gebruikers onder meer beeldmateriaal plaatsen of downloaden waarop reguliere porno maar ook mogelijk seksuele misdrijven te zien zijn, waaronder kinderpornografische afbeeldingen en beeldmateriaal waarbij vrouwen, die vermoedelijk eerst gedrogeerd zijn, ernstig seksueel misbruikt worden. De aanwijzingen hiervoor zijn verkregen vanuit verscheidene landen, waaronder ook Nederland. De data op de inbeslaggenomen servers wordt in verschillende fases de komende tijd uitgebreid onderzocht op de verdenking van deze ernstige seksuele misdrijven. Dit zal mede gebeuren door specialisten van Europol. Europol is een samenwerkingsverband tussen verschillende Europese politiediensten. Met Europol en in een latere fase andere Europese politiediensten zal onderzoek worden verricht naar de makers of plegers van het vermoedelijk strafbaar beeldmateriaal. Ook zal verder onderzoek gedaan worden naar de rol van Motherless. Er zijn tijdens de inval geen aanhoudingen verricht. In het kader van het lopende, internationale, onderzoek kunnen op dit moment verder geen mededelingen worden gedaan. Bij het slachtoffer worden van drogeerporno (seksueel misbruik in bewusteloze toestand en de verspreiding daarvan) kun je direct en vertrouwelijk hulp inschakelen bij verschillende gespecialiseerde instanties in Nederland: · Direct medische en acute hulp: Bel bij acute situaties direct 112. Is het incident korter dan zeven dagen geleden gebeurd, neem dan direct contact op met het Centrum Seksueel Geweld via 0800-0188 voor medische opvang, sporenonderzoek en psychologische steun. [ 1 , 2 ] · Juridische en emotionele steun: Neem contact op met Slachtofferhulp Nederland via 0900-0101 voor emotionele begeleiding en advies tijdens het strafproces. [ 1 , 2 ] · Online verspreiding tegengaan: Heb je hulp nodig bij het offline halen van de beelden? Gebruik de Meldknop.nl om de juiste stappen te zetten, of chat met de hulplijn van Offlimits (voorheen Helpwanted). [ 1 , 2 , 3 ] · Aangifte doen: Meld het misbruik of de chantage bij de politie via 0900-8844. Hier kun je specifiek aangifte doen van de verspreiding van intiem beeldmateriaal zonder toestemming. [ 1 , 2 , 3 ]",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.8333333333333334,
+    "country_evidence": [
+      [
+        "Steenbergen",
+        "BE"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Motherless",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Europol",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Centrum",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Seksueel Geweld",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Gebruik de Meldknop.nl",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Aangifte",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "a505346109f33f06e5b5a2e60b7925af": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden na steekincident in Ter Apel",
+    "url": "https://www.politie.nl/nieuws/2026/juli/21/01verdachte-aangehouden-na-steekincident-in-ter-apel.html",
+    "published": "Tue, 21 Jul 2026 11:31:00 GMT",
+    "summary": "Maandagavond 20 juli heeft er een steekincident plaatsgevonden aan de Ter Apelervenen in Ter Apel. Bij het steekincident raakte één persoon gewond. De politie kon al snel diezelfde avond een verdachte aanhouden.",
+    "full_text": "Rond 23:10 uur kwam er een melding binnen van een mogelijk steekincident. Daarop kwam de politie met meerdere eenheden ter plaatse. Aan de Ter Apelervenen troffen we een slachtoffer aan. Het gaat om een 20-jarige man uit Ter Apel. Hij raakte gewond en is door het ambulancepersoneel overgebracht naar het ziekenhuis. Aanhouding verdachte In de omgeving van de Ter Apelervenen hebben we een verdachte aangehouden voor betrokkenheid bij dit steekincident. Dit gaat om een 21-jarige man uit Ter Apel. Hij zit vast en wordt verhoord. Op locatie zijn we gelijk gestart met sporenonderzoek.",
+    "scraped_at": "2026-07-22T05:56:20.111767Z",
+    "id": "403a4085e4aee7df628a50824d74d93a422fc2f6be6354baed8ec23a622a9ee1",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/21/01verdachte-aangehouden-na-steekincident-in-ter-apel.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 23:10 uur kwam er een melding binnen van een mogelijk steekincident. Daarop kwam de politie met meerdere eenheden ter plaatse. Aan de Ter Apelervenen troffen we een slachtoffer aan. Het gaat om een 20-jarige man uit Ter Apel. Hij raakte gewond en is door het ambulancepersoneel overgebracht naar het ziekenhuis. Aanhouding verdachte In de omgeving van de Ter Apelervenen hebben we een verdachte aangehouden voor betrokkenheid bij dit steekincident. Dit gaat om een 21-jarige man uit Ter Apel. Hij zit vast en wordt verhoord. Op locatie zijn we gelijk gestart met sporenonderzoek.",
+    "locations": [
+      "Ter Apel",
+      "Ter Apel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ],
+      [
+        "Ter Apel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
   }
 }
