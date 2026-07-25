@@ -67795,5 +67795,47 @@
       "49-53",
       "not_affected"
     ]
+  },
+  "e3fe1080ebe027a6f6e9f9a8168f4fc8": {
+    "feed": "L1 Nieuws",
+    "title": "Politieteams uit Limburg en Brabant zetten achtervolging in na gevaarlijk gedrag bestuurder",
+    "url": "https://www.l1nieuws.nl/nieuws/3212000/politieteams-uit-limburg-en-brabant-zetten-achtervolging-in-na-gevaarlijk-gedrag-bestuurder",
+    "published": "Fri, 24 Jul 2026 06:16:54 GMT",
+    "summary": "Verschillende politieteams uit Limburg en Noord-Brabant zetten afgelopen woensdagavond de achtervolging in na een spoedmelding op de A73. Een bestuurder zou gevaarlijk rijgedrag hebben vertoond.",
+    "full_text": "De man probeerde te ontsnappen aan de politie en zou hierbij ook meerdere keren geprobeerd hebben om op een auto van de politie in te rijden, maar uiteindelijk lukte het de politie om de bestuurder te stoppen. De 24-jarige Oekraïner zonder vaste woon- of verblijfplaats in Nederland werd aangehouden voor rijden zonder rijbewijs, rijden onder invloed, het vertonen van gevaarlijk rijgedrag en poging tot zware mishandeling en doodslag voor het moedwillig inrijden op een dienstvoertuig.",
+    "scraped_at": "2026-07-25T05:47:45.419832Z",
+    "id": "228429777190c16d61e9788c98185e0aad01ed5af9b85bdb57fab7b604e045f2",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3212000/politieteams-uit-limburg-en-brabant-zetten-achtervolging-in-na-gevaarlijk-gedrag-bestuurder",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De man probeerde te ontsnappen aan de politie en zou hierbij ook meerdere keren geprobeerd hebben om op een auto van de politie in te rijden, maar uiteindelijk lukte het de politie om de bestuurder te stoppen. De 24-jarige Oekraïner zonder vaste woon- of verblijfplaats in Nederland werd aangehouden voor rijden zonder rijbewijs, rijden onder invloed, het vertonen van gevaarlijk rijgedrag en poging tot zware mishandeling en doodslag voor het moedwillig inrijden op een dienstvoertuig.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Oekraïner",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
