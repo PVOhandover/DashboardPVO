@@ -67837,5 +67837,47 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "87ceed14893ffba44a5b0cb168303a91": {
+    "feed": "RTV Noord",
+    "title": "Te druk bij mountainbike-evenement op Grote Markt, toeschouwers op daken opgeroepen weg te gaan",
+    "url": "https://www.rtvnoord.nl/sport/1423850/te-druk-bij-mountainbike-evenement-op-grote-markt-toeschouwers-op-daken-opgeroepen-weg-te-gaan",
+    "published": "Sat, 25 Jul 2026 15:27:01 GMT",
+    "summary": "Het is erg druk bij het mountainbike-evenement op de Grote Markt. Extra toeschouwers worden niet meer toegelaten op terrein. Daarnaast heeft de organisatie een oproep gedaan aan de toeschouwers die vanaf daken rondom de Grote Markt kijken, om weg te gaan.",
+    "full_text": "Die oproep was een verzoek van de gemeente Groningen en de politie aan organisator Red Bull. 'Op die daken zitten geen relingen, dus dat is gewoon gevaarlijk', zegt een woordvoerder. 'Kijken vanaf een balkon is prima.'",
+    "scraped_at": "2026-07-26T06:12:25.571023Z",
+    "id": "8bf6edd273a4f684f2d6842f375932af40da4ac7a327397f07b85abe142fee6e",
+    "canonical_url": "https://www.rtvnoord.nl/sport/1423850/te-druk-bij-mountainbike-evenement-op-grote-markt-toeschouwers-op-daken-opgeroepen-weg-te-gaan",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Die oproep was een verzoek van de gemeente Groningen en de politie aan organisator Red Bull. 'Op die daken zitten geen relingen, dus dat is gewoon gevaarlijk', zegt een woordvoerder. 'Kijken vanaf een balkon is prima.'",
+    "locations": [
+      "gemeente Groningen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Groningen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Red Bull.",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
