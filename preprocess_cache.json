@@ -68026,5 +68026,195 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "ef5858d1e11e76ed80d3fa434ef69ed3": {
+    "feed": "RTV Noord",
+    "title": "Piek in nepadvertenties voor huurwoningen: 'Mensen stonden met koffers voor een dichte deur'",
+    "url": "https://www.rtvnoord.nl/economie/1424350/piek-in-nepadvertenties-voor-huurwoningen-mensen-stonden-met-koffers-voor-een-dichte-deur",
+    "published": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "summary": "Een huurwoning in Groningen met fraaie interieurfoto's en een zeer gunstig prijskaartje. En direct beschikbaar! Het lijkt een buitenkansje, maar in werkelijkheid gaat het om oplichting. Op Facebook en nu ook TikTok wemelt het van dit soort nepadvertenties, zeker in de zomervakantie. Het is moeilijk om er iets tegen te doen, zeggen verhuurders.",
+    "full_text": "Onderzoeker Sophie van der Zee, verbonden aan de Erasmus School of Economics, deed in het verleden onderzoek naar huuroplichting in Engeland. Ze herkent de TikTok-variant als een nieuwe vorm, zegt ze tegen . 'Je ziet dezelfde werkwijze tien jaar later op een ander platform.'",
+    "scraped_at": "2026-07-29T05:58:25.089295Z",
+    "id": "555a22e4394d10ae41c99b97d1a9e233112ee55ffa14edbd591a0efe4b4d7536",
+    "canonical_url": "https://www.rtvnoord.nl/economie/1424350/piek-in-nepadvertenties-voor-huurwoningen-mensen-stonden-met-koffers-voor-een-dichte-deur",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Onderzoeker Sophie van der Zee, verbonden aan de Erasmus School of Economics, deed in het verleden onderzoek naar huuroplichting in Engeland. Ze herkent de TikTok-variant als een nieuwe vorm, zegt ze tegen . 'Je ziet dezelfde werkwijze tien jaar later op een ander platform.'",
+    "locations": [
+      "Engeland"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Engeland",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Erasmus School",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "TikTok-variant",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "7b91e544ab93869e361530604e7e34d1": {
+    "feed": "Politie.nl",
+    "title": "Politie houdt twee verdachten aan na schietincident Oudemansstraat Den Haag (update)",
+    "url": "https://www.politie.nl/nieuws/2026/juli/28/06-persbericht-oudemanstraat-dh.html",
+    "published": "Tue, 28 Jul 2026 08:49:00 GMT",
+    "summary": "De politie heeft twee verdachten aangehouden voor mogelijke betrokkenheid bij het schietincident dat plaatsvond in de nacht van maandag 27 op dinsdag 28 juli aan de Oudemansstraat in Den Haag.",
+    "full_text": "Het schietincident gebeurde rond 1.00 uur 's nachts. In het kader van het onderzoek deed de politie meerdere instappen en op dinsdag 28 juli zijn er twee verdachten aangehouden. Het gaat hierbij om twee mannen uit Den Haag; een 33-jarige man en een 50-jarige man. Het slachtoffer is na het incident met de ambulance naar het ziekenhuis vervoerd. Getuigen gezocht Heeft u nog niet met de politie gesproken maar beschikt u over informatie die van belang kan zijn voor het onderzoek? Dan komen we graag met u in contact. Ook ontvangen wij graag camerabeelden uit de omgeving. Denk hierbij aan beelden van mobiele telefoons, deurbelcamera’s of dashcams. U kunt contact op nemen met de politie middels het tipformulier of door te bellen naar de gratis opsporingstiplijn 0800-6070 of anoniem melden via Meld Misdaad Anoniem (0800-7000).",
+    "scraped_at": "2026-07-29T05:57:15.822979Z",
+    "id": "6874e3dd330cc0e446bbadaa8348b78eea8d5e4bdefab60815845e68dd5b3889",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/28/06-persbericht-oudemanstraat-dh.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het schietincident gebeurde rond 1.00 uur 's nachts. In het kader van het onderzoek deed de politie meerdere instappen en op dinsdag 28 juli zijn er twee verdachten aangehouden. Het gaat hierbij om twee mannen uit Den Haag; een 33-jarige man en een 50-jarige man. Het slachtoffer is na het incident met de ambulance naar het ziekenhuis vervoerd. Getuigen gezocht Heeft u nog niet met de politie gesproken maar beschikt u over informatie die van belang kan zijn voor het onderzoek? Dan komen we graag met u in contact. Ook ontvangen wij graag camerabeelden uit de omgeving. Denk hierbij aan beelden van mobiele telefoons, deurbelcamera’s of dashcams. U kunt contact op nemen met de politie middels het tipformulier of door te bellen naar de gratis opsporingstiplijn 0800-6070 of anoniem melden via Meld Misdaad Anoniem (0800-7000).",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "86b22acd787cf1931b770ab8d85ba169": {
+    "feed": "Politie.nl",
+    "title": "Aangespoelde overledenen geïdentificeerd",
+    "url": "https://www.politie.nl/nieuws/2026/juli/24/04-overleden-schipbreukeling-geidentificeerd.html",
+    "published": "Fri, 24 Jul 2026 11:50:00 GMT",
+    "summary": "Op vrijdag 6 oktober 2023 zijn door een strandvonder op strand Westerslag, aan de vloedlijn, menselijke resten aangetroffen. Het betroffen voornamelijk botdelen van een onderlichaam en bovenbenen. Later die dag werd ook op het strand nabij de Koog een menselijke voet aangetroffen. Die dag is op het gehele strand gesurveilleerd op zoek naar andere sporen die met het aantreffen te maken konden hebben. Het geheel gaf een beeld wat leek op een migrant die was gestrand op zijn tocht van Frankrijk naar Engeland.",
+    "full_text": "Het was de aanleiding voor een uitgebreid forensisch onderzoek om de identiteit vast te stellen. Hierbij zijn ook gegevens verkregen uit een aangetroffen mobiele telefoon. Ondanks dat deze met zout water was doordrenkt bleken daar gegevens uit te halen. DNA Al ras bleek na de DNA-afnames van de onderscheidenlijke lichaamsdelen, dat het onderlichaam en de voet afkomstig waren van twee verschillende personen. Duidelijk werd ook dat de DNA-profielen niet overeenkwamen met bestaande gegevens in de databanken voor vermiste personen en/of hun achterblijvers. Rode Kruis De politie is in contact getreden met diverse instanties als meerdere nationale politie-instellingen, Kustwacht, maar ook het Nederlandse Rode Kruis en het Internationale Rode Kruis (ICRC). Ook zijn we benaderd door onderzoeksjournalisten die kennis dragen van de migrantensituatie tussen Frankrijk en Engeland. Er zijn door hen gegevens aangeleverd wie de overledenen zouden kunnen zijn geweest. Het was redelijkerwijs aan te nemen dat deze personen afkomstig waren uit Afghanistan. Vervolgens is onderzocht hoe de politie in Nederland contact kon krijgen met de achterblijvers van vermisten in dat land. Uiteindelijk is via medewerkers van het Nederlandse Rode Kruis en het ICRC contact met hen gelegd, vergelijkings-DNA afgenomen en dat lichaamsmateriaal naar Nederland getransporteerd. Met dit DNA is vastgesteld kunnen worden dat de lichaamsdelen afkomstig waren van twee mannen van (in 2023) 20 en 27 jaar oud, geboren in Afghanistan maar zonder vaste woon- of verblijfplaats. Begrafenis De lichaamsdelen hebben in 2023 een gemeentelijke begrafenis gekregen op de algemene begraafplaats in Den Burg. Een doodsoorzaak is niet vastgesteld kunnen worden. Het Nederlandse Rode Kruis en het ICRC heeft beide families in Afghanistan op de hoogte gebracht. De families bedanken iedereen die heeft bijgedragen aan het onderzoek. Eerder publiceerde de politie het volgende bericht: https://www.politie.nl/nieuws/2023/november/23/04-stoffelijke-resten-texel-behoren-toe-aan-twee-overleden-mannen.html Noot voor de redactie : Voor woordvoering omtrent de taak en rol van het Rode Kruis verwijzen we naar Persvoorlichting van het Rode Kruis, tel 070 - 445 56 66 en/of persvoorlichting@redcross.nl DNA-databank In de Nederlandse DNA-databank Vermiste Personen zijn DNA-profielen opgeslagen van ongeïdentificeerde personen, vermiste personen en/of van familieleden van vermiste personen. Familieleden van iemand die (op zee) vermist is geraakt kunnen vrijwillig DNA afstaan bij de politie, zodat bij aantreffen van een lichaam of delen daarvan direct gekeken kan worden of er een match is. Door de samenwerking met INTERPOL wordt er ook op internationaal niveau gezocht. Voor meer informatie over deze databank zie https://dnadatabank.forensischinstituut.nl/dna-databanken/dna-databank-vermiste-personen Oproep Bent u bloedverwant van een langdurige vermiste en is er niet eerder DNA van een bloedverwante afgenomen? Meldt u zich dan via coldcase@politie.nl . Vindt u op het strand, duingebied of bos een voorwerp wat op een menselijk bot lijkt, markeer de vindplaats en waarschuw de politie. U kunt bijdragen aan het beëindigen van een emotionele en soms langdurige zoektocht.",
+    "scraped_at": "2026-07-29T05:57:15.828761Z",
+    "id": "e78ae2c5706642dc7880afb2d23f6b74b3ddeacc7b8fe6e692d3fac005b8a429",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/24/04-overleden-schipbreukeling-geidentificeerd.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het was de aanleiding voor een uitgebreid forensisch onderzoek om de identiteit vast te stellen. Hierbij zijn ook gegevens verkregen uit een aangetroffen mobiele telefoon. Ondanks dat deze met zout water was doordrenkt bleken daar gegevens uit te halen. DNA Al ras bleek na de DNA-afnames van de onderscheidenlijke lichaamsdelen, dat het onderlichaam en de voet afkomstig waren van twee verschillende personen. Duidelijk werd ook dat de DNA-profielen niet overeenkwamen met bestaande gegevens in de databanken voor vermiste personen en/of hun achterblijvers. Rode Kruis De politie is in contact getreden met diverse instanties als meerdere nationale politie-instellingen, Kustwacht, maar ook het Nederlandse Rode Kruis en het Internationale Rode Kruis (ICRC). Ook zijn we benaderd door onderzoeksjournalisten die kennis dragen van de migrantensituatie tussen Frankrijk en Engeland. Er zijn door hen gegevens aangeleverd wie de overledenen zouden kunnen zijn geweest. Het was redelijkerwijs aan te nemen dat deze personen afkomstig waren uit Afghanistan. Vervolgens is onderzocht hoe de politie in Nederland contact kon krijgen met de achterblijvers van vermisten in dat land. Uiteindelijk is via medewerkers van het Nederlandse Rode Kruis en het ICRC contact met hen gelegd, vergelijkings-DNA afgenomen en dat lichaamsmateriaal naar Nederland getransporteerd. Met dit DNA is vastgesteld kunnen worden dat de lichaamsdelen afkomstig waren van twee mannen van (in 2023) 20 en 27 jaar oud, geboren in Afghanistan maar zonder vaste woon- of verblijfplaats. Begrafenis De lichaamsdelen hebben in 2023 een gemeentelijke begrafenis gekregen op de algemene begraafplaats in Den Burg. Een doodsoorzaak is niet vastgesteld kunnen worden. Het Nederlandse Rode Kruis en het ICRC heeft beide families in Afghanistan op de hoogte gebracht. De families bedanken iedereen die heeft bijgedragen aan het onderzoek. Eerder publiceerde de politie het volgende bericht: https://www.politie.nl/nieuws/2023/november/23/04-stoffelijke-resten-texel-behoren-toe-aan-twee-overleden-mannen.html Noot voor de redactie : Voor woordvoering omtrent de taak en rol van het Rode Kruis verwijzen we naar Persvoorlichting van het Rode Kruis, tel 070 - 445 56 66 en/of persvoorlichting@redcross.nl DNA-databank In de Nederlandse DNA-databank Vermiste Personen zijn DNA-profielen opgeslagen van ongeïdentificeerde personen, vermiste personen en/of van familieleden van vermiste personen. Familieleden van iemand die (op zee) vermist is geraakt kunnen vrijwillig DNA afstaan bij de politie, zodat bij aantreffen van een lichaam of delen daarvan direct gekeken kan worden of er een match is. Door de samenwerking met INTERPOL wordt er ook op internationaal niveau gezocht. Voor meer informatie over deze databank zie https://dnadatabank.forensischinstituut.nl/dna-databanken/dna-databank-vermiste-personen Oproep Bent u bloedverwant van een langdurige vermiste en is er niet eerder DNA van een bloedverwante afgenomen? Meldt u zich dan via coldcase@politie.nl . Vindt u op het strand, duingebied of bos een voorwerp wat op een menselijk bot lijkt, markeer de vindplaats en waarschuw de politie. U kunt bijdragen aan het beëindigen van een emotionele en soms langdurige zoektocht.",
+    "locations": [
+      "Frankrijk",
+      "Engeland",
+      "Nederland",
+      "Nederland",
+      "Den Burg",
+      "coldcase@politie.nl"
+    ],
+    "country": "NL",
+    "country_score": 0.6,
+    "country_evidence": [
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Engeland",
+        "BE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Den Burg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "DNA",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "ICRC",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Afghanistan",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Afghanistan",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Afghanistan",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "INTERPOL",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Vindt",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "56.3"
+    ]
   }
 }
