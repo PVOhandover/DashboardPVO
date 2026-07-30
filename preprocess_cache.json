@@ -68216,5 +68216,115 @@
       "not_affected",
       "56.3"
     ]
+  },
+  "c2f333c84a68289bd367360b72bab749": {
+    "feed": "Politie.nl",
+    "title": "Overleden vrouw aangetroffen, drie verdachten aangehouden (update)",
+    "url": "https://www.politie.nl/nieuws/2026/juli/29/06-overleden-vrouw-aangetroffen-drie-verdachten-aangehouden.html",
+    "published": "Wed, 29 Jul 2026 15:57:00 GMT",
+    "summary": "Op de Laan van Reagan en Gorbatsjov werd dinsdag 28 juli een overleden vrouw aangetroffen. De politie onderzoekt het overlijden en hield kort na de vondst in de omgeving drie mannen aan.",
+    "full_text": "Omstreeks 08.00 uur kwam bij de politie de melding binnen dat er op de Laan van Reagan en Gorbatsjov een mogelijk overleden persoon was aangetroffen. Hier bleek inderdaad een stoffelijk overschot te liggen, het gaat om een 45-jarige vrouw zonder vaste woon- of verblijfplaats. In de omgeving zijn drie mannen aangehouden als verdachte, omdat er twijfels zijn of de vrouw een natuurlijke dood gestorven is. De omgeving werd afgezet en de Forensische Opsporing kwam ter plaatse voor onderzoek. Het onderzoek heeft nog geen uitsluitsel gegeven op de vraag of de vrouw een natuurlijke dood stierf of dat er iets anders aan haar overlijden ten grondslag ligt. Update De drie verdachten zijn inmiddels heengezonden in afwachting van het onderzoek. Zij blijven alle drie wel verdachte in het onderzoek. Getuigen gezocht In verband met het onderzoek komt de recherche graag in contact met mensen die in de vroege ochtenduren van dinsdag 28 juli in de omgeving van de Laan van Reagan en Gorbatsjov iets gezien hebben dat meer duidelijkheid kan verschaffen. Heeft u informatie, neem dan contact op met de districtsrecherche Den Haag West via nummer 0800-6070. Liever anoniem, bel dan met M. 0800-7000.",
+    "scraped_at": "2026-07-30T05:45:49.108422Z",
+    "id": "41f6cf791d88e0dda9dc378093bd258bb045265a1d4dc1c33d21541971905ded",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/29/06-overleden-vrouw-aangetroffen-drie-verdachten-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Omstreeks 08.00 uur kwam bij de politie de melding binnen dat er op de Laan van Reagan en Gorbatsjov een mogelijk overleden persoon was aangetroffen. Hier bleek inderdaad een stoffelijk overschot te liggen, het gaat om een 45-jarige vrouw zonder vaste woon- of verblijfplaats. In de omgeving zijn drie mannen aangehouden als verdachte, omdat er twijfels zijn of de vrouw een natuurlijke dood gestorven is. De omgeving werd afgezet en de Forensische Opsporing kwam ter plaatse voor onderzoek. Het onderzoek heeft nog geen uitsluitsel gegeven op de vraag of de vrouw een natuurlijke dood stierf of dat er iets anders aan haar overlijden ten grondslag ligt. Update De drie verdachten zijn inmiddels heengezonden in afwachting van het onderzoek. Zij blijven alle drie wel verdachte in het onderzoek. Getuigen gezocht In verband met het onderzoek komt de recherche graag in contact met mensen die in de vroege ochtenduren van dinsdag 28 juli in de omgeving van de Laan van Reagan en Gorbatsjov iets gezien hebben dat meer duidelijkheid kan verschaffen. Heeft u informatie, neem dan contact op met de districtsrecherche Den Haag West via nummer 0800-6070. Liever anoniem, bel dan met M. 0800-7000.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "072190d37addd4a70dff7259a4a2f02a": {
+    "feed": "Politie.nl",
+    "title": "Vrouw aangehouden na diefstal uit verpleeghuis ’s-Gravenzande",
+    "url": "https://www.politie.nl/nieuws/2026/juli/29/06-vrouw-aangehouden-na-diefstal-uit-verpleeghuis-s-gravenzande.html",
+    "published": "Wed, 29 Jul 2026 13:55:00 GMT",
+    "summary": "Op dinsdag 28 juli kreeg de politie rond 18.30 uur een melding van een verdachte situatie in een verpleeghuis aan de Leeuweriklaan. De agenten troffen ter plaatse een vrouw aan die daar spullen had weggenomen. De vrouw is aangehouden.",
+    "full_text": "Meerdere aangiftes De vrouw, een 51-jarige inwoner uit ’s-Gravenzande, is op heterdaad betrapt en aangehouden op verdenking van de diefstal. De afgelopen maanden zijn er meerdere aangiftes binnengekomen van diefstallen op hetzelfde adres, de politie doet onderzoek naar een mogelijk verband tussen de aangehouden verdachte en deze diefstallen. Melden loont Ziet u een verdachte situatie? Of bent u getuige van een misdrijf of het voorbereiden van een inbraak of diefstal? Dan kunt u 112 bellen. De centralist van de 112-alarmcentrale verbindt u door met de politie van de gevraagde regio. Verdacht gedrag kunt u dus melden via 112, als er sprake is van spoed. Sterker nog, het kan zorgen voor een aanhouding op heterdaad zoals bij dit incident duidelijk werd.",
+    "scraped_at": "2026-07-30T05:45:49.130189Z",
+    "id": "4c6afda193ed2bc917c5d3b45c989c74e22de6046ca76bdeee1e9ce043af035a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/juli/29/06-vrouw-aangehouden-na-diefstal-uit-verpleeghuis-s-gravenzande.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Meerdere aangiftes De vrouw, een 51-jarige inwoner uit ’s-Gravenzande, is op heterdaad betrapt en aangehouden op verdenking van de diefstal. De afgelopen maanden zijn er meerdere aangiftes binnengekomen van diefstallen op hetzelfde adres, de politie doet onderzoek naar een mogelijk verband tussen de aangehouden verdachte en deze diefstallen. Melden loont Ziet u een verdachte situatie? Of bent u getuige van een misdrijf of het voorbereiden van een inbraak of diefstal? Dan kunt u 112 bellen. De centralist van de 112-alarmcentrale verbindt u door met de politie van de gevraagde regio. Verdacht gedrag kunt u dus melden via 112, als er sprake is van spoed. Sterker nog, het kan zorgen voor een aanhouding op heterdaad zoals bij dit incident duidelijk werd.",
+    "locations": [
+      "Melden"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Melden",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meerdere aangiftes",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "3162067e37001ebe18166d1345ea8a2a": {
+    "feed": "L1 Nieuws",
+    "title": "Mensen trappen er nog altijd in: nepagent slaat toe in Roermond",
+    "url": "https://www.l1nieuws.nl/nieuws/3213801/mensen-trappen-er-nog-altijd-in-nepagent-slaat-toe-in-roermond",
+    "published": "Wed, 29 Jul 2026 06:57:03 GMT",
+    "summary": "Een nepagent heeft dinsdagmiddag toegeslagen in de binnenstad van Roermond. In de Munsterstraat werd rond 17:00 uur iemand opgelicht door de man die zich voordeed als medewerker van de politie.",
+    "full_text": "Met dit soort babbeltrucs maken de oplichters regelmatig grote bedragen buit, ook al waarschuwt de politie hier al jaren voor. Begin dit jaar was er ook een grote campagne om verdachten te identificeren. De politie publiceerde 100 foto's van nepagenten, gemaakt op het moment dat ze met de gestolen bankpassen geld opnamen bij een geldautomaat. Het ging om tien verdachten die hadden toegeslagen in Limburg, daarvan werden er vier herkend.",
+    "scraped_at": "2026-07-30T05:46:02.209703Z",
+    "id": "e08365d5dd08e9e00ffb01ec58a3001e4f0744a3df29361b17f36568f182bdac",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3213801/mensen-trappen-er-nog-altijd-in-nepagent-slaat-toe-in-roermond",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Met dit soort babbeltrucs maken de oplichters regelmatig grote bedragen buit, ook al waarschuwt de politie hier al jaren voor. Begin dit jaar was er ook een grote campagne om verdachten te identificeren. De politie publiceerde 100 foto's van nepagenten, gemaakt op het moment dat ze met de gestolen bankpassen geld opnamen bij een geldautomaat. Het ging om tien verdachten die hadden toegeslagen in Limburg, daarvan werden er vier herkend.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
