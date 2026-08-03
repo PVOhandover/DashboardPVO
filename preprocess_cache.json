@@ -68438,5 +68438,38 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "5204c5bf444e9389e87d001a49d4e26b": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen na bekladdingen van Nationaal Monument op de Dam",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/2/05-twee-aanhoudingen-na-bekladdingen-van-nationaal-monument-op-de-dam.html",
+    "published": "Sun, 02 Aug 2026 13:22:00 GMT",
+    "summary": "De politie heeft zondagochtend 2 augustus 2026 twee verdachten op heterdaad aangehouden nadat het Nationaal Monument op de Dam was beklad. Beide verdachten zijn aangehouden op verdenking van vernieling, worden verhoord en zitten nog vast.",
+    "full_text": "De eerste bekladding werd aangebracht met een lakstift en vond plaats tussen 05.15 en 05.24 uur. Politieagenten reden langs het monument en zagen een man die op dat moment nog bezig was met de lakstift. De verdachte, een 27-jarige man uit Hoofddorp, is op heterdaad aangehouden. De tweede bekladding vond plaats terwijl de politie vanwege het eerste incident nog bij het monument aanwezig was. Een 39-jarige man uit Polen heeft met lippenstift de achterzijde van het monument beklad. Ook deze man is op heterdaad aangehouden.",
+    "scraped_at": "2026-08-03T06:29:45.066395Z",
+    "id": "97929dded19068a443773371636f2afef4ca7065b4bf7372e88b703f169bbb7a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/2/05-twee-aanhoudingen-na-bekladdingen-van-nationaal-monument-op-de-dam.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De eerste bekladding werd aangebracht met een lakstift en vond plaats tussen 05.15 en 05.24 uur. Politieagenten reden langs het monument en zagen een man die op dat moment nog bezig was met de lakstift. De verdachte, een 27-jarige man uit Hoofddorp, is op heterdaad aangehouden. De tweede bekladding vond plaats terwijl de politie vanwege het eerste incident nog bij het monument aanwezig was. Een 39-jarige man uit Polen heeft met lippenstift de achterzijde van het monument beklad. Ook deze man is op heterdaad aangehouden.",
+    "locations": [
+      "Polen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Polen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
