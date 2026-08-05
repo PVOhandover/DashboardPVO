@@ -68471,5 +68471,129 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "34d8183fe7ae8fb10778f50b00423f61": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws maandag 4 augustus: Knoalster tankt zes jerrycans zonder te betalen • Kleine brand in Noordlaarderbos",
+    "url": "https://www.rtvnoord.nl/112/1426067/112-nieuws-maandag-4-augustus-knoalster-tankt-zes-jerrycans-zonder-te-betalen-kleine-brand-in-noordlaarderbos",
+    "published": "Mon, 03 Aug 2026 18:40:21 GMT",
+    "summary": "In dit 112-blog houden we je deze maandag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "De politie heeft nog niemand aangehouden voor de explosie bij een kapperszaak, gisteravond in Delfzijl. Een fles met een mogelijk brandbare vloeistof en zwaar vuurwerk werd voor de zaak gelegd, waarna een explosie volgde. Niemand raakte gewond. De politie heeft via een signalement verspreid van twee mogelijke verdachten.",
+    "scraped_at": "2026-08-05T05:52:55.757907Z",
+    "id": "a94398451750b93ed3db93805f700343777d95202680160af8cc37943b08c331",
+    "canonical_url": "https://www.rtvnoord.nl/112/1426067/112-nieuws-maandag-4-augustus-knoalster-tankt-zes-jerrycans-zonder-te-betalen-kleine-brand-in-noordlaarderbos",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft nog niemand aangehouden voor de explosie bij een kapperszaak, gisteravond in Delfzijl. Een fles met een mogelijk brandbare vloeistof en zwaar vuurwerk werd voor de zaak gelegd, waarna een explosie volgde. Niemand raakte gewond. De politie heeft via een signalement verspreid van twee mogelijke verdachten.",
+    "locations": [
+      "Delfzijl"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Delfzijl",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "23087abec10069c384a709912b02aa17": {
+    "feed": "Politie.nl",
+    "title": "Politiemedewerker eenheid Rotterdam buiten functie gesteld",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/4/07-politiemedewerker-eenheid-rotterdam-buiten-functie-gesteld.html",
+    "published": "Tue, 04 Aug 2026 15:20:00 GMT",
+    "summary": "Een medewerker van het district Zuid-Holland-Zuid van de eenheid Rotterdam is dinsdag 4 augustus buiten functie gesteld. Dit heeft te maken met een aangifte van een zedenmisdrijf die tegen de politiemedewerker is gedaan. Het gaat om een mogelijk strafbare gedraging in privétijd.",
+    "full_text": "Het strafrechtelijk onderzoek naar het mogelijk zedenmisdrijf wordt gedaan onder leiding van het Openbaar Ministerie en uitgevoerd door de afdeling Veiligheid, Integriteit en Klachten en het team seksuele misdrijven van de politie eenheid Rotterdam.",
+    "scraped_at": "2026-08-05T05:51:27.019682Z",
+    "id": "7c6e901a725a8dae2ac66e336df8bef02b3a1d5454317bd7e7cce5ee17c8587e",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/4/07-politiemedewerker-eenheid-rotterdam-buiten-functie-gesteld.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het strafrechtelijk onderzoek naar het mogelijk zedenmisdrijf wordt gedaan onder leiding van het Openbaar Ministerie en uitgevoerd door de afdeling Veiligheid, Integriteit en Klachten en het team seksuele misdrijven van de politie eenheid Rotterdam.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "6a774fdf39539960a9c1558ff37aef9a": {
+    "feed": "L1 Nieuws",
+    "title": "Slapende man in bestelwagen was reden voor alarm bij NAVO-hoofdkwartier in Brunssum",
+    "url": "https://www.l1nieuws.nl/nieuws/3216313/slapende-man-in-bestelwagen-was-reden-voor-alarm-bij-navo-hoofdkwartier-in-brunssum",
+    "published": "Tue, 04 Aug 2026 12:21:57 GMT",
+    "summary": "De aanleiding voor onderzoek door politie en Explosieven Opruimingsdienst Defensie (EOD) bij het NAVO-hoofdkwartier in Brunssum dinsdag, was een slapende chauffeur.",
+    "full_text": "De aanleiding voor onderzoek door politie en Explosieven Opruimingsdienst Defensie (EOD) bij het NAVO-hoofdkwartier in Brunssum dinsdag, was een slapende chauffeur.",
+    "scraped_at": "2026-08-05T05:51:35.550210Z",
+    "id": "edb55515551e9a7177b98f9a14a5d6149c67999ffd49772bbe5474b4d4db9fae",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3216313/slapende-man-in-bestelwagen-was-reden-voor-alarm-bij-navo-hoofdkwartier-in-brunssum",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De aanleiding voor onderzoek door politie en Explosieven Opruimingsdienst Defensie (EOD) bij het NAVO-hoofdkwartier in Brunssum dinsdag, was een slapende chauffeur.",
+    "locations": [
+      "Brunssum"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Brunssum",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "EOD",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
   }
 }
