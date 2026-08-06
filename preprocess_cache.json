@@ -68595,5 +68595,117 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "040a6adb694d7e1e4a74f8ebee0879c7": {
+    "feed": "Politie.nl",
+    "title": "Verdachte aangehouden voor gijzeling met geweld Lisse",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/5/06-verdachte-aangehouden-voor-gijzeling-met-geweld-lisse.html",
+    "published": "Wed, 05 Aug 2026 15:28:00 GMT",
+    "summary": "De politie heeft op dinsdag 4 augustus een minderjarige jongen aangehouden op verdenking van een gijzeling met geweld in Lisse. Die gijzeling vond plaats op woensdag 22 juli.",
+    "full_text": "Op woensdag 22 juli ontving de politie rond 12:20 uur een melding van een gijzeling in Lisse. Daarbij zouden meerdere verdachten een slachtoffer binnenhouden. De verdachten hebben meerdere goederen gestolen en zijn daarna gevlucht. Het slachtoffer raakte gewond en moest nagekeken worden door de ambulance. Aanhoudingen Het onderzoek naar de gijzeling met geweld is nog in volle gang. Op dinsdag 4 augustus is één van de verdachten aangehouden. Het gaat om een minderjarige jongen uit Culemborg. De politie sluit meerdere aanhoudingen niet uit.",
+    "scraped_at": "2026-08-06T05:53:40.785805Z",
+    "id": "1350c5d247d2f7f87f367c8cd0075329606f7ce0376565dbbb36089c31cb14ab",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/5/06-verdachte-aangehouden-voor-gijzeling-met-geweld-lisse.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op woensdag 22 juli ontving de politie rond 12:20 uur een melding van een gijzeling in Lisse. Daarbij zouden meerdere verdachten een slachtoffer binnenhouden. De verdachten hebben meerdere goederen gestolen en zijn daarna gevlucht. Het slachtoffer raakte gewond en moest nagekeken worden door de ambulance. Aanhoudingen Het onderzoek naar de gijzeling met geweld is nog in volle gang. Op dinsdag 4 augustus is één van de verdachten aangehouden. Het gaat om een minderjarige jongen uit Culemborg. De politie sluit meerdere aanhoudingen niet uit.",
+    "locations": [
+      "Lisse"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Lisse",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Culemborg",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "5e24adf0d8a2f64f53d82a6e2294f6f3": {
+    "feed": "Politie.nl",
+    "title": "Twee personen verdronken",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/5/04-twee-personen-verdronken.html",
+    "published": "Wed, 05 Aug 2026 09:28:00 GMT",
+    "summary": "Op het strand van Callantsoog en Grote Keeten zijn op dinsdag 4 augustus twee vrouwen verdronken. Het gaat om een 26-jarige vrouw uit Gelderland en een vrouw van 39 jaar uit Groot-Brittannië.",
+    "full_text": "Rond kwart voor vijf kregen de hulpdiensten een melding dat meerdere personen in problemen waren geraakt bij een reddingsactie. Om onbekende reden was een minderjarige in zee in de problemen geraakt. Een van de mensen die betrokken was bij de reddingsactie is voor behandeling naar het ziekenhuis gebracht nadat zij ook in de problemen raakte. Helaas zijn bij de reddingsactie uiteindelijk twee personen verdronken. De 26-jarige vrouw is nog gereanimeerd maar helaas mocht de hulp niet meer baten. Bij de reddingsactie raakte nog een andere vrouw vermist. Zij werd enkele uren later aangetroffen op het strand van Grote Keeten. Dit is een paar kilometer noordelijk van Callantsoog. Helaas bleek deze (39-jarige) vrouw ook overleden. Aan alle betrokkenen is slachtofferhulp aangeboden. De politie doet geen verder onderzoek. Einde berichtgeving.",
+    "scraped_at": "2026-08-06T05:53:40.788002Z",
+    "id": "db08e7833a6567bcab1a6a7d06096e581db774f331a5ae7a7396e6cd558255ef",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/5/04-twee-personen-verdronken.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond kwart voor vijf kregen de hulpdiensten een melding dat meerdere personen in problemen waren geraakt bij een reddingsactie. Om onbekende reden was een minderjarige in zee in de problemen geraakt. Een van de mensen die betrokken was bij de reddingsactie is voor behandeling naar het ziekenhuis gebracht nadat zij ook in de problemen raakte. Helaas zijn bij de reddingsactie uiteindelijk twee personen verdronken. De 26-jarige vrouw is nog gereanimeerd maar helaas mocht de hulp niet meer baten. Bij de reddingsactie raakte nog een andere vrouw vermist. Zij werd enkele uren later aangetroffen op het strand van Grote Keeten. Dit is een paar kilometer noordelijk van Callantsoog. Helaas bleek deze (39-jarige) vrouw ook overleden. Aan alle betrokkenen is slachtofferhulp aangeboden. De politie doet geen verder onderzoek. Einde berichtgeving.",
+    "locations": [
+      "Callantsoog"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Callantsoog",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "269d348d678f393e84c1cf70ed79d56b": {
+    "feed": "Politie.nl",
+    "title": "Twee politieagenten gewond na geweld tijdens controle op Bospolderplein",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/5/07-twee-politieagenten-gewond-na-geweld-tijdens-controle-op-bospolderplein.html",
+    "published": "Wed, 05 Aug 2026 09:09:00 GMT",
+    "summary": "Twee politieagenten zijn dinsdagavond gewond geraakt nadat tijdens een controle op het Bospolderplein geweld tegen hen werd gebruikt. De agenten waren ter plaatse na een melding van overlast.",
+    "full_text": "Tijdens de controle ontstond een confrontatie waarbij de verdachte zich hevig verzette. Ondanks de inzet van een stroomstootwapen bleef de man zich verzetten. Beide agenten raakten gewond en zijn voor controle naar het ziekenhuis gebracht. Aanhouding Een 49-jarige man uit Rotterdam is aangehouden. Hij wordt verdacht van poging tot doodslag en zware mishandeling. De politie doet verder onderzoek naar de toedracht van het incident.",
+    "scraped_at": "2026-08-06T05:53:40.788138Z",
+    "id": "40b6fd1dd049ce51ccc68f5a6d27a33c9147e8b3e87ff7d702611c72dbc1d396",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/5/07-twee-politieagenten-gewond-na-geweld-tijdens-controle-op-bospolderplein.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens de controle ontstond een confrontatie waarbij de verdachte zich hevig verzette. Ondanks de inzet van een stroomstootwapen bleef de man zich verzetten. Beide agenten raakten gewond en zijn voor controle naar het ziekenhuis gebracht. Aanhouding Een 49-jarige man uit Rotterdam is aangehouden. Hij wordt verdacht van poging tot doodslag en zware mishandeling. De politie doet verder onderzoek naar de toedracht van het incident.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
   }
 }
