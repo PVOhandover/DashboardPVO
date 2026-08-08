@@ -68740,5 +68740,47 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "58cdd9f82db222173ccc842ddebc1c89": {
+    "feed": "Politie.nl",
+    "title": "Verdachten van straatroof aangehouden na uitzending Team West",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/7/verdachten-van-straatroof-aangehouden-na-uitzending-team-west.html",
+    "published": "Fri, 07 Aug 2026 13:56:00 GMT",
+    "summary": "De politie heeft afgelopen week drie verdachten aangehouden voor een straatroof die in mei op de Calandkade plaatsvond. Het slachtoffer werd beroofd van haar Dior-tas ter waarde van een paar duizend euro, terwijl zij dacht een afspraak te hebben met iemand die de tas wilde kopen. De politie vroeg in opsporingsprogramma Team West aandacht voor de beroving en heeft inmiddels drie verdachten aangehouden.",
+    "full_text": "Het slachtoffer bood haar tas te koop aan via een verkoopplatform en sprak met de zogenaamde koper af om elkaar op zaterdag 16 mei in de omgeving van het Calandplein te treffen. Toen het slachtoffer omstreeks 17.00 uur op de Calandkade liep, kwamen drie mannen op haar afgelopen. Zij trokken de tas uit haar handen en gingen er rennend in verschillende richtingen vandoor. Het slachtoffer ging eerst zelf achter een van de verdachten aan en schakelde vervolgens de politie in. Na uitgebreid onderzoek en aandacht voor de zaak in opsporingsprogramma Team West konden afgelopen week drie verdachten van 16, 17 en 18 jaar oud uit Den Haag worden aangehouden.",
+    "scraped_at": "2026-08-08T04:15:35.416537Z",
+    "id": "06f73ed5d330065205e60eafcecb5d875e293f9d44b5b073b42feeb78a051cef",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/7/verdachten-van-straatroof-aangehouden-na-uitzending-team-west.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer bood haar tas te koop aan via een verkoopplatform en sprak met de zogenaamde koper af om elkaar op zaterdag 16 mei in de omgeving van het Calandplein te treffen. Toen het slachtoffer omstreeks 17.00 uur op de Calandkade liep, kwamen drie mannen op haar afgelopen. Zij trokken de tas uit haar handen en gingen er rennend in verschillende richtingen vandoor. Het slachtoffer ging eerst zelf achter een van de verdachten aan en schakelde vervolgens de politie in. Na uitgebreid onderzoek en aandacht voor de zaak in opsporingsprogramma Team West konden afgelopen week drie verdachten van 16, 17 en 18 jaar oud uit Den Haag worden aangehouden.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Team West",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
