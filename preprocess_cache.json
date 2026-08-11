@@ -68920,5 +68920,110 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "330ce455428616f4b49f31987de48f5c": {
+    "feed": "Politie.nl",
+    "title": "Verdachten steken zich in wespennest, zijn er gloeiend bij",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/10/04-twee-verdachten-steken-zich-in-wespennest-den-helder.html",
+    "published": "Mon, 10 Aug 2026 10:08:00 GMT",
+    "summary": "De politie heeft op maandag 10 augustus 2026 rond 04.47 uur twee mannen aangehouden na een poging inbraak in een winkelcentrum. De aanhouding vond plaats na een zoekactie in de omgeving.",
+    "full_text": "Poging inbraak De politie kreeg een melding van een heterdaad poging inbraak bij een winkelcentrum bij de Texelstroomlaan in Den Helder. Agenten gingen direct naar de locatie. Zij zagen twee verdachten wegrennen in de richting van het Almpad en het Runpad in Den Helder. Aanhouding De politie zette de locatie dicht en kamde het gebied uit. Agenten troffen de verdachten aan in de bosjes naast het Almpad in Den Helder. De mannen hadden als schuilplaats een wespennest uitgekozen.  Eén verdachte is direct aangehouden. De andere verdachte is na een korte achtervolging aangehouden. Het gaat om twee 18-jarige mannen uit Den Helder. Zij zitten, nadat ze medisch zijn onderzocht, vol met bulten vast voor verder onderzoek. Zaaknummer: PL11002026193246",
+    "scraped_at": "2026-08-11T04:24:47.358250Z",
+    "id": "d3aab46a464dbc895ce731615e054e4856d224e633e6025eb65c4bd8028e58ae",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/10/04-twee-verdachten-steken-zich-in-wespennest-den-helder.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Poging inbraak De politie kreeg een melding van een heterdaad poging inbraak bij een winkelcentrum bij de Texelstroomlaan in Den Helder. Agenten gingen direct naar de locatie. Zij zagen twee verdachten wegrennen in de richting van het Almpad en het Runpad in Den Helder. Aanhouding De politie zette de locatie dicht en kamde het gebied uit. Agenten troffen de verdachten aan in de bosjes naast het Almpad in Den Helder. De mannen hadden als schuilplaats een wespennest uitgekozen.  Eén verdachte is direct aangehouden. De andere verdachte is na een korte achtervolging aangehouden. Het gaat om twee 18-jarige mannen uit Den Helder. Zij zitten, nadat ze medisch zijn onderzocht, vol met bulten vast voor verder onderzoek. Zaaknummer: PL11002026193246",
+    "locations": [
+      "Den Helder"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Helder",
+        "NL"
+      ],
+      [
+        "Den Helder",
+        "NL"
+      ],
+      [
+        "Den Helder",
+        "NL"
+      ],
+      [
+        "Den Helder",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "47.19",
+      "sector_name": "Other retail sale in non-specialised stores"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "PL11002026193246",
+        "sector_code": "47.19",
+        "sector_name": "Other retail sale in non-specialised stores",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47.19"
+    ]
+  },
+  "7c930afaf9fcabc8b4a01c2883516c4e": {
+    "feed": "L1 Nieuws",
+    "title": "Zorgen in Maastrichtse wijk Wolder: vrees voor overlast als de echte d'Artagnan is gevonden",
+    "url": "https://www.l1nieuws.nl/nieuws/3218632/zorgen-in-maastrichtse-wijk-wolder-vrees-voor-overlast-als-de-echte-dartagnan-is-gevonden",
+    "published": "Mon, 10 Aug 2026 19:15:20 GMT",
+    "summary": "In de Maastrichtse wijk Wolder wordt met spanning uitgekeken naar de uitslag van het onderzoek naar het skelet dat in februari in de Sint-Petrus-en-Pauluskerk werd gevonden. Is het écht de wereldberoemde d’Artagnan? De Woldenaren hopen bijna van niet.",
+    "full_text": "Op dit moment wordt in Deventer verder onderzoek gedaan naar de identiteit van het skelet. Daarbij wordt onder meer gekeken naar de ouderdom van de resten en de mogelijke herkomst van de persoon. Voor aanvullend DNA-onderzoek heeft de gemeente Maastricht de Universiteit van Leuven op het oog, al is dat nog niet officieel bevestigd. De gemeente kwam in juni voor het laatst met een update over het onderzoek. Daaruit bleek dat er op dat moment nog geen aanwijzingen waren gevonden die uitsloten dat het om de beroemde d'Artagnan zou kunnen gaan. De zoektocht naar een definitief antwoord duurt veel langer doordat de resten verkeerd zijn opgegraven en niet goed zijn gedocumenteerd door de eerste opgraver: archeoloog Wim Dijkman. Een nieuwe update over het onderzoek wordt in oktober verwacht.",
+    "scraped_at": "2026-08-11T04:24:49.785288Z",
+    "id": "01d79182cea765253eb4a63200ef64c59ec77c7971094732926e558b9d5f1cd3",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3218632/zorgen-in-maastrichtse-wijk-wolder-vrees-voor-overlast-als-de-echte-dartagnan-is-gevonden",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op dit moment wordt in Deventer verder onderzoek gedaan naar de identiteit van het skelet. Daarbij wordt onder meer gekeken naar de ouderdom van de resten en de mogelijke herkomst van de persoon. Voor aanvullend DNA-onderzoek heeft de gemeente Maastricht de Universiteit van Leuven op het oog, al is dat nog niet officieel bevestigd. De gemeente kwam in juni voor het laatst met een update over het onderzoek. Daaruit bleek dat er op dat moment nog geen aanwijzingen waren gevonden die uitsloten dat het om de beroemde d'Artagnan zou kunnen gaan. De zoektocht naar een definitief antwoord duurt veel langer doordat de resten verkeerd zijn opgegraven en niet goed zijn gedocumenteerd door de eerste opgraver: archeoloog Wim Dijkman. Een nieuwe update over het onderzoek wordt in oktober verwacht.",
+    "locations": [
+      "Deventer",
+      "gemeente Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Deventer",
+        "NL"
+      ],
+      [
+        "gemeente Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Universiteit van Leuven",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Wim Dijkman",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
