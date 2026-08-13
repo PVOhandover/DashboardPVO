@@ -69114,5 +69114,38 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "ee43a532a08127ae158a75c59150ef1b": {
+    "feed": "L1 Nieuws",
+    "title": "Heerlen grijpt in met aanhoudingen, boetes en gebiedsverboden: 'Klaar met criminele hangjeugd'",
+    "url": "https://www.l1nieuws.nl/nieuws/3219668/heerlen-grijpt-in-met-aanhoudingen-boetes-en-gebiedsverboden-klaar-met-criminele-hangjeugd",
+    "published": "Wed, 12 Aug 2026 12:01:45 GMT",
+    "summary": "Burgemeester Roel Wever van Heerlen neemt extra maatregelen tegen de aanhoudende overlast van kinderen en jongeren in Heerlerheide. Dertien gebiedsontzeggingen en zelfs een gebiedsverbod werden al opgelegd.",
+    "full_text": "Onder meer intimidatie, vernielingen en geweld zijn sinds het begin van de zomervakantie aan de orde van de dag. Er wordt daarom intensiever samengewerkt met de politie, meldt de gemeente Heerlen. De burgemeester heeft er in eigen woorden zelfs 'schoon genoeg' van. Toch ligt er ook een rol voor de ouders, zo zegt hij.",
+    "scraped_at": "2026-08-13T04:56:15.269382Z",
+    "id": "a547b9d9c35c308570740bf5b66cc93f0a20d14c85fc84e1c9f92efd4b389303",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3219668/heerlen-grijpt-in-met-aanhoudingen-boetes-en-gebiedsverboden-klaar-met-criminele-hangjeugd",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Onder meer intimidatie, vernielingen en geweld zijn sinds het begin van de zomervakantie aan de orde van de dag. Er wordt daarom intensiever samengewerkt met de politie, meldt de gemeente Heerlen. De burgemeester heeft er in eigen woorden zelfs 'schoon genoeg' van. Toch ligt er ook een rol voor de ouders, zo zegt hij.",
+    "locations": [
+      "gemeente Heerlen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Heerlen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
