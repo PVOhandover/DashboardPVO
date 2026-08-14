@@ -69147,5 +69147,71 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "ffc4775a9a9418d4dcf7a9da353161e3": {
+    "feed": "Politie.nl",
+    "title": "Drie nepagenten aangehouden met buit",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/13/02-drie-nepagenten-aangehouden-met-buit.html",
+    "published": "Thu, 13 Aug 2026 15:09:00 GMT",
+    "summary": "Op dinsdag 11 augustus kreeg de politie meerdere meldingen over nepagenten in Nijmegen. Zij sloegen toe aan de Broerdijk in Nijmegen en namen een buit mee. Later op de dag trof de politie een mogelijk betrokken auto op de Zeiving in Vuren. In de auto zaten drie personen en werd een buit gevonden.",
+    "full_text": "Een persoon die zich voordeed als agent vertelde aan het slachtoffer op de Broerdijk dat er in de buurt was geschoten en dat verdachten waren aangehouden. Om waardevolle spullen veilig te stellen, zou een agent langskomen om foto’s te maken. Terwijl het slachtoffer werd afgeleid, ging de nepagent ervandoor met de spullen. In de buurt van Vuren trof de politie even later een auto aan die mogelijk betrokken was bij deze oplichting. Daarin zaten drie personen bij wie de buit uit de Broerdijk werd aangetroffen, waaronder contant geld en sieraden. Ronselen van minderjarigen De verdachten zijn op heterdaad aangehouden voor heling. De verdachten zijn donderdag 13 augustus voor deze zaak heengezonden maar blijven verdachten in het onderzoek. Het gaat om een minderjarig meisje uit Spijkenisse, een minderjarige jongen uit Leidschendam en een 18-jarige man uit Rotterdam. Jarl Ampting, teamchef van basisteam De Waarden: “We zien dat criminelen vaak doelbewust zoeken naar mensen die kwetsbaarder zijn, zoals minderjarigen. Het ronselen van bijvoorbeeld nepagenten gebeurt onderweg, op straat of op het schoolplein, maar ook steeds vaker via social media en online advertenties. Ik hoop dat minderjarigen er zich bewust van zijn wat voor gevolgen dit voor hun toekomst kan hebben, want het kan een strafblad opleveren.” Het onderzoek loopt. Zo wordt onder andere onderzocht of de verdachten betrokken zijn bij meer oplichtingszaken en wat hun exacte betrokkenheid was.",
+    "scraped_at": "2026-08-14T04:53:38.617878Z",
+    "id": "a77587519459776409bf63857d85af39995d248891a963684917c0777fdab3c4",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/13/02-drie-nepagenten-aangehouden-met-buit.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een persoon die zich voordeed als agent vertelde aan het slachtoffer op de Broerdijk dat er in de buurt was geschoten en dat verdachten waren aangehouden. Om waardevolle spullen veilig te stellen, zou een agent langskomen om foto’s te maken. Terwijl het slachtoffer werd afgeleid, ging de nepagent ervandoor met de spullen. In de buurt van Vuren trof de politie even later een auto aan die mogelijk betrokken was bij deze oplichting. Daarin zaten drie personen bij wie de buit uit de Broerdijk werd aangetroffen, waaronder contant geld en sieraden. Ronselen van minderjarigen De verdachten zijn op heterdaad aangehouden voor heling. De verdachten zijn donderdag 13 augustus voor deze zaak heengezonden maar blijven verdachten in het onderzoek. Het gaat om een minderjarig meisje uit Spijkenisse, een minderjarige jongen uit Leidschendam en een 18-jarige man uit Rotterdam. Jarl Ampting, teamchef van basisteam De Waarden: “We zien dat criminelen vaak doelbewust zoeken naar mensen die kwetsbaarder zijn, zoals minderjarigen. Het ronselen van bijvoorbeeld nepagenten gebeurt onderweg, op straat of op het schoolplein, maar ook steeds vaker via social media en online advertenties. Ik hoop dat minderjarigen er zich bewust van zijn wat voor gevolgen dit voor hun toekomst kan hebben, want het kan een strafblad opleveren.” Het onderzoek loopt. Zo wordt onder andere onderzocht of de verdachten betrokken zijn bij meer oplichtingszaken en wat hun exacte betrokkenheid was.",
+    "locations": [
+      "Vuren"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Vuren",
+        "BE"
+      ],
+      [
+        "Spijkenisse",
+        "NL"
+      ],
+      [
+        "Leidschendam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Broerdijk",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Broerdijk",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jarl Ampting",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
