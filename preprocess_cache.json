@@ -69213,5 +69213,38 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "4493a7a2343a8082380be8014cda2845": {
+    "feed": "Politie.nl",
+    "title": "Twee verdachten aangehouden na schietincident Pinkstraat Den Haag",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/15/06-twee-verdachten.html",
+    "published": "Sat, 15 Aug 2026 10:09:00 GMT",
+    "summary": "In de nacht van vrijdag 14 op zaterdag 15 augustus vond er rond 01:35 een schietincident plaats in de Pinkstraat in Den Haag. Er zijn geen gewonden gevallen. Vermoedelijk is er geschoten met een vuurwapen gelijkend voorwerp.",
+    "full_text": "Twee verdachten aangehouden De politie is gelijk een onderzoek gestart naar wat zich daar precies heeft afgespeeld. In dat onderzoek zijn zaterdagochtend twee verdachten aangehouden. Het gaat om twee 19-jarige mannen uit Den Haag. Getuigen gezocht De politie roept mensen die nog niet met de politie hebben gesproken op om zich te melden. Wellicht zijn er mensen die het incident hebben zien gebeuren of zijn er camerabeelden uit de omgeving van bijvoorbeeld een deurbel of dashcam waarop de vluchtende verdachten te zien zijn. Beschikt u over deze beelden, of heeft u informatie dat kan helpen in het onderzoek, dan komt de politie graag met u in contact.",
+    "scraped_at": "2026-08-16T03:54:08.518980Z",
+    "id": "deb0c039159bbb7249822cb14ebffd4218a8470e6aa59cbda7d40bc6ee458c88",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/15/06-twee-verdachten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Twee verdachten aangehouden De politie is gelijk een onderzoek gestart naar wat zich daar precies heeft afgespeeld. In dat onderzoek zijn zaterdagochtend twee verdachten aangehouden. Het gaat om twee 19-jarige mannen uit Den Haag. Getuigen gezocht De politie roept mensen die nog niet met de politie hebben gesproken op om zich te melden. Wellicht zijn er mensen die het incident hebben zien gebeuren of zijn er camerabeelden uit de omgeving van bijvoorbeeld een deurbel of dashcam waarop de vluchtende verdachten te zien zijn. Beschikt u over deze beelden, of heeft u informatie dat kan helpen in het onderzoek, dan komt de politie graag met u in contact.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
   }
 }
