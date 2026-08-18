@@ -69246,5 +69246,95 @@
     },
     "companies_with_sectors": [],
     "all_sectors_in_article": []
+  },
+  "2b2020beccfe5e4b4ec716a93e5c063f": {
+    "feed": "Politie.nl",
+    "title": "Vrouw uit Heerhugowaard door misdrijf om het leven gekomen",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/17/04-vrouw-uit-heerhugowaard-door-misdrijf-om-het-leven-gekomen.html",
+    "published": "Mon, 17 Aug 2026 11:52:00 GMT",
+    "summary": "Op zondagavond 16 augustus rond 22.30 uur kreeg de politie een melding over een overleden persoon in een woning aan de Nicolaas Beetsweg in Heiloo. In de woning is niet veel later een overleden vrouw aangetroffen. De melder, een 20-jarige man uit Heiloo, is aangehouden als verdachte.",
+    "full_text": "Het slachtoffer is een 19-jarige vrouw uit Heerhugowaard. De politie gaat ervan uit dat de vrouw door een misdrijf om het leven is gekomen en is een onderzoek gestart. De politie is op zoek naar getuigen die mogelijk in de uren voorafgaand aan het aantreffen van de overleden persoon bijzonderheden hebben gehoord of gezien op of rond de Nicolaas Beetsweg in Heiloo. Het gaat dan om zondag 16 augustus tussen 07.00 ’s ochtends tot 23.00 uur ‘s avonds. Mocht u iets gehoord of gezien hebben, dan komt het rechercheteam graag met u in contact. Ook beelden van diezelfde periode in de omgeving van de Nicolaas Beetsweg zijn welkom. Deel uw informatie via 0900-8844 of via onderstaand tipformulier.",
+    "scraped_at": "2026-08-18T03:50:10.072027Z",
+    "id": "0e34dd6898fb1d189da5f8644617b2993e138d5b6168ca97184754da41a1decd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/17/04-vrouw-uit-heerhugowaard-door-misdrijf-om-het-leven-gekomen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het slachtoffer is een 19-jarige vrouw uit Heerhugowaard. De politie gaat ervan uit dat de vrouw door een misdrijf om het leven is gekomen en is een onderzoek gestart. De politie is op zoek naar getuigen die mogelijk in de uren voorafgaand aan het aantreffen van de overleden persoon bijzonderheden hebben gehoord of gezien op of rond de Nicolaas Beetsweg in Heiloo. Het gaat dan om zondag 16 augustus tussen 07.00 ’s ochtends tot 23.00 uur ‘s avonds. Mocht u iets gehoord of gezien hebben, dan komt het rechercheteam graag met u in contact. Ook beelden van diezelfde periode in de omgeving van de Nicolaas Beetsweg zijn welkom. Deel uw informatie via 0900-8844 of via onderstaand tipformulier.",
+    "locations": [
+      "Heerhugowaard",
+      "Heiloo"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Heerhugowaard",
+        "NL"
+      ],
+      [
+        "Heiloo",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "cfa1b131f768724ce52a46cef67d5fc0": {
+    "feed": "Politie.nl",
+    "title": "Gestolen fiets binnen 15 minuten terug bij eigenaar",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/17/08-gestolen-fiets-binnen-15-minuten-terug-bij-eigenaar.html",
+    "published": "Mon, 17 Aug 2026 10:34:00 GMT",
+    "summary": "Een gestolen fiets is zondagmiddag 16 augustus dankzij een GPS-tracker snel teruggevonden. Agenten konden de fiets volgen en hielden korte tijd later een 39-jarige man aan. De fiets is teruggegeven aan de rechtmatige eigenaar.",
+    "full_text": "Zoektocht Rond 14.50 uur ontdekte de eigenaar dat haar fiets was gestolen vanaf het strand in Zoutelande. De fiets was voorzien van een GPS-tracker, waardoor de eigenaar de locatie van de fiets kon volgen. De eerste locatie was ter hoogte van Koudekerke. Agenten gingen direct naar deze locatie, maar troffen daar de fiets niet aan. De eigenaar gaf daarna een nieuwe locatie door. De fiets zou zich bevinden aan de Louis Pasteurweg in Vlissingen. Agenten gingen daarheen en zagen een busje staan op de locatie die door de GPS-tracker werd aangegeven. Na een kort onderzoek ter plaatse treffen agenten in het busje een fiets aan die voldoet aan het signalement van de gestolen fiets. Verdachte aangehouden De eigenaar herkende de fiets als haar gestolen fiets. De 39-jarige bestuurder van het busje, zonder vaste woon- of verblijfplaats, werd aangehouden en meegenomen naar het politiebureau. Daar is hij verhoord. De fiets werd direct teruggegeven aan de rechtmatige eigenaar. Het busje is in beslag genomen en wordt verder onderzocht.",
+    "scraped_at": "2026-08-18T03:50:10.072321Z",
+    "id": "fb7c646a790d9f26edbba8177b511858e98e53f5183c2833c7e01931f4371b6a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/17/08-gestolen-fiets-binnen-15-minuten-terug-bij-eigenaar.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Zoektocht Rond 14.50 uur ontdekte de eigenaar dat haar fiets was gestolen vanaf het strand in Zoutelande. De fiets was voorzien van een GPS-tracker, waardoor de eigenaar de locatie van de fiets kon volgen. De eerste locatie was ter hoogte van Koudekerke. Agenten gingen direct naar deze locatie, maar troffen daar de fiets niet aan. De eigenaar gaf daarna een nieuwe locatie door. De fiets zou zich bevinden aan de Louis Pasteurweg in Vlissingen. Agenten gingen daarheen en zagen een busje staan op de locatie die door de GPS-tracker werd aangegeven. Na een kort onderzoek ter plaatse treffen agenten in het busje een fiets aan die voldoet aan het signalement van de gestolen fiets. Verdachte aangehouden De eigenaar herkende de fiets als haar gestolen fiets. De 39-jarige bestuurder van het busje, zonder vaste woon- of verblijfplaats, werd aangehouden en meegenomen naar het politiebureau. Daar is hij verhoord. De fiets werd direct teruggegeven aan de rechtmatige eigenaar. Het busje is in beslag genomen en wordt verder onderzocht.",
+    "locations": [
+      "Zoutelande",
+      "Koudekerke",
+      "Vlissingen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zoutelande",
+        "NL"
+      ],
+      [
+        "Koudekerke",
+        "NL"
+      ],
+      [
+        "Vlissingen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Louis Pasteurweg",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
