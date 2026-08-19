@@ -69336,5 +69336,135 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "16cc06e7f7a1134a6a9382fd0f9160af": {
+    "feed": "L1 Nieuws",
+    "title": "Limburgse boerenorganisaties verdeeld over nieuwe vormen van acties",
+    "url": "https://www.l1nieuws.nl/nieuws/3222226/limburgse-boerenorganisaties-verdeeld-over-nieuwe-vormen-van-acties",
+    "published": "Tue, 18 Aug 2026 15:45:48 GMT",
+    "summary": "Vier dagen na de demonstratie bij het provinciehuis in Den Bosch kijken boerenorganisaties verschillend naar toekomstige acties. De Limburgse Land- en Tuinbouwbond (LLTB) roept boeren op om verkeersregels niet te overtreden, terwijl actiegroep Farmers Defence Force acties op snelwegen niet uitsluit.",
+    "full_text": "De politie in Limburg laat weten dat er niets is afgesproken over het al dan niet ingrijpen bij demonstraties waarbij boeren met tractoren de snelweg gaan gebruiken. \"Dat is nog niet aan de orde\", laat een politiewoordvoerder weten. In Twente besloten burgemeesters, justitie en politie maandag wel dat het gebruik van snelwegen door boeren met zwaar materieel niet toegestaan zal worden vanwege het gevaar voor de verkeersveiligheid.",
+    "scraped_at": "2026-08-19T03:51:19.010941Z",
+    "id": "de15d0032c6debb78d1edff55e0c2997bad65ad705d5a377baf1a7d0bddea97d",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3222226/limburgse-boerenorganisaties-verdeeld-over-nieuwe-vormen-van-acties",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie in Limburg laat weten dat er niets is afgesproken over het al dan niet ingrijpen bij demonstraties waarbij boeren met tractoren de snelweg gaan gebruiken. \"Dat is nog niet aan de orde\", laat een politiewoordvoerder weten. In Twente besloten burgemeesters, justitie en politie maandag wel dat het gebruik van snelwegen door boeren met zwaar materieel niet toegestaan zal worden vanwege het gevaar voor de verkeersveiligheid.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "d1e03144df1988c5ecb0c16e5c3f4f66": {
+    "feed": "Politie.nl",
+    "title": "Update: Derde verdachte aangehouden voor gijzeling met geweld in Lisse",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/18/06-update-derde-verdachte-aangehouden-voor-gijzeling-met-geweld-in-lisse.html",
+    "published": "Tue, 18 Aug 2026 15:24:00 GMT",
+    "summary": "De politie heeft op maandag 17 augustus een derde verdachte aangehouden op verdenking van betrokkenheid bij de gijzeling met geweld in Lisse op 22 juli. Het gaat om een 21-jarige man uit Monnickendam, tijdens de gijzeling was de verdachte 20 jaar.",
+    "full_text": "Op woensdag 22 juli ontving de politie rond 12:20 uur een melding van een gijzeling in Lisse. Daarbij zouden meerdere verdachten een slachtoffer binnenhouden. De verdachten hebben meerdere goederen gestolen en zijn daarna gevlucht. Het slachtoffer raakte gewond en moest nagekeken worden door de ambulance. De politie is gelijk een onderzoek gestart en hield eerder al twee verdachten aan. Aanhoudingen Op dinsdag 4 augustus is één van de verdachten aangehouden. Het gaat om een minderjarige jongen uit Culemborg. Op maandag 10 augustus werd een minderjarig meisje uit Amersfoort aangehouden. Op maandag 17 augustus is een derde verdachte, een 21-jarige man uit Monnickendam, aangehouden. Het onderzoek naar de gijzeling met geweld is nog steeds in volle gang, meerdere aanhoudingen worden niet uitgesloten. Gezien de ernst van het misdrijf zitten alle aangehoudenen op dit moment nog in voorlopige hechtenis.",
+    "scraped_at": "2026-08-19T03:51:14.897761Z",
+    "id": "8cdb74ce35fa80b5194697bc5e36ec48e13b8807af66d2ffba2963463d9e46bd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/18/06-update-derde-verdachte-aangehouden-voor-gijzeling-met-geweld-in-lisse.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op woensdag 22 juli ontving de politie rond 12:20 uur een melding van een gijzeling in Lisse. Daarbij zouden meerdere verdachten een slachtoffer binnenhouden. De verdachten hebben meerdere goederen gestolen en zijn daarna gevlucht. Het slachtoffer raakte gewond en moest nagekeken worden door de ambulance. De politie is gelijk een onderzoek gestart en hield eerder al twee verdachten aan. Aanhoudingen Op dinsdag 4 augustus is één van de verdachten aangehouden. Het gaat om een minderjarige jongen uit Culemborg. Op maandag 10 augustus werd een minderjarig meisje uit Amersfoort aangehouden. Op maandag 17 augustus is een derde verdachte, een 21-jarige man uit Monnickendam, aangehouden. Het onderzoek naar de gijzeling met geweld is nog steeds in volle gang, meerdere aanhoudingen worden niet uitgesloten. Gezien de ernst van het misdrijf zitten alle aangehoudenen op dit moment nog in voorlopige hechtenis.",
+    "locations": [
+      "Monnickendam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Lisse",
+        "NL"
+      ],
+      [
+        "Amersfoort",
+        "NL"
+      ],
+      [
+        "Monnickendam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Culemborg",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
+  },
+  "bffbb81b36a8d5f88264ff82665ef3a7": {
+    "feed": "Politie.nl",
+    "title": "Man aangehouden in Tilburg na bedreigen agent met bandenzaag",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/18/08-man-aangehouden-na-bedreigen-agent-met-bandenzaag.html",
+    "published": "Tue, 18 Aug 2026 10:42:00 GMT",
+    "summary": "Een 29-jarige man uit Tilburg is maandagavond 17 augustus rond 21.15 uur aangehouden op verdenking van poging tot doodslag op een politieagent. De verdachte liep met een bandenzaag in de richting van de agent. Niemand raakte gewond.",
+    "full_text": "Agenten gingen naar de Luchthavenlaan in Tilburg na een melding van een conflict in de relationele sfeer. Ter plaatse troffen zij een man aan met een bandenzaag in zijn handen. De man liep vervolgens met de zaag in de richting van een van de agenten. De agent voelde zich hierdoor genoodzaakt zijn vuurwapen te trekken en op de man te richten. Uiteindelijk konden agenten de verdachte aanhouden. Niemand raakte bij het incident gewond. De betrokken agent heeft aangifte gedaan. De politie doet verder onderzoek naar wat er precies is gebeurd. Geweld tegen politieambtenaren (GTPA) De politie accepteert geen agressie of geweld tegen haar medewerkers of andere hulpverleners. Politiemedewerkers moeten hun werk veilig en zonder belemmering kunnen uitvoeren. Agressie en geweld tegen hulpverleners krijgen daarom hoge prioriteit. De politie neemt aangifte op en het Openbaar Ministerie kan bij geweld tegen personen met een publieke taak een hogere straf eisen.",
+    "scraped_at": "2026-08-19T03:51:14.918004Z",
+    "id": "5866c70ee6d4db626a9f7c4968eec2c24a6cf4d1fd97b4b01cc059f55ece368a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/18/08-man-aangehouden-na-bedreigen-agent-met-bandenzaag.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten gingen naar de Luchthavenlaan in Tilburg na een melding van een conflict in de relationele sfeer. Ter plaatse troffen zij een man aan met een bandenzaag in zijn handen. De man liep vervolgens met de zaag in de richting van een van de agenten. De agent voelde zich hierdoor genoodzaakt zijn vuurwapen te trekken en op de man te richten. Uiteindelijk konden agenten de verdachte aanhouden. Niemand raakte bij het incident gewond. De betrokken agent heeft aangifte gedaan. De politie doet verder onderzoek naar wat er precies is gebeurd. Geweld tegen politieambtenaren (GTPA) De politie accepteert geen agressie of geweld tegen haar medewerkers of andere hulpverleners. Politiemedewerkers moeten hun werk veilig en zonder belemmering kunnen uitvoeren. Agressie en geweld tegen hulpverleners krijgen daarom hoge prioriteit. De politie neemt aangifte op en het Openbaar Ministerie kan bij geweld tegen personen met een publieke taak een hogere straf eisen.",
+    "locations": [
+      "Tilburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Tilburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "56.3"
+    ]
   }
 }
