@@ -69534,5 +69534,66 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "3c9a68636b341077d5a545f72d60b056": {
+    "feed": "Politie.nl",
+    "title": "Drie aanhoudingen in onderzoek naar overleden man Botersloot",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/20/07-drie-aanhoudingen-in-onderzoek-naar-overleden-man-botersloot.html",
+    "published": "Thu, 20 Aug 2026 14:00:00 GMT",
+    "summary": "De politie heeft in de nacht van woensdag op donderdag drie personen aangehouden in het onderzoek naar de overleden man die woensdagmiddag werd aangetroffen in een woning aan de Botersloot in Rotterdam. Het gaat om een twee vrouwen (40 en 27 jaar oud) en een man (33 jaar oud). Alle drie de verdachten wonen in Rotterdam. Het slachtoffer, de bewoner van de woning aan de Botersloot, is een 38-jarige man. De politie doet grootschalig onderzoek.",
+    "full_text": "In een woning aan de Botersloot in Rotterdam is op woensdag 19 augustus een overleden man aangetroffen. Rond 14.30 uur kreeg de politie een melding. Een bekende van het slachtoffer kreeg geen gehoor en sloeg alarm. De omstandigheden op de plaats delict doen vermoeden dat de man om het leven is gebracht. Daarom is de politie een TGO (Team Grootschalige Opsporing) gestart. Ongeveer 20 politiecollega’s doen onderzoek. Dat onderzoek leidde naar de drie verdachten, die in de nacht van woensdag op donderdag zijn aangehouden. Getuigen en beelden gezocht De politie blijft op zoek naar mensen die beschikken over camerabeelden, specifiek in de omgeving van de Botersloot, vanaf maandagavond 17 augustus rond 23:00 uur, tot in de vroege ochtend van dinsdag 18 augustus rond 3:00 uur. Ook spreekt het team graag met getuigen. Heeft u camerabeelden uit de omgeving? Deel deze dan met de politie. U kunt de camerabeelden uploaden via onderstaand formulier, of bellen naar de tiplijn: 0800-6070. Anoniem melden kan ook, bel Misdaad Anoniem (0800-7000).",
+    "scraped_at": "2026-08-21T03:53:57.627810Z",
+    "id": "c4e3a5f7a3e1050eaf2955753706c83a04d51f947c9b69a24d498cba955eeedf",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/20/07-drie-aanhoudingen-in-onderzoek-naar-overleden-man-botersloot.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In een woning aan de Botersloot in Rotterdam is op woensdag 19 augustus een overleden man aangetroffen. Rond 14.30 uur kreeg de politie een melding. Een bekende van het slachtoffer kreeg geen gehoor en sloeg alarm. De omstandigheden op de plaats delict doen vermoeden dat de man om het leven is gebracht. Daarom is de politie een TGO (Team Grootschalige Opsporing) gestart. Ongeveer 20 politiecollega’s doen onderzoek. Dat onderzoek leidde naar de drie verdachten, die in de nacht van woensdag op donderdag zijn aangehouden. Getuigen en beelden gezocht De politie blijft op zoek naar mensen die beschikken over camerabeelden, specifiek in de omgeving van de Botersloot, vanaf maandagavond 17 augustus rond 23:00 uur, tot in de vroege ochtend van dinsdag 18 augustus rond 3:00 uur. Ook spreekt het team graag met getuigen. Heeft u camerabeelden uit de omgeving? Deel deze dan met de politie. U kunt de camerabeelden uploaden via onderstaand formulier, of bellen naar de tiplijn: 0800-6070. Anoniem melden kan ook, bel Misdaad Anoniem (0800-7000).",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304614602696039,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "TGO",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Team Grootschalige Opsporing",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "bel Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62",
+      "not_affected"
+    ]
   }
 }
