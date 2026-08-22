@@ -69595,5 +69595,204 @@
       "62",
       "not_affected"
     ]
+  },
+  "c081ab1e0960f1223d3e64f38d307f04": {
+    "feed": "Politie.nl",
+    "title": "Vrouw (30) aangehouden voor betrokkenheid bankhelpdeskfraude in Vlaardingen",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/21/07-vrouw-30-aangehouden-voor-betrokkenheid-bankhelpdeskfraude-in-vlaardingen.html",
+    "published": "Fri, 21 Aug 2026 16:51:00 GMT",
+    "summary": "De politie heeft op dinsdag 18 augustus een 30-jarige vrouw uit Utrecht aangehouden die wordt verdacht van betrokkenheid bij bankhelpdeskfraude. Een 78-jarige man uit Vlaardingen werd slachtoffer van de babbeltruc en raakte 15.000 euro kwijt.",
+    "full_text": "Op vrijdag 17 juli werd het slachtoffer telefonisch verteld dat zijn geld gevaar liep en dat hij via zijn bankapp geld van zijn spaarrekening moest halen. Vervolgens zou een bankmedewerker bij hem langskomen. Kort daarna stond een vrouw aan de deur die de bankpas van het slachtoffer meenam. De pincode had de man eerder al telefonisch doorgegeven. Meerdere herkenningen Omdat de vrouw niet terugkwam, controleerde het slachtoffer de volgende dag zijn bankrekening. Hij zag toen dat er in Vlaardingen, Amsterdam en IJsselstein was gepind voor een totaalbedrag van 15.000 euro. Uit onderzoek van de politie blijkt dat de verdachte niet alleen de bankpas heeft opgehaald, maar ook de pinner was in Vlaardingen. Ook liepen er vanuit twee andere eenheden al onderzoeken naar de vrouw. Na meerdere herkenningen is de vrouw op 18 augustus aangehouden in Utrecht. In haar woning werd 3800 euro aangetroffen en in beslag genomen. Supersnelrecht De verdachte verschijnt maandag 24 augustus voor de politierechter. De zaak wordt behandeld op een supersnelrechtzitting, waarna direct uitspraak wordt gedaan. Het onderzoek loopt onverminderd door, waarbij de politie meer aanhoudingen niet uitsluit. Laat ze niet binnen, wat ze ook verzinnen! Babbeltrucs zijn smoesjes waarmee criminelen mensen proberen op te lichten. Helaas vaak met succes. Ze bellen op, komen aan de deur of spreken mensen aan op straat met een mooie smoes. Een echte agent of medewerker van de bank zal echter nooit bellen of aan de deur komen om bijvoorbeeld sieraden, geld of een bankpas op te halen. De politie adviseert om altijd 112 te bellen als er door een (vermoedelijke) oplichter wordt gebeld of als er een (vermoedelijke) oplichter aan de deur staat. De politie kan dan controleren of het gaat om een babbeltruc.",
+    "scraped_at": "2026-08-22T03:46:43.095607Z",
+    "id": "d64ff0724e73a1d245a830ac30fa7332293c751ba2666423bcb8399bfaa081ec",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/21/07-vrouw-30-aangehouden-voor-betrokkenheid-bankhelpdeskfraude-in-vlaardingen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op vrijdag 17 juli werd het slachtoffer telefonisch verteld dat zijn geld gevaar liep en dat hij via zijn bankapp geld van zijn spaarrekening moest halen. Vervolgens zou een bankmedewerker bij hem langskomen. Kort daarna stond een vrouw aan de deur die de bankpas van het slachtoffer meenam. De pincode had de man eerder al telefonisch doorgegeven. Meerdere herkenningen Omdat de vrouw niet terugkwam, controleerde het slachtoffer de volgende dag zijn bankrekening. Hij zag toen dat er in Vlaardingen, Amsterdam en IJsselstein was gepind voor een totaalbedrag van 15.000 euro. Uit onderzoek van de politie blijkt dat de verdachte niet alleen de bankpas heeft opgehaald, maar ook de pinner was in Vlaardingen. Ook liepen er vanuit twee andere eenheden al onderzoeken naar de vrouw. Na meerdere herkenningen is de vrouw op 18 augustus aangehouden in Utrecht. In haar woning werd 3800 euro aangetroffen en in beslag genomen. Supersnelrecht De verdachte verschijnt maandag 24 augustus voor de politierechter. De zaak wordt behandeld op een supersnelrechtzitting, waarna direct uitspraak wordt gedaan. Het onderzoek loopt onverminderd door, waarbij de politie meer aanhoudingen niet uitsluit. Laat ze niet binnen, wat ze ook verzinnen! Babbeltrucs zijn smoesjes waarmee criminelen mensen proberen op te lichten. Helaas vaak met succes. Ze bellen op, komen aan de deur of spreken mensen aan op straat met een mooie smoes. Een echte agent of medewerker van de bank zal echter nooit bellen of aan de deur komen om bijvoorbeeld sieraden, geld of een bankpas op te halen. De politie adviseert om altijd 112 te bellen als er door een (vermoedelijke) oplichter wordt gebeld of als er een (vermoedelijke) oplichter aan de deur staat. De politie kan dan controleren of het gaat om een babbeltruc.",
+    "locations": [
+      "Utrecht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Vlaardingen",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Vlaardingen",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Babbeltrucs",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "d3485bc5e5083649cb2871708b7d473e": {
+    "feed": "Politie.nl",
+    "title": "Uiteindelijk zeven aanhoudingen voor bedreiging en opruiing",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/21/02-uiteindelijk-zeven-aanhoudingen-voor-bedreiging-en-opruiing.html",
+    "published": "Fri, 21 Aug 2026 09:27:00 GMT",
+    "summary": "De politie heeft in de afgelopen maanden in totaal zeven aanhoudingen verricht voor bedreiging en opruiing. Dit gebeurde in een onderzoek naar online uitlatingen na politieoptreden in Apeldoorn.",
+    "full_text": "De politie moest in het voorjaar en het begin van de zomer meermaals in actie komen tijdens protesten in Apeldoorn. Dit concentreerde zich op en rond de rotonde bij de Matenpoort en Laan van Maten. Bedreiging en opruiing Beelden van dat optreden werden veelvuldig gedeeld op sociale media. Dat kan en mag. Wat een grens overgaat zijn uitlatingen die kunnen worden aangemerkt als bedreigend of opruiend. De impact daarvan is enorm. In mei deelde de politie informatie over de eerste aanhouding in dit onderzoek. Inmiddels zijn er zeven aanhoudingen verricht. Het gaat om zes mannen en één vrouw tussen de 49 en 79 jaar oud afkomstig uit Baarn, Barendrecht, Nijmegen, Ooltgensplaat, Voorthuizen, Vinkeveen en ’s-Gravenzande. De laatste aanhouding werd op woensdag 19 augustus verricht. Het Openbaar Ministerie (OM) gaat over de verdere gevolgen voor de zeven. Duidelijke grens Politie en het Openbaar Ministerie roepen op: kritiek hebben mag, maar er zijn tal van manieren om dit kenbaar te maken. Bij strafbare feiten trekken we een hele duidelijke grens. Daarnaast vertellen korte beeldfragmenten op sociale media vaak niet het hele verhaal. Geweld dat daar bijvoorbeeld op te zien is, wordt niet lichtzinnig gebruikt. Als de politie geweld heeft moeten toepassen, wordt dit altijd getoetst. Waar nodig kijken we kritisch naar ons eigen optreden. Meer informatie daarover, is te vinden in dit bericht.",
+    "scraped_at": "2026-08-22T03:46:43.096387Z",
+    "id": "a09bcd1220485d6e9ee073b5246f7676279516723f30324e7ed095f4a8a27143",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/21/02-uiteindelijk-zeven-aanhoudingen-voor-bedreiging-en-opruiing.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie moest in het voorjaar en het begin van de zomer meermaals in actie komen tijdens protesten in Apeldoorn. Dit concentreerde zich op en rond de rotonde bij de Matenpoort en Laan van Maten. Bedreiging en opruiing Beelden van dat optreden werden veelvuldig gedeeld op sociale media. Dat kan en mag. Wat een grens overgaat zijn uitlatingen die kunnen worden aangemerkt als bedreigend of opruiend. De impact daarvan is enorm. In mei deelde de politie informatie over de eerste aanhouding in dit onderzoek. Inmiddels zijn er zeven aanhoudingen verricht. Het gaat om zes mannen en één vrouw tussen de 49 en 79 jaar oud afkomstig uit Baarn, Barendrecht, Nijmegen, Ooltgensplaat, Voorthuizen, Vinkeveen en ’s-Gravenzande. De laatste aanhouding werd op woensdag 19 augustus verricht. Het Openbaar Ministerie (OM) gaat over de verdere gevolgen voor de zeven. Duidelijke grens Politie en het Openbaar Ministerie roepen op: kritiek hebben mag, maar er zijn tal van manieren om dit kenbaar te maken. Bij strafbare feiten trekken we een hele duidelijke grens. Daarnaast vertellen korte beeldfragmenten op sociale media vaak niet het hele verhaal. Geweld dat daar bijvoorbeeld op te zien is, wordt niet lichtzinnig gebruikt. Als de politie geweld heeft moeten toepassen, wordt dit altijd getoetst. Waar nodig kijken we kritisch naar ons eigen optreden. Meer informatie daarover, is te vinden in dit bericht.",
+    "locations": [
+      "Apeldoorn",
+      "Baarn",
+      "Barendrecht",
+      "Nijmegen",
+      "Ooltgensplaat",
+      "Voorthuizen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Apeldoorn",
+        "NL"
+      ],
+      [
+        "Baarn",
+        "NL"
+      ],
+      [
+        "Barendrecht",
+        "NL"
+      ],
+      [
+        "Nijmegen",
+        "NL"
+      ],
+      [
+        "Ooltgensplaat",
+        "NL"
+      ],
+      [
+        "Voorthuizen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Laan van Maten",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "f429c11a0452e5284762060dbb3f3088": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Uber schond rechten chauffeurs, AP legt megaboete van 825 miljoen op",
+    "url": "https://nos.nl/l/2627738",
+    "published": "Fri, 21 Aug 2026 15:33:32 +0200",
+    "summary": "<p>De Autoriteit Persoonsgegevens (AP) heeft Uber een boete van 825 miljoen euro opgelegd. Dat bevestigt de AP na een bericht van persbureau Reuters. Volgens de AP heeft het taxiplatform Europese dataregels overtreden: de taxidienst zou accounts van chauffeurs hebben gedeactiveerd via automatische systemen en zonder de chauffeurs daarover goed te informeren.</p>\n        <p>Uber zegt in een reactie in beroep te gaan tegen de boete. \"We zijn het fundamenteel oneens met dit besluit en vinden de hoogte van de boete disproportioneel.\"</p>\n        <p>Uber zegt verder dat er tegenwoordig mensen betrokken zijn bij dergelijke beslissingen. En chauffeurs kunnen bezwaar maken als ze gedeactiveerd worden.</p>\n        <h2>Menselijke check</h2>\n        <p>EU-regels verbieden dat een algoritme zelf beslissingen kan nemen als die beslissing een grote impact heeft op iemands leven. Zulke beslissingen moeten altijd ook langs mensen gaan. Ook moet degene over wie het gaat bezwaar kunnen maken.</p>\n        <p>Het gaat om gebeurtenissen tussen 2018 en 2022. Het begon bij klachten vanuit Frankrijk. Uber schorste tijdelijk chauffeurs die verdacht werden van fraude, bijvoorbeeld omdat ze onnodig omreden om zo meer te verdienen. De zaak is in Nederland behandeld omdat het Europese hoofdkantoor van Uber in Amsterdam zit.</p>\n        <p>Als de boete uiteindelijk standhoudt, dan gaat die 825 miljoen naar de Nederlandse schatkist. Dat zou dan een behoorlijke, eenmalige, meevaller zijn voor de overheid. Het gaat om zo'n 45 euro per inwoner van Nederland.</p>\n        <p>Het is de op een na grootste boete tot nu toe voor het overtreden van Europese privacy- en dataregels. De grootste was 1,2 miljard euro voor Meta door de Ierse privacy-waakhond. Daar ging het om gegevens van Europese Facebookgebruikers die tegen de regels in naar de VS waren verplaatst.</p>",
+    "full_text": "NOS Nieuws • gisteren, 15:33 • Aangepast gisteren, 16:37 De Autoriteit Persoonsgegevens (AP) heeft Uber een boete van 825 miljoen euro opgelegd. Dat bevestigt de AP na een bericht van persbureau Reuters. Volgens de AP heeft het taxiplatform Europese dataregels overtreden: de taxidienst zou accounts van chauffeurs hebben gedeactiveerd via automatische systemen en zonder de chauffeurs daarover goed te informeren. Uber zegt in een reactie in beroep te gaan tegen de boete. \"We zijn het fundamenteel oneens met dit besluit en vinden de hoogte van de boete disproportioneel.\" Uber zegt verder dat er tegenwoordig mensen betrokken zijn bij dergelijke beslissingen. En chauffeurs kunnen bezwaar maken als ze gedeactiveerd worden. Menselijke check EU-regels verbieden dat een algoritme zelf beslissingen kan nemen als die beslissing een grote impact heeft op iemands leven. Zulke beslissingen moeten altijd ook langs mensen gaan. Ook moet degene over wie het gaat bezwaar kunnen maken. Het gaat om gebeurtenissen tussen 2018 en 2022. Het begon bij klachten vanuit Frankrijk. Uber schorste tijdelijk chauffeurs die verdacht werden van fraude, bijvoorbeeld omdat ze onnodig omreden om zo meer te verdienen. De zaak is in Nederland behandeld omdat het Europese hoofdkantoor van Uber in Amsterdam zit. Als de boete uiteindelijk standhoudt, dan gaat die 825 miljoen naar de Nederlandse schatkist. Dat zou dan een behoorlijke, eenmalige, meevaller zijn voor de overheid. Het gaat om zo'n 45 euro per inwoner van Nederland. Het is de op een na grootste boete tot nu toe voor het overtreden van Europese privacy- en dataregels. De grootste was 1,2 miljard euro voor Meta door de Ierse privacy-waakhond. Daar ging het om gegevens van Europese Facebookgebruikers die tegen de regels in naar de VS waren verplaatst.",
+    "scraped_at": "2026-08-22T03:44:51.826596Z",
+    "id": "a7c94bb478cf21ec4d64e5113867d16d7370ced895114150b9887917189e63d7",
+    "canonical_url": "https://nos.nl/l/2627738",
+    "published_ts": "2026-08-21T13:33:32Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 15:33 • Aangepast gisteren, 16:37 De Autoriteit Persoonsgegevens (AP) heeft Uber een boete van 825 miljoen euro opgelegd. Dat bevestigt de AP na een bericht van persbureau Reuters. Volgens de AP heeft het taxiplatform Europese dataregels overtreden: de taxidienst zou accounts van chauffeurs hebben gedeactiveerd via automatische systemen en zonder de chauffeurs daarover goed te informeren. Uber zegt in een reactie in beroep te gaan tegen de boete. \"We zijn het fundamenteel oneens met dit besluit en vinden de hoogte van de boete disproportioneel.\" Uber zegt verder dat er tegenwoordig mensen betrokken zijn bij dergelijke beslissingen. En chauffeurs kunnen bezwaar maken als ze gedeactiveerd worden. Menselijke check EU-regels verbieden dat een algoritme zelf beslissingen kan nemen als die beslissing een grote impact heeft op iemands leven. Zulke beslissingen moeten altijd ook langs mensen gaan. Ook moet degene over wie het gaat bezwaar kunnen maken. Het gaat om gebeurtenissen tussen 2018 en 2022. Het begon bij klachten vanuit Frankrijk. Uber schorste tijdelijk chauffeurs die verdacht werden van fraude, bijvoorbeeld omdat ze onnodig omreden om zo meer te verdienen. De zaak is in Nederland behandeld omdat het Europese hoofdkantoor van Uber in Amsterdam zit. Als de boete uiteindelijk standhoudt, dan gaat die 825 miljoen naar de Nederlandse schatkist. Dat zou dan een behoorlijke, eenmalige, meevaller zijn voor de overheid. Het gaat om zo'n 45 euro per inwoner van Nederland. Het is de op een na grootste boete tot nu toe voor het overtreden van Europese privacy- en dataregels. De grootste was 1,2 miljard euro voor Meta door de Ierse privacy-waakhond. Daar ging het om gegevens van Europese Facebookgebruikers die tegen de regels in naar de VS waren verplaatst.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Autoriteit Persoonsgegevens",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "accounts van chauffeurs hebben",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }

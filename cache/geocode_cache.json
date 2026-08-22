@@ -1562,5 +1562,13 @@
   "Monnickendam": {
     "lat": 52.4570766,
     "lon": 5.0373214
+  },
+  "Ooltgensplaat": {
+    "lat": 51.6835834,
+    "lon": 4.3491363
+  },
+  "Voorthuizen": {
+    "lat": 52.1871648,
+    "lon": 5.6071994
   }
 }
