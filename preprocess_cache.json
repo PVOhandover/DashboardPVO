@@ -69794,5 +69794,77 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "c4925981fd50771d208dc30b06d921bc": {
+    "feed": "Politie.nl",
+    "title": "Vier verdachten aangehouden na achtervolging",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/22/05-vier-verdachten-aangehouden-na-achtervolging.html",
+    "published": "Sat, 22 Aug 2026 13:20:00 GMT",
+    "summary": "De politie heeft zaterdagochtend 22 augustus drie mannen en een vrouw aangehouden in de omgeving van de Johan Broedeletstraat in Nieuw-West. Dit gebeurde na een achtervolging met hoge snelheid die startte op de Schaepmanstraat (West).",
+    "full_text": "Agenten zagen iets voor 7.30 uur gedrag rond een taxi op de Schaepmanstraat dat het vermoeden deed ontstaan dat er mogelijk sprake was van de verkoop van drugs. Kort daarna stapten twee personen in de taxi. De agenten gaven de bestuurder daarop een stopteken. Aanvankelijk leek de bestuurder daaraan gehoor te geven, maar op het moment dat de agenten uitstapten, ging de taxi er alsnog vandoor. Tijdens de vlucht werden hoge snelheden gehaald en vertoonde de bestuurder gevaarlijk rijgedrag. De taxi reed in de richting van de Haarlemmerweg. Daarbij ging het ternauwernood goed met een fietser, die bijna werd aangereden. Ook een hardloopster moest op de fietsersbrug aan de Fanny Blankers-Koenlaan (West) wegspringen om een aanrijding te voorkomen. Klapband De vlucht ging vervolgens verder in de richting van de Jan van Galenstraat. Op de Johan Broedeletstraat (Nieuw-West) kreeg de taxi een klapband en kwam de achtervolging tot een einde. De bestuurder sprong uit de auto en vluchtte het water in. Agenten zagen dat hij daar meerdere zakjes in het water gooide. De drie andere inzittenden renden weg, maar konden korte tijd later in de nabije omgeving worden aangehouden. Ook de bestuurder - een 28-jarige man uit Hoofddorp - werd uiteindelijk uit het water gehaald en aangehouden. De andere drie aangehouden verdachten zijn Amsterdammers van 27 en 33 jaar oud en een Zaanse vrouw van 20 jaar oud. De politie doet verder onderzoek naar de zaak en naar de inhoud van de aangetroffen zakjes. Fietser Haarlemmerweg Ondanks de aanhoudingen zoekt de recherche naar getuigen. Zij worden opgeroepen zich te melden als zij iets hebben gezien of andere relevante informatie hebben voor het onderzoek. De politie komt in het bijzonder graag in contact met de fietser die op de Haarlemmerweg bijna werd aangereden en met andere getuigen van het gevaarlijke rijgedrag. Heb je informatie voor het onderzoeksteam? Laat het ons weten via 0900-8844 of onderstaand tipformulier. Liever anoniem, bel dan met Meld Misdaad Anoniem via 0800-7000.",
+    "scraped_at": "2026-08-23T03:55:05.561592Z",
+    "id": "5201b346064e758221a69642e374836594f320717d61a56dfe25a4124de8bead",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/22/05-vier-verdachten-aangehouden-na-achtervolging.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten zagen iets voor 7.30 uur gedrag rond een taxi op de Schaepmanstraat dat het vermoeden deed ontstaan dat er mogelijk sprake was van de verkoop van drugs. Kort daarna stapten twee personen in de taxi. De agenten gaven de bestuurder daarop een stopteken. Aanvankelijk leek de bestuurder daaraan gehoor te geven, maar op het moment dat de agenten uitstapten, ging de taxi er alsnog vandoor. Tijdens de vlucht werden hoge snelheden gehaald en vertoonde de bestuurder gevaarlijk rijgedrag. De taxi reed in de richting van de Haarlemmerweg. Daarbij ging het ternauwernood goed met een fietser, die bijna werd aangereden. Ook een hardloopster moest op de fietsersbrug aan de Fanny Blankers-Koenlaan (West) wegspringen om een aanrijding te voorkomen. Klapband De vlucht ging vervolgens verder in de richting van de Jan van Galenstraat. Op de Johan Broedeletstraat (Nieuw-West) kreeg de taxi een klapband en kwam de achtervolging tot een einde. De bestuurder sprong uit de auto en vluchtte het water in. Agenten zagen dat hij daar meerdere zakjes in het water gooide. De drie andere inzittenden renden weg, maar konden korte tijd later in de nabije omgeving worden aangehouden. Ook de bestuurder - een 28-jarige man uit Hoofddorp - werd uiteindelijk uit het water gehaald en aangehouden. De andere drie aangehouden verdachten zijn Amsterdammers van 27 en 33 jaar oud en een Zaanse vrouw van 20 jaar oud. De politie doet verder onderzoek naar de zaak en naar de inhoud van de aangetroffen zakjes. Fietser Haarlemmerweg Ondanks de aanhoudingen zoekt de recherche naar getuigen. Zij worden opgeroepen zich te melden als zij iets hebben gezien of andere relevante informatie hebben voor het onderzoek. De politie komt in het bijzonder graag in contact met de fietser die op de Haarlemmerweg bijna werd aangereden en met andere getuigen van het gevaarlijke rijgedrag. Heb je informatie voor het onderzoeksteam? Laat het ons weten via 0900-8844 of onderstaand tipformulier. Liever anoniem, bel dan met Meld Misdaad Anoniem via 0800-7000.",
+    "locations": [
+      "Fanny Blankers-Koenlaan"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nieuw-West",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615852497031,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Haarlemmerweg",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "West",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jan van Galenstraat",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Johan Broedeletstraat",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fietser Haarlemmerweg",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
   }
 }
