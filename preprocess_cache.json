@@ -69866,5 +69866,59 @@
     "all_sectors_in_article": [
       "49-53"
     ]
+  },
+  "c58422d8bffaac48331b116fd99d7834": {
+    "feed": "Politie.nl",
+    "title": "Werkend drugslab aangetroffen bij inval in Bergen op Zoom",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/23/08-werkend-drugslab-aangetroffen-bij-inval-in-bergen-op-zoom.html",
+    "published": "Sun, 23 Aug 2026 17:12:00 GMT",
+    "summary": "De politie heeft zondag 23 augustus een inval gedaan in een pand aan de Heerlesebaan in Bergen op Zoom. Dit gebeurde naar aanleiding van een langlopend onderzoek. Bij de inval is een werkend drugslab aangetroffen. Het lijkt erop dat hier verschillende typen drugs werden geproduceerd.",
+    "full_text": "De politie heeft twee verdachten aangehouden, een 32-jarige man uit Tholen en een 30-jarige man uit Hilversum. Stashlocatie Tholen Diezelfde dag deed de politie een inval op een locatie in Tholen. Deze locatie zou worden gebruikt als opslagplaats. De Forensische Opsporing heeft onderzoek verricht op beide locaties. Een gespecialiseerd bedrijf zal het aangetroffen drugslab op een veilige manier ontmantelen en ontruimen. Het onderzoek naar de betrokkenheid van de aangehouden verdachten en de aangetroffen locaties wordt voortgezet.",
+    "scraped_at": "2026-08-24T03:58:49.429069Z",
+    "id": "7b0046a5879c1aeb28057a75b544560f9730630cc4d797a9905fb5272a82ffc2",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/23/08-werkend-drugslab-aangetroffen-bij-inval-in-bergen-op-zoom.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft twee verdachten aangehouden, een 32-jarige man uit Tholen en een 30-jarige man uit Hilversum. Stashlocatie Tholen Diezelfde dag deed de politie een inval op een locatie in Tholen. Deze locatie zou worden gebruikt als opslagplaats. De Forensische Opsporing heeft onderzoek verricht op beide locaties. Een gespecialiseerd bedrijf zal het aangetroffen drugslab op een veilige manier ontmantelen en ontruimen. Het onderzoek naar de betrokkenheid van de aangehouden verdachten en de aangetroffen locaties wordt voortgezet.",
+    "locations": [
+      "Tholen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Tholen",
+        "NL"
+      ],
+      [
+        "Hilversum",
+        "NL"
+      ],
+      [
+        "Tholen",
+        "NL"
+      ],
+      [
+        "Tholen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Forensische Opsporing",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
   }
 }
