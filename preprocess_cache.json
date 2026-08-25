@@ -69920,5 +69920,66 @@
     "all_sectors_in_article": [
       "49-53"
     ]
+  },
+  "24a032cb22ea8327afbb4ce5204b877d": {
+    "feed": "Politie.nl",
+    "title": "Contant geld in beslag genomen bij illegaal pokertoernooi Hoofddorp",
+    "url": "https://www.politie.nl/nieuws/2026/augustus/24/04-contant-geld-in-beslag-genomen-bij-illegaal-pokertoernooi-hoofddorp.html",
+    "published": "Mon, 24 Aug 2026 10:32:00 GMT",
+    "summary": "De politie heeft zondag 23 augustus een illegaal pokertoernooi beëindigd in Hoofddorp. Daarbij namen agenten contant geld en fiches in beslag.",
+    "full_text": "Melding via Meld Misdaad Anoniem De politie ontving een tip via Meld Misdaad Anoniem. Omstreeks 16.00 uur troffen agenten een zaal met mensen aan. De aanwezigen zaten verdeeld over verschillende pokertafels. Dit was in een pand aan de IJweg in Hoofddorp. Handen op tafel Agenten gaven de aanwezigen de instructie om hun handen op tafel te houden. De politie legde uit wat het plan was. Daarna begeleidde de politie de personen één voor één naar buiten. De officier van dienst en de hulpofficier van justitie kwamen ter plaatse. Fouillering en inbeslagname Agenten controleerden en noteerden buiten de identiteit van de betrokkenen. Ook fouilleerde de politie de aanwezigen op het bezit van contant geld. De politie vroeg de betrokkenen naar de herkomst van het geld. Agenten vertelden hen daarbij dat zij niet tot antwoorden verplicht waren. De politie nam grote contante geldbedragen in beslag. Iedereen is heengezonden, het onderzoek loopt. De gemeente is in kennis gesteld. Doorzoeking door geldhond Een hondengeleider en een geldhond doorzochten de zaal. De hond rook een spoor, maar vond geen extra geld.  De fiches zijn in beslag genomen. Risico's van illegale pokertoernooien Witwassen, het aantrekken van criminaliteit en faciliteren van verslaving: Aan illegale goktoernooien zitten veel risico's voor de samenleving en de directe omgeving. Als u illegale gokpraktijken vermoedt, bel dan Meld Misdaad Anoniem: 0800-7000",
+    "scraped_at": "2026-08-25T03:53:49.628365Z",
+    "id": "a61d1455eab318855de6eb28bc9166b2efb0310cbc380dfcf83f4e5ed2b1f3df",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/augustus/24/04-contant-geld-in-beslag-genomen-bij-illegaal-pokertoernooi-hoofddorp.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Melding via Meld Misdaad Anoniem De politie ontving een tip via Meld Misdaad Anoniem. Omstreeks 16.00 uur troffen agenten een zaal met mensen aan. De aanwezigen zaten verdeeld over verschillende pokertafels. Dit was in een pand aan de IJweg in Hoofddorp. Handen op tafel Agenten gaven de aanwezigen de instructie om hun handen op tafel te houden. De politie legde uit wat het plan was. Daarna begeleidde de politie de personen één voor één naar buiten. De officier van dienst en de hulpofficier van justitie kwamen ter plaatse. Fouillering en inbeslagname Agenten controleerden en noteerden buiten de identiteit van de betrokkenen. Ook fouilleerde de politie de aanwezigen op het bezit van contant geld. De politie vroeg de betrokkenen naar de herkomst van het geld. Agenten vertelden hen daarbij dat zij niet tot antwoorden verplicht waren. De politie nam grote contante geldbedragen in beslag. Iedereen is heengezonden, het onderzoek loopt. De gemeente is in kennis gesteld. Doorzoeking door geldhond Een hondengeleider en een geldhond doorzochten de zaal. De hond rook een spoor, maar vond geen extra geld.  De fiches zijn in beslag genomen. Risico's van illegale pokertoernooien Witwassen, het aantrekken van criminaliteit en faciliteren van verslaving: Aan illegale goktoernooien zitten veel risico's voor de samenleving en de directe omgeving. Als u illegale gokpraktijken vermoedt, bel dan Meld Misdaad Anoniem: 0800-7000",
+    "locations": [
+      "Hoofddorp"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hoofddorp",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615609480185,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Agenten",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "86"
+    ]
   }
 }
