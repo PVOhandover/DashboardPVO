@@ -69981,5 +69981,159 @@
       "not_affected",
       "86"
     ]
+  },
+  "9f12ccfc2059d9409ea0ef2aaf2faa71": {
+    "feed": "L1 Nieuws",
+    "title": "OM wil kofferbakmoord en gewelddadige woningoverval samen behandelen",
+    "url": "https://www.l1nieuws.nl/nieuws/3225465/om-wil-kofferbakmoord-en-gewelddadige-woningoverval-samen-behandelen",
+    "published": "Tue, 25 Aug 2026 15:31:41 GMT",
+    "summary": "Wat hebben een brutale woningoverval en de beruchte kofferbakmoord met elkaar te maken? Volgens justitie is er een duidelijke link. Het Openbaar Ministerie wil de zaken daarom het liefst samen behandelen.",
+    "full_text": "Na de overval zou er ruzie zijn ontstaan over de verdeling van de buit, zo vermoedt de politie. Het conflict zou in de woning van Jorn S. hebben geleid tot de gewelddadige dood van de 46-jarige Mercelina. De 25-jarige Al B., die dinsdag voor de rechter moest verschijnen, wordt niet verdacht van betrokkenheid bij de dood van Mercelina. Wie wel nog verdacht wordt van betrokkenheid in de moordzaak is Wim S. uit Landgraaf.",
+    "scraped_at": "2026-08-26T03:57:19.079256Z",
+    "id": "94162806c6820cb5c3e7f20808d24fd6b715dd88c2bfd351c1059fbe6e11babb",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3225465/om-wil-kofferbakmoord-en-gewelddadige-woningoverval-samen-behandelen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Na de overval zou er ruzie zijn ontstaan over de verdeling van de buit, zo vermoedt de politie. Het conflict zou in de woning van Jorn S. hebben geleid tot de gewelddadige dood van de 46-jarige Mercelina. De 25-jarige Al B., die dinsdag voor de rechter moest verschijnen, wordt niet verdacht van betrokkenheid bij de dood van Mercelina. Wie wel nog verdacht wordt van betrokkenheid in de moordzaak is Wim S. uit Landgraaf.",
+    "locations": [
+      "Landgraaf"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Landgraaf",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.7609770012736969,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Jorn",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Mercelina",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mercelina",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Wim S.",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "62"
+    ]
+  },
+  "e86104d3d4a55513d0dfc245d2ad75b3": {
+    "feed": "L1 Nieuws",
+    "title": "Neergeschoten man bij politiebureau Sittard langer vast",
+    "url": "https://www.l1nieuws.nl/nieuws/3225135/neergeschoten-man-bij-politiebureau-sittard-langer-vast",
+    "published": "Tue, 25 Aug 2026 07:52:49 GMT",
+    "summary": "De 34-jarige man die in de nacht van donderdag op vrijdag werd neergeschoten bij het politiebureau in Sittard, wordt verdacht van poging tot moord en bedreiging.",
+    "full_text": "Het incident vond vrijdagnacht rond 1:00 uur plaats op het Stationsplein vlak bij het politiebureau in Sittard. Wat er precies is gebeurd, is nog onduidelijk. Aanleiding was een verdachte situatie. Een agent trok zijn vuurwapen en schoot op de man. De Nijmegenaar raakte gewond aan zijn been. Hij werd ter plaatse behandeld, aangehouden en vervolgens naar het ziekenhuis gebracht.",
+    "scraped_at": "2026-08-26T03:57:25.659754Z",
+    "id": "4833a8fcfb69a4f2549c91fda916e192b84b2e750036de017083cb710c35e33b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3225135/neergeschoten-man-bij-politiebureau-sittard-langer-vast",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het incident vond vrijdagnacht rond 1:00 uur plaats op het Stationsplein vlak bij het politiebureau in Sittard. Wat er precies is gebeurd, is nog onduidelijk. Aanleiding was een verdachte situatie. Een agent trok zijn vuurwapen en schoot op de man. De Nijmegenaar raakte gewond aan zijn been. Hij werd ter plaatse behandeld, aangehouden en vervolgens naar het ziekenhuis gebracht.",
+    "locations": [
+      "Sittard"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Sittard",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "b1502458e5dc5d7a0d0cabaf7042a40d": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Luchtvaartclaimorganisatie EUclaim failliet verklaard",
+    "url": "https://nos.nl/l/2628228",
+    "published": "Tue, 25 Aug 2026 11:04:39 +0200",
+    "summary": "<p>Claimorganisatie EUclaim is failliet. De organisatie, die namens reizigers claims voor vertragingen indient bij luchtvaartmaatschappen, vroeg eerder al uitstel van betaling aan. De rechtbank in Arnhem verklaarde het bedrijf gisteren failliet, zo blijkt uit rechtbankstukken. EUclaim bevestigt het faillissement aan de NOS.</p>\n        <p>De door de rechtbank aangestelde curator laat weten dat het bedrijf in de financiële problemen is geraakt sinds luchtvaartmaatschappijen zelf actiever reizigers zijn gaan wijzen op hun recht op compensatie bij vertragingen en geannuleerde vluchten. \"Daardoor is een behoorlijk deel van de markt voor EUclaim weggevallen, waardoor het bedrijf zelf in de problemen is gekomen.\"</p>\n        <p>De curator zegt dat zijn werk zich in eerste instantie richt op een doorstart van EUclaim. \"Iedereen blijft aan het werk. En ook klanten van EUclaim blijven hun betalingen van uitgekeerde claims ontvangen.\" Inmiddels zouden zich acht partijen bij de curator hebben gemeld om EUclaim over te nemen.</p>\n        <h2>Kofferchaos en winteruitval</h2>\n        <p>Het in Arnhem gevestigde EUclaim werd in 2007 opgericht om luchtvaartpassagiers te helpen met hun rechten bij vertragingen, omboekingen of geannuleerde vluchten. EUclaim zegt hiervoor dagelijks ruim 13 miljoen vlucht- en weergegevens te analyseren. Reizigers betalen alleen een vergoeding als een claim wordt toegewezen.</p>\n        <p>De afgelopen jaren kwam EUclaim in het nieuws met claims bij de <a href=\"https://nos.nl/nieuwsuur/artikel/2439096-chaos-op-schiphol-is-goudmijn-voor-claimclubs\">chaos met koffers</a> in 2022 op Schiphol en bij de uitval door het <a href=\"https://nos.nl/artikel/2597949-treinen-rijden-weer-volgens-normale-dienstregeling\">winterweer</a> van begin dit jaar.</p>",
+    "full_text": "NOS Nieuws • gisteren, 11:04 • Aangepast gisteren, 12:04 Claimorganisatie EUclaim is failliet. De organisatie, die namens reizigers claims voor vertragingen indient bij luchtvaartmaatschappen, vroeg eerder al uitstel van betaling aan. De rechtbank in Arnhem verklaarde het bedrijf gisteren failliet, zo blijkt uit rechtbankstukken. EUclaim bevestigt het faillissement aan de NOS. De door de rechtbank aangestelde curator laat weten dat het bedrijf in de financiële problemen is geraakt sinds luchtvaartmaatschappijen zelf actiever reizigers zijn gaan wijzen op hun recht op compensatie bij vertragingen en geannuleerde vluchten. \"Daardoor is een behoorlijk deel van de markt voor EUclaim weggevallen, waardoor het bedrijf zelf in de problemen is gekomen.\" De curator zegt dat zijn werk zich in eerste instantie richt op een doorstart van EUclaim. \"Iedereen blijft aan het werk. En ook klanten van EUclaim blijven hun betalingen van uitgekeerde claims ontvangen.\" Inmiddels zouden zich acht partijen bij de curator hebben gemeld om EUclaim over te nemen. Kofferchaos en winteruitval Het in Arnhem gevestigde EUclaim werd in 2007 opgericht om luchtvaartpassagiers te helpen met hun rechten bij vertragingen, omboekingen of geannuleerde vluchten. EUclaim zegt hiervoor dagelijks ruim 13 miljoen vlucht- en weergegevens te analyseren. Reizigers betalen alleen een vergoeding als een claim wordt toegewezen. De afgelopen jaren kwam EUclaim in het nieuws met claims bij de chaos met koffers in 2022 op Schiphol en bij de uitval door het winterweer van begin dit jaar.",
+    "scraped_at": "2026-08-26T03:56:16.065071Z",
+    "id": "3856300471bdc4fc1ef3e53b27ee6f12c5e304ef4c779b62710bf86bac348c2d",
+    "canonical_url": "https://nos.nl/l/2628228",
+    "published_ts": "2026-08-25T09:04:39Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 11:04 • Aangepast gisteren, 12:04 Claimorganisatie EUclaim is failliet. De organisatie, die namens reizigers claims voor vertragingen indient bij luchtvaartmaatschappen, vroeg eerder al uitstel van betaling aan. De rechtbank in Arnhem verklaarde het bedrijf gisteren failliet, zo blijkt uit rechtbankstukken. EUclaim bevestigt het faillissement aan de NOS. De door de rechtbank aangestelde curator laat weten dat het bedrijf in de financiële problemen is geraakt sinds luchtvaartmaatschappijen zelf actiever reizigers zijn gaan wijzen op hun recht op compensatie bij vertragingen en geannuleerde vluchten. \"Daardoor is een behoorlijk deel van de markt voor EUclaim weggevallen, waardoor het bedrijf zelf in de problemen is gekomen.\" De curator zegt dat zijn werk zich in eerste instantie richt op een doorstart van EUclaim. \"Iedereen blijft aan het werk. En ook klanten van EUclaim blijven hun betalingen van uitgekeerde claims ontvangen.\" Inmiddels zouden zich acht partijen bij de curator hebben gemeld om EUclaim over te nemen. Kofferchaos en winteruitval Het in Arnhem gevestigde EUclaim werd in 2007 opgericht om luchtvaartpassagiers te helpen met hun rechten bij vertragingen, omboekingen of geannuleerde vluchten. EUclaim zegt hiervoor dagelijks ruim 13 miljoen vlucht- en weergegevens te analyseren. Reizigers betalen alleen een vergoeding als een claim wordt toegewezen. De afgelopen jaren kwam EUclaim in het nieuws met claims bij de chaos met koffers in 2022 op Schiphol en bij de uitval door het winterweer van begin dit jaar.",
+    "locations": [
+      "Arnhem"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "claims",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
