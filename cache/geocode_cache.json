@@ -1574,5 +1574,9 @@
   "Fanny Blankers-Koenlaan": {
     "lat": 52.3746495,
     "lon": 4.8391875
+  },
+  "gemeente Amsterdam": {
+    "lat": 52.402572,
+    "lon": 4.935327
   }
 }
