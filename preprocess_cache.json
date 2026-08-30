@@ -70956,5 +70956,347 @@
       "62",
       "not_affected"
     ]
+  },
+  "05c302a2d30b03dd86508f8e6ae014dc": {
+    "feed": "L1 Nieuws",
+    "title": "Adviescommissie zegt nee tegen herziening Olaf H. maar deur blijft op kier",
+    "url": "https://www.l1nieuws.nl/nieuws/3227351/adviescommissie-zegt-nee-tegen-herziening-olaf-h-maar-deur-blijft-op-kier",
+    "published": "Sat, 29 Aug 2026 15:01:36 GMT",
+    "summary": "Het is nog altijd niet duidelijk of er een herziening volgt in de zaak Olaf H. Hij zit al 23 jaar vast in zijn levenslange gevangenisstraf voor de moord op het echtpaar Zwakhalen in Sittard, maar over zijn veroordeling zijn veel twijfels.",
+    "full_text": "Het is nog altijd niet duidelijk of er een herziening volgt in de zaak Olaf H. Hij zit al 23 jaar vast in zijn levenslange gevangenisstraf voor de moord op het echtpaar Zwakhalen in Sittard, maar over zijn veroordeling zijn veel twijfels. Ook H. houdt vol onschuldig te zijn. Adviescommissie Naar aanleiding van een zevendelige podcastserie over de zaak, liet advocaat Geert-Jan Knoops weten een herzieningsverzoek in te willen dienen bij de Hoge Raad. De kans dat dit een succes wordt, lijkt kleiner nu de Adviescommissie Afgesloten Strafzaken ACAS vooralsnog geen aanwijzingen ziet voor een herziening. Bij onderzoeksradioprogramma Argos liet Knoops donderdag weten een 80 pagina's lang verweerschrift tegen in te dienen. Verder legde de advocaat uit dat hij ook nog rechtstreeks naar de Hoge Raad kan stappen. ACAS adviseer de Hoge Raad als er een herzieningsverzoek binnenkomt over een zaak die al lang is afgesloten. Sporen Belangrijkste onderdeel van Knoops' herzieningsverzoek zijn dna-sporen die na de moord in Sittard op een tuinhek zijn gevonden. Die zijn nooit onderzocht, maar zouden volgens de advocaat een aanknopingspunt bieden voor een andere verdachte. Ook wil hij dat de patroonhulzen nog een keer op dna-sporen worden onderzocht, met de nieuwste technieken. Bewijs In 2003 werden Jo en Ine Zwakhalen in hun huis in Sittard doodgeschoten. Hun toen negen jaar oude kleindochter Audrey werd door het hoofd geschoten en raakte in coma. Eenmaal ontwaakt wees het meisje H. aan als dader. Deze verklaring, en getuigen die Olaf H. na de moord zagen wegrennen, bleken genoeg voor de veroordeling van H. Technisch bewijs was er niet. Omdat justitie ook niet gekeken heeft naar andere scenario's zijn er al lang twijfels over de veroordeling van Olaf H. Die werden onder meer geuit door studenten van de Universiteit Maastricht in het project 'Gerede Twijfel' en wetenschapsfilosoof Ton Derksen die een boek schreef over de zaak. Al in 2016 werd er een herzieningsverzoek ingediend, maar dat werd afgewezen.",
+    "scraped_at": "2026-08-30T09:03:12.549767Z",
+    "id": "5516ff114e003d337d95834e5ce9351669b44d0b232d4fce5a94d0c11ddae0c4",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3227351/adviescommissie-zegt-nee-tegen-herziening-olaf-h-maar-deur-blijft-op-kier",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het is nog altijd niet duidelijk of er een herziening volgt in de zaak Olaf H. Hij zit al 23 jaar vast in zijn levenslange gevangenisstraf voor de moord op het echtpaar Zwakhalen in Sittard, maar over zijn veroordeling zijn veel twijfels. Ook H. houdt vol onschuldig te zijn. Adviescommissie Naar aanleiding van een zevendelige podcastserie over de zaak, liet advocaat Geert-Jan Knoops weten een herzieningsverzoek in te willen dienen bij de Hoge Raad. De kans dat dit een succes wordt, lijkt kleiner nu de Adviescommissie Afgesloten Strafzaken ACAS vooralsnog geen aanwijzingen ziet voor een herziening. Bij onderzoeksradioprogramma Argos liet Knoops donderdag weten een 80 pagina's lang verweerschrift tegen in te dienen. Verder legde de advocaat uit dat hij ook nog rechtstreeks naar de Hoge Raad kan stappen. ACAS adviseer de Hoge Raad als er een herzieningsverzoek binnenkomt over een zaak die al lang is afgesloten. Sporen Belangrijkste onderdeel van Knoops' herzieningsverzoek zijn dna-sporen die na de moord in Sittard op een tuinhek zijn gevonden. Die zijn nooit onderzocht, maar zouden volgens de advocaat een aanknopingspunt bieden voor een andere verdachte. Ook wil hij dat de patroonhulzen nog een keer op dna-sporen worden onderzocht, met de nieuwste technieken. Bewijs In 2003 werden Jo en Ine Zwakhalen in hun huis in Sittard doodgeschoten. Hun toen negen jaar oude kleindochter Audrey werd door het hoofd geschoten en raakte in coma. Eenmaal ontwaakt wees het meisje H. aan als dader. Deze verklaring, en getuigen die Olaf H. na de moord zagen wegrennen, bleken genoeg voor de veroordeling van H. Technisch bewijs was er niet. Omdat justitie ook niet gekeken heeft naar andere scenario's zijn er al lang twijfels over de veroordeling van Olaf H. Die werden onder meer geuit door studenten van de Universiteit Maastricht in het project 'Gerede Twijfel' en wetenschapsfilosoof Ton Derksen die een boek schreef over de zaak. Al in 2016 werd er een herzieningsverzoek ingediend, maar dat werd afgewezen.",
+    "locations": [
+      "Sittard"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Sittard",
+        "DE"
+      ],
+      [
+        "Sittard",
+        "DE"
+      ],
+      [
+        "Sittard",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Geert-Jan Knoops",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Adviescommissie Afgesloten",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "ACAS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Argos liet",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "ACAS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Knoops",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Ine Zwakhalen",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Audrey",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Olaf H.",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "H. Technisch",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "d2efdd803617bced8aacd0c2421bd126": {
+    "feed": "Omroep West - Economie",
+    "title": "Onderzoek naar fraude bij fysio, eigenaar sluit praktijk",
+    "url": "https://www.omroepwest.nl/economie/5142182/onderzoek-naar-fraude-bij-fysio-eigenaar-sluit-praktijk",
+    "published": "Sat, 29 Aug 2026 17:00:00 GMT",
+    "summary": "Een fysiotherapeut uit Hillegom zou mogelijk hebben gefraudeerd met declaraties bij zorgverzekeraars. Dat blijkt uit een recent verslag van de curator, die onderzoek deed naar het bedrijf dat eind juli failliet werd verklaard. De fysiopraktijk sloot in oktober 2025 de deuren.",
+    "full_text": "HILLEGOM - Een fysiotherapeut uit Hillegom zou mogelijk hebben gefraudeerd met declaraties bij zorgverzekeraars. Dat blijkt uit een recent verslag van de curator, die onderzoek deed naar het bedrijf dat eind juli failliet werd verklaard. De fysiopraktijk sloot in oktober 2025 de deuren. De praktijk, Levolt Fysio, werd op 1 september 2024 opgericht en kwam voort uit de overname van fysiopraktijk De Bollenstreek. Aanvankelijk werkte er één fysiotherapeut. De onderneming was verbonden aan Skill Games Lab. Dat bedrijf was in maart 2023 opgericht met als doel: jongeren stimuleren om meer te bewegen. Skill Games Lab organiseerde testdagen bij voetbalclubs. Jeugdspelers werden onder meer getest op snelheid, schotkracht en behendigheid. De resultaten werden verwerkt in een digitaal voetbalkaartje, waarop de scores van de jonge spelers zichtbaar waren. Bij de testdagen was een externe fysiotherapeut betrokken. Deze hield zich onder meer bezig met de intake van deelnemers, persoonsgegevens, verzekeringsgegevens en het medisch dossier. Door de groei van de activiteiten werd besloten een eigen fysiopraktijk op te zetten. Met de overname van fysiopraktijk De Bollenstreek kreeg Levolt vanaf september 2024 een eigen praktijk. De werkzaamheden namen snel toe. Naast de reguliere praktijk waren er nog meer testdagen bij voetbalclubs en verschillende evenementen. In januari 2025 werden daarom twee extra medewerkers aangetrokken. Zij zouden zich onder meer bezighouden met sales en de operationele organisatie rond de testdagen. De groei bleek echter niet zonder problemen. In juni 2025 ontstond onrust onder de twee medewerkers. Na overleg besloten beide werknemers hun werkzaamheden te beëindigen. Waarom er gedoe was met de twee werknemers, wordt niet duidelijk uit het verslag. Ook rommelde het nog meer: vanaf eind augustus 2025 begonnen meerdere zorgverzekeraars vragen te stellen over de door de fysiopraktijk ingediende declaraties. Volgens het faillissementsverslag was er onduidelijkheid over declaraties die mogelijk niet door de fysiopraktijk hadden mogen worden ingediend. 'De bestuurder heeft hierover uitgebreid gecorrespondeerd met de zorgverzekeraars', zegt de curator. Toch kwam er een fraudeonderzoek. 'In korte tijd meldden ook andere zorgverzekeraars zich', aldus de curator. Daarmee stapelden de problemen zich in korte tijd op. Op 9 oktober 2025 besloot de bestuurder de fysiopraktijk te sluiten. Vanaf die datum werden de activiteiten van Levolt Fysio volledig beëindigd. Ook de de officiële registratie van de praktijk werd stopgezet. De BV bleef ondanks de sluiting bestaan, maar in juli dit jaar viel het doek. Een financiële dienstverlener vroeg het faillissement van Levolt Fysio B.V. aan. De curator doet verder onderzoek naar het faillissement.",
+    "scraped_at": "2026-08-30T09:03:28.807724Z",
+    "id": "fd8d2a3dc454a1048bf68877b377de7dbfa0d553dcd6ca801a0d325439a4e132",
+    "canonical_url": "https://www.omroepwest.nl/economie/5142182/onderzoek-naar-fraude-bij-fysio-eigenaar-sluit-praktijk",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "HILLEGOM - Een fysiotherapeut uit Hillegom zou mogelijk hebben gefraudeerd met declaraties bij zorgverzekeraars. Dat blijkt uit een recent verslag van de curator, die onderzoek deed naar het bedrijf dat eind juli failliet werd verklaard. De fysiopraktijk sloot in oktober 2025 de deuren. De praktijk, Levolt Fysio, werd op 1 september 2024 opgericht en kwam voort uit de overname van fysiopraktijk De Bollenstreek. Aanvankelijk werkte er één fysiotherapeut. De onderneming was verbonden aan Skill Games Lab. Dat bedrijf was in maart 2023 opgericht met als doel: jongeren stimuleren om meer te bewegen. Skill Games Lab organiseerde testdagen bij voetbalclubs. Jeugdspelers werden onder meer getest op snelheid, schotkracht en behendigheid. De resultaten werden verwerkt in een digitaal voetbalkaartje, waarop de scores van de jonge spelers zichtbaar waren. Bij de testdagen was een externe fysiotherapeut betrokken. Deze hield zich onder meer bezig met de intake van deelnemers, persoonsgegevens, verzekeringsgegevens en het medisch dossier. Door de groei van de activiteiten werd besloten een eigen fysiopraktijk op te zetten. Met de overname van fysiopraktijk De Bollenstreek kreeg Levolt vanaf september 2024 een eigen praktijk. De werkzaamheden namen snel toe. Naast de reguliere praktijk waren er nog meer testdagen bij voetbalclubs en verschillende evenementen. In januari 2025 werden daarom twee extra medewerkers aangetrokken. Zij zouden zich onder meer bezighouden met sales en de operationele organisatie rond de testdagen. De groei bleek echter niet zonder problemen. In juni 2025 ontstond onrust onder de twee medewerkers. Na overleg besloten beide werknemers hun werkzaamheden te beëindigen. Waarom er gedoe was met de twee werknemers, wordt niet duidelijk uit het verslag. Ook rommelde het nog meer: vanaf eind augustus 2025 begonnen meerdere zorgverzekeraars vragen te stellen over de door de fysiopraktijk ingediende declaraties. Volgens het faillissementsverslag was er onduidelijkheid over declaraties die mogelijk niet door de fysiopraktijk hadden mogen worden ingediend. 'De bestuurder heeft hierover uitgebreid gecorrespondeerd met de zorgverzekeraars', zegt de curator. Toch kwam er een fraudeonderzoek. 'In korte tijd meldden ook andere zorgverzekeraars zich', aldus de curator. Daarmee stapelden de problemen zich in korte tijd op. Op 9 oktober 2025 besloot de bestuurder de fysiopraktijk te sluiten. Vanaf die datum werden de activiteiten van Levolt Fysio volledig beëindigd. Ook de de officiële registratie van de praktijk werd stopgezet. De BV bleef ondanks de sluiting bestaan, maar in juli dit jaar viel het doek. Een financiële dienstverlener vroeg het faillissement van Levolt Fysio B.V. aan. De curator doet verder onderzoek naar het faillissement.",
+    "locations": [
+      "Hillegom"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hillegom",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "HILLEGOM",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Levolt Fysio",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jeugdspelers",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Levolt",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fysio B.V.",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "ace6d24d4d7e4cb0ab5e29ed3a6d4bd7": {
+    "feed": "RTV Noord",
+    "title": "Noodlijdend Groningen Airport Eelde richt pijlen op Prinsjesdag: ‘Ga ervan uit dat er iets komt’",
+    "url": "https://www.rtvnoord.nl/verkeer/1432653/noodlijdend-groningen-airport-eelde-richt-pijlen-op-prinsjesdag-ga-ervan-uit-dat-er-iets-komt",
+    "published": "Sat, 29 Aug 2026 10:00:00 GMT",
+    "summary": "De directie van Groningen Airport Eelde hoopt dat het kabinet richting Prinsjesdag besluit om de vliegbelasting voor kleine luchthavens te verminderen. Tegelijkertijd doemt een ander zwart scenario op: Lelystad Airport is bezig om zich klaar te stomen als luchthaven voor vakantievluchten.",
+    "full_text": "De directie van Groningen Airport Eelde hoopt dat het kabinet richting Prinsjesdag besluit om de vliegbelasting voor kleine luchthavens te verminderen. Tegelijkertijd doemt een ander zwart scenario op: Lelystad Airport is bezig om zich klaar te stomen als luchthaven voor vakantievluchten. Het bericht dat de vakantievluchten van AirBaltic vanaf Groningen Airport Eelde naar het Spaanse eiland Tenerife niet doorgaan, is een klap voor de noordelijke luchthaven. Eerder dit jaar werd bekend dat ook de bestemmingen Mallorca en Kos werden geschrapt, en het binnenhalen van Tenerife werd juist gevierd als tegenhanger van deze negatieve berichtgeving. Maar de Letse maatschappij AirBaltic gaat bezuinigen, krimpt haar vloot van 54 naar 36 toestellen en zet een streep door de vlucht Eelde - Tenerife. Directeur Meiltje de Groot van Groningen Airport Eelde is teleurgesteld. ‘Het is ontzettend jammer. Tenerife is een leuke bestemming en de boekingen daarvoor zouden eigenlijk nu moeten beginnen. Door de situatie in het Midden-Oosten en de stijgende brandstofprijzen heeft de luchtvaartmaatschappij besloten om die plannen aan te passen.’ Naast de stijgende brandstofprijzen heeft Eelde bovenmatig last van de vliegbelasting. De Groot vraagt al maandenlang aandacht voor de impact ervan. Volgens haar zorgt het voor oneerlijke concurrentie met Duitse luchthavens, die hierdoor lagere prijzen kunnen bieden. In juni kwam er een petitie voor het afzwakken van de vliegbelasting. Europese regelgeving maakt het mogelijk om kleine luchthavens te ontzien, waardoor Eelde interessanter wordt voor luchtvaartmaatschappijen. Eelde hoopt dat het kabinet rond Prinsjesdag duidelijkheid verschaft over de kwestie. De petitie en het onderzoek zijn in Den Haag onder de aandacht gebracht. De Groot verwacht compensatie van het kabinet, zo laat ze weten. ‘Uit de onderzoeken blijkt heel duidelijk dat Groningen Airport Eelde veel last heeft van de vliegbelasting. We hebben goed contact met het ministerie van Infrastructuur. Ik ga ervan uit dat het kabinet met iets komt. Het gaat voor de staatskas om ongeveer 1,8 miljoen euro aan vliegbelasting. Maar de economische effecten voor de regio zijn vele malen groter.' Ondertussen moet het kabinet dit jaar nog gaan handelen als het gaat om Lelystad Airport, een mogelijke concurrent van Eelde op het gebied van vakantievluchten. Deze luchthaven heeft in 2020 een natuurvergunning aangevraagd en de rechtbank in Arnhem heeft minister Jaimy van Essen de opdracht gegeven om nog dit jaar hierover een besluit te nemen. Het kabinet wil graag dat Lelystad Airport in 2027 start met vakantievluchten, en hiervoor is de natuurvergunning noodzakelijk. Het verlenen van een natuurvergunning voor Lelystad Airport is echter geen zekerheid, vertelden experts eerder aan NU.nl . In een straal van 25 kilometer rondom het vliegveld daalt namelijk te veel stikstof neer. De nabijgelegen Natura 2000-gebieden, zoals de Veluwe en de Weerribben, verkeren in slechte staat, legde hoogleraar Milieubeleid Raoul Beunen destijds uit. ‘De stikstofdepositie moet eerst flink naar beneden voordat ruimte kan worden gegeven aan nieuwe activiteiten.’ Dat is hoopvol voor Eelde, maar als het de minister wél lukt om met een deugdelijke onderbouwing te komen en Lelystad Airport alsnog open kan voor commerciële luchtvaart, is dat opnieuw een klap voor Groningen Airport Eelde. Ondertussen nemen politieke zorgen over de noordelijke luchthaven toe. De provincies Groningen en Drenthe hebben in 2023 een steunpakket gepresenteerd om tot 2033 46 miljoen in de luchthaven te steken. Dat geld is voornamelijk bedoeld om de kosten voor beveiliging, brandweer en onderhoudswerkzaamheden aan de infrastructuur te dekken. Exploitatieverliezen worden hier niet mee gedekt. De BBB, de grootste partij in de Groningen Staten, wil weten of het verlies van bestemmingen, de teruglopende passagiersaantallen en het verlies van 745.000 euro over 2025 voor problemen zorgen. Statenlid Harm Nieboer heeft vragen gesteld aan het provinciebestuur en wil weten of de lobby voor het afschaffen van de vliegbelasting kans van slagen heeft. ‘Vliegveld Eelde is heel gevoelig voor ontwikkelingen elders. Als er op Schiphol een lijn wegvalt, is dat vervelend, maar op Eelde heeft dat veel sneller gevolgen’, schetst hij de situatie. ‘De vragen die nu worden gesteld, zijn gebaseerd op onderliggende ontwikkelingen. De mogelijke opening van Lelystad Airport zit Eelde bijvoorbeeld in de weg, net als de vliegbelasting.’ Nieboer wil van het college weten in hoeverre het actief lobbyt om de vliegbelasting van tafel te krijgen. Het BBB-Statenlid is helder over een eventuele extra bijdrage: ‘Wij hebben altijd gezegd: de overheid moet de kosten voor de niet-economische diensten van algemeen belang (NEDAB) voor haar rekening nemen. Maar we willen geen geld bijleggen op de exploitatie.’ Nieboer verwacht binnen enkele weken antwoord te hebben op zijn vragen. Op dinsdag 15 september is het Prinsjesdag, dan zal duidelijk worden of Eelde de zo gewenste uitzonderingspositie krijgt als het gaat om de vliegbelasting.",
+    "scraped_at": "2026-08-30T09:04:05.165530Z",
+    "id": "492798f5fda0d2e5157e3ef0e53fa094467393b437b2b477e29df32259a64f6d",
+    "canonical_url": "https://www.rtvnoord.nl/verkeer/1432653/noodlijdend-groningen-airport-eelde-richt-pijlen-op-prinsjesdag-ga-ervan-uit-dat-er-iets-komt",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De directie van Groningen Airport Eelde hoopt dat het kabinet richting Prinsjesdag besluit om de vliegbelasting voor kleine luchthavens te verminderen. Tegelijkertijd doemt een ander zwart scenario op: Lelystad Airport is bezig om zich klaar te stomen als luchthaven voor vakantievluchten. Het bericht dat de vakantievluchten van AirBaltic vanaf Groningen Airport Eelde naar het Spaanse eiland Tenerife niet doorgaan, is een klap voor de noordelijke luchthaven. Eerder dit jaar werd bekend dat ook de bestemmingen Mallorca en Kos werden geschrapt, en het binnenhalen van Tenerife werd juist gevierd als tegenhanger van deze negatieve berichtgeving. Maar de Letse maatschappij AirBaltic gaat bezuinigen, krimpt haar vloot van 54 naar 36 toestellen en zet een streep door de vlucht Eelde - Tenerife. Directeur Meiltje de Groot van Groningen Airport Eelde is teleurgesteld. ‘Het is ontzettend jammer. Tenerife is een leuke bestemming en de boekingen daarvoor zouden eigenlijk nu moeten beginnen. Door de situatie in het Midden-Oosten en de stijgende brandstofprijzen heeft de luchtvaartmaatschappij besloten om die plannen aan te passen.’ Naast de stijgende brandstofprijzen heeft Eelde bovenmatig last van de vliegbelasting. De Groot vraagt al maandenlang aandacht voor de impact ervan. Volgens haar zorgt het voor oneerlijke concurrentie met Duitse luchthavens, die hierdoor lagere prijzen kunnen bieden. In juni kwam er een petitie voor het afzwakken van de vliegbelasting. Europese regelgeving maakt het mogelijk om kleine luchthavens te ontzien, waardoor Eelde interessanter wordt voor luchtvaartmaatschappijen. Eelde hoopt dat het kabinet rond Prinsjesdag duidelijkheid verschaft over de kwestie. De petitie en het onderzoek zijn in Den Haag onder de aandacht gebracht. De Groot verwacht compensatie van het kabinet, zo laat ze weten. ‘Uit de onderzoeken blijkt heel duidelijk dat Groningen Airport Eelde veel last heeft van de vliegbelasting. We hebben goed contact met het ministerie van Infrastructuur. Ik ga ervan uit dat het kabinet met iets komt. Het gaat voor de staatskas om ongeveer 1,8 miljoen euro aan vliegbelasting. Maar de economische effecten voor de regio zijn vele malen groter.' Ondertussen moet het kabinet dit jaar nog gaan handelen als het gaat om Lelystad Airport, een mogelijke concurrent van Eelde op het gebied van vakantievluchten. Deze luchthaven heeft in 2020 een natuurvergunning aangevraagd en de rechtbank in Arnhem heeft minister Jaimy van Essen de opdracht gegeven om nog dit jaar hierover een besluit te nemen. Het kabinet wil graag dat Lelystad Airport in 2027 start met vakantievluchten, en hiervoor is de natuurvergunning noodzakelijk. Het verlenen van een natuurvergunning voor Lelystad Airport is echter geen zekerheid, vertelden experts eerder aan NU.nl . In een straal van 25 kilometer rondom het vliegveld daalt namelijk te veel stikstof neer. De nabijgelegen Natura 2000-gebieden, zoals de Veluwe en de Weerribben, verkeren in slechte staat, legde hoogleraar Milieubeleid Raoul Beunen destijds uit. ‘De stikstofdepositie moet eerst flink naar beneden voordat ruimte kan worden gegeven aan nieuwe activiteiten.’ Dat is hoopvol voor Eelde, maar als het de minister wél lukt om met een deugdelijke onderbouwing te komen en Lelystad Airport alsnog open kan voor commerciële luchtvaart, is dat opnieuw een klap voor Groningen Airport Eelde. Ondertussen nemen politieke zorgen over de noordelijke luchthaven toe. De provincies Groningen en Drenthe hebben in 2023 een steunpakket gepresenteerd om tot 2033 46 miljoen in de luchthaven te steken. Dat geld is voornamelijk bedoeld om de kosten voor beveiliging, brandweer en onderhoudswerkzaamheden aan de infrastructuur te dekken. Exploitatieverliezen worden hier niet mee gedekt. De BBB, de grootste partij in de Groningen Staten, wil weten of het verlies van bestemmingen, de teruglopende passagiersaantallen en het verlies van 745.000 euro over 2025 voor problemen zorgen. Statenlid Harm Nieboer heeft vragen gesteld aan het provinciebestuur en wil weten of de lobby voor het afschaffen van de vliegbelasting kans van slagen heeft. ‘Vliegveld Eelde is heel gevoelig voor ontwikkelingen elders. Als er op Schiphol een lijn wegvalt, is dat vervelend, maar op Eelde heeft dat veel sneller gevolgen’, schetst hij de situatie. ‘De vragen die nu worden gesteld, zijn gebaseerd op onderliggende ontwikkelingen. De mogelijke opening van Lelystad Airport zit Eelde bijvoorbeeld in de weg, net als de vliegbelasting.’ Nieboer wil van het college weten in hoeverre het actief lobbyt om de vliegbelasting van tafel te krijgen. Het BBB-Statenlid is helder over een eventuele extra bijdrage: ‘Wij hebben altijd gezegd: de overheid moet de kosten voor de niet-economische diensten van algemeen belang (NEDAB) voor haar rekening nemen. Maar we willen geen geld bijleggen op de exploitatie.’ Nieboer verwacht binnen enkele weken antwoord te hebben op zijn vragen. Op dinsdag 15 september is het Prinsjesdag, dan zal duidelijk worden of Eelde de zo gewenste uitzonderingspositie krijgt als het gaat om de vliegbelasting.",
+    "locations": [
+      "Groningen",
+      "Groningen",
+      "Spaanse eiland Tenerife",
+      "juist",
+      "Eelde",
+      "Eelde",
+      "Eelde",
+      "Eelde",
+      "Den Haag",
+      "Groningen",
+      "Eelde",
+      "Arnhem",
+      "Eelde",
+      "Groningen",
+      "Drenthe",
+      "Eelde",
+      "Eelde"
+    ],
+    "country": "NL",
+    "country_score": 0.6875,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "juist",
+        "DE"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Arnhem",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Drenthe",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Kos",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Directeur Meiltje",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lelystad Airport",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jaimy van Essen",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lelystad Airport",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lelystad Airport",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Weerribben",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lelystad Airport",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Groningen Airport",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Groningen Staten",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
