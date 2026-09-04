@@ -72138,5 +72138,442 @@
       "62",
       "not_affected"
     ]
+  },
+  "967d0db59daf5d7c0ab628a5adebded0": {
+    "feed": "L1 Nieuws",
+    "title": "Dronken op zitting en tijdens politieverhoor: Maastrichtse advocate geschorst",
+    "url": "https://www.l1nieuws.nl/nieuws/3229512/dronken-op-zitting-en-tijdens-politieverhoor-maastrichtse-advocate-geschorst",
+    "published": "Thu, 03 Sep 2026 13:40:29 GMT",
+    "summary": "Een advocate uit Maastricht mag haar werk voorlopig niet meer uitvoeren vanwege drankmisbruik. Dat heeft de Raad van Discipline bepaald. De vrouw was meerdere keren onder invloed van alcohol terwijl ze aan het werk was.",
+    "full_text": "Een advocate uit Maastricht mag haar werk voorlopig niet meer uitvoeren vanwege drankmisbruik. Dat heeft de Raad van Discipline bepaald. De vrouw was meerdere keren onder invloed van alcohol terwijl ze aan het werk was. De raadsvrouw in kwestie heeft een eenmanszaak in Maastricht. Ze doet vooral strafzaken. In juni 2024 werd ze al eens aangehouden wegens rijden onder invloed. Ze had toen een alcoholpromillage van 2,25 in haar bloed. In maart van dit jaar verscheen ze te laat en onder invloed van alcohol op een hoorzitting van het Openbaar Ministerie (OM). Ze moest daar een minderjarige cliënt bijstaan. De raadsvrouw was erg verward en rook naar alcohol. Ze gaf toe dat ze niet had geslapen en alcohol had gedronken. Ze werd daarop vervangen door een andere advocaat. Na dat incident beloofde de advocate beterschap, aan de deken van advocaten. De deken is de toezichthouder op advocaten. Maar in juni ging het opnieuw mis, dit keer tijdens een politieverhoor. Ze maakte daar een dronken indruk en belde zes keer met het OM en vijftien keer met het cellencomplex. De mensen met wie ze sprak, gaven aan dat ze het vermoeden hadden dat de vrouw had gedronken. Ze gaf dat ook toe. In een nieuw gesprek met de deken zei ze te willen stoppen als advocaat. De deken stemde daarmee in, maar later kwam de advocate terug op haar besluit en wilde ze toch haar werkzaamheden voortzetten. Daarop heeft de deken de Raad van Discipline gevraagd haar voorlopig te schorsen. De raad heeft dat nu gedaan. In de uitspraak staat dat de vrouw pas als advocate kan terugkeren als ze zich heeft laten behandelen in een afkickkliniek en een jaar lang van de alcohol afblijft. Tegen dit besluit kan ze nog in beroep gaan.",
+    "scraped_at": "2026-09-04T07:51:19.239969Z",
+    "id": "e71cd11dedad8fa2dc3bf0a4f76ae6c34c3c41bce5bd4b9b7371856f2101e00b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3229512/dronken-op-zitting-en-tijdens-politieverhoor-maastrichtse-advocate-geschorst",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een advocate uit Maastricht mag haar werk voorlopig niet meer uitvoeren vanwege drankmisbruik. Dat heeft de Raad van Discipline bepaald. De vrouw was meerdere keren onder invloed van alcohol terwijl ze aan het werk was. De raadsvrouw in kwestie heeft een eenmanszaak in Maastricht. Ze doet vooral strafzaken. In juni 2024 werd ze al eens aangehouden wegens rijden onder invloed. Ze had toen een alcoholpromillage van 2,25 in haar bloed. In maart van dit jaar verscheen ze te laat en onder invloed van alcohol op een hoorzitting van het Openbaar Ministerie (OM). Ze moest daar een minderjarige cliënt bijstaan. De raadsvrouw was erg verward en rook naar alcohol. Ze gaf toe dat ze niet had geslapen en alcohol had gedronken. Ze werd daarop vervangen door een andere advocaat. Na dat incident beloofde de advocate beterschap, aan de deken van advocaten. De deken is de toezichthouder op advocaten. Maar in juni ging het opnieuw mis, dit keer tijdens een politieverhoor. Ze maakte daar een dronken indruk en belde zes keer met het OM en vijftien keer met het cellencomplex. De mensen met wie ze sprak, gaven aan dat ze het vermoeden hadden dat de vrouw had gedronken. Ze gaf dat ook toe. In een nieuw gesprek met de deken zei ze te willen stoppen als advocaat. De deken stemde daarmee in, maar later kwam de advocate terug op haar besluit en wilde ze toch haar werkzaamheden voortzetten. Daarop heeft de deken de Raad van Discipline gevraagd haar voorlopig te schorsen. De raad heeft dat nu gedaan. In de uitspraak staat dat de vrouw pas als advocate kan terugkeren als ze zich heeft laten behandelen in een afkickkliniek en een jaar lang van de alcohol afblijft. Tegen dit besluit kan ze nog in beroep gaan.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Raad van Discipline bepaald",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Raad van Discipline",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "1b6f216e03f21e50a0bca1c06055abcc": {
+    "feed": "L1 Nieuws",
+    "title": "Ouders krijgen namen van ondertekenaars euthanasiebrief Milou",
+    "url": "https://www.l1nieuws.nl/nieuws/3229366/ouders-krijgen-namen-van-ondertekenaars-euthanasiebrief-milou",
+    "published": "Thu, 03 Sep 2026 09:36:24 GMT",
+    "summary": "De euthanasiebrief met daarop de namen van alle veertien ondertekenaars in de zaak rond de 17-jarige Milou Verhoof, wordt aan de ouders verstrekt.",
+    "full_text": "De euthanasiebrief met daarop de namen van alle veertien ondertekenaars in de zaak rond de 17-jarige Milou Verhoof, wordt aan de ouders verstrekt. Dat heeft de rechtbank in Den Haag donderdagochtend bepaald, nadat de ouders van de in 2023 overleden Milou in een kort geding om de openbaring hadden gevraagd. In de brief, in 2024 verzonden en ondertekend door veertien artsen, zou een aantal van hen aan het OM hebben gevraagd om een verkennend onderzoek te starten naar de ouders en de behandelaars van de jonge vrouw. Justitie liet eerder al weten de brief niet zo te interpreteren. De ouders vinden dat zij in de brief ten onrechte beschuldigd worden van het beïnvloeden van de keuze en de wilsbekwaamheid van hun dochter, die euthanasie kreeg om uitzichtloos en ondraaglijk psychisch lijden. Ze spanden daarom een kort geding aan om achter de identiteit van de ondertekenaars te komen. Zij willen de artsen via de rechter en het tuchtrecht ter verantwoording roepen. Het OM vond dat het de brief alleen hoefde te verstrekken als daar een Wet open overheid-verzoek voor werd ingediend. Justitie liet eerder al weten grote waarde te hechten aan anonieme meldingen en vond het niet \"haar rol\" om de namen vrij te geven. Het OM benadrukte daarbij dat de artsen in de brief volgens hen geen verzoek hadden gedaan om een onderzoek naar de ouders te starten. Dat zou ook nooit zijn overwogen, omdat een Regionale Toetsingscommissie Euthanasie eerder al had geoordeeld dat de euthanasie volledig zorgvuldig was uitgevoerd. De voorzieningenrechter, die spreekt van \"uitzonderlijke omstandigheden\", gaat daar niet in mee en meent dat de ouders nog steeds grote gevolgen ondervinden van \"de in de brief geuite beschuldigingen\". Zonder de namen van de ondertekenaars zouden de ouders deze niet kunnen aanspreken op de inhoud van de brief. Ook speelt mee dat in de brief niet stond dat deze vertrouwelijk was en dat een van de ondertekenaars het bestaan van de brief zelf via de media bekend heeft gemaakt. De ouders van Milou, die eerder vertelden na de brief doodsbedreigingen te hebben ontvangen, moeten de brief binnen vijf werkdagen in handen hebben. De ouders mogen de namen van de ondertekenaars alleen gebruiken om hen rechtstreeks aan te schrijven of voor het ondernemen van juridische stappen. Documentaire De euthanasie van de Brabantse Milou (17) kwam landelijk in het nieuws na de documentaire van documentairemaker Bart Hölscher uit Baarlo, die eerder ook te zien was bij L1. Na een jarenlange psychische strijd koos zij voor euthanasie. In de documentaire komen onder andere de ouders en psychiater van Milou aan het woord. De documentaire werd dit jaar genomineerd voor een Gouden Televizier-Ring in de categorie Impact. Ook werd hij ingezonden naar de Emmy Awards. Die Amerikaanse televisieprijzen worden in september uitgereikt. Denk je aan zelfdoding of maak je je zorgen om iemand? Praten over zelfdoding of euthanasie kan anoniem via de chat op www.113.nl of telefonisch op 113 of 0800-0113.",
+    "scraped_at": "2026-09-04T07:51:23.015444Z",
+    "id": "cc11114b61e7e3c2e820d816d20dbeb0b0b2cbc965b626b7eda0fcab664224fb",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3229366/ouders-krijgen-namen-van-ondertekenaars-euthanasiebrief-milou",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De euthanasiebrief met daarop de namen van alle veertien ondertekenaars in de zaak rond de 17-jarige Milou Verhoof, wordt aan de ouders verstrekt. Dat heeft de rechtbank in Den Haag donderdagochtend bepaald, nadat de ouders van de in 2023 overleden Milou in een kort geding om de openbaring hadden gevraagd. In de brief, in 2024 verzonden en ondertekend door veertien artsen, zou een aantal van hen aan het OM hebben gevraagd om een verkennend onderzoek te starten naar de ouders en de behandelaars van de jonge vrouw. Justitie liet eerder al weten de brief niet zo te interpreteren. De ouders vinden dat zij in de brief ten onrechte beschuldigd worden van het beïnvloeden van de keuze en de wilsbekwaamheid van hun dochter, die euthanasie kreeg om uitzichtloos en ondraaglijk psychisch lijden. Ze spanden daarom een kort geding aan om achter de identiteit van de ondertekenaars te komen. Zij willen de artsen via de rechter en het tuchtrecht ter verantwoording roepen. Het OM vond dat het de brief alleen hoefde te verstrekken als daar een Wet open overheid-verzoek voor werd ingediend. Justitie liet eerder al weten grote waarde te hechten aan anonieme meldingen en vond het niet \"haar rol\" om de namen vrij te geven. Het OM benadrukte daarbij dat de artsen in de brief volgens hen geen verzoek hadden gedaan om een onderzoek naar de ouders te starten. Dat zou ook nooit zijn overwogen, omdat een Regionale Toetsingscommissie Euthanasie eerder al had geoordeeld dat de euthanasie volledig zorgvuldig was uitgevoerd. De voorzieningenrechter, die spreekt van \"uitzonderlijke omstandigheden\", gaat daar niet in mee en meent dat de ouders nog steeds grote gevolgen ondervinden van \"de in de brief geuite beschuldigingen\". Zonder de namen van de ondertekenaars zouden de ouders deze niet kunnen aanspreken op de inhoud van de brief. Ook speelt mee dat in de brief niet stond dat deze vertrouwelijk was en dat een van de ondertekenaars het bestaan van de brief zelf via de media bekend heeft gemaakt. De ouders van Milou, die eerder vertelden na de brief doodsbedreigingen te hebben ontvangen, moeten de brief binnen vijf werkdagen in handen hebben. De ouders mogen de namen van de ondertekenaars alleen gebruiken om hen rechtstreeks aan te schrijven of voor het ondernemen van juridische stappen. Documentaire De euthanasie van de Brabantse Milou (17) kwam landelijk in het nieuws na de documentaire van documentairemaker Bart Hölscher uit Baarlo, die eerder ook te zien was bij L1. Na een jarenlange psychische strijd koos zij voor euthanasie. In de documentaire komen onder andere de ouders en psychiater van Milou aan het woord. De documentaire werd dit jaar genomineerd voor een Gouden Televizier-Ring in de categorie Impact. Ook werd hij ingezonden naar de Emmy Awards. Die Amerikaanse televisieprijzen worden in september uitgereikt. Denk je aan zelfdoding of maak je je zorgen om iemand? Praten over zelfdoding of euthanasie kan anoniem via de chat op www.113.nl of telefonisch op 113 of 0800-0113.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Milou Verhoof",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Regionale Toetsingscommissie Euthanasie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Brabantse Milou",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bart Hölscher",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "categorie Impact",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Emmy Awards",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "f9bd86fa3d3b955f99832a6cddd32400": {
+    "feed": "L1 Nieuws",
+    "title": "Vruchtbare controledagen politie in Zuid-Nederland",
+    "url": "https://www.l1nieuws.nl/nieuws/3228868/vruchtbare-controledagen-politie-in-zuid-nederland",
+    "published": "Wed, 02 Sep 2026 10:13:50 GMT",
+    "summary": "Tijdens speciale controledagen in de drie zuidelijke provincies heeft de politie in totaal 1233 bestuurders bekeurd voor het vasthouden van een telefoon tijdens het rijden.",
+    "full_text": "Tijdens speciale controledagen in de drie zuidelijke provincies heeft de politie in totaal 1233 bestuurders bekeurd voor het vasthouden van een telefoon tijdens het rijden. Op dertien dagen werd gecontroleerd in Limburg, Noord-Brabant en Zeeland. Daarbij werd ook een speciale touringcar ingezet die het makkelijker maakt voor agenten om overtredingen van bovenaf te zien. 864 van de 1233 bekeuringen werden dankzij die touringcar uitgedeeld. Hoeveel van die bekeuringen op de Limburgse wegen zijn uitgeschreven, zegt de politie niet. In de komende maanden zijn nog meer actiedagen gepland. De boete voor het vasthouden van een telefoon tijdens het rijden is 440 euro.",
+    "scraped_at": "2026-09-04T07:51:30.281665Z",
+    "id": "a560058112dbd301fe44fef182a1ae3dcd0d3b5cf1fe8d9920a9981369daf283",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3228868/vruchtbare-controledagen-politie-in-zuid-nederland",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens speciale controledagen in de drie zuidelijke provincies heeft de politie in totaal 1233 bestuurders bekeurd voor het vasthouden van een telefoon tijdens het rijden. Op dertien dagen werd gecontroleerd in Limburg, Noord-Brabant en Zeeland. Daarbij werd ook een speciale touringcar ingezet die het makkelijker maakt voor agenten om overtredingen van bovenaf te zien. 864 van de 1233 bekeuringen werden dankzij die touringcar uitgedeeld. Hoeveel van die bekeuringen op de Limburgse wegen zijn uitgeschreven, zegt de politie niet. In de komende maanden zijn nog meer actiedagen gepland. De boete voor het vasthouden van een telefoon tijdens het rijden is 440 euro.",
+    "locations": [
+      "Limburg",
+      "Noord-Brabant",
+      "Zeeland"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Noord-Brabant",
+        "NL"
+      ],
+      [
+        "Zeeland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "3ee09d18516b9d85c6ad59633c109f9e": {
+    "feed": "Politie.nl",
+    "title": "Drugslab opgerold",
+    "url": "https://www.politie.nl/nieuws/2026/september/3/09-drugslab-opgerold.html",
+    "published": "Thu, 03 Sep 2026 16:45:00 GMT",
+    "summary": "De politie heeft donderdagochtend in het Belgische Pelt een drugslab opgerold. Daar werden ook drie verdachten aangehouden. Tegelijkertijd vond een doorzoeking plaats in een woning in Valkenswaard. Daar werd hardware voor de vervaardiging van synthetische drugs in beslag genomen.",
+    "full_text": "De Nederlandse politie startte, onder leiding van het Openbaar Ministerie Oost-Brabant een groot onderzoek nadat een bedrijf in Valkenswaard in beeld kwam vanwege grote bestellingen chemicaliën. Het vermoeden bestond dat deze chemicaliën gebruikt werden voor de productie van synthetische drugs. Dit onderzoek leidde uiteindelijk tot de actie op donderdag 3 september 2026. Pelt Daarbij werd, in goede samenwerking met de Belgische politie, om 7.00 uur een instap gedaan in een loods achter een woning aan de Jos Verlindenstraat in Pelt, België.  In die loods werd een werkend drugslab aangetroffen. Uit eerste onderzoek blijkt dat hier een grondstof werd geproduceerd die wordt gebruik bij het versnijden van cocaïne. In totaal werden enkele tientallen kilo’s van de grondstof in beslag genomen. Ook werden drie verdachten aangehouden. Het gaat om een man van 41 uit Valkenswaard, een man van 45 uit Eindhoven en een 41-jarige man uit Pelt. Het drugslab is door specialisten van de Belgische en Nederlandse politie ontmanteld. Valkenswaard Tegelijk met de actie in Pelt werd ook een doorzoeking gedaan bij de woning van de verdachte uit Valkenswaard. Daar werden diverse goederen in beslag genomen die kunnen worden gebruikt voor de productie van synthetische drugs, zoals gasmaskers en een ketel. Alle drie de verdachten zitten vast voor verder onderzoek. Hoe herken je een drugslab? Drugslabs kunnen zich overal bevinden; op het platteland of in de grote stad, in boerenschuren, woonhuizen, garageboxen of in flatgebouwen. Tekenen dat er zich een drugslab bevindt zijn bijvoorbeeld de aanwezigheid van een sterke synthetische geur (anijsachtig of chemisch prikkelend, zurig of aceton). Ook zijn ongebruikte deuren en ramen vaak afgedicht, bijvoorbeeld met purschuim. Er is ook vaak sprake van verdachte activiteiten op vreemde plekken en/of tijdstippen. Zo kan het zijn dat er vaak busjes of voertuigen bij het pand komen voor het aan- en afvoeren van goederen. Kijk voor meer informatie op deze speciale themapagina van de politie. Vermoeden productie of opslag drugs? Meld het! Heb je het vermoeden van een productielocatie voor drugs in je omgeving? Bel dan de politie via 112. Anoniem melden kan bij M. via 0800-7000. Meld Misdaad Anoniem staat los van de politie en meldingen zijn voor agenten nooit terug te herleiden naar een melder. Als je vertrouwelijk met de politie wilt spreken, kun je ook contact opnemen met Team Nationale Inlichtingen (088-6617734). Zij mogen de identiteit van hun bronnen afschermen. ===== Ter info: De foto bij dit artikel betreft een stockfoto en is ter illustratie.",
+    "scraped_at": "2026-09-04T07:51:14.626937Z",
+    "id": "1e797d0f1535474308bd911d2744f9d9b11ac5ef098081614ea4d40d19086083",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/3/09-drugslab-opgerold.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De Nederlandse politie startte, onder leiding van het Openbaar Ministerie Oost-Brabant een groot onderzoek nadat een bedrijf in Valkenswaard in beeld kwam vanwege grote bestellingen chemicaliën. Het vermoeden bestond dat deze chemicaliën gebruikt werden voor de productie van synthetische drugs. Dit onderzoek leidde uiteindelijk tot de actie op donderdag 3 september 2026. Pelt Daarbij werd, in goede samenwerking met de Belgische politie, om 7.00 uur een instap gedaan in een loods achter een woning aan de Jos Verlindenstraat in Pelt, België.  In die loods werd een werkend drugslab aangetroffen. Uit eerste onderzoek blijkt dat hier een grondstof werd geproduceerd die wordt gebruik bij het versnijden van cocaïne. In totaal werden enkele tientallen kilo’s van de grondstof in beslag genomen. Ook werden drie verdachten aangehouden. Het gaat om een man van 41 uit Valkenswaard, een man van 45 uit Eindhoven en een 41-jarige man uit Pelt. Het drugslab is door specialisten van de Belgische en Nederlandse politie ontmanteld. Valkenswaard Tegelijk met de actie in Pelt werd ook een doorzoeking gedaan bij de woning van de verdachte uit Valkenswaard. Daar werden diverse goederen in beslag genomen die kunnen worden gebruikt voor de productie van synthetische drugs, zoals gasmaskers en een ketel. Alle drie de verdachten zitten vast voor verder onderzoek. Hoe herken je een drugslab? Drugslabs kunnen zich overal bevinden; op het platteland of in de grote stad, in boerenschuren, woonhuizen, garageboxen of in flatgebouwen. Tekenen dat er zich een drugslab bevindt zijn bijvoorbeeld de aanwezigheid van een sterke synthetische geur (anijsachtig of chemisch prikkelend, zurig of aceton). Ook zijn ongebruikte deuren en ramen vaak afgedicht, bijvoorbeeld met purschuim. Er is ook vaak sprake van verdachte activiteiten op vreemde plekken en/of tijdstippen. Zo kan het zijn dat er vaak busjes of voertuigen bij het pand komen voor het aan- en afvoeren van goederen. Kijk voor meer informatie op deze speciale themapagina van de politie. Vermoeden productie of opslag drugs? Meld het! Heb je het vermoeden van een productielocatie voor drugs in je omgeving? Bel dan de politie via 112. Anoniem melden kan bij M. via 0800-7000. Meld Misdaad Anoniem staat los van de politie en meldingen zijn voor agenten nooit terug te herleiden naar een melder. Als je vertrouwelijk met de politie wilt spreken, kun je ook contact opnemen met Team Nationale Inlichtingen (088-6617734). Zij mogen de identiteit van hun bronnen afschermen. ===== Ter info: De foto bij dit artikel betreft een stockfoto en is ter illustratie.",
+    "locations": [
+      "Pelt"
+    ],
+    "country": "BE",
+    "country_score": 0.8,
+    "country_evidence": [
+      [
+        "Pelt",
+        "BE"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Pelt",
+        "BE"
+      ],
+      [
+        "Pelt",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "45",
+      "sector_name": "Wholesale and retail trade and repair of motor vehicles"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie Oost-Brabant",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Pelt Daarbij",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jos Verlindenstraat",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "Valkenswaard Tegelijk",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Kijk",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Team Nationale Inlichtingen",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      },
+      {
+        "company_name": "088-6617734",
+        "sector_code": "45",
+        "sector_name": "Wholesale and retail trade and repair of motor vehicles",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "45"
+    ]
+  },
+  "f803779d2c1fa47eecf4ecd4523cf34c": {
+    "feed": "Politie.nl",
+    "title": "Update: nog twee minderjarigen aangehouden voor plaatsen explosief bij woning",
+    "url": "https://www.politie.nl/nieuws/2026/september/3/06-aanhouding-minderjarige-voor-plaatsen-explosief-bij-woning.html",
+    "published": "Thu, 03 Sep 2026 15:35:00 GMT",
+    "summary": "In de vroege ochtend van woensdag 2 september is er een mogelijk explosief bij een voordeur van een woning geplaatst aan de Lukas Schoonderbeekstraat in Hillegom. De politie heeft inmiddels drie minderjarigen aangehouden in verband met mogelijke betrokkenheid bij het incident.",
+    "full_text": "Camerabeelden tonen aan dat meerdere personen het mogelijk explosieve voorwerp voor de deur hebben gezet, waarna ze wegrenden. Op woensdagavond is een verdachte aangehouden, een minderjarige jongen uit Assendelft. Donderdag 3 september heeft de politie nog twee minderjarigen aangehouden. Getuigen gezocht De politie doet onderzoek naar de zaak en zoekt getuigen. Heeft u informatie die kan helpen in het onderzoek? Wellicht heeft u camerabeelden? Dan komt de politie graag in contact. Vul het onderstaande tipformulier in of bel 0900-8844. Liever anoniem informatie delen? Dat kan natuurlijk ook. Neem hiervoor contact op via 0800-7000 of meldmisdaadanoniem.nl.",
+    "scraped_at": "2026-09-04T07:51:14.627157Z",
+    "id": "ee6194617f36a984b15ab9176aded5d2f772f0cba0f7e3d3552a13026e2724ee",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/3/06-aanhouding-minderjarige-voor-plaatsen-explosief-bij-woning.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Camerabeelden tonen aan dat meerdere personen het mogelijk explosieve voorwerp voor de deur hebben gezet, waarna ze wegrenden. Op woensdagavond is een verdachte aangehouden, een minderjarige jongen uit Assendelft. Donderdag 3 september heeft de politie nog twee minderjarigen aangehouden. Getuigen gezocht De politie doet onderzoek naar de zaak en zoekt getuigen. Heeft u informatie die kan helpen in het onderzoek? Wellicht heeft u camerabeelden? Dan komt de politie graag in contact. Vul het onderstaande tipformulier in of bel 0900-8844. Liever anoniem informatie delen? Dat kan natuurlijk ook. Neem hiervoor contact op via 0800-7000 of meldmisdaadanoniem.nl.",
+    "locations": [
+      "Assendelft"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Assendelft",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "9822365b7db53ac0679884190437521f": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Buitenbeentje Nederland zet nu ook vaart achter nationale investeringsbank",
+    "url": "https://nos.nl/l/2629531",
+    "published": "Thu, 3 Sep 2026 17:18:34 +0200",
+    "summary": "<p>Het kabinet zet vaart achter een nationale investeringsinstelling. Uit de gelekte Prinsjesdagstukken blijkt dat hier 3,3 miljard in wordt geïnvesteerd. Het zou moeten helpen om Nederlandse innovatieve bedrijven te ontwikkelen en ervoor moeten zorgen dat deze ook in Nederland blijven.</p>\n        <p>Een groep van zeventig economen en wetenschappers pleitte al eerder voor zo'n soort bank. Nederland is volgens hen een buitenbeen omdat veel Europese landen wel een publieke investeringsbank hebben. Italië heeft Cassa Depositi, Duitsland KfW Development Bank en ook Frankrijk en Portugal hebben soortgelijke banken.</p>\n        <p>Nederland had ooit wel een investeringsbank. Na de Tweede Wereldoorlog werd die opgericht om de wederopbouw te financieren. De NIBC Bank die hieruit voortvloeide werd recent <a href=\"https://nos.nl/artikel/2590127-abn-amro-neemt-hypotheekbank-nibc-over-grootste-overname-sinds-2008\">ingelijfd</a> door ABN Amro.</p>\n        <h2>Fondsen</h2>\n        <p>Voor het investeren in bedrijven kent Nederland wel fondsen zoals Invest-NL. De nationale investeringsinstelling wordt opgericht naast deze al bestaande fondsen, zegt minister Herbert van Economische Zaken tegen de NOS. Om bedrijven in Nederland te laten groeien en vast te houden is er volgens haar meer geld nodig.</p>\n        <p>\"De overheid zorgt daarom voor een basisinvestering in deze nationale investeringsinstelling\", zegt Herbert. \"Omdat de overheid erachter staat zouden durfinvesteerders, pensioenfondsen en banken ook hun geld willen inleggen waardoor de pot met geld nog groter wordt.\"</p>\n        <h2>Drempel verlagen</h2>\n        <p>Dat de overheid een basis biedt is volgens econoom Roel Beetsma nodig omdat er ook veel risico bij innovatieve projecten komt kijken. \"Private investeerders willen meer zekerheid en durven dat niet volledig zelf te doen.\"</p>\n        <p>Een nationale investeringsbank die buiten de politiek staat kan ook buiten de begrotingsregels komen te vallen, zegt Beetsma. Er wordt geld opzij gezet om te investeren in projecten, dat blijft buiten het tekort. Dat kan zorgen voor een zogeheten hefboomeffect. \"De staat investeert een klein deel in een project, en de rest gebeurt door andere investeerders die nu wel bereid zijn geld uit te lenen\", aldus Beetsma.</p>\n        <h2>Biotech</h2>\n        <p>Een van de innovatieve sectoren waar meer geld voor vrij zou moeten komen, is de biotechsector. Het kabinet schreef in <a href=\"https://www.kabinetsformatie2025.nl/documenten/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030\">het coalitieakkoord</a> al dat het wil inzetten op vier domeinen die essentieel zijn \"voor onze toekomstige economie en maatschappelijk welzijn\". Biotech is daar één van.</p>\n        <p>Het kabinet neemt daarmee advies over uit het <a href=\"https://nos.nl/artikel/2594228-topadviseur-over-toekomstige-economie-nu-investeren-of-we-raken-achterop\">rapport-Wennink</a> van eind vorig jaar, dat gaat over onze toekomstige welvaart. Daarin staat ook dat het ophalen van geld \"een significant obstakel is\".</p>\n        <p>Willemijn Vader van het Leidse biotechbedrijf Vitroscan ervaart dat zelf ook. Driekwart van haar tijd besteedt ze aan het rondkrijgen van financiering. \"Het gaat om kleinere bedragen tot de 5 miljoen euro. Dat is in Nederland heel lastig op te halen.\"</p>\n        <p>Er is een gat ontstaan voor bedrijven die deze financiering willen ophalen. \"Dat komt ook doordat pensioenfondsen veel geld hebben om te investeren en kijken naar grotere bedragen van boven de 100 miljoen\", zegt Beetsma.</p>\n        <h2>Verleiding van de VS</h2>\n        <p>Bij haar start-up testen ze welke behandeling het beste werkt voor een kankerpatiënt. In het lab analyseren ze een stukje weefsel dat een oncoloog beschikbaar stelt. \"Er zijn veel effectieve geneesmiddelen voor kankerpatiënten, maar het is niet altijd duidelijke welke patiënt het meeste baat heeft bij welk geneesmiddel\", zegt Vader.</p>\n        <p>Onderzoek naar nieuwe medicijnen is buitengewoon onzeker én kost vaak veel geld voordat er ook weer geld binnenkomt. Om dit geld op te halen vertrekken start-ups vaker naar het buitenland.</p>\n        <p>\"We zien vaak dat bedrijven naar het buitenland vertrekken om verder door te groeien, omdat ze financiering niet in Nederland op kunnen halen\", zegt minister Herbert.</p>\n        <p>Met name in de Verenigde Staten is er veel meer zogenoemd durfkapitaal beschikbaar. \"De eerste vraag die ik krijg van investeerders is: wanneer vertrek je naar Amerika?\", zegt Vader. \"De verleiding om daar naartoe te gaan ligt daarmee altijd op de loer.\"</p>\n        <h2>Risicovol</h2>\n        <p>Toch blijft in Nederland de vraag of de overheid geld moet steken in deze risicovolle projecten. Beetsma erkent dat er op individueel niveau een groot risico hangt aan innovatieve projecten, maar \"je moet ook bedenken dat het vaak een verzameling is van projecten. Sommige zullen het niet halen, maar hier staan dan weer successen tegenover.\"</p>",
+    "full_text": "NOS Nieuws • gisteren, 17:18 Het kabinet zet vaart achter een nationale investeringsinstelling. Uit de gelekte Prinsjesdagstukken blijkt dat hier 3,3 miljard in wordt geïnvesteerd. Het zou moeten helpen om Nederlandse innovatieve bedrijven te ontwikkelen en ervoor moeten zorgen dat deze ook in Nederland blijven. Een groep van zeventig economen en wetenschappers pleitte al eerder voor zo'n soort bank. Nederland is volgens hen een buitenbeen omdat veel Europese landen wel een publieke investeringsbank hebben. Italië heeft Cassa Depositi, Duitsland KfW Development Bank en ook Frankrijk en Portugal hebben soortgelijke banken. Nederland had ooit wel een investeringsbank. Na de Tweede Wereldoorlog werd die opgericht om de wederopbouw te financieren. De NIBC Bank die hieruit voortvloeide werd recent ingelijfd door ABN Amro. Fondsen Voor het investeren in bedrijven kent Nederland wel fondsen zoals Invest-NL. De nationale investeringsinstelling wordt opgericht naast deze al bestaande fondsen, zegt minister Herbert van Economische Zaken tegen de NOS. Om bedrijven in Nederland te laten groeien en vast te houden is er volgens haar meer geld nodig. Omdat de overheid erachter staat zouden durfinvesteerders, pensioenfondsen en banken ook hun geld willen inleggen \"De overheid zorgt daarom voor een basisinvestering in deze nationale investeringsinstelling\", zegt Herbert. \"Omdat de overheid erachter staat zouden durfinvesteerders, pensioenfondsen en banken ook hun geld willen inleggen waardoor de pot met geld nog groter wordt.\" Drempel verlagen Dat de overheid een basis biedt is volgens econoom Roel Beetsma nodig omdat er ook veel risico bij innovatieve projecten komt kijken. \"Private investeerders willen meer zekerheid en durven dat niet volledig zelf te doen.\" Een nationale investeringsbank die buiten de politiek staat kan ook buiten de begrotingsregels komen te vallen, zegt Beetsma. Er wordt geld opzij gezet om te investeren in projecten, dat blijft buiten het tekort. Dat kan zorgen voor een zogeheten hefboomeffect. \"De staat investeert een klein deel in een project, en de rest gebeurt door andere investeerders die nu wel bereid zijn geld uit te lenen\", aldus Beetsma. Biotech Een van de innovatieve sectoren waar meer geld voor vrij zou moeten komen, is de biotechsector. Het kabinet schreef in het coalitieakkoord (opent in nieuw venster) al dat het wil inzetten op vier domeinen die essentieel zijn \"voor onze toekomstige economie en maatschappelijk welzijn\". Biotech is daar één van. Het kabinet neemt daarmee advies over uit het rapport-Wennink van eind vorig jaar, dat gaat over onze toekomstige welvaart. Daarin staat ook dat het ophalen van geld \"een significant obstakel is\". Kleinere bedragen tot de 5 miljoen euro zijn in Nederland heel lastig op te halen Willemijn Vader van het Leidse biotechbedrijf Vitroscan ervaart dat zelf ook. Driekwart van haar tijd besteedt ze aan het rondkrijgen van financiering. \"Het gaat om kleinere bedragen tot de 5 miljoen euro. Dat is in Nederland heel lastig op te halen.\" Er is een gat ontstaan voor bedrijven die deze financiering willen ophalen. \"Dat komt ook doordat pensioenfondsen veel geld hebben om te investeren en kijken naar grotere bedragen van boven de 100 miljoen\", zegt Beetsma. Verleiding van de VS Bij haar start-up testen ze welke behandeling het beste werkt voor een kankerpatiënt. In het lab analyseren ze een stukje weefsel dat een oncoloog beschikbaar stelt. \"Er zijn veel effectieve geneesmiddelen voor kankerpatiënten, maar het is niet altijd duidelijke welke patiënt het meeste baat heeft bij welk geneesmiddel\", zegt Vader. Onderzoek naar nieuwe medicijnen is buitengewoon onzeker én kost vaak veel geld voordat er ook weer geld binnenkomt. Om dit geld op te halen vertrekken start-ups vaker naar het buitenland. \"We zien vaak dat bedrijven naar het buitenland vertrekken om verder door te groeien, omdat ze financiering niet in Nederland op kunnen halen\", zegt minister Herbert. Met name in de Verenigde Staten is er veel meer zogenoemd durfkapitaal beschikbaar. \"De eerste vraag die ik krijg van investeerders is: wanneer vertrek je naar Amerika?\", zegt Vader. \"De verleiding om daar naartoe te gaan ligt daarmee altijd op de loer.\" Risicovol Toch blijft in Nederland de vraag of de overheid geld moet steken in deze risicovolle projecten. Beetsma erkent dat er op individueel niveau een groot risico hangt aan innovatieve projecten, maar \"je moet ook bedenken dat het vaak een verzameling is van projecten. Sommige zullen het niet halen, maar hier staan dan weer successen tegenover.\"",
+    "scraped_at": "2026-09-04T07:49:25.940513Z",
+    "id": "1eea7b634d74fd4532457afd4c0f487aa2f1f77ead3af53d9011fbe1689058ad",
+    "canonical_url": "https://nos.nl/l/2629531",
+    "published_ts": "2026-09-03T15:18:34Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 17:18 Het kabinet zet vaart achter een nationale investeringsinstelling. Uit de gelekte Prinsjesdagstukken blijkt dat hier 3,3 miljard in wordt geïnvesteerd. Het zou moeten helpen om Nederlandse innovatieve bedrijven te ontwikkelen en ervoor moeten zorgen dat deze ook in Nederland blijven. Een groep van zeventig economen en wetenschappers pleitte al eerder voor zo'n soort bank. Nederland is volgens hen een buitenbeen omdat veel Europese landen wel een publieke investeringsbank hebben. Italië heeft Cassa Depositi, Duitsland KfW Development Bank en ook Frankrijk en Portugal hebben soortgelijke banken. Nederland had ooit wel een investeringsbank. Na de Tweede Wereldoorlog werd die opgericht om de wederopbouw te financieren. De NIBC Bank die hieruit voortvloeide werd recent ingelijfd door ABN Amro. Fondsen Voor het investeren in bedrijven kent Nederland wel fondsen zoals Invest-NL. De nationale investeringsinstelling wordt opgericht naast deze al bestaande fondsen, zegt minister Herbert van Economische Zaken tegen de NOS. Om bedrijven in Nederland te laten groeien en vast te houden is er volgens haar meer geld nodig. Omdat de overheid erachter staat zouden durfinvesteerders, pensioenfondsen en banken ook hun geld willen inleggen \"De overheid zorgt daarom voor een basisinvestering in deze nationale investeringsinstelling\", zegt Herbert. \"Omdat de overheid erachter staat zouden durfinvesteerders, pensioenfondsen en banken ook hun geld willen inleggen waardoor de pot met geld nog groter wordt.\" Drempel verlagen Dat de overheid een basis biedt is volgens econoom Roel Beetsma nodig omdat er ook veel risico bij innovatieve projecten komt kijken. \"Private investeerders willen meer zekerheid en durven dat niet volledig zelf te doen.\" Een nationale investeringsbank die buiten de politiek staat kan ook buiten de begrotingsregels komen te vallen, zegt Beetsma. Er wordt geld opzij gezet om te investeren in projecten, dat blijft buiten het tekort. Dat kan zorgen voor een zogeheten hefboomeffect. \"De staat investeert een klein deel in een project, en de rest gebeurt door andere investeerders die nu wel bereid zijn geld uit te lenen\", aldus Beetsma. Biotech Een van de innovatieve sectoren waar meer geld voor vrij zou moeten komen, is de biotechsector. Het kabinet schreef in het coalitieakkoord (opent in nieuw venster) al dat het wil inzetten op vier domeinen die essentieel zijn \"voor onze toekomstige economie en maatschappelijk welzijn\". Biotech is daar één van. Het kabinet neemt daarmee advies over uit het rapport-Wennink van eind vorig jaar, dat gaat over onze toekomstige welvaart. Daarin staat ook dat het ophalen van geld \"een significant obstakel is\". Kleinere bedragen tot de 5 miljoen euro zijn in Nederland heel lastig op te halen Willemijn Vader van het Leidse biotechbedrijf Vitroscan ervaart dat zelf ook. Driekwart van haar tijd besteedt ze aan het rondkrijgen van financiering. \"Het gaat om kleinere bedragen tot de 5 miljoen euro. Dat is in Nederland heel lastig op te halen.\" Er is een gat ontstaan voor bedrijven die deze financiering willen ophalen. \"Dat komt ook doordat pensioenfondsen veel geld hebben om te investeren en kijken naar grotere bedragen van boven de 100 miljoen\", zegt Beetsma. Verleiding van de VS Bij haar start-up testen ze welke behandeling het beste werkt voor een kankerpatiënt. In het lab analyseren ze een stukje weefsel dat een oncoloog beschikbaar stelt. \"Er zijn veel effectieve geneesmiddelen voor kankerpatiënten, maar het is niet altijd duidelijke welke patiënt het meeste baat heeft bij welk geneesmiddel\", zegt Vader. Onderzoek naar nieuwe medicijnen is buitengewoon onzeker én kost vaak veel geld voordat er ook weer geld binnenkomt. Om dit geld op te halen vertrekken start-ups vaker naar het buitenland. \"We zien vaak dat bedrijven naar het buitenland vertrekken om verder door te groeien, omdat ze financiering niet in Nederland op kunnen halen\", zegt minister Herbert. Met name in de Verenigde Staten is er veel meer zogenoemd durfkapitaal beschikbaar. \"De eerste vraag die ik krijg van investeerders is: wanneer vertrek je naar Amerika?\", zegt Vader. \"De verleiding om daar naartoe te gaan ligt daarmee altijd op de loer.\" Risicovol Toch blijft in Nederland de vraag of de overheid geld moet steken in deze risicovolle projecten. Beetsma erkent dat er op individueel niveau een groot risico hangt aan innovatieve projecten, maar \"je moet ook bedenken dat het vaak een verzameling is van projecten. Sommige zullen het niet halen, maar hier staan dan weer successen tegenover.\"",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Amerika",
+        "DE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Development Bank",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Herbert van Economische Zaken",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Herbert",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Roel Beetsma",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Herbert",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
