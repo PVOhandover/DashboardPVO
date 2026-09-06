@@ -72804,5 +72804,197 @@
     "all_sectors_in_article": [
       "41-43"
     ]
+  },
+  "219e03a69785f79edc7a09b95a7b4004": {
+    "feed": "Politie.nl",
+    "title": "165 bekeuringen tijdens overlastactie Zuidplein",
+    "url": "https://www.politie.nl/nieuws/2026/september/5/07-165-proces-verbalen-tijdens-overlastactie-op-en-rond-zuidplein.html",
+    "published": "Sat, 05 Sep 2026 14:21:00 GMT",
+    "summary": "Op verzoek van bewoners, ondernemers en bezoekers hielden onder andere politie, Toezicht en Handhaving en de RET vrijdagmiddag en -avond op en rond Zuidplein een gezamenlijke actie om overlast en criminaliteit tegen te gaan . In totaal werden 165 processen-verbalen uitgeschreven voor verschillende overtredingen.",
+    "full_text": "Naast Politie, RET en Toezicht en Handhaving van de gemeente Rotterdam waren ook JOZ en Trigion winkelbeveiliging bij de actie aangesloten. De verschillende organisaties bundelden vrijdag hun expertise en bevoegdheden om mensen die overlast veroorzaken of zich niet aan wet- en regelgeving houden aan te pakken. Met als doel de veiligheid en leefbaarheid en het veiligheidsgevoel rondom Zuidplein te vergroten. De actie was mede op verzoek van bewoners, ondernemers en bezoekers die aangaven overlast te ervaren. Meldingen gaan onder andere over geluidsoverlast, jeugdoverlast en drugsoverlast, dak- en thuislozen, verkeersveiligheid en intimidatie. Tijdens de actie, die duurde van 15.00 tot 21.00 uur, zijn 165 proces verbalen uitgeschreven. Daarnaast zijn ook veel waarschuwingen gegeven De meeste bekeuringen waren voor het niet hebben van een geldig vervoersbewijs. De handhavers van de RET betrapte 61 zwartrijders. Er zijn 15 processen verbaal opgemaakt voor het rijden op een fatbike of elektrische step die niet aan de regels voldeed (zoals opgevoerd of geen kentekenplaatje). Er zijn ook een aantal fatbike’s en elektrische steps in beslag genomen. 14 Boetes werden uitgeschreven voor het niet kunnen tonen van een identiteitsbewijs. Vijftien keer bleek een voertuig niet goedgekeurd te zijn voor gebruik op de weg. Vier processen-verbaal werden uitgeschreven voor het niet dragen van een gordel en één persoon is aangehouden voor rijden onder invloed. Ook zijn vier bekeuringen voor bedelen uitgedeeld. Meest opvallend was de inbeslagname van een opgevoerde fatbike. De bestuurder vluchtte in eerste instantie, dumpte de fatbike en probeerde via de sloot te vluchten. Aan de andere kant van het water werd hij in de kraag gevat. De fatbike is vermoedelijk gestolen en haalde op de rollenbank van de politie een snelheid van 46 km p/u (max 25 km p/u is toegestaan).",
+    "scraped_at": "2026-09-06T07:45:58.135204Z",
+    "id": "415ebb224070b4a6bf999c23d8452c758e7acd1854e5ac269422df55ed7c7edd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/5/07-165-proces-verbalen-tijdens-overlastactie-op-en-rond-zuidplein.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Naast Politie, RET en Toezicht en Handhaving van de gemeente Rotterdam waren ook JOZ en Trigion winkelbeveiliging bij de actie aangesloten. De verschillende organisaties bundelden vrijdag hun expertise en bevoegdheden om mensen die overlast veroorzaken of zich niet aan wet- en regelgeving houden aan te pakken. Met als doel de veiligheid en leefbaarheid en het veiligheidsgevoel rondom Zuidplein te vergroten. De actie was mede op verzoek van bewoners, ondernemers en bezoekers die aangaven overlast te ervaren. Meldingen gaan onder andere over geluidsoverlast, jeugdoverlast en drugsoverlast, dak- en thuislozen, verkeersveiligheid en intimidatie. Tijdens de actie, die duurde van 15.00 tot 21.00 uur, zijn 165 proces verbalen uitgeschreven. Daarnaast zijn ook veel waarschuwingen gegeven De meeste bekeuringen waren voor het niet hebben van een geldig vervoersbewijs. De handhavers van de RET betrapte 61 zwartrijders. Er zijn 15 processen verbaal opgemaakt voor het rijden op een fatbike of elektrische step die niet aan de regels voldeed (zoals opgevoerd of geen kentekenplaatje). Er zijn ook een aantal fatbike’s en elektrische steps in beslag genomen. 14 Boetes werden uitgeschreven voor het niet kunnen tonen van een identiteitsbewijs. Vijftien keer bleek een voertuig niet goedgekeurd te zijn voor gebruik op de weg. Vier processen-verbaal werden uitgeschreven voor het niet dragen van een gordel en één persoon is aangehouden voor rijden onder invloed. Ook zijn vier bekeuringen voor bedelen uitgedeeld. Meest opvallend was de inbeslagname van een opgevoerde fatbike. De bestuurder vluchtte in eerste instantie, dumpte de fatbike en probeerde via de sloot te vluchten. Aan de andere kant van het water werd hij in de kraag gevat. De fatbike is vermoedelijk gestolen en haalde op de rollenbank van de politie een snelheid van 46 km p/u (max 25 km p/u is toegestaan).",
+    "locations": [
+      "gemeente Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304615609480185,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "RET",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "JOZ",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "RET",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Boetes",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "0a780d1e8d9c5bcb10b8c41e736dc56f": {
+    "feed": "Politie.nl",
+    "title": "Bestuurder overleden na ernstig verkeersongeval op A76",
+    "url": "https://www.politie.nl/nieuws/2026/september/5/10-ernstig-ongeval-a76-heerlen.html",
+    "published": "Sat, 05 Sep 2026 12:30:00 GMT",
+    "summary": "Op de A76 ter hoogte van Heerlen heeft zaterdagochtend een ernstig ongeval plaatsgevonden tussen een personenauto en een vrachtwagen.  De bestuurder van de personenauto is daarbij overleden.",
+    "full_text": "Het ongeval gebeurde rond 4.45 uur. Door nog onbekende oorzaak is de personenauto op de rijdende vrachtwagen gebotst. De bestuurder van de auto is daarbij om het leven gekomen. De inzittende van de vrachtwagen bleef ongedeerd. Onderzoek De politie is een onderzoek gestart. De A76 is daarbij zaterdagochtend deels afgesloten tussen Simpelveld en knooppunt Kunderberg om de hulpdiensten de ruimte te geven. Onder meer specialisten van Forensische Opsporing Verkeer doen onderzoek naar de toedracht van het ongeval.",
+    "scraped_at": "2026-09-06T07:45:58.135462Z",
+    "id": "3e218ba9828df6cfd8ca45048bbb940a8942955d0c1aeaa46094d0f10b0fe7e8",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/5/10-ernstig-ongeval-a76-heerlen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het ongeval gebeurde rond 4.45 uur. Door nog onbekende oorzaak is de personenauto op de rijdende vrachtwagen gebotst. De bestuurder van de auto is daarbij om het leven gekomen. De inzittende van de vrachtwagen bleef ongedeerd. Onderzoek De politie is een onderzoek gestart. De A76 is daarbij zaterdagochtend deels afgesloten tussen Simpelveld en knooppunt Kunderberg om de hulpdiensten de ruimte te geven. Onder meer specialisten van Forensische Opsporing Verkeer doen onderzoek naar de toedracht van het ongeval.",
+    "locations": [
+      "Simpelveld"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Simpelveld",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615852497031,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "A76",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Forensische Opsporing",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "49-53"
+    ]
+  },
+  "a8b3076030c66b4958996bc445fa290d": {
+    "feed": "L1 Nieuws",
+    "title": "Aangifte na haatreacties op Pride Walk",
+    "url": "https://www.l1nieuws.nl/nieuws/3230325/aangifte-na-haatreacties-op-pride-walk",
+    "published": "Sat, 05 Sep 2026 10:39:18 GMT",
+    "summary": "De aankondiging van de gemeente Brunssum voor de Pride Walk oogstte deze week zo veel hatelijke reacties, dat de gemeente aangifte gaat doen. De negatieve reacties kwamen binnen op het Facebook-account, waar het LHBTIQ+-evenement van zaterdagmiddag werd gepromoot.",
+    "full_text": "De aankondiging van de gemeente Brunssum voor de Pride Walk oogstte deze week zo veel hatelijke reacties, dat de gemeente aangifte gaat doen. De negatieve reacties kwamen binnen op het Facebook-account, waar het LHBTIQ+-evenement van zaterdagmiddag werd gepromoot. Meerdere reacties zouden zelfs hebben opgeroepen tot geweld. Haatdragende reacties De gemeente publiceerde afgelopen week een video over de Pride Walk, zaterdagmiddag. Tijdens deze wandeling door het centrum van Brunssum wordt aandacht gevraagd voor de LHBTI+-gemeenschap. Het is de finale van de Pride Week in Parkstad, die op zaterdag 29 augustus van start ging. Behalve positieve reacties kreeg de gemeente ook veel negatieve berichten. Verschillende Facebook-accounts plaatsten haatdragende, discriminerende en soms zelfs gewelddadige opmerkingen onder de video. Een groot deel van die reacties is nu verwijderd. De gemeente laat nu weten dat ze aangifte gaan doen bij de politie van strafbare opmerkingen, zoals het aanzetten tot geweld. \"Reacties blijven welkom, je mening geven mag ook, maar alles volgens onze huisregels. We staan niet toe dat op ons platform (groepen) mensen respectloos worden benaderd\", schrijft de gemeente. Stichting Queer Parkstad, die de Pride-week organiseert, vindt de negatieve reacties erg jammer. \"Het is natuurlijk heel verdrietig, dat er nog zoveel negativiteit bestaat\", reageert Monique de Boer, secretaris van Stichting Queer Parkstad. Toch heeft ze ook begripvol voor mensen met andere denkwijzen. \"Dat mensen het niet begrijpen, dat kan ik niet veroordelen. Maar het is wel heel jammer. Daarom doen we dit ook: we zijn gewoon mensen en we willen zijn wie we zijn.\" De Pride Walk in Brunssum om 13:00 uur en de aansluitende eindshows in het openluchttheater en later op de avond in Heerlen gaan zaterdag daarom gewoon door. Ondanks de haatdragende reacties maakt De Boer zich geen zorgen over het evenement. \"Heel eerlijk? Nee, ik maak me geen zorgen. Alles is heel goed georganiseerd. We gaan er gewoon vanuit dat het een vreedzame walk wordt.\" De gemeente heeft volgens haar heel goed meegedacht om er een veilig evenement van te maken. Zo is er, net zoals bij andere evenementen van vergelijkbare grootte, beveiliging bij. In plaats van zorgen lijken de reacties eerder een extra drijfveer te vormen voor de organisatie. \"Het maakt ons denk ik nog daadkrachtiger om toch door te gaan, want het geeft aan dat dit nog nodig is. En niet om juist de confrontatie aan te gaan, daar staan wij niet voor. We willen juist verbinding maken en laten zien dat wij niet anders zijn dan anderen\", aldus de secretaris. \"Liefde is liefde, daar staan we voor. Uiteindelijk willen we allemaal hetzelfde: geliefd zijn. En op straat hand in hand kunnen lopen of elkaar een zoen geven, net als ieder ander. Dat dat vaak niet getolereerd wordt of dat mensen bespuugd worden of in elkaar geslagen, daar zetten we ons tegen in.\"",
+    "scraped_at": "2026-09-06T07:46:06.240135Z",
+    "id": "d9f473f082c8d2b818d62a03d1bcb3b5802b279f4e8bd228ca47f3f8b1a4a03d",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3230325/aangifte-na-haatreacties-op-pride-walk",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De aankondiging van de gemeente Brunssum voor de Pride Walk oogstte deze week zo veel hatelijke reacties, dat de gemeente aangifte gaat doen. De negatieve reacties kwamen binnen op het Facebook-account, waar het LHBTIQ+-evenement van zaterdagmiddag werd gepromoot. Meerdere reacties zouden zelfs hebben opgeroepen tot geweld. Haatdragende reacties De gemeente publiceerde afgelopen week een video over de Pride Walk, zaterdagmiddag. Tijdens deze wandeling door het centrum van Brunssum wordt aandacht gevraagd voor de LHBTI+-gemeenschap. Het is de finale van de Pride Week in Parkstad, die op zaterdag 29 augustus van start ging. Behalve positieve reacties kreeg de gemeente ook veel negatieve berichten. Verschillende Facebook-accounts plaatsten haatdragende, discriminerende en soms zelfs gewelddadige opmerkingen onder de video. Een groot deel van die reacties is nu verwijderd. De gemeente laat nu weten dat ze aangifte gaan doen bij de politie van strafbare opmerkingen, zoals het aanzetten tot geweld. \"Reacties blijven welkom, je mening geven mag ook, maar alles volgens onze huisregels. We staan niet toe dat op ons platform (groepen) mensen respectloos worden benaderd\", schrijft de gemeente. Stichting Queer Parkstad, die de Pride-week organiseert, vindt de negatieve reacties erg jammer. \"Het is natuurlijk heel verdrietig, dat er nog zoveel negativiteit bestaat\", reageert Monique de Boer, secretaris van Stichting Queer Parkstad. Toch heeft ze ook begripvol voor mensen met andere denkwijzen. \"Dat mensen het niet begrijpen, dat kan ik niet veroordelen. Maar het is wel heel jammer. Daarom doen we dit ook: we zijn gewoon mensen en we willen zijn wie we zijn.\" De Pride Walk in Brunssum om 13:00 uur en de aansluitende eindshows in het openluchttheater en later op de avond in Heerlen gaan zaterdag daarom gewoon door. Ondanks de haatdragende reacties maakt De Boer zich geen zorgen over het evenement. \"Heel eerlijk? Nee, ik maak me geen zorgen. Alles is heel goed georganiseerd. We gaan er gewoon vanuit dat het een vreedzame walk wordt.\" De gemeente heeft volgens haar heel goed meegedacht om er een veilig evenement van te maken. Zo is er, net zoals bij andere evenementen van vergelijkbare grootte, beveiliging bij. In plaats van zorgen lijken de reacties eerder een extra drijfveer te vormen voor de organisatie. \"Het maakt ons denk ik nog daadkrachtiger om toch door te gaan, want het geeft aan dat dit nog nodig is. En niet om juist de confrontatie aan te gaan, daar staan wij niet voor. We willen juist verbinding maken en laten zien dat wij niet anders zijn dan anderen\", aldus de secretaris. \"Liefde is liefde, daar staan we voor. Uiteindelijk willen we allemaal hetzelfde: geliefd zijn. En op straat hand in hand kunnen lopen of elkaar een zoen geven, net als ieder ander. Dat dat vaak niet getolereerd wordt of dat mensen bespuugd worden of in elkaar geslagen, daar zetten we ons tegen in.\"",
+    "locations": [
+      "Brunssum"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Brunssum",
+        "NL"
+      ],
+      [
+        "Heerlen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615852497031,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Brunssum",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Pride Walk",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "LHBTIQ+-evenement van zaterdagmiddag",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Pride Walk",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Brunssum",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Monique de Boer",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "De Boer",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
