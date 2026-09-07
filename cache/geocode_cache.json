@@ -1650,5 +1650,17 @@
   "provincie Utrecht": {
     "lat": 52.0949153,
     "lon": 5.1531168
+  },
+  "Evertsoord": {
+    "lat": 51.4039097,
+    "lon": 5.9584318
+  },
+  "Harkstede": {
+    "lat": 53.2137257,
+    "lon": 6.7003533
+  },
+  "Noordegraaf": {
+    "lat": 52.3784531,
+    "lon": 6.7156835
   }
 }
