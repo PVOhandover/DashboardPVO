@@ -74031,5 +74031,320 @@
     "all_sectors_in_article": [
       "not_affected"
     ]
+  },
+  "46b6b4f1efb21f0ee7dbc371d1c140c3": {
+    "feed": "RTV Noord",
+    "title": "Afvalverwerker PreZero zwicht en legt lawaaiige sorteermachine bij Euroborg stil",
+    "url": "https://www.rtvnoord.nl/politiek/1436306/afvalverwerker-prezero-zwicht-en-legt-lawaaiige-sorteermachine-bij-euroborg-stil",
+    "published": "Tue, 08 Sep 2026 15:41:33 GMT",
+    "summary": "Na veel juridisch getouwtrek is het stil. Afvalverwerker PreZero heeft haar sorteerinstallatie in Stad stilgelegd. Het zorgt voor opluchting bij omwonenden, die al jaren klagen over het lawaai van de machine die het bedrijf voor de afvalverwerking gebruikt.",
+    "full_text": "Wat speelt er? Bewoners van flatgebouw de Brander, naast stadion Euroborg, strijden al jaren tegen geluids- en stankoverlast. De gemeente Groningen stelde dat de afvalverwerker met het gebruik van een sorteermachine niet handelde binnen de verstrekte vergunningen. De provincie wilde daarop dwangsommen opleggen aan PreZero. De rechtbank in Overijssel besloot vervolgens dat het provinciebestuur geen dwangsom mocht opleggen. Later bepaalde de rechter dat het wél mag. PreZero zou dan 50.000 euro per week moeten betalen zolang het bedrijf een sorteermachine gebruikt waar het geen geldige vergunning voor heeft. Dat bedrag kan oplopen tot maximaal 500.000 euro. De provincie mocht per 12 augustus deze boetes opleggen.",
+    "scraped_at": "2026-09-10T08:00:25.070717Z",
+    "id": "dc55fc07b9d19e42b6e34706f50e3a5f5f2b4fa2bf4dbe13ae65063a8f8bbaa7",
+    "canonical_url": "https://www.rtvnoord.nl/politiek/1436306/afvalverwerker-prezero-zwicht-en-legt-lawaaiige-sorteermachine-bij-euroborg-stil",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Wat speelt er? Bewoners van flatgebouw de Brander, naast stadion Euroborg, strijden al jaren tegen geluids- en stankoverlast. De gemeente Groningen stelde dat de afvalverwerker met het gebruik van een sorteermachine niet handelde binnen de verstrekte vergunningen. De provincie wilde daarop dwangsommen opleggen aan PreZero. De rechtbank in Overijssel besloot vervolgens dat het provinciebestuur geen dwangsom mocht opleggen. Later bepaalde de rechter dat het wél mag. PreZero zou dan 50.000 euro per week moeten betalen zolang het bedrijf een sorteermachine gebruikt waar het geen geldige vergunning voor heeft. Dat bedrag kan oplopen tot maximaal 500.000 euro. De provincie mocht per 12 augustus deze boetes opleggen.",
+    "locations": [
+      "Overijssel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Groningen",
+        "NL"
+      ],
+      [
+        "Overijssel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "PreZero",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "5b8bf06a35fcb5a40c39ca2058219f2c": {
+    "feed": "Politie.nl",
+    "title": "Aanhouding twee nepagenten",
+    "url": "https://www.politie.nl/nieuws/2026/september/9/10-aanhouding-twee-nepagenten.html",
+    "published": "Wed, 09 Sep 2026 15:19:00 GMT",
+    "summary": "Tijdens de controle van een auto zijn gisteren op 8 september twee nepagenten aangehouden.",
+    "full_text": "Agenten gaven de auto rond 23:00 uur een stopteken op de Ellerweg. Tijdens de controle van de auto zagen zij op de vloer bij de achterbank een aantal bankpassen liggen. Deze bleken niet van de inzittenden van de auto te zijn. In de auto werden nog meer spullen aangetroffen die mogelijk óók buitgemaakt waren door middel van oplichting. Gevlucht Een van de verdachten vluchtte te voet weg maar kon kort daarna worden aangehouden. Agenten moesten hierbij gebruik maken van het stroomstootwapen. Op dat moment trachtte de andere verdachte de agenten te slim af te zijn, door met de auto weg te rijden. Deze verdachte werd even later in zijn auto aangehouden op de Roerkade in Roermond. Babbeltruc De spullen die in de auto werden aangetroffen, bleken eigendom te zijn van iemand uit België. Agenten startten een onderzoek en zochten contact met de eigenaar van de bankpassen. Deze persoon bleek inderdaad slachtoffer te zijn van een babbeltruc, zojuist gepleegd door nepagenten. België De verdachten zijn een 40-jarige man uit Venlo en 27-jarige man uit Roermond. Ze zijn allebei aangehouden en de zaak wordt overgedragen aan de Belgische politie. In België wordt verder onderzoek gedaan naar de precieze rollen en betrokkenheid van beide mannen bij deze oplichtingszaak.",
+    "scraped_at": "2026-09-10T07:59:16.887717Z",
+    "id": "ed177aa4206e05cfb613d35dc8d2129bc09a517dcca5ae3a15605f60226fafde",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/9/10-aanhouding-twee-nepagenten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten gaven de auto rond 23:00 uur een stopteken op de Ellerweg. Tijdens de controle van de auto zagen zij op de vloer bij de achterbank een aantal bankpassen liggen. Deze bleken niet van de inzittenden van de auto te zijn. In de auto werden nog meer spullen aangetroffen die mogelijk óók buitgemaakt waren door middel van oplichting. Gevlucht Een van de verdachten vluchtte te voet weg maar kon kort daarna worden aangehouden. Agenten moesten hierbij gebruik maken van het stroomstootwapen. Op dat moment trachtte de andere verdachte de agenten te slim af te zijn, door met de auto weg te rijden. Deze verdachte werd even later in zijn auto aangehouden op de Roerkade in Roermond. Babbeltruc De spullen die in de auto werden aangetroffen, bleken eigendom te zijn van iemand uit België. Agenten startten een onderzoek en zochten contact met de eigenaar van de bankpassen. Deze persoon bleek inderdaad slachtoffer te zijn van een babbeltruc, zojuist gepleegd door nepagenten. België De verdachten zijn een 40-jarige man uit Venlo en 27-jarige man uit Roermond. Ze zijn allebei aangehouden en de zaak wordt overgedragen aan de Belgische politie. In België wordt verder onderzoek gedaan naar de precieze rollen en betrokkenheid van beide mannen bij deze oplichtingszaak.",
+    "locations": [
+      "België"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "België",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Roermond",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Babbeltruc",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Roermond",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "bbf9b24d32b393fc194bb069b7ae2b2a": {
+    "feed": "L1 Nieuws",
+    "title": "Steekpartij op Maastrichtse school: jeugddetentie geëist tegen tiener",
+    "url": "https://www.l1nieuws.nl/nieuws/3232038/steekpartij-op-maastrichtse-school-jeugddetentie-geeist-tegen-tiener",
+    "published": "Wed, 09 Sep 2026 20:00:59 GMT",
+    "summary": "Het Openbaar Ministerie (OM) eist jeugddetentie tegen een leerling van de middelbare school VMBO Maastricht. De 16-jarige leerling was op 9 maart van dit jaar betrokken bij een steekincident op school.",
+    "full_text": "Het Openbaar Ministerie (OM) eist jeugddetentie tegen een leerling van de middelbare school VMBO Maastricht. De 16-jarige leerling was op 9 maart van dit jaar betrokken bij een steekincident op school. Daarbij raakte een 17-jarige leerling gewond. De twee hadden ruzie, waarover die ruzie ging is niet bekend. Bij het incident op de school aan de Bemelerweg in Maastricht raakte het slachtoffer lichtgewond. De tiener die hem stak vluchtte aanvankelijk, maar kon niet veel later door de politie worden aangehouden. De jongen is poging tot doodslag ten laste gelegd. Als het aan het OM ligt gaat hij twee jaar de cel in, waarvan zes maanden met bijzondere voorwaarden. In het jeugdstrafrecht is twee jaar cel de maximale straf die de rechter kan opleggen. De rechtbank doet later deze maand uitspraak. Omdat het om een minderjarige verdachte gaat, werd de zaak achter gesloten deuren behandeld. Daarom is het Openbaar Ministerie (OM) terughoudend met informatie. Ook advocate Kirstin Valkeneers, die de tiener bijstaat, kan om die reden verder niets kwijt over de zaak.",
+    "scraped_at": "2026-09-10T07:59:18.910975Z",
+    "id": "6aebea3cf012efaf9e14f158ec57434c6f1bb16eafb533622ceeac44e732020c",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3232038/steekpartij-op-maastrichtse-school-jeugddetentie-geeist-tegen-tiener",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het Openbaar Ministerie (OM) eist jeugddetentie tegen een leerling van de middelbare school VMBO Maastricht. De 16-jarige leerling was op 9 maart van dit jaar betrokken bij een steekincident op school. Daarbij raakte een 17-jarige leerling gewond. De twee hadden ruzie, waarover die ruzie ging is niet bekend. Bij het incident op de school aan de Bemelerweg in Maastricht raakte het slachtoffer lichtgewond. De tiener die hem stak vluchtte aanvankelijk, maar kon niet veel later door de politie worden aangehouden. De jongen is poging tot doodslag ten laste gelegd. Als het aan het OM ligt gaat hij twee jaar de cel in, waarvan zes maanden met bijzondere voorwaarden. In het jeugdstrafrecht is twee jaar cel de maximale straf die de rechter kan opleggen. De rechtbank doet later deze maand uitspraak. Omdat het om een minderjarige verdachte gaat, werd de zaak achter gesloten deuren behandeld. Daarom is het Openbaar Ministerie (OM) terughoudend met informatie. Ook advocate Kirstin Valkeneers, die de tiener bijstaat, kan om die reden verder niets kwijt over de zaak.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "VMBO",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Kirstin Valkeneers",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "1e4d68b1eacc399489ffebdcbc60349b": {
+    "feed": "L1 Nieuws",
+    "title": "Fred H. veroordeeld voor bezit en verspreiding kinderporno, toch hoeft hij niet meer de cel in",
+    "url": "https://www.l1nieuws.nl/nieuws/3231791/fred-h-veroordeeld-voor-bezit-en-verspreiding-kinderporno-toch-hoeft-hij-niet-meer-de-cel-in",
+    "published": "Wed, 09 Sep 2026 11:50:36 GMT",
+    "summary": "Fred H. hoeft niet meer de cel in voor het bezitten en verspreiden van kinderporno. Dat heeft de rechtbank in Maastricht woensdag bepaald. De 52-jarige voormalige bassist van de Heideroosjes kreeg 1,5 jaar cel, waarvan 1 jaar voorwaardelijk. Ook kreeg hij een taakstraf.",
+    "full_text": "Fred H. hoeft niet meer de cel in voor het bezitten en verspreiden van kinderporno. Dat heeft de rechtbank in Maastricht woensdag bepaald. De 52-jarige voormalige bassist van de Heideroosjes kreeg 1,5 jaar cel, waarvan 1 jaar voorwaardelijk. Ook kreeg hij een taakstraf. Omdat hij al zes maanden in voorlopige hechtenis zat, hoeft hij niet meer terug de cel in. Het Openbaar Ministerie (OM) eiste twee weken geleden nog vier jaar cel, waarvan één jaar voorwaardelijk. De uitspraak viel lager uit omdat H. heeft meegewerkt aan het onderzoek, zich na zijn vrijlating direct heeft laten behandelen en omdat deskundigen hem licht verminderd toerekeningsvatbaar achten. Bij H. is een autisme stoornis vastgesteld en geen pedofiele stoornis. De rechtbank neemt ook het advies van deskundigen over dat het beter is dat hij niet meer terug de gevangenis in gaat. H. was zelf niet bij de uitspraak aanwezig. Bij Fred H. werd in januari 2025 kinderporno gevonden. Een landelijk onderzoek leidde via zijn IP-adres naar zijn woonadres in Sevenum. De zedenpolitie vond 'slechts' 123 kinderpornografische afbeeldingen. Het vermoeden is dat H. veel meer kinderporno in bezit had, maar omdat hij voor zijn aanhouding nog kans zag twee gegevensdragers weg te gooien en zijn telefoon deels te wissen, heeft de politie dat materiaal niet meer kunnen achterhalen. \"Het was voor de verdachte gedurende drie jaar lang een gewoonte\", zegt de rechtbank. \"De verdachte is mede verantwoordelijk voor het seksueel misbruik van kinderen\". Toen de politie bij hem aan de deur was voor een huiszoeking, was Fred H. er niet. De politie belde hem vervolgens, waarna hij naar huis kwam. In de tussentijd heeft hij UBS-sticks in een prullenbak gegooid, zo heeft hij naderhand eerlijk toegegeven. Het Openbaar Ministerie (OM) gaf tijdens de rechtszaak toe dat deze gang van zaken bij de politie niet de schoonheidsprijs verdiende. Wel zijn er chatgesprekken over kinderporno veiliggesteld. Daarom gaat het OM ervan uit dat Fred H. sinds 2018 met kinderporno bezig was. De rechtbank gaat uit van een korte periode, namelijk sinds 2022. \"Vanaf dat moment is de kinderporno gedownload\", zegt de rechtbank. Voor de eerdere periode is geen bewijs. H. zelf heeft verklaard dat hij op het darkweb naar kinderporno ging zoeken als afleiding in een donkere periode, zowel zakelijk als privé. \"Dan creëer je een bizarre wereld\", zegt hij daarover. \"Ik beweer niet dat ik een boek heb geschreven, maar ik deelde dat in chats en daar ontstond voor mij een bizarre wereld en bizar verhaal. Het stiekeme en illegale zorgde dat mijn hoofd even stilstond en ik een pauze had uit de realiteit. Het nam spanning weg.\" Het OM vindt het wel opvallend dat H. vooral oog had voor meisjes tussen de 6 en 12 jaar. \"Dat betrof het overgrote deel van de kinderporno\", aldus het OM. Toch is er geen pedofiele stoornis bij H. vastgesteld. Wel is H. volgens deskundigen gevoelig voor prikkels. Fred H. zat zes maanden vast, maar mocht zijn rechtszaak daarna in vrijheid afwachten. Voorwaarde was wel dat hij een behandeling zou starten. Dat is ook gebeurd. H. heeft meerdere keren per maand een afspraak bij tbs-kliniek de Rooyse Wissel. Hij heeft al een paar keer geprobeerd een nieuwe baan te vinden, maar mede door de rechtszaak is dat niet gelukt. Daarom is hij nu voor zichzelf begonnen. \"Ik doe iets met mijn handen\", is het enige wat hij daarover wilde zeggen. Binnen 14 dagen kunnen zowel Fred H. als het Openbaar Ministerie nog tegen de uitspraak in beroep.",
+    "scraped_at": "2026-09-10T07:59:23.745595Z",
+    "id": "9a00d3451822cea1e91434eec5f13edbe9303905ea78cd29719ff773ce7fe4a1",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3231791/fred-h-veroordeeld-voor-bezit-en-verspreiding-kinderporno-toch-hoeft-hij-niet-meer-de-cel-in",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Fred H. hoeft niet meer de cel in voor het bezitten en verspreiden van kinderporno. Dat heeft de rechtbank in Maastricht woensdag bepaald. De 52-jarige voormalige bassist van de Heideroosjes kreeg 1,5 jaar cel, waarvan 1 jaar voorwaardelijk. Ook kreeg hij een taakstraf. Omdat hij al zes maanden in voorlopige hechtenis zat, hoeft hij niet meer terug de cel in. Het Openbaar Ministerie (OM) eiste twee weken geleden nog vier jaar cel, waarvan één jaar voorwaardelijk. De uitspraak viel lager uit omdat H. heeft meegewerkt aan het onderzoek, zich na zijn vrijlating direct heeft laten behandelen en omdat deskundigen hem licht verminderd toerekeningsvatbaar achten. Bij H. is een autisme stoornis vastgesteld en geen pedofiele stoornis. De rechtbank neemt ook het advies van deskundigen over dat het beter is dat hij niet meer terug de gevangenis in gaat. H. was zelf niet bij de uitspraak aanwezig. Bij Fred H. werd in januari 2025 kinderporno gevonden. Een landelijk onderzoek leidde via zijn IP-adres naar zijn woonadres in Sevenum. De zedenpolitie vond 'slechts' 123 kinderpornografische afbeeldingen. Het vermoeden is dat H. veel meer kinderporno in bezit had, maar omdat hij voor zijn aanhouding nog kans zag twee gegevensdragers weg te gooien en zijn telefoon deels te wissen, heeft de politie dat materiaal niet meer kunnen achterhalen. \"Het was voor de verdachte gedurende drie jaar lang een gewoonte\", zegt de rechtbank. \"De verdachte is mede verantwoordelijk voor het seksueel misbruik van kinderen\". Toen de politie bij hem aan de deur was voor een huiszoeking, was Fred H. er niet. De politie belde hem vervolgens, waarna hij naar huis kwam. In de tussentijd heeft hij UBS-sticks in een prullenbak gegooid, zo heeft hij naderhand eerlijk toegegeven. Het Openbaar Ministerie (OM) gaf tijdens de rechtszaak toe dat deze gang van zaken bij de politie niet de schoonheidsprijs verdiende. Wel zijn er chatgesprekken over kinderporno veiliggesteld. Daarom gaat het OM ervan uit dat Fred H. sinds 2018 met kinderporno bezig was. De rechtbank gaat uit van een korte periode, namelijk sinds 2022. \"Vanaf dat moment is de kinderporno gedownload\", zegt de rechtbank. Voor de eerdere periode is geen bewijs. H. zelf heeft verklaard dat hij op het darkweb naar kinderporno ging zoeken als afleiding in een donkere periode, zowel zakelijk als privé. \"Dan creëer je een bizarre wereld\", zegt hij daarover. \"Ik beweer niet dat ik een boek heb geschreven, maar ik deelde dat in chats en daar ontstond voor mij een bizarre wereld en bizar verhaal. Het stiekeme en illegale zorgde dat mijn hoofd even stilstond en ik een pauze had uit de realiteit. Het nam spanning weg.\" Het OM vindt het wel opvallend dat H. vooral oog had voor meisjes tussen de 6 en 12 jaar. \"Dat betrof het overgrote deel van de kinderporno\", aldus het OM. Toch is er geen pedofiele stoornis bij H. vastgesteld. Wel is H. volgens deskundigen gevoelig voor prikkels. Fred H. zat zes maanden vast, maar mocht zijn rechtszaak daarna in vrijheid afwachten. Voorwaarde was wel dat hij een behandeling zou starten. Dat is ook gebeurd. H. heeft meerdere keren per maand een afspraak bij tbs-kliniek de Rooyse Wissel. Hij heeft al een paar keer geprobeerd een nieuwe baan te vinden, maar mede door de rechtszaak is dat niet gelukt. Daarom is hij nu voor zichzelf begonnen. \"Ik doe iets met mijn handen\", is het enige wat hij daarover wilde zeggen. Binnen 14 dagen kunnen zowel Fred H. als het Openbaar Ministerie nog tegen de uitspraak in beroep.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Fred H.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fred H.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Sevenum",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Fred H.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fred H.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fred H.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Fred H.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00",
+      "not_affected"
+    ]
+  },
+  "c54ab588255d94f7f6465f179b494d41": {
+    "feed": "L1 Nieuws",
+    "title": "Drie omstanders doen burgerarrest: pinpasdief aangehouden",
+    "url": "https://www.l1nieuws.nl/nieuws/3231440/drie-omstanders-doen-burgerarrest-pinpasdief-aangehouden",
+    "published": "Tue, 08 Sep 2026 11:50:43 GMT",
+    "summary": "Een 51-jarige man heeft maandagmiddag een bejaarde man in het centrum van Roermond beroofd.",
+    "full_text": "Een 51-jarige man heeft maandagmiddag een bejaarde man in het centrum van Roermond beroofd. Dat gebeurde rond 14:30 uur op het Munsterplein in Roermond. De verdachte, afkomstig uit Roermond, sprak het 81-jarige slachtoffer aan en stal de pinpas uit de tas. Vervolgens zette hij het op een lopen, maar dat was buiten enkele omstanders gerekend. Zij hielden de man staande, waardoor de politie de man kon aanhouden. De verdachte wordt woensdag voorgeleid aan de rechter-commissaris.",
+    "scraped_at": "2026-09-10T07:59:33.507302Z",
+    "id": "03954049891cb035fe69fb7823f3ac728fffe5020c031178a0bea9dff8832e1f",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3231440/drie-omstanders-doen-burgerarrest-pinpasdief-aangehouden",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een 51-jarige man heeft maandagmiddag een bejaarde man in het centrum van Roermond beroofd. Dat gebeurde rond 14:30 uur op het Munsterplein in Roermond. De verdachte, afkomstig uit Roermond, sprak het 81-jarige slachtoffer aan en stal de pinpas uit de tas. Vervolgens zette hij het op een lopen, maar dat was buiten enkele omstanders gerekend. Zij hielden de man staande, waardoor de politie de man kon aanhouden. De verdachte wordt woensdag voorgeleid aan de rechter-commissaris.",
+    "locations": [
+      "Roermond"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Roermond",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Roermond",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Roermond",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
