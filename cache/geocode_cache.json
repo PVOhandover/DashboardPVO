@@ -1674,5 +1674,13 @@
   "Ommelander Ziekenhuis": {
     "lat": 53.1828613,
     "lon": 6.9585243
+  },
+  "gemeente Apeldoorn": {
+    "lat": 52.2243981,
+    "lon": 5.9583448
+  },
+  "gemeente Gulpen-Wittem": {
+    "lat": 50.7848376,
+    "lon": 5.8558453
   }
 }
