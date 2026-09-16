@@ -76088,5 +76088,40 @@
     "all_sectors_in_article": [
       "47"
     ]
+  },
+  "d205ffd41803db4a993ceaf54c0cc84c": {
+    "feed": "Politie.nl",
+    "title": "Getuigen gezocht van brandstichting bij woning",
+    "url": "https://www.politie.nl/nieuws/2026/september/16/06-getuigen-gezocht-van-brandstichting-bij-woning.html",
+    "published": "Wed, 16 Sep 2026 09:32:00 GMT",
+    "summary": "De politie is op zoek naar getuigen van brandstichting bij een woning aan de Robijnhorst in de nacht van dinsdag 15 op woensdag 16 september.",
+    "full_text": "Even na 03.00 uur schrok de bewoonster wakker van een harde knal en zag een brandje op haar balkon op de eerste verdieping. Daarnaast bleek dat de ruiten van de pui door de explosie vernield waren. Getuige of meer informatie? Bent u getuige of heeft u meer informatie, meldt u zich dan bij de recherche van het politiedistrict Den Haag West via 0900 – 8844 of via meld misdaad anoniem 0800 – 7000.",
+    "scraped_at": "2026-09-16T08:25:08.639577Z",
+    "id": "a582303028dfe515c35d30d0d3f9240b68a9146c08c402a6718c0a34d28dd33b",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/16/06-getuigen-gezocht-van-brandstichting-bij-woning.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Even na 03.00 uur schrok de bewoonster wakker van een harde knal en zag een brandje op haar balkon op de eerste verdieping. Daarnaast bleek dat de ruiten van de pui door de explosie vernield waren. Getuige of meer informatie? Bent u getuige of heeft u meer informatie, meldt u zich dan bij de recherche van het politiedistrict Den Haag West via 0900 – 8844 of via meld misdaad anoniem 0800 – 7000.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
