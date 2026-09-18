@@ -76461,5 +76461,237 @@
     "all_sectors_in_article": [
       "56.3"
     ]
+  },
+  "d85aef76428ee20bcad5fde3c2092356": {
+    "feed": "RTV Noord",
+    "title": "Automobilist ernstig gewond na ongeluk bij Wagenborgen",
+    "url": "https://www.rtvnoord.nl/112/1438691/automobilist-ernstig-gewond-na-ongeluk-bij-wagenborgen",
+    "published": "Thu, 17 Sep 2026 22:05:18 GMT",
+    "summary": "Een automobilist is ernstig gewond geraakt na een ongeluk bij Wagenborgen. Op de Stolderijweg (N987) richting Siddeburen verloor de bestuurder door een nog onbekende oorzaak de macht over het stuur en botste vervolgens op een boom.",
+    "full_text": "Een automobilist is ernstig gewond geraakt na een ongeluk bij Wagenborgen. Op de Stolderijweg (N987) richting Siddeburen verloor de bestuurder door een nog onbekende oorzaak de macht over het stuur en botste vervolgens op een boom. Direct na het ongeluk, dat rond 23.00 uur plaatsvond, kwamen hulpdiensten naar de Stolderijweg, die daarna werd afgesloten voor overig verkeer. Bij de plek van het ongeluk werden zichtschermen geplaatst, waarna het slachtoffer - ook de enige inzittende van de auto - is gereanimeerd. Volgens de politie waren er geen andere weggebruikers bij het ongeluk betrokken. Uit onderzoek moet duidelijk worden hoe het ongeluk kon gebeuren.",
+    "scraped_at": "2026-09-18T08:06:35.107806Z",
+    "id": "f3be0bc21b03b30fa7fbcbdc341656a636ef3d39d0d48d68e0ae05ca9f6fd090",
+    "canonical_url": "https://www.rtvnoord.nl/112/1438691/automobilist-ernstig-gewond-na-ongeluk-bij-wagenborgen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een automobilist is ernstig gewond geraakt na een ongeluk bij Wagenborgen. Op de Stolderijweg (N987) richting Siddeburen verloor de bestuurder door een nog onbekende oorzaak de macht over het stuur en botste vervolgens op een boom. Direct na het ongeluk, dat rond 23.00 uur plaatsvond, kwamen hulpdiensten naar de Stolderijweg, die daarna werd afgesloten voor overig verkeer. Bij de plek van het ongeluk werden zichtschermen geplaatst, waarna het slachtoffer - ook de enige inzittende van de auto - is gereanimeerd. Volgens de politie waren er geen andere weggebruikers bij het ongeluk betrokken. Uit onderzoek moet duidelijk worden hoe het ongeluk kon gebeuren.",
+    "locations": [
+      "Wagenborgen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Wagenborgen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "afgesloten voor overig verkeer.",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "549d9d635eab7ec1d333d3873fa7b297": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws donderdag 17 september: Auto botst tegen elektriciteitskast in Stad • Auto op de kop te water langs N355",
+    "url": "https://www.rtvnoord.nl/112/1438485/112-nieuws-donderdag-17-september-auto-botst-tegen-elektriciteitskast-in-stad-auto-op-de-kop-te-water-langs-n355",
+    "published": "Thu, 17 Sep 2026 20:25:50 GMT",
+    "summary": "In dit 112-blog houden we je deze donderdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Een auto is donderdagavond tegen een elektriciteitskast gebotst aan de Peizerweg in Stad. Hulpdiensten zijn uitgerukt naar de plek van het ongeval. De oorzaak van het ongeluk is onbekend. Langs de N355 tussen Burum en Visvliet is een auto te water geraakt. Politie, brandweer en ambulance kwamen op het ongeval af en schoten te hulp. Over de oorzaak is niets bekend. Een brand heeft een woning aan de Zuidwendingerweg in Nieuwe Pekela volledig in de as gelegd. Na het uitbreken van de brand breidde het vuur zich snel uit. Al snel stond de woning volledig in brand. De brandweer probeerde te voorkomen dat het vuur oversloeg naar een naastgelegen woning. Dat lukte, maar de woning liep wel waterschade op. In de uitgebrande woning was één persoon aanwezig, die is behandeld door ambulancepersoneel.",
+    "scraped_at": "2026-09-18T08:06:35.861426Z",
+    "id": "b0758a0bf75c49fafb73dd23911f647b5806f0ade38e4b2d02a5869bb15adbdb",
+    "canonical_url": "https://www.rtvnoord.nl/112/1438485/112-nieuws-donderdag-17-september-auto-botst-tegen-elektriciteitskast-in-stad-auto-op-de-kop-te-water-langs-n355",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Een auto is donderdagavond tegen een elektriciteitskast gebotst aan de Peizerweg in Stad. Hulpdiensten zijn uitgerukt naar de plek van het ongeval. De oorzaak van het ongeluk is onbekend. Langs de N355 tussen Burum en Visvliet is een auto te water geraakt. Politie, brandweer en ambulance kwamen op het ongeval af en schoten te hulp. Over de oorzaak is niets bekend. Een brand heeft een woning aan de Zuidwendingerweg in Nieuwe Pekela volledig in de as gelegd. Na het uitbreken van de brand breidde het vuur zich snel uit. Al snel stond de woning volledig in brand. De brandweer probeerde te voorkomen dat het vuur oversloeg naar een naastgelegen woning. Dat lukte, maar de woning liep wel waterschade op. In de uitgebrande woning was één persoon aanwezig, die is behandeld door ambulancepersoneel.",
+    "locations": [
+      "Burum"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Burum",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Zuidwendingerweg",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "89753dbc00c8fe5edf691200842ce576": {
+    "feed": "Politie.nl",
+    "title": "Verkopers van Rolex horloges opgelicht met vervalste cryptovaluta",
+    "url": "https://www.politie.nl/nieuws/2026/september/17/02-verkopers-van-rolex-horloges-opgelicht-met-vervalste-cryptovaluta.html",
+    "published": "Thu, 17 Sep 2026 14:41:00 GMT",
+    "summary": "Politie Oost-Nederland heeft op woensdag 9 september twee mannen aangehouden vanwege oplichting met cryptovaluta. Zij worden ervan verdacht dat zij met vervalste cryptovaluta meerdere Rolex-horloges hebben gekocht via Marktplaats.",
+    "full_text": "In augustus 2025 kreeg de politie meerdere meldingen van slachtoffers die tijdens de verkoop van hun Rolex via Marktplaats waren opgelicht. De kopers spraken met verkopers af om te betalen met EURC, een legitieme cryptovaluta. In werkelijkheid gebruikten zij vervalste EURC die op het eerste oog niet van echt te onderscheiden waren. Zo werd een man uit Almelo benaderd nadat hij zijn Rolex op Marktplaats had gezet. Op het moment dat ze afspraken voor de verkoop, zag hij dat de koper crypto overmaakte en gaf hij het horloge mee. Toen hij de ontvangen crypto later wilde omzetten in euro's, bleek deze niets waard. Wees voorzichtig met cryptobetalingen Het is belangrijk om voorzichtig te zijn met betalingen in cryptovaluta, zeker wanneer je hier geen deskundige in bent. Criminelen kunnen gebruikmaken van vervalste tokens die op het eerste gezicht echt lijken, waardoor het lastig kan zijn om direct te zien of een betaling daadwerkelijk waarde heeft. Het lijkt namelijk alsof je het afgesproken bedrag daadwerkelijk ontvangt, terwijl de tokens in werkelijkheid geen waarde hebben. Het advies is om altijd alleen verkopen of aankopen te doen via betaalmethodes die je kent en vertrouwt. Word je onder druk gezet om toch mee te werken aan een betaling via een betaalmethode die je niet kent? Dan is de kans groot dat je wordt opgelicht. Twee aanhoudingen Aan deze zaak werd in november vorig jaar al aandacht besteed in het opsporingsprogramma Plaats Delict . Dankzij een tip van een oplettende kijker werd de verdachte herkent. Na aanvullend onderzoek door cryptovaluta-specialisten van de politie kwam ook een tweede verdachte in beeld. Op woensdag 9 september zijn beide mannen aangehouden. Het gaat om een 24-jarige man uit Geleen en een 45-jarige man uit Leiden. Bij de man uit Geleen werd ook een huiszoeking uitgevoerd. Daarbij zijn vuurwapens en verdovende middelen aangetroffen. Hij is door de rechter-commissaris voor veertien dagen in bewaring gesteld. De 45-jarige man uit Leiden zit momenteel niet meer vast, maar blijft wel als verdachte aangemerkt. Het verder onderzoek naar bijvoorbeeld in beslag genomen gegevensdragers loopt. Daarbij wordt ook onderzocht of de verdachten betrokken zijn geweest bij andere oplichtingszaken met cryptovaluta.",
+    "scraped_at": "2026-09-18T08:05:35.735419Z",
+    "id": "11d644245ddb8570b345e6ee337aaccf9f79b7b9929661ebd828c1838a598c96",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/17/02-verkopers-van-rolex-horloges-opgelicht-met-vervalste-cryptovaluta.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In augustus 2025 kreeg de politie meerdere meldingen van slachtoffers die tijdens de verkoop van hun Rolex via Marktplaats waren opgelicht. De kopers spraken met verkopers af om te betalen met EURC, een legitieme cryptovaluta. In werkelijkheid gebruikten zij vervalste EURC die op het eerste oog niet van echt te onderscheiden waren. Zo werd een man uit Almelo benaderd nadat hij zijn Rolex op Marktplaats had gezet. Op het moment dat ze afspraken voor de verkoop, zag hij dat de koper crypto overmaakte en gaf hij het horloge mee. Toen hij de ontvangen crypto later wilde omzetten in euro's, bleek deze niets waard. Wees voorzichtig met cryptobetalingen Het is belangrijk om voorzichtig te zijn met betalingen in cryptovaluta, zeker wanneer je hier geen deskundige in bent. Criminelen kunnen gebruikmaken van vervalste tokens die op het eerste gezicht echt lijken, waardoor het lastig kan zijn om direct te zien of een betaling daadwerkelijk waarde heeft. Het lijkt namelijk alsof je het afgesproken bedrag daadwerkelijk ontvangt, terwijl de tokens in werkelijkheid geen waarde hebben. Het advies is om altijd alleen verkopen of aankopen te doen via betaalmethodes die je kent en vertrouwt. Word je onder druk gezet om toch mee te werken aan een betaling via een betaalmethode die je niet kent? Dan is de kans groot dat je wordt opgelicht. Twee aanhoudingen Aan deze zaak werd in november vorig jaar al aandacht besteed in het opsporingsprogramma Plaats Delict . Dankzij een tip van een oplettende kijker werd de verdachte herkent. Na aanvullend onderzoek door cryptovaluta-specialisten van de politie kwam ook een tweede verdachte in beeld. Op woensdag 9 september zijn beide mannen aangehouden. Het gaat om een 24-jarige man uit Geleen en een 45-jarige man uit Leiden. Bij de man uit Geleen werd ook een huiszoeking uitgevoerd. Daarbij zijn vuurwapens en verdovende middelen aangetroffen. Hij is door de rechter-commissaris voor veertien dagen in bewaring gesteld. De 45-jarige man uit Leiden zit momenteel niet meer vast, maar blijft wel als verdachte aangemerkt. Het verder onderzoek naar bijvoorbeeld in beslag genomen gegevensdragers loopt. Daarbij wordt ook onderzocht of de verdachten betrokken zijn geweest bij andere oplichtingszaken met cryptovaluta.",
+    "locations": [
+      "Leiden"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Leiden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "EURC",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "637fd83e82aacfb83f6d3d98926a0ec6": {
+    "feed": "Politie.nl",
+    "title": "Bestuurder aangehouden na dodelijk verkeersongeval N307 Zwaag",
+    "url": "https://www.politie.nl/nieuws/2026/september/17/bestuurder-aangehouden-na-dodelijk-verkeersongeval-n307-zwaag.html",
+    "published": "Thu, 17 Sep 2026 13:33:00 GMT",
+    "summary": "Bij het verkeersongeval op de N307 in Zwaag is woensdagavond één persoon om het leven gekomen. Drie andere inzittenden raakten gewond en zijn naar het ziekenhuis gebracht. De bestuurder is aangehouden.",
+    "full_text": "Rond 21.20 uur vond op de N307 een verkeersongeval plaats waarbij een personenauto en een vrachtwagen betrokken waren. In de personenauto zaten vier mensen. Hulpdiensten kwamen snel ter plaatse en verleenden hulp. Eén van de inzittenden, een 39-jarige vrouw overleed ter plaatse aan haar verwondingen. De bestuurder van de personenauto is aangehouden. Het Opsporing Team Verkeer doet in samenwerking met het Team Forensische Opsporing Verkeer onderzoek naar de toedracht van het ongeval. Een ernstig verkeersongeval kan veel impact hebben op betrokkenen en getuigen. Wie daar behoefte aan heeft, kan voor ondersteuning terecht bij Slachtofferhulp Nederland via 0900-0101 of www.slachtofferhulp.nl . Getuigen en camerabeelden De politie komt graag in contact met mensen die het ongeval hebben gezien of camerabeelden hebben, bijvoorbeeld van een dashcam. Heeft u informatie die kan helpen bij het onderzoek en heeft u nog niet met de politie gesproken? Vul dan het tipformulier in via www.politie.nl/tipformulier of bel 0900-8844.",
+    "scraped_at": "2026-09-18T08:05:35.735607Z",
+    "id": "93668404b92e9b248605f4460cc044d0a3df5a06db4ce4c5382e4a316f6bf7ef",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/17/bestuurder-aangehouden-na-dodelijk-verkeersongeval-n307-zwaag.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 21.20 uur vond op de N307 een verkeersongeval plaats waarbij een personenauto en een vrachtwagen betrokken waren. In de personenauto zaten vier mensen. Hulpdiensten kwamen snel ter plaatse en verleenden hulp. Eén van de inzittenden, een 39-jarige vrouw overleed ter plaatse aan haar verwondingen. De bestuurder van de personenauto is aangehouden. Het Opsporing Team Verkeer doet in samenwerking met het Team Forensische Opsporing Verkeer onderzoek naar de toedracht van het ongeval. Een ernstig verkeersongeval kan veel impact hebben op betrokkenen en getuigen. Wie daar behoefte aan heeft, kan voor ondersteuning terecht bij Slachtofferhulp Nederland via 0900-0101 of www.slachtofferhulp.nl . Getuigen en camerabeelden De politie komt graag in contact met mensen die het ongeval hebben gezien of camerabeelden hebben, bijvoorbeeld van een dashcam. Heeft u informatie die kan helpen bij het onderzoek en heeft u nog niet met de politie gesproken? Vul dan het tipformulier in via www.politie.nl/tipformulier of bel 0900-8844.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Team Forensische Opsporing",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
+  },
+  "c63abbeacd247e0d512c708404da30b6": {
+    "feed": "L1 Nieuws",
+    "title": "Pinda’s van Limburgse bodem: Timo experimenteert met teelt in Kessel",
+    "url": "https://www.l1nieuws.nl/nieuws/3234851/pindas-van-limburgse-bodem-timo-experimenteert-met-teelt-in-kessel",
+    "published": "Wed, 16 Sep 2026 19:34:02 GMT",
+    "summary": "Pinda’s worden normaal gesproken vooral geteeld in landen met een warmer klimaat. De langere groeiperiode maakt gebieden in onder meer Noord- en Zuid-Amerika en China geschikt voor de teelt. Maar volgens Timo Bodynek ontstaan door het veranderende klimaat mogelijk ook in Nederland nieuwe kansen.",
+    "full_text": "Pinda’s worden normaal gesproken vooral geteeld in landen met een warmer klimaat. De langere groeiperiode maakt gebieden in onder meer Noord- en Zuid-Amerika en China geschikt voor de teelt. Maar volgens Timo Bodynek ontstaan door het veranderende klimaat mogelijk ook in Nederland nieuwe kansen. \"Het weer verandert en het klimaat schuift op. Daarom ben ik gaan proberen of het hier ook kan\", vertelt hij. Dat experiment lijkt te slagen. De planten hebben zich goed ontwikkeld en dragen volgens Bodynek tussen de 70 tot 100 pinda’s per plant. Het idee ontstond enkele jaren geleden op een alledaags moment. Timo, student aan HAS green academy, stond ’s ochtends zijn boterham te smeren en vroeg zich af waar de pinda’s eigenlijk vandaan kwamen. Na wat onderzoek ontdekte hij dat pinda’s nauwelijks in Nederland worden verbouwd. \"Toen dacht ik: waarom kan dat niet? Dus ben ik het zelf maar gaan proberen.\" Hij bestelde pindazaden bij een hobbywebshop en begon op kleine schaal. Het eerste resultaat was bescheiden: precies één pinda. Toch was dat genoeg om verder te gaan. Ieder jaar breidde hij zijn experiment verder uit en deed hij nieuwe kennis op over de teelt. Inmiddels maakt het project deel uit van zijn afstudeeronderzoek. De pindaplant heeft een bijzondere manier van groeien. Na de bloei groeit vanuit de plant een uitloper naar beneden. Zodra die de bodem binnendringt, ontwikkelen zich onder de grond de pinda’s. Na de oogst is het werk bovendien nog niet klaar. De planten moeten eerst ongeveer twee weken op het veld drogen. Daarna worden de pinda’s gedorst en geroosterd. Uiteindelijk kunnen ze worden verwerkt tot bijvoorbeeld pindakaas en snackpinda’s. Juist dat drogen vormt in het Nederlandse klimaat nog een uitdaging. Het experiment draait daarom niet alleen om de vraag óf een pindaplant hier kan groeien, maar ook om de manier waarop de complete teelt en verwerking praktisch uitvoerbaar kunnen worden. Dat de pindateelt op korte termijn een lucratieve onderneming wordt, verwacht Timo niet. Voor hem draait het vooral om experimenteren, leren en ontdekken wat er mogelijk is. Hij trekt daarbij een vergelijking met de zoete aardappel. Ook dat van oorsprong tropische gewas was vijftien jaar geleden nog nauwelijks op Nederlandse akkers te vinden, terwijl er inmiddels verschillende Nederlandse telers mee werken. Bodynek denkt dat meer gewassen die nu nog als exotisch worden beschouwd in de toekomst een plek op Nederlandse akkers kunnen krijgen. Hij hoopt dat voor de pinda hetzelfde geldt. \"Elk jaar kom je een stapje verder en leer je weer iets nieuws. We leren nog steeds en we zijn er nog lang niet. Dat vind ik juist het leukste: pionieren.\"",
+    "scraped_at": "2026-09-18T08:05:51.454489Z",
+    "id": "138c3278ad0b198cef8099ed8f7a8084960aec2d4a36d66af393c31e4e363286",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3234851/pindas-van-limburgse-bodem-timo-experimenteert-met-teelt-in-kessel",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Pinda’s worden normaal gesproken vooral geteeld in landen met een warmer klimaat. De langere groeiperiode maakt gebieden in onder meer Noord- en Zuid-Amerika en China geschikt voor de teelt. Maar volgens Timo Bodynek ontstaan door het veranderende klimaat mogelijk ook in Nederland nieuwe kansen. \"Het weer verandert en het klimaat schuift op. Daarom ben ik gaan proberen of het hier ook kan\", vertelt hij. Dat experiment lijkt te slagen. De planten hebben zich goed ontwikkeld en dragen volgens Bodynek tussen de 70 tot 100 pinda’s per plant. Het idee ontstond enkele jaren geleden op een alledaags moment. Timo, student aan HAS green academy, stond ’s ochtends zijn boterham te smeren en vroeg zich af waar de pinda’s eigenlijk vandaan kwamen. Na wat onderzoek ontdekte hij dat pinda’s nauwelijks in Nederland worden verbouwd. \"Toen dacht ik: waarom kan dat niet? Dus ben ik het zelf maar gaan proberen.\" Hij bestelde pindazaden bij een hobbywebshop en begon op kleine schaal. Het eerste resultaat was bescheiden: precies één pinda. Toch was dat genoeg om verder te gaan. Ieder jaar breidde hij zijn experiment verder uit en deed hij nieuwe kennis op over de teelt. Inmiddels maakt het project deel uit van zijn afstudeeronderzoek. De pindaplant heeft een bijzondere manier van groeien. Na de bloei groeit vanuit de plant een uitloper naar beneden. Zodra die de bodem binnendringt, ontwikkelen zich onder de grond de pinda’s. Na de oogst is het werk bovendien nog niet klaar. De planten moeten eerst ongeveer twee weken op het veld drogen. Daarna worden de pinda’s gedorst en geroosterd. Uiteindelijk kunnen ze worden verwerkt tot bijvoorbeeld pindakaas en snackpinda’s. Juist dat drogen vormt in het Nederlandse klimaat nog een uitdaging. Het experiment draait daarom niet alleen om de vraag óf een pindaplant hier kan groeien, maar ook om de manier waarop de complete teelt en verwerking praktisch uitvoerbaar kunnen worden. Dat de pindateelt op korte termijn een lucratieve onderneming wordt, verwacht Timo niet. Voor hem draait het vooral om experimenteren, leren en ontdekken wat er mogelijk is. Hij trekt daarbij een vergelijking met de zoete aardappel. Ook dat van oorsprong tropische gewas was vijftien jaar geleden nog nauwelijks op Nederlandse akkers te vinden, terwijl er inmiddels verschillende Nederlandse telers mee werken. Bodynek denkt dat meer gewassen die nu nog als exotisch worden beschouwd in de toekomst een plek op Nederlandse akkers kunnen krijgen. Hij hoopt dat voor de pinda hetzelfde geldt. \"Elk jaar kom je een stapje verder en leer je weer iets nieuws. We leren nog steeds en we zijn er nog lang niet. Dat vind ik juist het leukste: pionieren.\"",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Pinda’s",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "HAS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Zodra",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bodynek",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
