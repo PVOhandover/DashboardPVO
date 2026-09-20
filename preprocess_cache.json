@@ -77021,5 +77021,76 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "ae4130e9d04431cc6f02c172bba1f1fd": {
+    "feed": "Politie.nl",
+    "title": "Geweld tegen politie en 24 aanhoudingen bij demonstratie Malieveld",
+    "url": "https://www.politie.nl/nieuws/2026/september/19/geweld-tegen-politie-en-24-aanhoudingen-bij-demonstratie-den-haag.html",
+    "published": "Sat, 19 Sep 2026 19:02:00 GMT",
+    "summary": "Bij de demonstratie ‘Wij zijn het volk’ op het Malieveld zijn zaterdag 19 september 2026 24 aanhoudingen verricht. De actievoerders keerden zich met geweld tegen de politie, waarna de demonstratie ontbonden werd.",
+    "full_text": "Tijdens de manifestatie werd de sfeer grimmig en keerde een deel van actievoerders zich met geweld tegen de politie. Zij gooiden vuurwerk naar agenten, pleegden vernielingen en droegen gezichtsbedekkende kleding, ondanks de afspraak met de organisatie van de demonstratie dat zij dit niet zouden doen. Ook maakte een deel van de actievoerders zich schuldig aan antisemitische leuzen en gebaren. Dit wordt, net zoals, het gebruikte geweld niet getolereerd. Hier wordt verder onderzoek naar gedaan. Noodbevel De ME werd ingezet om de openbare orde te herstellen. Daarbij is ook de waterwerper ingezet. Toen de onrust aanhield, heeft de locoburgemeester van Den Haag besloten de demonstratie te beëindigen en een noodbevel uit te vaardigen. Aanhoudingen Nadat het noodbevel van kracht werd, heeft de ME de actievoerders verwezen in de richting van het Centraal Station. Daarbij zijn velen van hen  gecontroleerd voordat zij zelf hun weg konden vervolgen. In totaal zijn bij de ongeregeldheden 24 actievoerders aangehouden voor onder andere het niet voldoen aan het noodbevel en verboden wapenbezit. Persveilig Online gaan er op sociale media beelden rond van een journalist die tijdens de inzet van de politie in het water terecht gekomen. De politie staat in contact met de Nederlandse Vereningen van Journalisten (NVJ) en met de betreffende journalist. Daarnaast werden tijdens de demonstratie meerdere journalisten lastiggevallen door actievoerders. De politie en het OM hechten veel waarde aan een vrije pers in Nederland die ongehinderd en op een veilige manier zijn werk kan doen. Als een journalist daarbij met geweld wordt geconfronteerd geven we hoge prioritiet aan het opsporen en vervolgen van de verdachte. De Nederlandse Vereniging van Journalisten (NVJ), het Genootschap van Hoofdredacteuren, het Openbaar Ministerie en de politie werken daarbij ook samen in het project PersVeilig. Het doel is de positie van journalisten te versterken tegen agressie en geweld.",
+    "scraped_at": "2026-09-20T08:25:11.848966Z",
+    "id": "540f0b75f2b4baafb5082895048328f95e2e067a956a99999ead0b5ece6b3c6e",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/19/geweld-tegen-politie-en-24-aanhoudingen-bij-demonstratie-den-haag.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Tijdens de manifestatie werd de sfeer grimmig en keerde een deel van actievoerders zich met geweld tegen de politie. Zij gooiden vuurwerk naar agenten, pleegden vernielingen en droegen gezichtsbedekkende kleding, ondanks de afspraak met de organisatie van de demonstratie dat zij dit niet zouden doen. Ook maakte een deel van de actievoerders zich schuldig aan antisemitische leuzen en gebaren. Dit wordt, net zoals, het gebruikte geweld niet getolereerd. Hier wordt verder onderzoek naar gedaan. Noodbevel De ME werd ingezet om de openbare orde te herstellen. Daarbij is ook de waterwerper ingezet. Toen de onrust aanhield, heeft de locoburgemeester van Den Haag besloten de demonstratie te beëindigen en een noodbevel uit te vaardigen. Aanhoudingen Nadat het noodbevel van kracht werd, heeft de ME de actievoerders verwezen in de richting van het Centraal Station. Daarbij zijn velen van hen  gecontroleerd voordat zij zelf hun weg konden vervolgen. In totaal zijn bij de ongeregeldheden 24 actievoerders aangehouden voor onder andere het niet voldoen aan het noodbevel en verboden wapenbezit. Persveilig Online gaan er op sociale media beelden rond van een journalist die tijdens de inzet van de politie in het water terecht gekomen. De politie staat in contact met de Nederlandse Vereningen van Journalisten (NVJ) en met de betreffende journalist. Daarnaast werden tijdens de demonstratie meerdere journalisten lastiggevallen door actievoerders. De politie en het OM hechten veel waarde aan een vrije pers in Nederland die ongehinderd en op een veilige manier zijn werk kan doen. Als een journalist daarbij met geweld wordt geconfronteerd geven we hoge prioritiet aan het opsporen en vervolgen van de verdachte. De Nederlandse Vereniging van Journalisten (NVJ), het Genootschap van Hoofdredacteuren, het Openbaar Ministerie en de politie werken daarbij ook samen in het project PersVeilig. Het doel is de positie van journalisten te versterken tegen agressie en geweld.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Centraal Station",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "NVJ",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Nederlandse Vereniging van Journalisten",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "NVJ",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie en de politie werken daarbij ook",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "56.3"
+    ]
   }
 }
