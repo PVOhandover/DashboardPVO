@@ -77575,5 +77575,615 @@
       "62",
       "not_affected"
     ]
+  },
+  "5c748639522401fdf2338e3906a90f0c": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws: 65-jarige man uit Ter Apel overleden bij verkeersongeval in Overijssel • Aanhouding voor mishandeling in Slochteren",
+    "url": "https://www.rtvnoord.nl/112/1439848/112-nieuws-65-jarige-man-uit-ter-apel-overleden-bij-verkeersongeval-in-overijssel-aanhouding-voor-mishandeling-in-slochteren",
+    "published": "Thu, 24 Sep 2026 07:52:18 GMT",
+    "summary": "In dit 112-blog houden we je deze donderdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Een 65-jarige man uit Ter Apel is om het leven gekomen bij een verkeersongeval in het Overijsselse Holthone. Het ongeluk gebeurde woensdagmiddag op de N34. Daarbij botsten twee auto's frontaal op elkaar. De bestuurder van de andere auto, een 42-jarige man uit het Overijsselse Vriezeveen, raakte ook gewond en werd overgebracht naar het ziekenhuis. Aan De Krimpen in Slochteren is woensdagmiddag een 51-jarige man uit de gemeente Midden-Groningen aangehouden. Volgens een woordvoerder van de politie wordt hij 'onder andere' verdacht van mishandeling. Vanwege de mogelijke herleidbaarheid maakt de politie geen verdere details bekend over de zaak. De politie heeft woensdagavond twee hennepkwekerijen opgerold aan de Langezijde in de stad-Groninger Oosterparkwijk. In de ene woning trof de politie 136 planten aan, in de andere 109. Bij de invallen zijn geen aanhoudingen verricht. Het onderzoek van de politie gaat verder.",
+    "scraped_at": "2026-09-24T08:18:54.873037Z",
+    "id": "57326f22229be609d46d8eb7772ce66d4101f39ef9112341416fb90de0136f9f",
+    "canonical_url": "https://www.rtvnoord.nl/112/1439848/112-nieuws-65-jarige-man-uit-ter-apel-overleden-bij-verkeersongeval-in-overijssel-aanhouding-voor-mishandeling-in-slochteren",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Een 65-jarige man uit Ter Apel is om het leven gekomen bij een verkeersongeval in het Overijsselse Holthone. Het ongeluk gebeurde woensdagmiddag op de N34. Daarbij botsten twee auto's frontaal op elkaar. De bestuurder van de andere auto, een 42-jarige man uit het Overijsselse Vriezeveen, raakte ook gewond en werd overgebracht naar het ziekenhuis. Aan De Krimpen in Slochteren is woensdagmiddag een 51-jarige man uit de gemeente Midden-Groningen aangehouden. Volgens een woordvoerder van de politie wordt hij 'onder andere' verdacht van mishandeling. Vanwege de mogelijke herleidbaarheid maakt de politie geen verdere details bekend over de zaak. De politie heeft woensdagavond twee hennepkwekerijen opgerold aan de Langezijde in de stad-Groninger Oosterparkwijk. In de ene woning trof de politie 136 planten aan, in de andere 109. Bij de invallen zijn geen aanhoudingen verricht. Het onderzoek van de politie gaat verder.",
+    "locations": [
+      "Ter Apel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ],
+      [
+        "Slochteren",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Overijsselse Holthone",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "N34",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Overijsselse Vriezeveen",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "b85161c4d5a3af5cb594aa0112967e66": {
+    "feed": "Politie.nl",
+    "title": "AI versnelt en vergroot de dreiging: nu handelen noodzakelijk",
+    "url": "https://www.politie.nl/nieuws/2026/september/24/ai-versnelt-en-vergroot-de-dreiging-nu-handelen-noodzakelijk.html",
+    "published": "Thu, 24 Sep 2026 10:07:00 GMT",
+    "summary": "AI (Artificial Intelligence) versnelt en vergroot de dreiging van cyberaanvallen tegen onze overheid en maatschappij. De aanvallen worden door AI groter, complexer en zullen toenemen. Daarom is daartegen handelen nu noodzakelijk.",
+    "full_text": "Dat benadrukken de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV), het Nationaal Cyber Security Centrum (NCSC), de Algemene Inlichtingen- en Veiligheidsdienst (AIVD), de Militaire Inlichtingen- en Veiligheidsdienst (MIVD), het Openbaar Ministerie (OM), de Chief Information Officer (CIO) Rijk en de Politie in een gezamenlijk statement . Deze organisaties roepen bestuurders daarom op om hun verantwoordelijkheid te nemen. Die moeten prioriteit geven aan cybersecurity. We zien met regelmaat wat de gevolgen van cyberincidenten zijn als de verdediging niet op orde is: langdurige uitvallen van (vitale) systemen en veel burgers die slachtoffers zijn. Maar ook tot het buitmaken van grote aantallen namen, adressen en BSN’s met alle privacy en financiële consequenties tot gevolg. In het statement worden de bestuurders opgeroepen om de juiste middelen beschikbaar te stellen, cybersecurity te prioriteren en experts de ruimte te geven om de weerbaarheid van Nederland te verhogen. Ook worden er in het statement drie acties voorgesteld die bestuurders vandaag nog kunnen nemen om hun verantwoordelijkheid op te pakken: Breng de basis op orde. Stel jezelf de vraag: is mijn beveiliging nog op een passend niveau? Neem signalen rondom AI serieus. In het statement worden deze acties verder toegelicht. Matthijs van Amelsfort, algemeen directeur NCSC: ‘AI automatiseert de aanvalsketen: van kwetsbaarheden vinden tot misbruik. De technologie kan daarmee bestaande cyberdreigingen versnellen en versterken. Juist daarom is het belangrijker dan ooit om de basismaatregelen op orde te hebben.’ Kwetsbaarheden sneller opgespoord en misbruikt AI verlaagt de drempel voor aanvallers en maakt het voor een bredere groep kwaadwillenden mogelijk om cyberaanvallen uit te voeren. Kwetsbaarheden worden door AI steeds sneller opgespoord en misbruikt. Daardoor ontstaat er een nieuwe realiteit waar publieke en private organisaties zich aan moeten aanpassen. Kwaadwillenden zetten AI vooral in om hun aanvalstechnieken te automatiseren, versnellen of efficiënter te maken: cyberaanvallen kunnen meer geavanceerd worden en blijven langer onder de radar. Aanvallers hoeven daarbij niet gebruik te maken van de meest geavanceerde frontier-modellen. Ook met het gebruik van bestaande en makkelijk toegankelijke AI-modellen kunnen dergelijke aanvallen nu al worden uitgevoerd. Ontwikkelingen in AI vragen om nieuw leiderschap Digitale veiligheid is allang niet meer uitsluitend het domein van CISO’s en IT-afdelingen. De afhankelijkheid van digitale systemen is daarvoor te groot, de verwevenheid te complex en de risico’s te omvangrijk. Het versterken van de digitale weerbaarheid van Nederland is dan ook een gezamenlijke opgave van publieke en private partijen. De belangrijkste stap die nu gezet moet worden, is niet in de eerste plaats technisch, maar meer bewustwording en ander leiderschap. Cybersecurity is geen operationeel detail, maar een organisatiebreed vraagstuk dat vraagt om stevige regie op bestuursniveau en een duidelijk besef van maatschappelijke verantwoordelijkheid.",
+    "scraped_at": "2026-09-24T08:17:55.273860Z",
+    "id": "354b76dca281525de5ea0a75467b34bf422bb98864a7b0c240f9cfab7982a15f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/24/ai-versnelt-en-vergroot-de-dreiging-nu-handelen-noodzakelijk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dat benadrukken de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV), het Nationaal Cyber Security Centrum (NCSC), de Algemene Inlichtingen- en Veiligheidsdienst (AIVD), de Militaire Inlichtingen- en Veiligheidsdienst (MIVD), het Openbaar Ministerie (OM), de Chief Information Officer (CIO) Rijk en de Politie in een gezamenlijk statement . Deze organisaties roepen bestuurders daarom op om hun verantwoordelijkheid te nemen. Die moeten prioriteit geven aan cybersecurity. We zien met regelmaat wat de gevolgen van cyberincidenten zijn als de verdediging niet op orde is: langdurige uitvallen van (vitale) systemen en veel burgers die slachtoffers zijn. Maar ook tot het buitmaken van grote aantallen namen, adressen en BSN’s met alle privacy en financiële consequenties tot gevolg. In het statement worden de bestuurders opgeroepen om de juiste middelen beschikbaar te stellen, cybersecurity te prioriteren en experts de ruimte te geven om de weerbaarheid van Nederland te verhogen. Ook worden er in het statement drie acties voorgesteld die bestuurders vandaag nog kunnen nemen om hun verantwoordelijkheid op te pakken: Breng de basis op orde. Stel jezelf de vraag: is mijn beveiliging nog op een passend niveau? Neem signalen rondom AI serieus. In het statement worden deze acties verder toegelicht. Matthijs van Amelsfort, algemeen directeur NCSC: ‘AI automatiseert de aanvalsketen: van kwetsbaarheden vinden tot misbruik. De technologie kan daarmee bestaande cyberdreigingen versnellen en versterken. Juist daarom is het belangrijker dan ooit om de basismaatregelen op orde te hebben.’ Kwetsbaarheden sneller opgespoord en misbruikt AI verlaagt de drempel voor aanvallers en maakt het voor een bredere groep kwaadwillenden mogelijk om cyberaanvallen uit te voeren. Kwetsbaarheden worden door AI steeds sneller opgespoord en misbruikt. Daardoor ontstaat er een nieuwe realiteit waar publieke en private organisaties zich aan moeten aanpassen. Kwaadwillenden zetten AI vooral in om hun aanvalstechnieken te automatiseren, versnellen of efficiënter te maken: cyberaanvallen kunnen meer geavanceerd worden en blijven langer onder de radar. Aanvallers hoeven daarbij niet gebruik te maken van de meest geavanceerde frontier-modellen. Ook met het gebruik van bestaande en makkelijk toegankelijke AI-modellen kunnen dergelijke aanvallen nu al worden uitgevoerd. Ontwikkelingen in AI vragen om nieuw leiderschap Digitale veiligheid is allang niet meer uitsluitend het domein van CISO’s en IT-afdelingen. De afhankelijkheid van digitale systemen is daarvoor te groot, de verwevenheid te complex en de risico’s te omvangrijk. Het versterken van de digitale weerbaarheid van Nederland is dan ook een gezamenlijke opgave van publieke en private partijen. De belangrijkste stap die nu gezet moet worden, is niet in de eerste plaats technisch, maar meer bewustwording en ander leiderschap. Cybersecurity is geen operationeel detail, maar een organisatiebreed vraagstuk dat vraagt om stevige regie op bestuursniveau en een duidelijk besef van maatschappelijke verantwoordelijkheid.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Nationaal Coördinator Terrorismebestrijding",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NCTV",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Nationaal Cyber Security Centrum",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NCSC",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "AIVD",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "MIVD",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Chief Information Officer",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "CIO",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Breng",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62",
+      "not_affected"
+    ]
+  },
+  "4a01874db99bb3093625507dcef3a133": {
+    "feed": "Politie.nl",
+    "title": "Getuigen gezocht na explosie bij boksschool in Leiden",
+    "url": "https://www.politie.nl/nieuws/2026/september/23/06-getuigen-gezocht-na-explosie-bij-boksschool-in-leiden.html",
+    "published": "Wed, 23 Sep 2026 15:19:00 GMT",
+    "summary": "Bij een boksschool op de Hoge Rijndijk heeft in de nacht van dinsdag 22 op woensdag 23 september een explosie plaatsgevonden. Het onderzoek naar de toedracht is in volle gang en de politie roept getuigen op om zich te melden.",
+    "full_text": "De explosie is omstreeks 01.05 uur bij de politie gemeld. Als gevolg van de explosie kwamen meerdere fietsen die bij het pand stonden in brand te staan. Er is vooralsnog geen verdachte aangehouden en voor zover bekend raakte niemand gewond. Getuigen De politie doet onderzoek naar de toedracht van de explosie en komt graag in contact met getuigen. Heeft u iets opvallends gezien in de nacht van 22 op 23 september in de omgeving van de boksschool aan de Hoge Rijndijk? Of heeft u op een andere manier informatie die in het onderzoek van belang kan zijn, bijvoorbeeld in de vorm van camerabeelden? Laat het dan alstublieft weten. Dat kan via onderstaande mogelijkheden. Gevaarzetting Het plaatsen van explosieven is gevaarlijk en veroorzaken een gevaarlijke situatie voor omwonenden, voorbijgangers, ondernemers én hulpverleners. Zwaar, voor consumenten verboden vuurwerk, jerrycans met brandbare vloeistoffen en zelfgemaakte explosieven zorgen voor levensgevaarlijke situaties en horen niet thuis in de openbare ruimte. Melden helpt Ziet u verdachte een situatie, bel dan altijd 112. Heeft u informatie andere vormen van criminaliteit? Meld het dan ook. Dat kan via de opsporingstiplijn (0800-6070). Tippen kan ook via Meld Misdaad Anoniem (0800-7000) of via onderstaand tipformulier.",
+    "scraped_at": "2026-09-24T08:17:55.274346Z",
+    "id": "1407c24b9ebcc6fc566bf217f55b1a4d735bc91c8efaaf731f8d8283f6170d7f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/23/06-getuigen-gezocht-na-explosie-bij-boksschool-in-leiden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De explosie is omstreeks 01.05 uur bij de politie gemeld. Als gevolg van de explosie kwamen meerdere fietsen die bij het pand stonden in brand te staan. Er is vooralsnog geen verdachte aangehouden en voor zover bekend raakte niemand gewond. Getuigen De politie doet onderzoek naar de toedracht van de explosie en komt graag in contact met getuigen. Heeft u iets opvallends gezien in de nacht van 22 op 23 september in de omgeving van de boksschool aan de Hoge Rijndijk? Of heeft u op een andere manier informatie die in het onderzoek van belang kan zijn, bijvoorbeeld in de vorm van camerabeelden? Laat het dan alstublieft weten. Dat kan via onderstaande mogelijkheden. Gevaarzetting Het plaatsen van explosieven is gevaarlijk en veroorzaken een gevaarlijke situatie voor omwonenden, voorbijgangers, ondernemers én hulpverleners. Zwaar, voor consumenten verboden vuurwerk, jerrycans met brandbare vloeistoffen en zelfgemaakte explosieven zorgen voor levensgevaarlijke situaties en horen niet thuis in de openbare ruimte. Melden helpt Ziet u verdachte een situatie, bel dan altijd 112. Heeft u informatie andere vormen van criminaliteit? Meld het dan ook. Dat kan via de opsporingstiplijn (0800-6070). Tippen kan ook via Meld Misdaad Anoniem (0800-7000) of via onderstaand tipformulier.",
+    "locations": [
+      "Melden"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Melden",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Zwaar",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "257c8803e7a0908bf21a8ffce2e589be": {
+    "feed": "L1 Nieuws",
+    "title": "Minister Letschert: onderzoek Einstein-samenwerking met Italië",
+    "url": "https://www.l1nieuws.nl/nieuws/3237368/minister-letschert-onderzoek-einstein-samenwerking-met-italie",
+    "published": "Tue, 22 Sep 2026 16:03:10 GMT",
+    "summary": "Minister Rianne Letschert heeft het projectbureau van de Einstein Telescoop opdracht gegeven om een mogelijke samenwerking met Italië te onderzoeken.",
+    "full_text": "Minister Rianne Letschert heeft het projectbureau van de Einstein Telescoop opdracht gegeven om een mogelijke samenwerking met Italië te onderzoeken. \"Het is echt een prioriteit van dit kabinet om de Einstein Telescoop naar de Euregio te halen.\", aldus Rianne Letschert. De minister stuurde dinsdag een brief naar de Tweede Kamer, waarbij ze aanvullend onderzoek aankondigt naar de haalbaarheid van een Einstein-telescope die metingen uitvoert met twee L-vormige constructies. In eerste instantie zetten Limburg en de Euregio Maas-Rijn vol in op een driehoeksconfiguratie. Drie buizen van 10 kilometer lengte zouden dan zo'n 240 meter onder de grond zwaartekrachtgolven moeten meten. Dat was ook altijd de optie die het Nationaal Groeifonds ondersteunde. De mogelijkheid om over te schakelen naar een nieuwe constructie was eerder al open gehouden, nadat de overkoepelende Einstein Telescope Organisatie in juli 2025 alle partijen vroeg om onderzoek te doen naar zowel de driehoek als naar de L-vorm. Voor metingen met een L-vorm zijn twee locaties nodig waar de L-structuur in de grond ligt. Dat zou betekenen dat de Limburgse Euregio-partners samen kunnen werken met Sardinië, een regio die ook de ambitie heeft om de Einstein telescoop binnen te halen. In een kamerbrief spreekt Letschert een voorkeur uit voor samenwerking met het Italiaanse Sardinië, omdat dat \"vanwege de afstand\" betere metingen op zou leveren dan het Duitse Saksen, ook een concurrent. Hoewel de wetenschappelijke mogelijkheden van de twee L-vormen nog onderzocht moeten worden, is de politieke relevantie wel duidelijk. Naast de Euregio zijn ook het Duitse Saksen en het Italiaanse Sardinië kandidaat. Die twee concurrenten sloegen de handen ineen met de optie van twee L-configuraties in zowel Saksen als Sardinië. Daarmee dreigde de kandidatuur van de Euregio vermalen te worden door de Europese grootmachten Duitsland en Italië. \"Want\", zo meldde Europarlementariër Jeroen Lenaers in AvondGasten Europa, \"het is niet alleen een wetenschappelijke, maar ook een politieke beslissing waar de Einstein Telescoop komt.\" Het besluit over de locatie van de ondergrondse telescoop wordt niet genomen door de Europese Unie, maar door de tien landen die zijn betrokken bij het wetenschappelijk project. Dat zijn Nederland, Italië, Spanje, Verenigd Koninkrijk, Polen, Griekenland, Kroatië, Duitsland, België en Frankrijk. In dat krachtenveld is er een sleutelrol voor Duitsland. Hoewel de Duitse coalitie het Einstein-project als prioriteit heeft gedefinieerd, is nog niet duidelijk welke kandidatuur de Bondsregering in Berlijn zal steunen. Bondskanselier Friedrich Merz kan zich uitspreken voor de Einstein Telescoop in Saksen, hij kan ook deelstaat Noordrijn-Westfalen steunen als partner in de Euregio-kandidatuur. In dat krachtenveld speelt nadrukkelijk de uitslag van de recente verkiezingen in Duitsland. De christendemocraten van Merz kregen forse klappen in de deelstaatverkiezingen in Saksen-Anhalt, Berlijn en Mecklenburg-Voor-Pommeren. Wil Merz de verloren kiezers richting Alternative für Deutschland nieuw perspectief bieden door het grote Europese Einstein Telescoop-project naar het voormalige Oost-Duitsland te loodsen? Of kiest hij voor Noordrijn-Westfalen als partner in het Euregio-traject? In die politieke realiteit houdt de Euregio nu alle opties open door nadrukkelijk de optie te onderzoeken van twee L-vormige detectoren in twee verschillende landen. Zo kan Merz via Noordrijn-Westfalen toch samenwerken met politieke geestverwant Giorgia Meloni en ligt er een \"Europese\" oplossing op tafel, waarbij alle kandidaat-landen meedoen aan het ambitieuze wetenschapsproject. \"Met de verdieping van het onderzoek naar een dubbele L-vorm in samenwerking met Italië, maximaliseert de Euregio Maas-Rijn zijn flexibiliteit. Daarmee optimaliseert de regio zijn kansen om de telescoop naar de Euregio te halen. De komende periode zal er regelmatig contact zijn met andere landen om te komen tot de meest kansrijke oplossing\", aldus Rianne Letschert in een kamerbrief van dinsdag 22 september. Bekijk hier de explainer die L1 eerder maakte over de Einstein Telescoop.",
+    "scraped_at": "2026-09-24T08:18:13.076822Z",
+    "id": "b50dba3e0494835aa538f1a1072a1ea657be2dcd6907867e4943bac645153827",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3237368/minister-letschert-onderzoek-einstein-samenwerking-met-italie",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Minister Rianne Letschert heeft het projectbureau van de Einstein Telescoop opdracht gegeven om een mogelijke samenwerking met Italië te onderzoeken. \"Het is echt een prioriteit van dit kabinet om de Einstein Telescoop naar de Euregio te halen.\", aldus Rianne Letschert. De minister stuurde dinsdag een brief naar de Tweede Kamer, waarbij ze aanvullend onderzoek aankondigt naar de haalbaarheid van een Einstein-telescope die metingen uitvoert met twee L-vormige constructies. In eerste instantie zetten Limburg en de Euregio Maas-Rijn vol in op een driehoeksconfiguratie. Drie buizen van 10 kilometer lengte zouden dan zo'n 240 meter onder de grond zwaartekrachtgolven moeten meten. Dat was ook altijd de optie die het Nationaal Groeifonds ondersteunde. De mogelijkheid om over te schakelen naar een nieuwe constructie was eerder al open gehouden, nadat de overkoepelende Einstein Telescope Organisatie in juli 2025 alle partijen vroeg om onderzoek te doen naar zowel de driehoek als naar de L-vorm. Voor metingen met een L-vorm zijn twee locaties nodig waar de L-structuur in de grond ligt. Dat zou betekenen dat de Limburgse Euregio-partners samen kunnen werken met Sardinië, een regio die ook de ambitie heeft om de Einstein telescoop binnen te halen. In een kamerbrief spreekt Letschert een voorkeur uit voor samenwerking met het Italiaanse Sardinië, omdat dat \"vanwege de afstand\" betere metingen op zou leveren dan het Duitse Saksen, ook een concurrent. Hoewel de wetenschappelijke mogelijkheden van de twee L-vormen nog onderzocht moeten worden, is de politieke relevantie wel duidelijk. Naast de Euregio zijn ook het Duitse Saksen en het Italiaanse Sardinië kandidaat. Die twee concurrenten sloegen de handen ineen met de optie van twee L-configuraties in zowel Saksen als Sardinië. Daarmee dreigde de kandidatuur van de Euregio vermalen te worden door de Europese grootmachten Duitsland en Italië. \"Want\", zo meldde Europarlementariër Jeroen Lenaers in AvondGasten Europa, \"het is niet alleen een wetenschappelijke, maar ook een politieke beslissing waar de Einstein Telescoop komt.\" Het besluit over de locatie van de ondergrondse telescoop wordt niet genomen door de Europese Unie, maar door de tien landen die zijn betrokken bij het wetenschappelijk project. Dat zijn Nederland, Italië, Spanje, Verenigd Koninkrijk, Polen, Griekenland, Kroatië, Duitsland, België en Frankrijk. In dat krachtenveld is er een sleutelrol voor Duitsland. Hoewel de Duitse coalitie het Einstein-project als prioriteit heeft gedefinieerd, is nog niet duidelijk welke kandidatuur de Bondsregering in Berlijn zal steunen. Bondskanselier Friedrich Merz kan zich uitspreken voor de Einstein Telescoop in Saksen, hij kan ook deelstaat Noordrijn-Westfalen steunen als partner in de Euregio-kandidatuur. In dat krachtenveld speelt nadrukkelijk de uitslag van de recente verkiezingen in Duitsland. De christendemocraten van Merz kregen forse klappen in de deelstaatverkiezingen in Saksen-Anhalt, Berlijn en Mecklenburg-Voor-Pommeren. Wil Merz de verloren kiezers richting Alternative für Deutschland nieuw perspectief bieden door het grote Europese Einstein Telescoop-project naar het voormalige Oost-Duitsland te loodsen? Of kiest hij voor Noordrijn-Westfalen als partner in het Euregio-traject? In die politieke realiteit houdt de Euregio nu alle opties open door nadrukkelijk de optie te onderzoeken van twee L-vormige detectoren in twee verschillende landen. Zo kan Merz via Noordrijn-Westfalen toch samenwerken met politieke geestverwant Giorgia Meloni en ligt er een \"Europese\" oplossing op tafel, waarbij alle kandidaat-landen meedoen aan het ambitieuze wetenschapsproject. \"Met de verdieping van het onderzoek naar een dubbele L-vorm in samenwerking met Italië, maximaliseert de Euregio Maas-Rijn zijn flexibiliteit. Daarmee optimaliseert de regio zijn kansen om de telescoop naar de Euregio te halen. De komende periode zal er regelmatig contact zijn met andere landen om te komen tot de meest kansrijke oplossing\", aldus Rianne Letschert in een kamerbrief van dinsdag 22 september. Bekijk hier de explainer die L1 eerder maakte over de Einstein Telescoop.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Saksen",
+        "DE"
+      ],
+      [
+        "Saksen",
+        "DE"
+      ],
+      [
+        "Saksen",
+        "DE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Polen",
+        "NL"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Frankrijk",
+        "BE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Berlijn",
+        "DE"
+      ],
+      [
+        "Saksen",
+        "DE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Saksen-Anhalt",
+        "DE"
+      ],
+      [
+        "Berlijn",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "47.11",
+      "sector_name": "Retail sale in non-specialised stores with food predominance"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Rianne Letschert",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Einstein Telescoop",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Rianne Letschert",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tweede Kamer",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Nationaal Groeifonds",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jeroen Lenaers",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Einstein Telescoop",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bondskanselier Friedrich",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      },
+      {
+        "company_name": "Giorgia Meloni",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Einstein Telescoop",
+        "sector_code": "47.11",
+        "sector_name": "Retail sale in non-specialised stores with food predominance",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "47.11"
+    ]
+  },
+  "ed886f78cdf8ee9abf516291c7405b4e": {
+    "feed": "L1 Nieuws",
+    "title": "Leerling voor het leven getekend door mesaanval: klasgenoot zes jaar de gevangenis in",
+    "url": "https://www.l1nieuws.nl/nieuws/3237280/leerling-voor-het-leven-getekend-door-mesaanval-klasgenoot-zes-jaar-de-gevangenis-in",
+    "published": "Tue, 22 Sep 2026 13:56:55 GMT",
+    "summary": "Een jongeman is veroordeeld tot zes jaar gevangenisstraf voor een poging zijn klasgenoot te doden. De aanval vond in maart van dit jaar plaats in een klaslokaal van middelbare school VMBO Maastricht. De toen 16-jarige verdachte pakte het slachtoffer bij het hoofd en sneed hem met een mes in zijn oor en gezicht.",
+    "full_text": "Een jongeman is veroordeeld tot zes jaar gevangenisstraf voor een poging zijn klasgenoot te doden. De aanval vond in maart van dit jaar plaats in een klaslokaal van middelbare school VMBO Maastricht. De toen 16-jarige verdachte pakte het slachtoffer bij het hoofd en sneed hem met een mes in zijn oor en gezicht. Het 17-jarige slachtoffer liep een diepe wond op, van achter zijn oor tot aan zijn wang. Een deel van zijn oor werd doorgesneden. In het ziekenhuis moest de wond worden gehecht. Volgens een arts zal het slachtoffer waarschijnlijk zijn hele leven een litteken in zijn gezicht houden. De aanval kwam niet uit het niets. De verdachte had het slachtoffer de dag ervoor al bedreigd via berichten. Ook op de ochtend van 9 maart 2026 stuurde hij dreigende berichten. De verdachte verklaarde dat hij zijn klasgenoot alleen wilde slaan en dat de situatie daarna uit de hand liep. De rechtbank gelooft dat niet. Volgens de rechters liep hij bewust met een mes op het slachtoffer af, pakte diens hoofd vast en haalde uit. Het slachtoffer overleefde de aanval doordat hij zijn hoofd wegdraaide. Daardoor raakte het mes zijn gezicht en niet zijn hals. Hoewel de verdachte tijdens de aanval nog minderjarig was, besloot de rechtbank hem volgens het volwassenenstrafrecht te berechten. De rechtbank vindt de aanval zo ernstig dat een jeugdstraf niet passend is. Ook het gedrag en de houding van de jongeman speelden een belangrijke rol. Volgens de rechtbank is hij moeilijk te sturen en lijkt hij weinig waarde te hechten aan school. Daarnaast vindt de rechtbank dat hij de aanval bewust en berekenend heeft uitgevoerd. Ook tijdens de rechtszaak bleef hij volgens de rechtbank een berekenende houding houden. Daarom besloten de rechters dat het volwassenenstrafrecht moest worden toegepast. Het Openbaar Ministerie (OM) had twee jaar jeugddetentie geëist, waarvan zes maanden voorwaardelijk. De rechtbank legde uiteindelijk een hogere straf op. Het feit wordt hem wel in verminderde mate toegerekend vanwege psychische problemen. Het slachtoffer krijgt ruim 33.000 euro schadevergoeding. Ook zijn moeder krijgt 5000 euro, vanwege de gevolgen die het incident voor haar heeft gehad. De verdachte heeft twee weken de tijd om in hoger beroep te gaan.",
+    "scraped_at": "2026-09-24T08:18:15.305523Z",
+    "id": "33eea9c305a7fc3167e8b495123ebf84e755670ad4cfc4147cd9c52b2c77c0f3",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3237280/leerling-voor-het-leven-getekend-door-mesaanval-klasgenoot-zes-jaar-de-gevangenis-in",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een jongeman is veroordeeld tot zes jaar gevangenisstraf voor een poging zijn klasgenoot te doden. De aanval vond in maart van dit jaar plaats in een klaslokaal van middelbare school VMBO Maastricht. De toen 16-jarige verdachte pakte het slachtoffer bij het hoofd en sneed hem met een mes in zijn oor en gezicht. Het 17-jarige slachtoffer liep een diepe wond op, van achter zijn oor tot aan zijn wang. Een deel van zijn oor werd doorgesneden. In het ziekenhuis moest de wond worden gehecht. Volgens een arts zal het slachtoffer waarschijnlijk zijn hele leven een litteken in zijn gezicht houden. De aanval kwam niet uit het niets. De verdachte had het slachtoffer de dag ervoor al bedreigd via berichten. Ook op de ochtend van 9 maart 2026 stuurde hij dreigende berichten. De verdachte verklaarde dat hij zijn klasgenoot alleen wilde slaan en dat de situatie daarna uit de hand liep. De rechtbank gelooft dat niet. Volgens de rechters liep hij bewust met een mes op het slachtoffer af, pakte diens hoofd vast en haalde uit. Het slachtoffer overleefde de aanval doordat hij zijn hoofd wegdraaide. Daardoor raakte het mes zijn gezicht en niet zijn hals. Hoewel de verdachte tijdens de aanval nog minderjarig was, besloot de rechtbank hem volgens het volwassenenstrafrecht te berechten. De rechtbank vindt de aanval zo ernstig dat een jeugdstraf niet passend is. Ook het gedrag en de houding van de jongeman speelden een belangrijke rol. Volgens de rechtbank is hij moeilijk te sturen en lijkt hij weinig waarde te hechten aan school. Daarnaast vindt de rechtbank dat hij de aanval bewust en berekenend heeft uitgevoerd. Ook tijdens de rechtszaak bleef hij volgens de rechtbank een berekenende houding houden. Daarom besloten de rechters dat het volwassenenstrafrecht moest worden toegepast. Het Openbaar Ministerie (OM) had twee jaar jeugddetentie geëist, waarvan zes maanden voorwaardelijk. De rechtbank legde uiteindelijk een hogere straf op. Het feit wordt hem wel in verminderde mate toegerekend vanwege psychische problemen. Het slachtoffer krijgt ruim 33.000 euro schadevergoeding. Ook zijn moeder krijgt 5000 euro, vanwege de gevolgen die het incident voor haar heeft gehad. De verdachte heeft twee weken de tijd om in hoger beroep te gaan.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "VMBO",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "ae9ed924d2210c2f05bbf76e2e5f391d": {
+    "feed": "L1 Nieuws",
+    "title": "Maastricht, ooit callcenter-hub, ziet deze banen rap verdwijnen",
+    "url": "https://www.l1nieuws.nl/nieuws/3235229/maastricht-ooit-callcenter-hub-ziet-deze-banen-rap-verdwijnen",
+    "published": "Tue, 22 Sep 2026 11:03:17 GMT",
+    "summary": "Maastricht is de callcenter-stad van onze provincie: aantrekkelijk voor die sector om meerdere redenen. Maar de laatste tijd komen er steeds meer berichten van callcenters die worden opgedoekt of ingekrompen zoals H&amp;M, waarbij 250 mensen hun baan verloren. Conduent sloot zijn callcenter eind vorig jaar, dat betekende voor 63 mensen baanverlies. En afgelopen week werd bekend dat het callcenter van Mercedes kleiner wordt: 70 banen minder.",
+    "full_text": "Maastricht is de callcenter-stad van onze provincie: aantrekkelijk voor die sector om meerdere redenen. Maar de laatste tijd komen er steeds meer berichten van callcenters die worden opgedoekt of ingekrompen zoals H&M, waarbij 250 mensen hun baan verloren. Conduent sloot zijn callcenter eind vorig jaar, dat betekende voor 63 mensen baanverlies. En afgelopen week werd bekend dat het callcenter van Mercedes kleiner wordt: 70 banen minder. Een callcenter is een afdeling of bedrijf waarbij medewerkers contact hebben met klanten. Het kan zijn dat klanten het callcenter bellen met klachten of vragen. Maar het kan ook zijn dat de medewerkers van een callcenter mensen opbellen voor verkoop of klantonderzoek. Maastricht heeft een combinatie die ideaal is voor callcenters om zich te vestigen. Om te beginnen is dat de grote studentenpopulatie. Jonge mensen die vaak parttime inzetbaar zijn. Vanwege de vele internationale studenten in onze provinciehoofdstad kunnen meerdere talen binnen het callcenter worden gesproken. En dan heeft Maastricht een prima treinverbinding en ligt het dicht bij België en Duitsland. Om die reden vestigden bedrijven als Mercedes, TP Netherlands en M3 Multi Media Marketing International hun callcenters in Maastricht. In de topdagen waren er zo'n 6000 mensen aan het werk in een Maastrichts callcenter. De afgelopen tijd wordt het aantal callcentermedewerkers minder. Dat heeft meerdere redenen. Om te beginnen is er de mogelijkheid om dezelfde werkzaamheden te doen vanuit huis. Callcentermedewerkers hoeven niet meer samen in een gebouw te zijn om hun werkzaamheden te verrichten. De reden om een fysieke locatie in Maastricht te hebben, is daarmee kleiner geworden. Sterker nog, medewerkers kunnen overal in Nederland zitten of zelfs in andere landen waar een medewerker minder loon krijgt en dus goedkoper is. Zo werd een deel van het werk van het Mercedes-callcenter bij een eerdere inkrimping in 2023 al verplaatst naar Griekenland. Dan is er AI. Chatbots nemen een deel van de werkzaamheden van de callcentermedewerker inmiddels over. Mark Levels, hoogleraar sociologie van de technologie, heeft onderzoek gedaan naar de inzet van AI in callcenters. \"Callcentermedewerker is één van de gemakkelijkst te automatiseren beroepen.\" Mark Levels: \"Als je een callcenter belt, wil je informatie. Je ziet aan ChatGPT al dat die in staat is gemakkelijke vragen te beantwoorden. Je kan een chatbot trainen in het beantwoorden van iets complexere vragen. En dan heb je de fysieke medewerkers alleen nog nodig voor de echt complexe vragen. We zitten nu op het moment dat bedrijven steeds beter in staat zijn dit soort technologie in te zetten in bedrijven.\" Levels heeft recent onderzoek uitgevoerd bij callcenters. \"Een callcentermedewerker wordt gecoacht. De helft van de coaches maakt gebruik van AI om de betreffende medewerker te analyseren, de andere helft doet dat niet. Conclusie van het onderzoek is dat een callcentermedewerker betere kwaliteit en een grotere productiviteit levert als zijn coach gebruikmaakt van AI.\" Dus AI wordt in die branche niet alleen ingezet om de telefoon te beantwoorden. Andere manieren Ook veel bedrijven bieden klantencontact aan via whatsapp, email of sociale media. Hierdoor kan het afhandelen van die contacten ingepland worden en kan dit door minder medewerkers worden afgehandeld dan indien het contact telefonisch zou worden afgehandeld. Het teruglopend aantal callcentermedewerkers in Maastricht komt dus niet zozeer doordat er iets aan Maastricht is veranderd, maar doordat de noodzaak om met veel mensen samen in een pand klantenproblemen telefonisch af te handelen is afgenomen en door technologische ontwikkelingen. Wethouder Hubert Mackus van Maastricht informeerde de gemeenteraad naar aanleiding van de aangekondigde callcentersluiting van H&M. \"Waar voorheen circa 6.000 mensen werkzaam waren binnen deze branche, neemt de werkgelegenheid inmiddels aanzienlijk af. De verwachting is dat deze krimp zich de komende jaren verder zal doorzetten.\" De redenen hiervoor liggen buiten de invloedsfeer van de gemeente, erkent de wethouder. \"Wij voeren gesprekken met diverse klantcontactcentra en zullen waar mogelijk ondersteuning bieden om medewerkers van werk naar werk te begeleiden.\"",
+    "scraped_at": "2026-09-24T08:18:17.590864Z",
+    "id": "f5dd2424b2255f963923c3f7924b173ab3fd99282cd236820f307a05ae6ddadd",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3235229/maastricht-ooit-callcenter-hub-ziet-deze-banen-rap-verdwijnen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Maastricht is de callcenter-stad van onze provincie: aantrekkelijk voor die sector om meerdere redenen. Maar de laatste tijd komen er steeds meer berichten van callcenters die worden opgedoekt of ingekrompen zoals H&M, waarbij 250 mensen hun baan verloren. Conduent sloot zijn callcenter eind vorig jaar, dat betekende voor 63 mensen baanverlies. En afgelopen week werd bekend dat het callcenter van Mercedes kleiner wordt: 70 banen minder. Een callcenter is een afdeling of bedrijf waarbij medewerkers contact hebben met klanten. Het kan zijn dat klanten het callcenter bellen met klachten of vragen. Maar het kan ook zijn dat de medewerkers van een callcenter mensen opbellen voor verkoop of klantonderzoek. Maastricht heeft een combinatie die ideaal is voor callcenters om zich te vestigen. Om te beginnen is dat de grote studentenpopulatie. Jonge mensen die vaak parttime inzetbaar zijn. Vanwege de vele internationale studenten in onze provinciehoofdstad kunnen meerdere talen binnen het callcenter worden gesproken. En dan heeft Maastricht een prima treinverbinding en ligt het dicht bij België en Duitsland. Om die reden vestigden bedrijven als Mercedes, TP Netherlands en M3 Multi Media Marketing International hun callcenters in Maastricht. In de topdagen waren er zo'n 6000 mensen aan het werk in een Maastrichts callcenter. De afgelopen tijd wordt het aantal callcentermedewerkers minder. Dat heeft meerdere redenen. Om te beginnen is er de mogelijkheid om dezelfde werkzaamheden te doen vanuit huis. Callcentermedewerkers hoeven niet meer samen in een gebouw te zijn om hun werkzaamheden te verrichten. De reden om een fysieke locatie in Maastricht te hebben, is daarmee kleiner geworden. Sterker nog, medewerkers kunnen overal in Nederland zitten of zelfs in andere landen waar een medewerker minder loon krijgt en dus goedkoper is. Zo werd een deel van het werk van het Mercedes-callcenter bij een eerdere inkrimping in 2023 al verplaatst naar Griekenland. Dan is er AI. Chatbots nemen een deel van de werkzaamheden van de callcentermedewerker inmiddels over. Mark Levels, hoogleraar sociologie van de technologie, heeft onderzoek gedaan naar de inzet van AI in callcenters. \"Callcentermedewerker is één van de gemakkelijkst te automatiseren beroepen.\" Mark Levels: \"Als je een callcenter belt, wil je informatie. Je ziet aan ChatGPT al dat die in staat is gemakkelijke vragen te beantwoorden. Je kan een chatbot trainen in het beantwoorden van iets complexere vragen. En dan heb je de fysieke medewerkers alleen nog nodig voor de echt complexe vragen. We zitten nu op het moment dat bedrijven steeds beter in staat zijn dit soort technologie in te zetten in bedrijven.\" Levels heeft recent onderzoek uitgevoerd bij callcenters. \"Een callcentermedewerker wordt gecoacht. De helft van de coaches maakt gebruik van AI om de betreffende medewerker te analyseren, de andere helft doet dat niet. Conclusie van het onderzoek is dat een callcentermedewerker betere kwaliteit en een grotere productiviteit levert als zijn coach gebruikmaakt van AI.\" Dus AI wordt in die branche niet alleen ingezet om de telefoon te beantwoorden. Andere manieren Ook veel bedrijven bieden klantencontact aan via whatsapp, email of sociale media. Hierdoor kan het afhandelen van die contacten ingepland worden en kan dit door minder medewerkers worden afgehandeld dan indien het contact telefonisch zou worden afgehandeld. Het teruglopend aantal callcentermedewerkers in Maastricht komt dus niet zozeer doordat er iets aan Maastricht is veranderd, maar doordat de noodzaak om met veel mensen samen in een pand klantenproblemen telefonisch af te handelen is afgenomen en door technologische ontwikkelingen. Wethouder Hubert Mackus van Maastricht informeerde de gemeenteraad naar aanleiding van de aangekondigde callcentersluiting van H&M. \"Waar voorheen circa 6.000 mensen werkzaam waren binnen deze branche, neemt de werkgelegenheid inmiddels aanzienlijk af. De verwachting is dat deze krimp zich de komende jaren verder zal doorzetten.\" De redenen hiervoor liggen buiten de invloedsfeer van de gemeente, erkent de wethouder. \"Wij voeren gesprekken met diverse klantcontactcentra en zullen waar mogelijk ondersteuning bieden om medewerkers van werk naar werk te begeleiden.\"",
+    "locations": [
+      "Duitsland"
+    ],
+    "country": "NL",
+    "country_score": 0.8,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Maastrichts",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Chatbots",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mark Levels",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mark Levels",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Hubert Mackus van Maastricht",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "481bfeb380eb8790b043e2f57ac50b17": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Veel interesse in fietsenproducent van Batavus en Sparta, doorstart geen gelopen race",
+    "url": "https://nos.nl/l/2632169",
+    "published": "Wed, 23 Sep 2026 14:18:33 +0200",
+    "summary": "<p>Er is opvallend veel interesse om de failliete fietsproducent Accell te laten voortbestaan. Meer dan zestig partijen hebben bij de curator een bod uitgebracht op het bedrijf achter fietsen van merken als Batavus en Sparta, of onderdelen van het concern. Dat schrijft de curator in het eerste faillissementsverslag van Accell.</p>\n        <p>De grote interesse biedt alleen nog geen zekerheid of een doorstart van de omgevallen fietsenmaker ook echt mogelijk is, benadrukken experts. Wel noemt fusie- en overnamespecialist Jeroen Vercauteren de zestig biedingen \"opmerkelijk veel\". \"Dat biedt goede hoop. Je hebt uiteindelijk maar één koper nodig\", reageert hij.</p>\n        <p>Vrij snel nadat Accell begin vorige maand faillissement had aangevraagd, maakten verschillende bedrijven hun interesse bekend. Zo zei de investeringsmaatschappij Quanta Capital van de voormalige Ierse <a href=\"https://nos.nl/artikel/2626534-ierse-investeringsmaatschappij-van-oud-wielrenner-heeft-interesse-in-accell\">profwielrenner Mel Sutcliffe</a> dat het Accell in zijn geheel wel zou willen overnemen.</p>\n        <h2>Doorstart of inboedel?</h2>\n        <p>In het eerste verslag schrijft de door de rechtbank aangestelde curator dat er meer dan 300 mogelijke kopers zijn benaderd. Vervolgens betaalden meer dan 100 van hen 20.000 euro voor meer specifieke inzage in de positie van Accell. Uiteindelijk brachten meer dan 60 eind vorige maand een bod uit.</p>\n        <p>Specialist Vercauteren, werkzaam bij Qufinity, stelt wel dat dit niet direct betekent dat meer dan 60 partijen daadwerkelijk een doorstart van Accell willen realiseren: \"Veel zullen vooral geïnteresseerd zijn in de inboedel. Bijvoorbeeld door de voorraad of slechts een deel van de voorraad voor een scherp tarief of liquidatiewaarde te willen opkopen.\"</p>\n        <p>Die indruk wekt de curator in het eerste faillissementsverslag ook. De ontvangen biedingen variëren \"van biedingen op een enkel merk tot biedingen op groepen merken met bijbehorende voorraden en business\", zo staat er.</p>\n        <h2>Opbrengstmaximalisatie</h2>\n        <p>De curator schrijf sinds eind augustus in gesprek te zijn gegaan met kandidaat-kopers waar \"de meeste kans op opbrengstmaximalisatie\" in het bod was waar te nemen.</p>\n        <p>Volgens specialist Vercauteren is het waarschijnlijk dat dit geen opkopers van voorraden zijn, maar kopers die een doorstart van Accell willen realiseren. \"Dat is financieel namelijk interessanter. Omdat zo'n koper ook het personeel of een deel van het personeel zou willen overnemen.\"</p>\n        <h2>Is er nog toekomst voor de Nederlandse fiets?</h2>\n        <p>Podcast <em>De Dag</em> dook vorige maand in het verleden van Batavus en van de Nederlandse fietsindustrie. En kijkt naar de toekomst: staan er straks alleen nog Chinese exemplaren in onze stallingen?</p>\n        <p><a href=\"https://www.nporadio1.nl/nieuws/podcast/1eff2680-efee-4938-a9b0-a58cd67a5eea/podcast-de-dag-is-er-nog-toekomst-voor-de-nederlandse-fiets\">Deze aflevering</a> van <em>De Dag</em> luister je via <a href=\"https://npo.nl/luister/podcasts/123-de-dag/144220\">NPO Luister</a> en alle <a href=\"https://pod.link/1339219119/episode/V09fTk9TXzIwMzU2NTc0\">andere podcastapps.</a> Bevalt het? Vergeet je dan niet te abonneren.</p>\n        <p>In het verslag meldt de curator dat een doorstart ook beter is voor leveranciers van Accell, die vaak ook nog schuldeiser zijn. Vooralsnog hebben zich 434 schuldeisers gemeld voor een bedrag van ruim 38 miljoen euro. De grootste schuldeisers werden in februari overigens al eigenaar, nadat de Britse durfinvesteerder KKR alle aandelen van de fietsenproducent aan hen <a href=\"https://nos.nl/artikel/2602964-fietsenfabrikant-achter-batavus-en-sparta-sluit-deal-met-schuldeisers\">had overgedragen</a>.</p>\n        <h2>Accell Nederland</h2>\n        <p>Accell sloot een jaar geleden met de fabriek in Heerenveen de laatste productielocatie van het concern in Nederland. Een groot deel van de administratie en financiën van het hele concern werd georganiseerd vanuit Nederland, waar nog 231 mensen werkten. De Accell-divisies in andere landen leunen grotendeels op deze dienstverlening.</p>\n        <p>Voor een doorstart wordt daarom \"zoveel als mogelijk\" ingezet op het voortbestaan van Accell Nederland. Terwijl er wordt overlegd met mogelijke kopers doet de curator nog nader onderzoek naar de oorzaken van het faillissement van Accell. Het volgende faillissementsverslag wordt op 22 december verwacht.</p>",
+    "full_text": "NOS Nieuws • gisteren, 14:18 Er is opvallend veel interesse om de failliete fietsproducent Accell te laten voortbestaan. Meer dan zestig partijen hebben bij de curator een bod uitgebracht op het bedrijf achter fietsen van merken als Batavus en Sparta, of onderdelen van het concern. Dat schrijft de curator in het eerste faillissementsverslag van Accell. De grote interesse biedt alleen nog geen zekerheid of een doorstart van de omgevallen fietsenmaker ook echt mogelijk is, benadrukken experts. Wel noemt fusie- en overnamespecialist Jeroen Vercauteren de zestig biedingen \"opmerkelijk veel\". \"Dat biedt goede hoop. Je hebt uiteindelijk maar één koper nodig\", reageert hij. Vrij snel nadat Accell begin vorige maand faillissement had aangevraagd, maakten verschillende bedrijven hun interesse bekend. Zo zei de investeringsmaatschappij Quanta Capital van de voormalige Ierse profwielrenner Mel Sutcliffe dat het Accell in zijn geheel wel zou willen overnemen.  In het eerste verslag schrijft de door de rechtbank aangestelde curator dat er meer dan 300 mogelijke kopers zijn benaderd. Vervolgens betaalden meer dan 100 van hen 20.000 euro voor meer specifieke inzage in de positie van Accell. Uiteindelijk brachten meer dan 60 eind vorige maand een bod uit. Specialist Vercauteren, werkzaam bij Qufinity, stelt wel dat dit niet direct betekent dat meer dan 60 partijen daadwerkelijk een doorstart van Accell willen realiseren: \"Veel zullen vooral geïnteresseerd zijn in de inboedel. Bijvoorbeeld door de voorraad of slechts een deel van de voorraad voor een scherp tarief of liquidatiewaarde te willen opkopen.\" Die indruk wekt de curator in het eerste faillissementsverslag ook. De ontvangen biedingen variëren \"van biedingen op een enkel merk tot biedingen op groepen merken met bijbehorende voorraden en business\", zo staat er.  De curator schrijf sinds eind augustus in gesprek te zijn gegaan met kandidaat-kopers waar \"de meeste kans op opbrengstmaximalisatie\" in het bod was waar te nemen. Volgens specialist Vercauteren is het waarschijnlijk dat dit geen opkopers van voorraden zijn, maar kopers die een doorstart van Accell willen realiseren. \"Dat is financieel namelijk interessanter. Omdat zo'n koper ook het personeel of een deel van het personeel zou willen overnemen.\" Podcast De Dag dook vorige maand in het verleden van Batavus en van de Nederlandse fietsindustrie. En kijkt naar de toekomst: staan er straks alleen nog Chinese exemplaren in onze stallingen? Deze aflevering (opent in nieuw venster) van De Dag luister je via NPO Luister (opent in nieuw venster) en alle andere podcastapps. (opent in nieuw venster) Bevalt het? Vergeet je dan niet te abonneren. In het verslag meldt de curator dat een doorstart ook beter is voor leveranciers van Accell, die vaak ook nog schuldeiser zijn. Vooralsnog hebben zich 434 schuldeisers gemeld voor een bedrag van ruim 38 miljoen euro. De grootste schuldeisers werden in februari overigens al eigenaar, nadat de Britse durfinvesteerder KKR alle aandelen van de fietsenproducent aan hen had overgedragen .  Accell sloot een jaar geleden met de fabriek in Heerenveen de laatste productielocatie van het concern in Nederland. Een groot deel van de administratie en financiën van het hele concern werd georganiseerd vanuit Nederland, waar nog 231 mensen werkten. De Accell-divisies in andere landen leunen grotendeels op deze dienstverlening. Voor een doorstart wordt daarom \"zoveel als mogelijk\" ingezet op het voortbestaan van Accell Nederland. Terwijl er wordt overlegd met mogelijke kopers doet de curator nog nader onderzoek naar de oorzaken van het faillissement van Accell. Het volgende faillissementsverslag wordt op 22 december verwacht.",
+    "scraped_at": "2026-09-24T08:15:50.310923Z",
+    "id": "e6eadcfadddb0ac63e2833f885a001239fab3dbd953feee7e6927ddff4bc45b5",
+    "canonical_url": "https://nos.nl/l/2632169",
+    "published_ts": "2026-09-23T12:18:33Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 14:18 Er is opvallend veel interesse om de failliete fietsproducent Accell te laten voortbestaan. Meer dan zestig partijen hebben bij de curator een bod uitgebracht op het bedrijf achter fietsen van merken als Batavus en Sparta, of onderdelen van het concern. Dat schrijft de curator in het eerste faillissementsverslag van Accell. De grote interesse biedt alleen nog geen zekerheid of een doorstart van de omgevallen fietsenmaker ook echt mogelijk is, benadrukken experts. Wel noemt fusie- en overnamespecialist Jeroen Vercauteren de zestig biedingen \"opmerkelijk veel\". \"Dat biedt goede hoop. Je hebt uiteindelijk maar één koper nodig\", reageert hij. Vrij snel nadat Accell begin vorige maand faillissement had aangevraagd, maakten verschillende bedrijven hun interesse bekend. Zo zei de investeringsmaatschappij Quanta Capital van de voormalige Ierse profwielrenner Mel Sutcliffe dat het Accell in zijn geheel wel zou willen overnemen.  In het eerste verslag schrijft de door de rechtbank aangestelde curator dat er meer dan 300 mogelijke kopers zijn benaderd. Vervolgens betaalden meer dan 100 van hen 20.000 euro voor meer specifieke inzage in de positie van Accell. Uiteindelijk brachten meer dan 60 eind vorige maand een bod uit. Specialist Vercauteren, werkzaam bij Qufinity, stelt wel dat dit niet direct betekent dat meer dan 60 partijen daadwerkelijk een doorstart van Accell willen realiseren: \"Veel zullen vooral geïnteresseerd zijn in de inboedel. Bijvoorbeeld door de voorraad of slechts een deel van de voorraad voor een scherp tarief of liquidatiewaarde te willen opkopen.\" Die indruk wekt de curator in het eerste faillissementsverslag ook. De ontvangen biedingen variëren \"van biedingen op een enkel merk tot biedingen op groepen merken met bijbehorende voorraden en business\", zo staat er.  De curator schrijf sinds eind augustus in gesprek te zijn gegaan met kandidaat-kopers waar \"de meeste kans op opbrengstmaximalisatie\" in het bod was waar te nemen. Volgens specialist Vercauteren is het waarschijnlijk dat dit geen opkopers van voorraden zijn, maar kopers die een doorstart van Accell willen realiseren. \"Dat is financieel namelijk interessanter. Omdat zo'n koper ook het personeel of een deel van het personeel zou willen overnemen.\" Podcast De Dag dook vorige maand in het verleden van Batavus en van de Nederlandse fietsindustrie. En kijkt naar de toekomst: staan er straks alleen nog Chinese exemplaren in onze stallingen? Deze aflevering (opent in nieuw venster) van De Dag luister je via NPO Luister (opent in nieuw venster) en alle andere podcastapps. (opent in nieuw venster) Bevalt het? Vergeet je dan niet te abonneren. In het verslag meldt de curator dat een doorstart ook beter is voor leveranciers van Accell, die vaak ook nog schuldeiser zijn. Vooralsnog hebben zich 434 schuldeisers gemeld voor een bedrag van ruim 38 miljoen euro. De grootste schuldeisers werden in februari overigens al eigenaar, nadat de Britse durfinvesteerder KKR alle aandelen van de fietsenproducent aan hen had overgedragen .  Accell sloot een jaar geleden met de fabriek in Heerenveen de laatste productielocatie van het concern in Nederland. Een groot deel van de administratie en financiën van het hele concern werd georganiseerd vanuit Nederland, waar nog 231 mensen werkten. De Accell-divisies in andere landen leunen grotendeels op deze dienstverlening. Voor een doorstart wordt daarom \"zoveel als mogelijk\" ingezet op het voortbestaan van Accell Nederland. Terwijl er wordt overlegd met mogelijke kopers doet de curator nog nader onderzoek naar de oorzaken van het faillissement van Accell. Het volgende faillissementsverslag wordt op 22 december verwacht.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Heerenveen",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jeroen Vercauteren",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Accell",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "investeringsmaatschappij Quanta",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Capital van de voormalige",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mel Sutcliffe",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "NPO Luister",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Vooralsnog",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
