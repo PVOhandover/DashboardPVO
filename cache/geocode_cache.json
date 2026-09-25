@@ -1730,5 +1730,13 @@
   "Stadskanaal": {
     "lat": 52.9962401,
     "lon": 7.0014349
+  },
+  "Edam-Volendam": {
+    "lat": 52.5486117,
+    "lon": 5.0266156
+  },
+  "gemeente Waterland": {
+    "lat": 52.9923266,
+    "lon": 6.945566
   }
 }
