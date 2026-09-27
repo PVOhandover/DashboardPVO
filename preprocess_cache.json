@@ -78611,5 +78611,102 @@
       "not_affected",
       "00"
     ]
+  },
+  "6ad6ff9a11619d0647ef5e736e772f93": {
+    "feed": "Politie.nl",
+    "title": "Dodelijk verkeersongeval op de Middenweg in Breezand",
+    "url": "https://www.politie.nl/nieuws/2026/september/26/04-dodelijk-verkeersongeval-op-de-middenweg-in-breezand.html",
+    "published": "Sat, 26 Sep 2026 14:21:00 GMT",
+    "summary": "Vrijdagmiddag 25 september heeft rond 14.00 uur een dodelijk verkeersongeval plaatsgevonden op de Middenweg in Breezand. Twee motorrijders zijn met elkaar in botsing gekomen, waarna een 24-jarige man uit Westzaan om het leven kwam.",
+    "full_text": "Rond 14.00 uur kregen we een melding van een verkeersongeval op het kruispunt Middenweg met de Stoomweg te Breezand. De betrokken 24-jarige motorrijder werd gereanimeerd, maar dat mocht helaas niet baten. Hij overleed ter plekke aan zijn verwondingen. De andere motorrijder raakte ook gewond door de botsing en is overgebracht naar het ziekenhuis voor behandeling. Wij onderzoeken het verkeersongeval en vragen mensen informatie te delen, die kan helpen bij dat onderzoek, via 0900-8844. Slachtofferhulp Het meemaken van een verkeersongeval is zeer ingrijpend. Daarom kunt u als getuige of omstander bij Slachtofferhulp terecht voor steun. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp een bericht achter met verzoek tot contact. U kunt ook contact opnemen met de politie via telefoonnummer: 0900-8844. Hier kunt u ook uw gegevens achterlaten, waarna Slachtofferhulp Nederland contact met u zal opnemen. PL11002026236778",
+    "scraped_at": "2026-09-27T09:04:47.903290Z",
+    "id": "453d28b5c577374debdc82ae3d520ff9c0545897b5ee69d1650b428b9c6f3c3f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/26/04-dodelijk-verkeersongeval-op-de-middenweg-in-breezand.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 14.00 uur kregen we een melding van een verkeersongeval op het kruispunt Middenweg met de Stoomweg te Breezand. De betrokken 24-jarige motorrijder werd gereanimeerd, maar dat mocht helaas niet baten. Hij overleed ter plekke aan zijn verwondingen. De andere motorrijder raakte ook gewond door de botsing en is overgebracht naar het ziekenhuis voor behandeling. Wij onderzoeken het verkeersongeval en vragen mensen informatie te delen, die kan helpen bij dat onderzoek, via 0900-8844. Slachtofferhulp Het meemaken van een verkeersongeval is zeer ingrijpend. Daarom kunt u als getuige of omstander bij Slachtofferhulp terecht voor steun. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp een bericht achter met verzoek tot contact. U kunt ook contact opnemen met de politie via telefoonnummer: 0900-8844. Hier kunt u ook uw gegevens achterlaten, waarna Slachtofferhulp Nederland contact met u zal opnemen. PL11002026236778",
+    "locations": [
+      "Breezand",
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Breezand",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "b03d115cee97b9b4697362aebc43b739": {
+    "feed": "Politie.nl",
+    "title": "Twee vrouwen aangehouden na geweldsincident Oss",
+    "url": "https://www.politie.nl/nieuws/2026/september/26/09-twee-vrouwen-aangehouden-na-geweldsincident-oss.html",
+    "published": "Sat, 26 Sep 2026 12:09:00 GMT",
+    "summary": "Zaterdagochtend rond acht uur, vond een geweldsincident plaats op de Johannes Poststraat in Oss. Een man werd daarbij gestoken en geslagen. Meerdere mensen waren bij het incident aanwezig en daarvan werden twee vrouwen aangehouden van wie we de betrokkenheid onderzoeken. Zij zitten vast.",
+    "full_text": "De achtergrond van deze geweldscasus wordt door de recherche onderzocht, maar duidelijk is dat slachtoffer en verdachten elkaar kenden. Wat nu zaterdagochtend precies de aanleiding is geweest voor het geweld is onderwerp van onderzoek. Het slachtoffer, een 31-jarige man uit Oss, werd met een steekwond in zijn been naar een ziekenhuis gebracht. Hij werd vermoedelijk ook met een soort knuppel geslagen. Aanhoudingen Toen de politie ter plaatse kwam was sprake van een onrustige, onoverzichtelijke situatie. Eén vrouw van 30 jaar uit Den Bosch werd al snel aangehouden als verdachte voor het steekincident. Een andere vrouw van eveneens 30 jaar uit Oss, werd even later gearresteerd omdat ze ervan verdacht wordt ook geweld te hebben gebruikt. Haar precieze rol wordt onderzocht. We onderzoeken of nog meer personen hebben deelgenomen aan het geweld, waardoor we meerdere aanhoudingen niet uitsluiten. Tips Getuigen of mensen met informatie over deze zaak vragen we contact op te nemen met de recherche van het district Den Bosch, via 0900-8844 of door het tipformulier op onze website in te vullen.",
+    "scraped_at": "2026-09-27T09:04:47.903602Z",
+    "id": "2ce1b7bf288b7abad673c312ea831a4fcee9c55dc4ea1735baba149cca6cfbab",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/26/09-twee-vrouwen-aangehouden-na-geweldsincident-oss.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De achtergrond van deze geweldscasus wordt door de recherche onderzocht, maar duidelijk is dat slachtoffer en verdachten elkaar kenden. Wat nu zaterdagochtend precies de aanleiding is geweest voor het geweld is onderwerp van onderzoek. Het slachtoffer, een 31-jarige man uit Oss, werd met een steekwond in zijn been naar een ziekenhuis gebracht. Hij werd vermoedelijk ook met een soort knuppel geslagen. Aanhoudingen Toen de politie ter plaatse kwam was sprake van een onrustige, onoverzichtelijke situatie. Eén vrouw van 30 jaar uit Den Bosch werd al snel aangehouden als verdachte voor het steekincident. Een andere vrouw van eveneens 30 jaar uit Oss, werd even later gearresteerd omdat ze ervan verdacht wordt ook geweld te hebben gebruikt. Haar precieze rol wordt onderzocht. We onderzoeken of nog meer personen hebben deelgenomen aan het geweld, waardoor we meerdere aanhoudingen niet uitsluiten. Tips Getuigen of mensen met informatie over deze zaak vragen we contact op te nemen met de recherche van het district Den Bosch, via 0900-8844 of door het tipformulier op onze website in te vullen.",
+    "locations": [
+      "Den Bosch"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Oss",
+        "NL"
+      ],
+      [
+        "Den Bosch",
+        "NL"
+      ],
+      [
+        "Oss",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Aanhoudingen",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Den Bosch",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62",
+      "not_affected"
+    ]
   }
 }
