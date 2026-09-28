@@ -78708,5 +78708,191 @@
       "62",
       "not_affected"
     ]
+  },
+  "73c11d80e6c42940ccbdc2605d1bc30a": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws: Auto's botsen op A7",
+    "url": "https://www.rtvnoord.nl/112/1440677/112-nieuws-autos-botsen-op-a7",
+    "published": "Mon, 28 Sep 2026 09:15:55 GMT",
+    "summary": "In dit 112-blog houden we je deze maandag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. In de tbs-kliniek Mesdag in de stad Groningen heeft maandagochtend een steekincident plaatsgevonden. Daarbij is een gewonde gevallen. De politie heeft een verdachte aangehouden. Bij het ernstige ongeval op de N33 ter hoogte van Appingedam, is een 65-jarige man uit de gemeente Eemsdelta overleden. Op snelweg A7 zijn ter hoogte van Midwolde meerdere auto's met elkaar in botsing gekomen. Op de N33 is ter hoogte van Appingedam een ernstig ongeval gebeurd, waarbij meerdere voertuigen betrokken zijn.",
+    "scraped_at": "2026-09-28T09:33:39.830944Z",
+    "id": "e7b7a4b889af12be846bf39d9429e0245ed08f0f6535d7ddd6fd6ff2ab80f24d",
+    "canonical_url": "https://www.rtvnoord.nl/112/1440677/112-nieuws-autos-botsen-op-a7",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. In de tbs-kliniek Mesdag in de stad Groningen heeft maandagochtend een steekincident plaatsgevonden. Daarbij is een gewonde gevallen. De politie heeft een verdachte aangehouden. Bij het ernstige ongeval op de N33 ter hoogte van Appingedam, is een 65-jarige man uit de gemeente Eemsdelta overleden. Op snelweg A7 zijn ter hoogte van Midwolde meerdere auto's met elkaar in botsing gekomen. Op de N33 is ter hoogte van Appingedam een ernstig ongeval gebeurd, waarbij meerdere voertuigen betrokken zijn.",
+    "locations": [
+      "stad Groningen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Appingedam",
+        "NL"
+      ],
+      [
+        "Appingedam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "N33",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "33e358a3f22b6b710f0f42c78d898894": {
+    "feed": "RTV Noord",
+    "title": "Nola stond als 'verdachte' van de moord in Meerstad op Facebook",
+    "url": "https://www.rtvnoord.nl/misdaad/1440628/nola-stond-als-verdachte-van-de-moord-in-meerstad-op-facebook",
+    "published": "Mon, 28 Sep 2026 05:00:00 GMT",
+    "summary": "Nola Zagers (24) keek vreemd op toen ze zichzelf afgelopen zomer op Facebook zag. Een paar dagen na het nieuws over de dubbele oudermoord in Meerstad waren er berichten online gekomen over de mogelijke verdachte. In de fotobewerking onder het bericht stond een foto van haar gezicht.",
+    "full_text": "Nola Zagers (24) keek vreemd op toen ze zichzelf afgelopen zomer op Facebook zag. Een paar dagen na het nieuws over de dubbele oudermoord in Meerstad waren er berichten online gekomen over de mogelijke verdachte. In de fotobewerking onder het bericht stond een foto van haar gezicht. 'Iemand die ik ken volgt een van die Facebookpagina's en zag het voorbij komen op haar feed . Ze besloot me een berichtje te sturen. Dat vond ik al vreemd, want we hadden eigenlijk nooit contact', vertelt Zagers. Ze opende Facebook en bekeek het bericht met haar foto. 'Ik kwam erachter dat er nog meer pagina's waren, die eigenlijk dezelfde berichten plaatsen. Ook met mijn foto erbij. Toen dacht ik: dit is foute boel.' De vraag was direct waarom haar gezicht in zo'n Facebookbericht staat. Ze wist van de moord in Meerstad, maar Zagers woont in Zundert en is nog nooit in de provincie Groningen geweest. Voor haar werk maakt ze video's voor BN De Stem, Brabants Dagblad en Eindhovens Dagblad. En dus is ze online veel te zien. Ze had ook al snel door waar de foto vandaan kwam: uit een video over de hitte in Brabant. 'Het eerste wat ik dacht is: ik laat dit gaan, ik doe alsof het niet bestaat en vergeet het.' Later, nadat ze het toch bij haar werkgevers had gemeld, kwam daar verandering in. 'Toen dacht ik: ik ben eigenlijk wel heel benieuwd naar dit soort Facebookpagina's, dus ik ben wat dieper in deze wereld gedoken.' Tijdens dat onderzoek sprak ze met cyberexpert Lilian Haak. De conclusie: 'Het zijn AI-bots die zo'n pagina maken. Voor die post waren ze op zoek naar een lief, onschuldig meisje en zo kwamen ze toevallig uit bij mij.' Toeval dus, maar wel met gevolgen. 'Dit soort Facebookaccounts hebben duizenden volgers. Dus er zijn veel mensen die het zien. En in de reacties werden dingen gezegd als: 'Leuke meid, voorgoed opsluiten.' Dus ze waren het aan mijn gezicht aan het linken.' AI-bots Een AI-bot is een soort computerprogramma dat gemaakt is met kunstmatige intelligentie. Het kan zelf dingen doen, zoals een Facebookaccount aanmaken en berichten plaatsen. In haar onderzoek kwam Zagers erachter dat een van de pagina's die haar foto had geplaatst, hoogstwaarschijnlijk niet in Nederland, maar in Vietnam is gemaakt. Zagers is opgelucht dat het alleen bij haar foto bleef. 'Gelukkig werd mijn naam er niet bij genoemd, alleen mijn gezicht. Dus mensen konden niet op mijn naam zoeken.' Bovendien wordt haar foto inmiddels niet meer gebruikt bij berichten over de moordzaak. 'Het duurde ongeveer een week, daarna is het gestopt dat mijn foto gebruikt werd.' Maar het probleem is nog niet opgelost. Maanden later staan de Facebookberichten nog online. Zagers heeft zich erbij neergelegd, mede dankzij het gesprek met cyberexpert Haak. 'Haar boodschap was: dit kan je niet voorkomen. Als je foto’s publiekelijk op sociale media staan, dan kan dit gebeuren. Dus het is goed om daar heel alert op te zijn en het meteen te melden en rapporteren als er iets gebeurt.' Dat kwam niet zomaar. 'Ik vond het in het begin wel eng. Ik zag het op twee verschillende pagina's staan, maar ik wist niet zeker op hoeveel pagina’s dit staat. Maar ik heb het best goed kunnen relativeren, omdat ik erover ging schrijven en onderzoeken.'",
+    "scraped_at": "2026-09-28T09:33:41.860860Z",
+    "id": "5e2dba36be4d1828e205cba06a17dba00ed4f569b430917b16739b9b519a08d6",
+    "canonical_url": "https://www.rtvnoord.nl/misdaad/1440628/nola-stond-als-verdachte-van-de-moord-in-meerstad-op-facebook",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Nola Zagers (24) keek vreemd op toen ze zichzelf afgelopen zomer op Facebook zag. Een paar dagen na het nieuws over de dubbele oudermoord in Meerstad waren er berichten online gekomen over de mogelijke verdachte. In de fotobewerking onder het bericht stond een foto van haar gezicht. 'Iemand die ik ken volgt een van die Facebookpagina's en zag het voorbij komen op haar feed . Ze besloot me een berichtje te sturen. Dat vond ik al vreemd, want we hadden eigenlijk nooit contact', vertelt Zagers. Ze opende Facebook en bekeek het bericht met haar foto. 'Ik kwam erachter dat er nog meer pagina's waren, die eigenlijk dezelfde berichten plaatsen. Ook met mijn foto erbij. Toen dacht ik: dit is foute boel.' De vraag was direct waarom haar gezicht in zo'n Facebookbericht staat. Ze wist van de moord in Meerstad, maar Zagers woont in Zundert en is nog nooit in de provincie Groningen geweest. Voor haar werk maakt ze video's voor BN De Stem, Brabants Dagblad en Eindhovens Dagblad. En dus is ze online veel te zien. Ze had ook al snel door waar de foto vandaan kwam: uit een video over de hitte in Brabant. 'Het eerste wat ik dacht is: ik laat dit gaan, ik doe alsof het niet bestaat en vergeet het.' Later, nadat ze het toch bij haar werkgevers had gemeld, kwam daar verandering in. 'Toen dacht ik: ik ben eigenlijk wel heel benieuwd naar dit soort Facebookpagina's, dus ik ben wat dieper in deze wereld gedoken.' Tijdens dat onderzoek sprak ze met cyberexpert Lilian Haak. De conclusie: 'Het zijn AI-bots die zo'n pagina maken. Voor die post waren ze op zoek naar een lief, onschuldig meisje en zo kwamen ze toevallig uit bij mij.' Toeval dus, maar wel met gevolgen. 'Dit soort Facebookaccounts hebben duizenden volgers. Dus er zijn veel mensen die het zien. En in de reacties werden dingen gezegd als: 'Leuke meid, voorgoed opsluiten.' Dus ze waren het aan mijn gezicht aan het linken.' AI-bots Een AI-bot is een soort computerprogramma dat gemaakt is met kunstmatige intelligentie. Het kan zelf dingen doen, zoals een Facebookaccount aanmaken en berichten plaatsen. In haar onderzoek kwam Zagers erachter dat een van de pagina's die haar foto had geplaatst, hoogstwaarschijnlijk niet in Nederland, maar in Vietnam is gemaakt. Zagers is opgelucht dat het alleen bij haar foto bleef. 'Gelukkig werd mijn naam er niet bij genoemd, alleen mijn gezicht. Dus mensen konden niet op mijn naam zoeken.' Bovendien wordt haar foto inmiddels niet meer gebruikt bij berichten over de moordzaak. 'Het duurde ongeveer een week, daarna is het gestopt dat mijn foto gebruikt werd.' Maar het probleem is nog niet opgelost. Maanden later staan de Facebookberichten nog online. Zagers heeft zich erbij neergelegd, mede dankzij het gesprek met cyberexpert Haak. 'Haar boodschap was: dit kan je niet voorkomen. Als je foto’s publiekelijk op sociale media staan, dan kan dit gebeuren. Dus het is goed om daar heel alert op te zijn en het meteen te melden en rapporteren als er iets gebeurt.' Dat kwam niet zomaar. 'Ik vond het in het begin wel eng. Ik zag het op twee verschillende pagina's staan, maar ik wist niet zeker op hoeveel pagina’s dit staat. Maar ik heb het best goed kunnen relativeren, omdat ik erover ging schrijven en onderzoeken.'",
+    "locations": [
+      "provincie Groningen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "provincie Groningen",
+        "NL"
+      ],
+      [
+        "Brabant",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Nola Zagers",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Facebookpagina's",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Facebookbericht",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Zundert",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Brabants Dagblad",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Facebookpagina's",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "ben wat dieper",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lilian Haak",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Leuke",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "89becb2081c32b3b3559beb6190272a3": {
+    "feed": "RTV Noord",
+    "title": "Eigenaar sloopt pand op bedrijventerrein Stad eigenhandig, krakers kiezen eieren voor hun geld",
+    "url": "https://www.rtvnoord.nl/112/1440537/eigenaar-sloopt-pand-op-bedrijventerrein-stad-eigenhandig-krakers-kiezen-eieren-voor-hun-geld",
+    "published": "Sun, 27 Sep 2026 13:01:46 GMT",
+    "summary": "Ophef bij een kraakpand in Stad zaterdagavond. Terwijl de krakers nog in het pand zaten, was de pandeigenaar eigenhandig begonnen om een deel van het gebouw te slopen met een graafmachine. Uiteindelijk besloten de krakers het pand aan de Stavangerweg toch te verlaten.",
+    "full_text": "Ophef bij een kraakpand in Stad zaterdagavond. Terwijl de krakers nog in het pand zaten, was de pandeigenaar eigenhandig begonnen om een deel van het gebouw te slopen met een graafmachine. Uiteindelijk besloten de krakers het pand aan de Stavangerweg toch te verlaten. Het pand op bedrijventerrein Eemspoort – een grote schuur met daarvoor een kleiner gebouwtje – stond leeg en werd eerder gebruikt als opslaglocatie. Medewerkers van een ander bedrijf aan de Stavangerweg zagen vrijdag mensen bij het pand rondhangen. Zij hadden zich toegang tot het pand verschaft, bleek daarna. Ook de eigenaar van het pand kreeg daar lucht van en nam met een aantal anderen poolshoogte bij het gekraakte gebouw. Toen bleek dat de krakers niet van plan waren om te vertrekken, kwam hij later terug bij het pand, ditmaal met een graafmachine. Het bleef niet bij het besturen van de machine, want met hulp van de grijper besloot hij het kleine gebouwtje te slopen. Dat gebeurde terwijl de krakers zich in de aangrenzende schuur bevonden. Er raakte niemand gewond, wel kwam de politie met meerdere politieauto's naar de Stavangerweg. Agenten probeerden de krakers en de eigenaar en zijn gevolg uit elkaar te houden. Ook de gemeente Groningen werd ingeschakeld. Een ambtenaar probeerde te bemiddelen en er moest mogelijk een noodbevel aan te pas komen als de situatie zou escaleren. Maar zover kwam het niet, laat een gemeentewoordvoerder weten. Na overleg besloten de krakers nog voor 21.00 uur om zelf te vertrekken. Daarmee keerde de rust op het bedrijventerrein terug. De politie wilde RTV Noord niet te woord staan over het incident.",
+    "scraped_at": "2026-09-28T09:33:47.292311Z",
+    "id": "f54814b48cf20f89c4925ffbdb7f2830c7f69577bb691f35bd64dbd506ee0640",
+    "canonical_url": "https://www.rtvnoord.nl/112/1440537/eigenaar-sloopt-pand-op-bedrijventerrein-stad-eigenhandig-krakers-kiezen-eieren-voor-hun-geld",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Ophef bij een kraakpand in Stad zaterdagavond. Terwijl de krakers nog in het pand zaten, was de pandeigenaar eigenhandig begonnen om een deel van het gebouw te slopen met een graafmachine. Uiteindelijk besloten de krakers het pand aan de Stavangerweg toch te verlaten. Het pand op bedrijventerrein Eemspoort – een grote schuur met daarvoor een kleiner gebouwtje – stond leeg en werd eerder gebruikt als opslaglocatie. Medewerkers van een ander bedrijf aan de Stavangerweg zagen vrijdag mensen bij het pand rondhangen. Zij hadden zich toegang tot het pand verschaft, bleek daarna. Ook de eigenaar van het pand kreeg daar lucht van en nam met een aantal anderen poolshoogte bij het gekraakte gebouw. Toen bleek dat de krakers niet van plan waren om te vertrekken, kwam hij later terug bij het pand, ditmaal met een graafmachine. Het bleef niet bij het besturen van de machine, want met hulp van de grijper besloot hij het kleine gebouwtje te slopen. Dat gebeurde terwijl de krakers zich in de aangrenzende schuur bevonden. Er raakte niemand gewond, wel kwam de politie met meerdere politieauto's naar de Stavangerweg. Agenten probeerden de krakers en de eigenaar en zijn gevolg uit elkaar te houden. Ook de gemeente Groningen werd ingeschakeld. Een ambtenaar probeerde te bemiddelen en er moest mogelijk een noodbevel aan te pas komen als de situatie zou escaleren. Maar zover kwam het niet, laat een gemeentewoordvoerder weten. Na overleg besloten de krakers nog voor 21.00 uur om zelf te vertrekken. Daarmee keerde de rust op het bedrijventerrein terug. De politie wilde RTV Noord niet te woord staan over het incident.",
+    "locations": [
+      "gemeente Groningen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Groningen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Ophef",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
