@@ -78894,5 +78894,505 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "ef526b469d913f65c10c206554cbe918": {
+    "feed": "L1 Nieuws",
+    "title": "Fietser wordt na kilometerslange tocht over A2 door politie van snelweg geplukt",
+    "url": "https://www.l1nieuws.nl/nieuws/3240747/fietser-wordt-na-kilometerslange-tocht-over-a2-door-politie-van-snelweg-geplukt",
+    "published": "Tue, 29 Sep 2026 06:32:56 GMT",
+    "summary": "De politie heeft dinsdagochtend een fietser van de snelweg A2 gehaald. De persoon fietste op de vluchtstrook tegen de richting in.",
+    "full_text": "De politie heeft dinsdagochtend een fietser van de snelweg A2 gehaald. De persoon fietste op de vluchtstrook tegen de richting in. Rond 07:10 uur werd de politie gealarmeerd. De fietser had de afrit bij Ittervoort genomen en fietste over de vluchtstrook richting Maastricht. De persoon had er ongeveer drie kilometer op zitten toen de politie deze ter hoogte van Wessem om 07:23 uur van de snelweg haalde. Waarom de persoon zich op de snelweg bevond, is nog onbekend. Daar doet de politie nu onderzoek naar. Niemand raakte gewond. Het komt regelmatig voor dat de politie een fietser van een snelweg moet halen. Afgelopen jaar fietste een man over de A67 bij Venlo. Naar eigen zeggen was hij vanuit Duitsland op weg naar Den Haag. Hij gebruikte een kompas om te navigeren. Ook in 2020 was het raak: eerst haalde de politie een man van de A2 bij Born, de dag erna werd een fietser op de A73 gespot. Die laatste kon toen door weggebruikers van de snelweg worden gehaald.",
+    "scraped_at": "2026-09-29T09:36:43.112571Z",
+    "id": "d8e4ebecf5dd44bf5d7160be84c62d67b15f2b1f6ab89549b05b6ee47d88f143",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3240747/fietser-wordt-na-kilometerslange-tocht-over-a2-door-politie-van-snelweg-geplukt",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie heeft dinsdagochtend een fietser van de snelweg A2 gehaald. De persoon fietste op de vluchtstrook tegen de richting in. Rond 07:10 uur werd de politie gealarmeerd. De fietser had de afrit bij Ittervoort genomen en fietste over de vluchtstrook richting Maastricht. De persoon had er ongeveer drie kilometer op zitten toen de politie deze ter hoogte van Wessem om 07:23 uur van de snelweg haalde. Waarom de persoon zich op de snelweg bevond, is nog onbekend. Daar doet de politie nu onderzoek naar. Niemand raakte gewond. Het komt regelmatig voor dat de politie een fietser van een snelweg moet halen. Afgelopen jaar fietste een man over de A67 bij Venlo. Naar eigen zeggen was hij vanuit Duitsland op weg naar Den Haag. Hij gebruikte een kompas om te navigeren. Ook in 2020 was het raak: eerst haalde de politie een man van de A2 bij Born, de dag erna werd een fietser op de A73 gespot. Die laatste kon toen door weggebruikers van de snelweg worden gehaald.",
+    "locations": [
+      "Wessem"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Wessem",
+        "NL"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "A67",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "A73",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "2d20d6c2c96bb8913092b0049ffa3c72": {
+    "feed": "L1 Nieuws",
+    "title": "Mogelijk betrokken bij aanslag Israël: nog veel onduidelijk over situatie Gazaanse student UM",
+    "url": "https://www.l1nieuws.nl/nieuws/3240162/mogelijk-betrokken-bij-aanslag-israel-nog-veel-onduidelijk-over-situatie-gazaanse-student-um",
+    "published": "Mon, 28 Sep 2026 13:59:59 GMT",
+    "summary": "Het is nog onduidelijk of een Gazaanse student van de Universiteit Maastricht (UM) op sociale media een 'grap' maakte, of dat hij daadwerkelijk betrokken was bij de aanslagen op Israël op 7 oktober 2023.",
+    "full_text": "Het is nog onduidelijk of een Gazaanse student van de Universiteit Maastricht (UM) op sociale media een 'grap' maakte, of dat hij daadwerkelijk betrokken was bij de aanslagen op Israël op 7 oktober 2023. De Immigratie- en Naturalisatiedienst (IND) kan dat maandag niet zeggen. Of er een onderzoek naar de student gestart wordt, wordt vanwege zijn privacy niet gedeeld. Ook andere instanties, zoals het Openbaar Ministerie en de politie, doen geen uitspraken over de zaak. Zondag werd duidelijk dat de Gazaanse student voorlopig geschorst is door de Universiteit Maastricht (UM) naar aanleiding van een inmiddels verwijderde videopost op sociale media. Daarin zegt de student dat hij betrokken was bij de Hamas-aanslagen in Israël. Bij de terreuraanslagen op 7 oktober 2023 vielen zo'n 1200 doden. De student zou volgens de Telegraaf door de UM naar Nederland zijn gehaald. De universiteit diende op 8 april een aanvraag in voor een machtiging tot voorlopig verblijf (mvv). De Immigratie- en Naturalisatiedienst verleende de machtiging. De UM wilde dat zondag niet aan L1 bevestigen. Of er bij de screening van de Gazaanse student voorafgaand aan zijn komst bijzonderheden zijn opgevallen, kan de IND vanwege zijn privacy niet zeggen. Datzelfde geldt voor de vraag of er een nieuw onderzoek naar de student wordt gestart nu hij in opspraak is gekomen. Wel geeft een woordvoerder aan dat 'signalen, tips van derden, openbare bronnen en andere zogenoemde 'zachte informatie' aanleiding kunnen vormen voor nader onderzoek naar de verblijfsrechtelijke positie van een vreemdeling'. \"De IND toetst iedere aanvraag tot toelating aan de geldende wet- en regelgeving en procedurele waarborgen\", zegt de woordvoerder. \"Denk daarbij aan de controle op een geldig reisdocument, een antecedentenverklaring en een check in verschillende systemen op risico's voor openbare orde of nationale veiligheid, en - in dit geval omdat het om studie gaat - inschrijving bij een erkende onderwijsinstelling en de beschikking over voldoende middelen van bestaan.\" In sommige gevallen kan er ook een onderzoek op internet en sociale media plaatsvinden. \"Bijvoorbeeld bij signalen dat sprake is van een schijnhuwelijk of gefingeerd dienstverband. Dit onderzoek vindt dan plaats op basis van specifieke en concrete onderzoeksvragen.\" Hoe dat met de student uit Gaza zit, blijft omwille van zijn privacy onduidelijk. Volgens een woordvoerder van de UM is de student voorlopig geschorst omwille van de veiligheid van studenten en medewerkers. De universiteit benadrukt daarbij niet bevoegd te zijn om onderzoek te doen naar de achtergrond van het bericht of de afzender daarvan, maar wel de wettelijke taak te hebben om het onderwijs veilig te stellen. De student mag voorlopig niet deelnemen aan het onderwijs. Tijdens de schorsing wordt bekeken of en onder welke voorwaarden de student zijn studie kan vervolgen. Of de UM aangifte gaat doen, wordt nog bekeken, zegt een woordvoerder van de onderwijsinstelling. \"We moeten eerst het gesprek aangaan, voor we kijken of er actie moet worden ondernomen.\" De universiteit begrijpt dat deze zaak onrust oproept onder studenten en dat daarom voor de schorsing is gekozen. De student woont momenteel niet meer op een plek samen met anderen, laat hij weten. Zondag liet de universiteit al weten geen verdere uitspraken te willen doen, 'ook omdat we de student in bescherming willen nemen voor zijn eigen veiligheid. We weten ook niet in welke toestand of omstandigheid dit is gebeurd', aldus de UM.",
+    "scraped_at": "2026-09-29T09:36:47.260863Z",
+    "id": "c382ca319c14a45e4555639d7be4227d4e132416555712c5e07b831977650026",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3240162/mogelijk-betrokken-bij-aanslag-israel-nog-veel-onduidelijk-over-situatie-gazaanse-student-um",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het is nog onduidelijk of een Gazaanse student van de Universiteit Maastricht (UM) op sociale media een 'grap' maakte, of dat hij daadwerkelijk betrokken was bij de aanslagen op Israël op 7 oktober 2023. De Immigratie- en Naturalisatiedienst (IND) kan dat maandag niet zeggen. Of er een onderzoek naar de student gestart wordt, wordt vanwege zijn privacy niet gedeeld. Ook andere instanties, zoals het Openbaar Ministerie en de politie, doen geen uitspraken over de zaak. Zondag werd duidelijk dat de Gazaanse student voorlopig geschorst is door de Universiteit Maastricht (UM) naar aanleiding van een inmiddels verwijderde videopost op sociale media. Daarin zegt de student dat hij betrokken was bij de Hamas-aanslagen in Israël. Bij de terreuraanslagen op 7 oktober 2023 vielen zo'n 1200 doden. De student zou volgens de Telegraaf door de UM naar Nederland zijn gehaald. De universiteit diende op 8 april een aanvraag in voor een machtiging tot voorlopig verblijf (mvv). De Immigratie- en Naturalisatiedienst verleende de machtiging. De UM wilde dat zondag niet aan L1 bevestigen. Of er bij de screening van de Gazaanse student voorafgaand aan zijn komst bijzonderheden zijn opgevallen, kan de IND vanwege zijn privacy niet zeggen. Datzelfde geldt voor de vraag of er een nieuw onderzoek naar de student wordt gestart nu hij in opspraak is gekomen. Wel geeft een woordvoerder aan dat 'signalen, tips van derden, openbare bronnen en andere zogenoemde 'zachte informatie' aanleiding kunnen vormen voor nader onderzoek naar de verblijfsrechtelijke positie van een vreemdeling'. \"De IND toetst iedere aanvraag tot toelating aan de geldende wet- en regelgeving en procedurele waarborgen\", zegt de woordvoerder. \"Denk daarbij aan de controle op een geldig reisdocument, een antecedentenverklaring en een check in verschillende systemen op risico's voor openbare orde of nationale veiligheid, en - in dit geval omdat het om studie gaat - inschrijving bij een erkende onderwijsinstelling en de beschikking over voldoende middelen van bestaan.\" In sommige gevallen kan er ook een onderzoek op internet en sociale media plaatsvinden. \"Bijvoorbeeld bij signalen dat sprake is van een schijnhuwelijk of gefingeerd dienstverband. Dit onderzoek vindt dan plaats op basis van specifieke en concrete onderzoeksvragen.\" Hoe dat met de student uit Gaza zit, blijft omwille van zijn privacy onduidelijk. Volgens een woordvoerder van de UM is de student voorlopig geschorst omwille van de veiligheid van studenten en medewerkers. De universiteit benadrukt daarbij niet bevoegd te zijn om onderzoek te doen naar de achtergrond van het bericht of de afzender daarvan, maar wel de wettelijke taak te hebben om het onderwijs veilig te stellen. De student mag voorlopig niet deelnemen aan het onderwijs. Tijdens de schorsing wordt bekeken of en onder welke voorwaarden de student zijn studie kan vervolgen. Of de UM aangifte gaat doen, wordt nog bekeken, zegt een woordvoerder van de onderwijsinstelling. \"We moeten eerst het gesprek aangaan, voor we kijken of er actie moet worden ondernomen.\" De universiteit begrijpt dat deze zaak onrust oproept onder studenten en dat daarom voor de schorsing is gekozen. De student woont momenteel niet meer op een plek samen met anderen, laat hij weten. Zondag liet de universiteit al weten geen verdere uitspraken te willen doen, 'ook omdat we de student in bescherming willen nemen voor zijn eigen veiligheid. We weten ook niet in welke toestand of omstandigheid dit is gebeurd', aldus de UM.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Universiteit Maastricht",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "IND",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie en de politie, doen geen uitspraken",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Universiteit Maastricht",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Telegraaf",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "IND",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Wel",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "IND",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Denk",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3",
+      "not_affected"
+    ]
+  },
+  "ebb063f7a052170de4c54fcc3afa6f9a": {
+    "feed": "L1 Nieuws",
+    "title": "VVV reageert voor het eerst op vechtpartij fans: 'Keuren iedere vorm van geweld nadrukkelijk af'",
+    "url": "https://www.l1nieuws.nl/nieuws/3240212/vvv-reageert-voor-het-eerst-op-vechtpartij-fans-keuren-iedere-vorm-van-geweld-nadrukkelijk-af",
+    "published": "Mon, 28 Sep 2026 10:01:45 GMT",
+    "summary": "VVV-Venlo heeft voor het eerst gereageerd op de knokpartij van afgelopen zaterdag in Eindhoven waarbij supporters van de Venlose club betrokken waren.",
+    "full_text": "VVV-Venlo heeft voor het eerst gereageerd op de knokpartij van afgelopen zaterdag in Eindhoven waarbij supporters van de Venlose club betrokken waren. Algemeen directeur Guus Pennings kwam maandagochtend met een schriftelijk statement. Daarin zegt Pennings over de gebeurtenissen: \"Wij betreuren dit ten zeerste en keuren iedere vorm van geweld nadrukkelijk af. We hebben sinds zaterdag nauw contact met de betrokken instanties om alle feiten zorgvuldig in kaart te brengen.\" Pennings wil nog niet vooruitlopen op de eventuele gevolgen voor de betrokken fans. \"Op basis van de uitkomsten van dit onderzoek, zullen we als club passende maatregelen treffen. We blijven ons met ziel en zaligheid inzetten voor een veilige en gastvrije voetbalomgeving, zowel in als rondom het stadion.\" Aanhangers van VVV-Venlo waren zaterdagmiddag met een touringcar onderweg naar Volendam, waar de Venlose club die avond een uitwedstrijd speelde. Bij station Strijp-S en het Klokgebouw in Eindhoven troffen zij een grote groep vermoedelijke PSV-supporters, zo meldt Omroep Brabant . Vervolgens ontstond een vechtpartij, waarbij het er hard aan toe ging. De politie greep in, sloot de groep VVV-supporters in en begeleidde de fans, na controle, terug naar Venlo. Zij mochten 's avonds niet meer naar de wedstrijd in Volendam.",
+    "scraped_at": "2026-09-29T09:36:49.225569Z",
+    "id": "3c142303c789266315f2a7423fa44694e68a533662f1960090d68b958fb58936",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3240212/vvv-reageert-voor-het-eerst-op-vechtpartij-fans-keuren-iedere-vorm-van-geweld-nadrukkelijk-af",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "VVV-Venlo heeft voor het eerst gereageerd op de knokpartij van afgelopen zaterdag in Eindhoven waarbij supporters van de Venlose club betrokken waren. Algemeen directeur Guus Pennings kwam maandagochtend met een schriftelijk statement. Daarin zegt Pennings over de gebeurtenissen: \"Wij betreuren dit ten zeerste en keuren iedere vorm van geweld nadrukkelijk af. We hebben sinds zaterdag nauw contact met de betrokken instanties om alle feiten zorgvuldig in kaart te brengen.\" Pennings wil nog niet vooruitlopen op de eventuele gevolgen voor de betrokken fans. \"Op basis van de uitkomsten van dit onderzoek, zullen we als club passende maatregelen treffen. We blijven ons met ziel en zaligheid inzetten voor een veilige en gastvrije voetbalomgeving, zowel in als rondom het stadion.\" Aanhangers van VVV-Venlo waren zaterdagmiddag met een touringcar onderweg naar Volendam, waar de Venlose club die avond een uitwedstrijd speelde. Bij station Strijp-S en het Klokgebouw in Eindhoven troffen zij een grote groep vermoedelijke PSV-supporters, zo meldt Omroep Brabant . Vervolgens ontstond een vechtpartij, waarbij het er hard aan toe ging. De politie greep in, sloot de groep VVV-supporters in en begeleidde de fans, na controle, terug naar Venlo. Zij mochten 's avonds niet meer naar de wedstrijd in Volendam.",
+    "locations": [
+      "Eindhoven",
+      "Volendam",
+      "Eindhoven",
+      "Venlo",
+      "Volendam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Volendam",
+        "NL"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Venlo",
+        "NL"
+      ],
+      [
+        "Volendam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "41-43",
+      "sector_name": "Construction"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "VVV-Venlo",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Venlose",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "VVV-Venlo",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Venlose",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Omroep Brabant",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "41-43"
+    ]
+  },
+  "4a10b35c194280befce36b77b0ffdfdb": {
+    "feed": "Politie.nl",
+    "title": "Politie wil kennis vergroten rond milieucriminaliteit tijdens Meld Milieu Weken",
+    "url": "https://www.politie.nl/nieuws/2026/september/28/07-politie-wil-kennis-vergroten-rond-milieucriminaliteit-tijdens-meld-milieu-weken.html",
+    "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "summary": "Milieucriminaliteit. Vraag rond en waarschijnlijk zegt het niet veel mensen iets. Toch is het een vorm van ondermijning is die grote impact kan hebben. Het kan zich bovendien recht onder je neus voordoen! Tijdens de Meld Milieu Week in Rotterdam, die op 28 september is begonnen, gaan politiecollega’s van Team Milieu samen met milieuagenten de straat op binnen de eenheid. Zij gaan met burgers en ondernemers in gesprek over milieucriminaliteit. Hoe herken je het? Wat kun je eraan doen? Waar moet je op moet letten? En… welke signalen kun je bij de politie afgeven?",
+    "full_text": "Het onjuist verwerken van vervuilde grond, gesjoemel met biodieselbrandstof, de import van illegale houtkap of fraude met de afvoer van afval. Het zijn allemaal voorbeelden van milieucriminaliteit door bedrijven, waarbij criminelen heel veel geld kunnen verdienen. “ Onze aanname is dat veel burgers (omwonenden, werknemers, concurrenten) informatie hebben over milieucriminaliteit, maar dit niet melden. ” aldus Brigit Nolden, Sectorhoofd Dienst Regionale Recherche en themahouder Milieu bij de politie eenheid Rotterdam. “ Er is ook milieucriminaliteit die dichter bij huis plaats vindt, bijvoorbeeld handel in beschermde dieren en planten en illegaal gevangen vis of iemand die zijn bouwafval in een sloot dumpt of frietvet in een put gooit. ” Volgens Brigit Nolden hebben alle burgers hierin een verantwoordelijkheid. “ De natuur, onze gezondheid en onze economie hebben hier ernstig onder te lijden. We vragen mensen alert te zijn en om zich heen te kijken en het te melden als ze iets afwijkends zien. Dat mensen daarin hun verantwoordelijkheid pakken. We moeten het echt samen doen! ” In gesprek gaan De landelijke Meld Milieu Weken zijn gericht op het aanpakken van milieucriminaliteit. Tijdens de week in Rotterdam zijn leden van het Team Milieu van de politie Eenheid Rotterdam dan samen met rechercheurs en agenten met een koffie TukTuk op maandag 28 september te vinden op industriegebied Spaanse Polder, op donderdag 1 oktober op de markt in Hoogvliet en op vrijdag 2 oktober op Rotterdam Centraal. Nolden: “ Door in gesprek te gaan willen we kennis rond milieucriminaliteit vergroten en informatie verzamelen waar we als politie iets mee kunnen. We pakken milieucriminaliteit de komende tijd aan door meer samen te werken, de beschikbare informatie zo goed mogelijk benutten en de focus te leggen op voorkomen, verstoren en herstellen. ” Handhaving Binnen de milieutaak handhaaft de politie milieuwetgeving en maakt zo nodig een proces-verbaal op bij een milieudelict. Daarmee kan het Openbaar Ministerie (OM) het bedrijf strafrechtelijk vervolgen. De politie werkt daarin nauw samen met de Inspectie Leefmilieu & Transport , de Nederlandse Voedsel- en Warenautoriteit , de Nederlandse Arbeidsinspectie en de Omgevingsdiensten .",
+    "scraped_at": "2026-09-29T09:36:41.016714Z",
+    "id": "8055f19612e2c546237d0d7de76cc9ab147a404bd8fe7a512a8dea7d61a528c4",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/28/07-politie-wil-kennis-vergroten-rond-milieucriminaliteit-tijdens-meld-milieu-weken.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het onjuist verwerken van vervuilde grond, gesjoemel met biodieselbrandstof, de import van illegale houtkap of fraude met de afvoer van afval. Het zijn allemaal voorbeelden van milieucriminaliteit door bedrijven, waarbij criminelen heel veel geld kunnen verdienen. “ Onze aanname is dat veel burgers (omwonenden, werknemers, concurrenten) informatie hebben over milieucriminaliteit, maar dit niet melden. ” aldus Brigit Nolden, Sectorhoofd Dienst Regionale Recherche en themahouder Milieu bij de politie eenheid Rotterdam. “ Er is ook milieucriminaliteit die dichter bij huis plaats vindt, bijvoorbeeld handel in beschermde dieren en planten en illegaal gevangen vis of iemand die zijn bouwafval in een sloot dumpt of frietvet in een put gooit. ” Volgens Brigit Nolden hebben alle burgers hierin een verantwoordelijkheid. “ De natuur, onze gezondheid en onze economie hebben hier ernstig onder te lijden. We vragen mensen alert te zijn en om zich heen te kijken en het te melden als ze iets afwijkends zien. Dat mensen daarin hun verantwoordelijkheid pakken. We moeten het echt samen doen! ” In gesprek gaan De landelijke Meld Milieu Weken zijn gericht op het aanpakken van milieucriminaliteit. Tijdens de week in Rotterdam zijn leden van het Team Milieu van de politie Eenheid Rotterdam dan samen met rechercheurs en agenten met een koffie TukTuk op maandag 28 september te vinden op industriegebied Spaanse Polder, op donderdag 1 oktober op de markt in Hoogvliet en op vrijdag 2 oktober op Rotterdam Centraal. Nolden: “ Door in gesprek te gaan willen we kennis rond milieucriminaliteit vergroten en informatie verzamelen waar we als politie iets mee kunnen. We pakken milieucriminaliteit de komende tijd aan door meer samen te werken, de beschikbare informatie zo goed mogelijk benutten en de focus te leggen op voorkomen, verstoren en herstellen. ” Handhaving Binnen de milieutaak handhaaft de politie milieuwetgeving en maakt zo nodig een proces-verbaal op bij een milieudelict. Daarmee kan het Openbaar Ministerie (OM) het bedrijf strafrechtelijk vervolgen. De politie werkt daarin nauw samen met de Inspectie Leefmilieu & Transport , de Nederlandse Voedsel- en Warenautoriteit , de Nederlandse Arbeidsinspectie en de Omgevingsdiensten .",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Hoogvliet",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.7071355618229913,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Onze",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Brigit Nolden",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Milieu",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Team Milieu van de politie Eenheid Rotterdam",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Inspectie Leefmilieu",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Transport",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00",
+      "not_affected"
+    ]
+  },
+  "504d5df2bb0a97743bd21de5d6b43b32": {
+    "feed": "Politie.nl",
+    "title": "Politie zoekt gestolen middelen uit werkauto",
+    "url": "https://www.politie.nl/nieuws/2026/september/28/06-politie-zoekt-gestolen-middelen-uit-werkauto.html",
+    "published": "Mon, 28 Sep 2026 15:24:00 GMT",
+    "summary": "Van donderdag 24 op vrijdag 25 september zijn er medicijnen uit de werkauto van een dierenarts in Hillegom gestolen. De politie is op zoek naar de gestolen middelen.",
+    "full_text": "Hillegom – De politie is op zoek naar gestolen middelen uit een auto in de omgeving van Hillegom. Donderdag 24 op vrijdag 25 september is er ingebroken in een werkauto van een dierenarts. Hierbij zijn verschillende medicijnen voor dieren gestolen. De politie adviseert om bij aantreffen van de middelen direct contact met ons op te nemen. Tussen donderdag 24 september rond 14.00 uur en vrijdag 25 september 08.00 uur heeft de inbraak plaatsgevonden in Hillegom. Hierbij is een middel gestolen dat wordt gebruikt voor het inslapen van dieren. De politie waarschuwt mensen voor het middel. Mocht iemand ergens in de omgeving iets verdachts tegenkomen of de middelen vinden, neem dan direct contact met de politie via 112.",
+    "scraped_at": "2026-09-29T09:36:41.017195Z",
+    "id": "ef78da4ac9f35c3c1366bc4bcf552cb037ac217f998afe979494a43a753aecb6",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/28/06-politie-zoekt-gestolen-middelen-uit-werkauto.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Hillegom – De politie is op zoek naar gestolen middelen uit een auto in de omgeving van Hillegom. Donderdag 24 op vrijdag 25 september is er ingebroken in een werkauto van een dierenarts. Hierbij zijn verschillende medicijnen voor dieren gestolen. De politie adviseert om bij aantreffen van de middelen direct contact met ons op te nemen. Tussen donderdag 24 september rond 14.00 uur en vrijdag 25 september 08.00 uur heeft de inbraak plaatsgevonden in Hillegom. Hierbij is een middel gestolen dat wordt gebruikt voor het inslapen van dieren. De politie waarschuwt mensen voor het middel. Mocht iemand ergens in de omgeving iets verdachts tegenkomen of de middelen vinden, neem dan direct contact met de politie via 112.",
+    "locations": [
+      "Hillegom"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hillegom",
+        "NL"
+      ],
+      [
+        "Hillegom",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "1e87f15b74873516a6045c07686b8a9b": {
+    "feed": "Politie.nl",
+    "title": "Twee aanhoudingen in onderzoek naar inbraak brandweerkazerne Maarn-Maarsbergen",
+    "url": "https://www.politie.nl/nieuws/2026/september/28/03-twee-verdachten-aangehouden-in-onderzoek-naar-inbraak-brandweerkazerne-maarsbergen.html",
+    "published": "Mon, 28 Sep 2026 13:27:00 GMT",
+    "summary": "In het onderzoek naar de inbraak bij de brandweerkazerne in Maarsbergen hebben wij woensdag 23 september twee personen aangehouden. De verdachten, twee mannen van 22 en 24 jaar uit Ede, zijn aangehouden voor heling. Het gestolen gereedschap is inmiddels teruggevonden. Wij doen verder onderzoek naar de inbraak en de personen die hierbij mogelijk betrokken zijn.",
+    "full_text": "De inbraak vond plaats in de nacht van zondag 20 op maandag 21 september. Rond 00.45 uur ging het alarm af bij de brandweerkazerne aan de Tuindorpweg. Agenten en de brandweer kwamen snel ter plaatse. Al snel werd duidelijk dat er was ingebroken en dat verschillende spullen waren meegenomen. Na de inbraak hebben wij nog in de omgeving gezocht, maar verdachten waren toen al weg. Zij zijn waarschijnlijk weggereden in een auto in de richting van het centrum van Maarn. Gestolen gereedschap Wij zien de laatste tijd vaker dat er wordt ingebroken bij brandweerkazernes. Daarbij wordt zwaar gereedschap gestolen. Dit gereedschap kan worden gebruikt bij andere inbraken, bijvoorbeeld bij juweliers. Getuigen gezocht Het onderzoek naar de inbraak gaat door. Wij komen daarom nog steeds graag in contact met mensen die iets hebben gezien of gehoord. Heeft u in de nacht van zondag 20 op maandag 21 september iets gezien bij de brandweerkazerne aan de Tuindorpweg? Of heeft u camerabeelden uit de omgeving waarop mogelijk iets te zien is? Dan horen wij dat graag. Heeft u informatie die kan helpen bij het onderzoek? Neem dan contact met ons op via 0900-8844. U kunt ook anoniem informatie doorgeven via Meld Misdaad Anoniem: 0800-7000. Getuigenoproep https://www.politie.nl/gezocht/getuigenoproep/2026/september/03-getuigen-en-camerabeelden-gezocht-inbraak-brandweerkazerne-maarsbergen",
+    "scraped_at": "2026-09-29T09:36:41.017668Z",
+    "id": "85d57b579b67ea26c8c8c70cb13d9212a884bb51638491ad8696e2a6e00abf1f",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/28/03-twee-verdachten-aangehouden-in-onderzoek-naar-inbraak-brandweerkazerne-maarsbergen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De inbraak vond plaats in de nacht van zondag 20 op maandag 21 september. Rond 00.45 uur ging het alarm af bij de brandweerkazerne aan de Tuindorpweg. Agenten en de brandweer kwamen snel ter plaatse. Al snel werd duidelijk dat er was ingebroken en dat verschillende spullen waren meegenomen. Na de inbraak hebben wij nog in de omgeving gezocht, maar verdachten waren toen al weg. Zij zijn waarschijnlijk weggereden in een auto in de richting van het centrum van Maarn. Gestolen gereedschap Wij zien de laatste tijd vaker dat er wordt ingebroken bij brandweerkazernes. Daarbij wordt zwaar gereedschap gestolen. Dit gereedschap kan worden gebruikt bij andere inbraken, bijvoorbeeld bij juweliers. Getuigen gezocht Het onderzoek naar de inbraak gaat door. Wij komen daarom nog steeds graag in contact met mensen die iets hebben gezien of gehoord. Heeft u in de nacht van zondag 20 op maandag 21 september iets gezien bij de brandweerkazerne aan de Tuindorpweg? Of heeft u camerabeelden uit de omgeving waarop mogelijk iets te zien is? Dan horen wij dat graag. Heeft u informatie die kan helpen bij het onderzoek? Neem dan contact met ons op via 0900-8844. U kunt ook anoniem informatie doorgeven via Meld Misdaad Anoniem: 0800-7000. Getuigenoproep https://www.politie.nl/gezocht/getuigenoproep/2026/september/03-getuigen-en-camerabeelden-gezocht-inbraak-brandweerkazerne-maarsbergen",
+    "locations": [
+      "Maarn"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maarn",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "f126fabe57468325521956ae7e016a0b": {
+    "feed": "Politie.nl",
+    "title": "Verdachte oplichting crossmotor Utrecht meldt zichzelf",
+    "url": "https://www.politie.nl/nieuws/2026/september/28/03-verdachte-oplichting-crossmotor-utrecht-meldt-zichzelf.html",
+    "published": "Mon, 28 Sep 2026 09:14:00 GMT",
+    "summary": "Afgelopen zomer werden meerdere mensen opgelicht bij het verkopen van hun crossmotor. Vorige week toonden we beelden van een verdachte die slachtoffers uit België had opgelicht in Opsporing Verzocht. Hierna heeft de verdachte zichzelf gemeld bij een politiebureau.",
+    "full_text": "In juni toonden we al beelden van een oplichter via social media en Bureau Hengeveld. Op maandag 21 september toonden we de beelden in de uitzending van Opsporing Verzocht. Op vrijdag 25 september heeft de verdachte zichzelf gemeld op een politiebureau. De verdachte is een 17-jarige jongen uit Amersfoort. De crossmotor is ook bij de politie afgegeven en gaat weer terug naar de slachtoffers. Omdat de verdachte zichzelf heeft gemeld, hebben we de beelden offline gehaald. Dank aan iedereen voor het delen van de beelden en het meedenken! Wat was er gebeurd? Op donderdag 4 juni ontving de verkoper een bericht op een verkoopsite dat iemand zijn crossmotor wilde kopen. De verkoper woont zelf in België, maar ze spraken samen af dat hij de crossmotor in Utrecht zou komen brengen. Hiervoor moest de koper wel verzendkosten betalen.  Nadat de koper zei dit te hebben gedaan, reed de verkoper op 7 juni naar de Prof. Dr. Magnuslaan in Utrecht. Bij de afspraak verscheen een man die door de verkoper geschat werd tussen de 17 en 25 jaar oud. Hij vroeg of hij een testrit mocht maken op de crossmotor. De jonge man reed er vervolgens hard vandoor met de motor. De verkoper belde direct 112, maar helaas werd de crossmotor niet meer gevonden door de verkoper en de politie. Tips om oplichting te voorkomen In de periode januari-juli van dit jaar zijn bijna 30 crossmotoren op steeds ongeveer dezelfde manier gestolen in Utrecht, met de piek tussen afgelopen mei en juli. De oplichter liet de verkoper met de crossmotor telkens naar Utrecht komen, maar ging er vervolgens na een ‘proefrit’ vandoor. De verkopers komen vanuit heel Nederland, en soms daarbuiten. Zelf een motor verkopen? Hieronder een aantal tips om oplichting te voorkomen: Via ‘Check de (ver)koper’ kunt u voordat u iets koopt of verkoopt, controleren of er met de (ver)koper negatieve ervaringen zijn geweest. U kunt zoeken op IBAN-rekeningnummers, mailadressen, telefoonnummers of een url (de websitenaam) van bijvoorbeeld een webwinkel. Laat de koper zich legitimeren met een paspoort of rijbewijs bij de afspraak (geen foto of kopie). Maak een duidelijke foto van de koper én het legitimatiebewijs (met toestemming). Monteer in uw motor een voertuigvolgsysteem met GPS of een GPS tracker. Na een eventuele diefstal kan je dan de exacte locatie van je gestolen motor doorgeven aan de politie. Spreek af op crossbanen of afgesloten parcoursen, of laat de koper naar jou toe komen. Accepteer geen borg of \"onderpand\" bij het maken van een proefrit. Laat je niet misleiden door contant geld, een telefoon of andere waardevolle spullen om te bewaren tijdens een proefrit. Deze spullen zijn vaak nep of gestolen. Zorg dat iemand meerijdt bij de proefrit. Vertrouw je het niet? Zeg gerust nee! Een echte koper begrijpt dat je voorzichtig bent. Deel deze waarschuwing zodat meer mensen veilig hun motor kunnen verkopen!",
+    "scraped_at": "2026-09-29T09:36:41.018057Z",
+    "id": "61aecce4ac588302a25eed73bc6f9ab0e0545333949cc3b4b7a82fe304dbedf7",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/september/28/03-verdachte-oplichting-crossmotor-utrecht-meldt-zichzelf.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In juni toonden we al beelden van een oplichter via social media en Bureau Hengeveld. Op maandag 21 september toonden we de beelden in de uitzending van Opsporing Verzocht. Op vrijdag 25 september heeft de verdachte zichzelf gemeld op een politiebureau. De verdachte is een 17-jarige jongen uit Amersfoort. De crossmotor is ook bij de politie afgegeven en gaat weer terug naar de slachtoffers. Omdat de verdachte zichzelf heeft gemeld, hebben we de beelden offline gehaald. Dank aan iedereen voor het delen van de beelden en het meedenken! Wat was er gebeurd? Op donderdag 4 juni ontving de verkoper een bericht op een verkoopsite dat iemand zijn crossmotor wilde kopen. De verkoper woont zelf in België, maar ze spraken samen af dat hij de crossmotor in Utrecht zou komen brengen. Hiervoor moest de koper wel verzendkosten betalen.  Nadat de koper zei dit te hebben gedaan, reed de verkoper op 7 juni naar de Prof. Dr. Magnuslaan in Utrecht. Bij de afspraak verscheen een man die door de verkoper geschat werd tussen de 17 en 25 jaar oud. Hij vroeg of hij een testrit mocht maken op de crossmotor. De jonge man reed er vervolgens hard vandoor met de motor. De verkoper belde direct 112, maar helaas werd de crossmotor niet meer gevonden door de verkoper en de politie. Tips om oplichting te voorkomen In de periode januari-juli van dit jaar zijn bijna 30 crossmotoren op steeds ongeveer dezelfde manier gestolen in Utrecht, met de piek tussen afgelopen mei en juli. De oplichter liet de verkoper met de crossmotor telkens naar Utrecht komen, maar ging er vervolgens na een ‘proefrit’ vandoor. De verkopers komen vanuit heel Nederland, en soms daarbuiten. Zelf een motor verkopen? Hieronder een aantal tips om oplichting te voorkomen: Via ‘Check de (ver)koper’ kunt u voordat u iets koopt of verkoopt, controleren of er met de (ver)koper negatieve ervaringen zijn geweest. U kunt zoeken op IBAN-rekeningnummers, mailadressen, telefoonnummers of een url (de websitenaam) van bijvoorbeeld een webwinkel. Laat de koper zich legitimeren met een paspoort of rijbewijs bij de afspraak (geen foto of kopie). Maak een duidelijke foto van de koper én het legitimatiebewijs (met toestemming). Monteer in uw motor een voertuigvolgsysteem met GPS of een GPS tracker. Na een eventuele diefstal kan je dan de exacte locatie van je gestolen motor doorgeven aan de politie. Spreek af op crossbanen of afgesloten parcoursen, of laat de koper naar jou toe komen. Accepteer geen borg of \"onderpand\" bij het maken van een proefrit. Laat je niet misleiden door contant geld, een telefoon of andere waardevolle spullen om te bewaren tijdens een proefrit. Deze spullen zijn vaak nep of gestolen. Zorg dat iemand meerijdt bij de proefrit. Vertrouw je het niet? Zeg gerust nee! Een echte koper begrijpt dat je voorzichtig bent. Deel deze waarschuwing zodat meer mensen veilig hun motor kunnen verkopen!",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "Amersfoort",
+        "NL"
+      ],
+      [
+        "België",
+        "BE"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Utrecht",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "47",
+      "sector_name": "Retail trade"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Dank",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "crossmotor",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "GPS",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "GPS",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47",
+      "not_affected"
+    ]
   }
 }
