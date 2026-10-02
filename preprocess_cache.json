@@ -80114,5 +80114,201 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "43b43ef903d72b61a7b8631ce16a2d3a": {
+    "feed": "L1 Nieuws",
+    "title": "Opgepakte verdachte voor rammen politieauto is 30-jarige man",
+    "url": "https://www.l1nieuws.nl/nieuws/3242947/opgepakte-verdachte-voor-rammen-politieauto-is-30-jarige-man",
+    "published": "Fri, 02 Oct 2026 08:26:52 GMT",
+    "summary": "De automobilist die donderdagavond na een achtervolging op de A2 in Maastricht werd aangehouden, is een 30-jarige man zonder vaste woon- of verblijfplaats.",
+    "full_text": "De automobilist die donderdagavond na een achtervolging op de A2 in Maastricht werd aangehouden, is een 30-jarige man zonder vaste woon- of verblijfplaats. De man zit vast voor verder onderzoek. Hij wordt verdacht van poging doodslag, dan wel zware mishandeling. Een politiepatrouille wilde de auto rond 19:30 uur op de A79 ter hoogte van Meerssen controleren. De automobiliste besloot het stopteken te negeren en sloeg op de vlucht. Agenten zetten de achtervolging in. Net na de Koning Willem-Alexandertunnel raakte de auto een kleine tien minuten later van de weg. Hij beschadigde daarbij de vangrail. De 30-jarige verdachte kon daarna aangehouden worden. Tijdens de achtervolging ramde de auto een politiewagen. Niemand raakte gewond.",
+    "scraped_at": "2026-10-02T09:31:08.818619Z",
+    "id": "9111923110c0e53ffb48bd01a8261bc1ad690ac44241e8aec31a78c0d229d85a",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3242947/opgepakte-verdachte-voor-rammen-politieauto-is-30-jarige-man",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De automobilist die donderdagavond na een achtervolging op de A2 in Maastricht werd aangehouden, is een 30-jarige man zonder vaste woon- of verblijfplaats. De man zit vast voor verder onderzoek. Hij wordt verdacht van poging doodslag, dan wel zware mishandeling. Een politiepatrouille wilde de auto rond 19:30 uur op de A79 ter hoogte van Meerssen controleren. De automobiliste besloot het stopteken te negeren en sloeg op de vlucht. Agenten zetten de achtervolging in. Net na de Koning Willem-Alexandertunnel raakte de auto een kleine tien minuten later van de weg. Hij beschadigde daarbij de vangrail. De 30-jarige verdachte kon daarna aangehouden worden. Tijdens de achtervolging ramde de auto een politiewagen. Niemand raakte gewond.",
+    "locations": [
+      "Maastricht",
+      "Meerssen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Meerssen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "A79",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Niemand",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "00",
+      "not_affected"
+    ]
+  },
+  "78c98f53909f3764b7de73ee81b5566c": {
+    "feed": "Politie.nl",
+    "title": "Achtervolging eindigt in crash langs A2, bestuurder aangehouden",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/1/10-achtervolging-eindigt-in-crash-langs-a2-bestuurder-aangehouden.html",
+    "published": "Thu, 01 Oct 2026 20:35:00 GMT",
+    "summary": "Nadat een automobilist donderdagavond een stopteken negeerde op de A79 bij Meerssen heeft een korte achtervolging plaatsgevonden. De verdachte heeft hierbij een politieauto geramd. Uiteindelijk is de verdachte op de A2 ter hoogte van Maastricht van de weg geraakt.",
+    "full_text": "De verdachte is aangehouden. Negeren stopteken De politiepatrouille wilde de auto rond 19:30 uur controleren op de A79 ter hoogte van Meerssen. De bestuurder negeerde het stopteken, daarop is een achtervolging ingezet. In de vluchtpoging heeft de automobilist nog een politievoertuig geramd. Niemand raakte gewond De automobilist is uiteindelijk even voor 19:40 uur op de A2 ter hoogte van Maastricht van de weg geraakt. De verdachte kon hier worden aangehouden. Update 2 oktober 2026 De aangehouden verdachte is een 30-jarige man zonder vaste woon- of verblijfplaats. Hij zit vast voor verder onderzoek. Hij wordt verdacht van poging doodslag, dan wel zware mishandeling.",
+    "scraped_at": "2026-10-02T09:31:06.971066Z",
+    "id": "d76267f6987b4b3c0f5088bdfbb901af134637dca7097d8b846d628aa26569a9",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/1/10-achtervolging-eindigt-in-crash-langs-a2-bestuurder-aangehouden.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De verdachte is aangehouden. Negeren stopteken De politiepatrouille wilde de auto rond 19:30 uur controleren op de A79 ter hoogte van Meerssen. De bestuurder negeerde het stopteken, daarop is een achtervolging ingezet. In de vluchtpoging heeft de automobilist nog een politievoertuig geramd. Niemand raakte gewond De automobilist is uiteindelijk even voor 19:40 uur op de A2 ter hoogte van Maastricht van de weg geraakt. De verdachte kon hier worden aangehouden. Update 2 oktober 2026 De aangehouden verdachte is een 30-jarige man zonder vaste woon- of verblijfplaats. Hij zit vast voor verder onderzoek. Hij wordt verdacht van poging doodslag, dan wel zware mishandeling.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "A79",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "ccf12bd085cf025706ec451dda17d6e3": {
+    "feed": "NOS.nl (Economie)",
+    "title": "Scheepsbouwer Damen wil miljarden van Duitse overheid voor schrappen order",
+    "url": "https://nos.nl/l/2633317",
+    "published": "Thu, 1 Oct 2026 20:27:06 +0200",
+    "summary": "<p>Scheepsbouwer Damen eist een schadevergoeding van bijna 4,7 miljard euro van de Duitse regering voor het schrappen van de order voor fregatten. Dat staat in een brief van de advocaat van Damen, ingezien door de NOS.</p>\n        <p>Eerder bleek al dat Damen Schelde Naval Shipbuilding, de volledige naam van het bedrijf, een vergoeding van de Duitsers wil. Nu blijkt uit de brief dat dit om miljarden gaat. Het bedrag wordt niet door Damen bevestigd, wel zegt het bedrijf de brief te hebben gestuurd.</p>\n        <p>Eind juni annuleerde de Duitse minister van Defensie, Boris Pistorius, de bestelling van zes fregatten. Volgens Damen was dat volkomen onverwacht. In plaats van de zes F126-fregatten worden nu acht andere fregatten van het Duitse ThyssenKrupp Marine Systems besteld.</p>\n        <h2>Zelf verantwoordelijk</h2>\n        <p>De opdracht om de schepen te bouwen was oorspronkelijk aan het Nederlandse Damen gegeven, maar vorig jaar besloot de Duitse regering al dat Damen niet langer de hoofdaannemer van het project kon zijn. Die opdracht zou worden gegeven aan de Duitse scheepsbouwer NVL, onderdeel van het grote Rheinmetall. Damen bleef toen nog wel betrokken bij het project.</p>\n        <p>In juni trok Pistorius definitief de stekker uit het project bij Damen. Volgens hem dreigde de bouw jaren vertraging op te lopen en liepen de kosten uit de hand.</p>\n        <p>Uit de brief, gericht aan Pistorius, blijkt dat volgens Damen de Duitse regering zelf verantwoordelijk is voor de vertraging. Ook verwijt Damen de Duitse regering contractbreuk.</p>\n        <p>In de brief staat onder andere dat Damen een onderzoek heeft gedaan naar de schade die het bedrijf zou hebben opgelopen na het annuleren van de Duitse order. Daaruit maakt het bedrijf op dat onder andere de werven waar de schepen zouden worden gebouwd al veel kosten hadden gemaakt. Delen van de schepen waren al klaar om samengevoegd te worden, maar worden niet meer gebruikt. Volgens Damen zat daar de <a href=\"https://www.damen.com/insights-center/news/orderly-settlement-with-the-german-ministry-of-defence-following-the-stopping-of-the-f126-programme\">meeste</a> schade.</p>\n        <h2>Tegenslagen</h2>\n        <p>Een paar maanden geleden bleek dat ook de Belgische regering <a href=\"https://nos.nl/artikel/2623643-scheepsbouwer-damen-verliest-mogelijk-belgische-fregattenorder\">overweegt</a> om een order voor twee fregatten bij de Nederlandse scheepsbouwer in te trekken.</p>\n        <p>België heeft twee fregatten besteld bij Damen, maar ook minister Francken van Defensie vindt dat de levering te lang duurt en dat de schepen te duur worden.</p>",
+    "full_text": "NOS Nieuws • gisteren, 20:27 Scheepsbouwer Damen eist een schadevergoeding van bijna 4,7 miljard euro van de Duitse regering voor het schrappen van de order voor fregatten. Dat staat in een brief van de advocaat van Damen, ingezien door de NOS. Eerder bleek al dat Damen Schelde Naval Shipbuilding, de volledige naam van het bedrijf, een vergoeding van de Duitsers wil. Nu blijkt uit de brief dat dit om miljarden gaat. Het bedrag wordt niet door Damen bevestigd, wel zegt het bedrijf de brief te hebben gestuurd. Eind juni annuleerde de Duitse minister van Defensie, Boris Pistorius, de bestelling van zes fregatten. Volgens Damen was dat volkomen onverwacht. In plaats van de zes F126-fregatten worden nu acht andere fregatten van het Duitse ThyssenKrupp Marine Systems besteld.  De opdracht om de schepen te bouwen was oorspronkelijk aan het Nederlandse Damen gegeven, maar vorig jaar besloot de Duitse regering al dat Damen niet langer de hoofdaannemer van het project kon zijn. Die opdracht zou worden gegeven aan de Duitse scheepsbouwer NVL, onderdeel van het grote Rheinmetall. Damen bleef toen nog wel betrokken bij het project. In juni trok Pistorius definitief de stekker uit het project bij Damen. Volgens hem dreigde de bouw jaren vertraging op te lopen en liepen de kosten uit de hand. Uit de brief, gericht aan Pistorius, blijkt dat volgens Damen de Duitse regering zelf verantwoordelijk is voor de vertraging. Ook verwijt Damen de Duitse regering contractbreuk. In de brief staat onder andere dat Damen een onderzoek heeft gedaan naar de schade die het bedrijf zou hebben opgelopen na het annuleren van de Duitse order. Daaruit maakt het bedrijf op dat onder andere de werven waar de schepen zouden worden gebouwd al veel kosten hadden gemaakt. Delen van de schepen waren al klaar om samengevoegd te worden, maar worden niet meer gebruikt. Volgens Damen zat daar de meeste (opent in nieuw venster) schade.  Een paar maanden geleden bleek dat ook de Belgische regering overweegt om een order voor twee fregatten bij de Nederlandse scheepsbouwer in te trekken. België heeft twee fregatten besteld bij Damen, maar ook minister Francken van Defensie vindt dat de levering te lang duurt en dat de schepen te duur worden.",
+    "scraped_at": "2026-10-02T09:30:18.095694Z",
+    "id": "fa0f71f5659392890bf0e4c4e782dcce505ae8bc62caaa60aa55309ea0e1d87d",
+    "canonical_url": "https://nos.nl/l/2633317",
+    "published_ts": "2026-10-01T18:27:06Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • gisteren, 20:27 Scheepsbouwer Damen eist een schadevergoeding van bijna 4,7 miljard euro van de Duitse regering voor het schrappen van de order voor fregatten. Dat staat in een brief van de advocaat van Damen, ingezien door de NOS. Eerder bleek al dat Damen Schelde Naval Shipbuilding, de volledige naam van het bedrijf, een vergoeding van de Duitsers wil. Nu blijkt uit de brief dat dit om miljarden gaat. Het bedrag wordt niet door Damen bevestigd, wel zegt het bedrijf de brief te hebben gestuurd. Eind juni annuleerde de Duitse minister van Defensie, Boris Pistorius, de bestelling van zes fregatten. Volgens Damen was dat volkomen onverwacht. In plaats van de zes F126-fregatten worden nu acht andere fregatten van het Duitse ThyssenKrupp Marine Systems besteld.  De opdracht om de schepen te bouwen was oorspronkelijk aan het Nederlandse Damen gegeven, maar vorig jaar besloot de Duitse regering al dat Damen niet langer de hoofdaannemer van het project kon zijn. Die opdracht zou worden gegeven aan de Duitse scheepsbouwer NVL, onderdeel van het grote Rheinmetall. Damen bleef toen nog wel betrokken bij het project. In juni trok Pistorius definitief de stekker uit het project bij Damen. Volgens hem dreigde de bouw jaren vertraging op te lopen en liepen de kosten uit de hand. Uit de brief, gericht aan Pistorius, blijkt dat volgens Damen de Duitse regering zelf verantwoordelijk is voor de vertraging. Ook verwijt Damen de Duitse regering contractbreuk. In de brief staat onder andere dat Damen een onderzoek heeft gedaan naar de schade die het bedrijf zou hebben opgelopen na het annuleren van de Duitse order. Daaruit maakt het bedrijf op dat onder andere de werven waar de schepen zouden worden gebouwd al veel kosten hadden gemaakt. Delen van de schepen waren al klaar om samengevoegd te worden, maar worden niet meer gebruikt. Volgens Damen zat daar de meeste (opent in nieuw venster) schade.  Een paar maanden geleden bleek dat ook de Belgische regering overweegt om een order voor twee fregatten bij de Nederlandse scheepsbouwer in te trekken. België heeft twee fregatten besteld bij Damen, maar ook minister Francken van Defensie vindt dat de levering te lang duurt en dat de schepen te duur worden.",
+    "locations": [
+      "Schelde"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Schelde",
+        "BE"
+      ],
+      [
+        "België",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "41-43",
+      "sector_name": "Construction"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Damen",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "ThyssenKrupp Marine Systems",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "NVL",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Pistorius",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Pistorius",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Duitse regering",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Damen",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "regering",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "41-43"
+    ]
   }
 }
