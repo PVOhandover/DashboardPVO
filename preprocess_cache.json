@@ -80310,5 +80310,343 @@
     "all_sectors_in_article": [
       "41-43"
     ]
+  },
+  "5573f1ceeceb33bff4577d0158e9a51a": {
+    "feed": "Omroep West - Economie",
+    "title": "Deze week failliet: Opvang voor jonge kinderen failliet verklaard",
+    "url": "https://www.omroepwest.nl/economie/5159564/deze-week-failliet-opvang-voor-jonge-kinderen-failliet-verklaard",
+    "published": "Fri, 02 Oct 2026 14:00:00 GMT",
+    "summary": "Een Haagse organisatie die dagbesteding en begeleiding biedt aan jonge kinderen, is failliet verklaard. De opvang is voorlopig nog open, maar het is niet duidelijk hoe lang kinderen er nog terechtkunnen. De curator richt zich op de continuïteit van de zorg en onderzoekt daarnaast de mogelijkheden voor een doorstart.",
+    "full_text": "REGIO - Een Haagse organisatie die dagbesteding en begeleiding biedt aan jonge kinderen, is failliet verklaard. De opvang is voorlopig nog open, maar het is niet duidelijk hoe lang kinderen er nog terechtkunnen. De curator richt zich op de continuïteit van de zorg en onderzoekt daarnaast de mogelijkheden voor een doorstart. Deze week is het faillissement uitgesproken over Care2Connect uit Den Haag. Het bedrijf biedt dagbesteding aan kinderen van 3 tot 10 jaar. Volgens de organisatie zitten door lange wachtlijsten veel kinderen met een licht verstandelijke beperking en/of autisme noodgedwongen thuis. Care2Connect biedt voor hen een plek terwijl zij wachten op passende opvang of onderwijs. De curator staat in contact met de betrokken zorginstanties om de continuïteit van de zorg te waarborgen. Care2Connect werd volgens de eigen website opgezet door twee oprichters die elkaar al sinds de basisschool kennen. Beiden volgden de opleiding Social Work en werkten daarna als zelfstandigen in de hulpverlening. De aanleiding voor de opvang was een 4-jarige jongen die nergens terechtkon. De oprichters richtten een kinderhoek in op hun kantoor en begeleidden hem vier halve dagen per week. Toen daarna meer kinderen werden aangemeld, ontstond de basis voor Care2Connect. De organisatie heeft inmiddels locaties in Benoordenhout en Ypenburg . 'Mijn focus is nu de continuïteit van de zorg', zegt de curator. 'Ik sta in contact met de betrokken zorginstanties en onderzoek ondertussen ook de mogelijkheden voor een doorstart.' Over de precieze oorzaak van het faillissement wil de curator voorlopig niets zeggen. De eigenaren van Care2Connect wilden niet reageren op vragen van Omroep West.",
+    "scraped_at": "2026-10-03T09:01:08.564519Z",
+    "id": "9bf028f85b10f487888fc065b6745bb6257df8b8cf7c6656d182cb327f859913",
+    "canonical_url": "https://www.omroepwest.nl/economie/5159564/deze-week-failliet-opvang-voor-jonge-kinderen-failliet-verklaard",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "REGIO - Een Haagse organisatie die dagbesteding en begeleiding biedt aan jonge kinderen, is failliet verklaard. De opvang is voorlopig nog open, maar het is niet duidelijk hoe lang kinderen er nog terechtkunnen. De curator richt zich op de continuïteit van de zorg en onderzoekt daarnaast de mogelijkheden voor een doorstart. Deze week is het faillissement uitgesproken over Care2Connect uit Den Haag. Het bedrijf biedt dagbesteding aan kinderen van 3 tot 10 jaar. Volgens de organisatie zitten door lange wachtlijsten veel kinderen met een licht verstandelijke beperking en/of autisme noodgedwongen thuis. Care2Connect biedt voor hen een plek terwijl zij wachten op passende opvang of onderwijs. De curator staat in contact met de betrokken zorginstanties om de continuïteit van de zorg te waarborgen. Care2Connect werd volgens de eigen website opgezet door twee oprichters die elkaar al sinds de basisschool kennen. Beiden volgden de opleiding Social Work en werkten daarna als zelfstandigen in de hulpverlening. De aanleiding voor de opvang was een 4-jarige jongen die nergens terechtkon. De oprichters richtten een kinderhoek in op hun kantoor en begeleidden hem vier halve dagen per week. Toen daarna meer kinderen werden aangemeld, ontstond de basis voor Care2Connect. De organisatie heeft inmiddels locaties in Benoordenhout en Ypenburg . 'Mijn focus is nu de continuïteit van de zorg', zegt de curator. 'Ik sta in contact met de betrokken zorginstanties en onderzoek ondertussen ook de mogelijkheden voor een doorstart.' Over de precieze oorzaak van het faillissement wil de curator voorlopig niets zeggen. De eigenaren van Care2Connect wilden niet reageren op vragen van Omroep West.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Benoordenhout",
+        "NL"
+      ],
+      [
+        "Ypenburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "REGIO",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mijn focus",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "a2725dc3f4ec39ab337560e497b927bf": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws: Auto belandt op de kop in berm bij Eelde • Auto te water bij Eemshavenweg Middelstum",
+    "url": "https://www.rtvnoord.nl/112/1441801/112-nieuws-auto-belandt-op-de-kop-in-berm-bij-eelde-auto-te-water-bij-eemshavenweg-middelstum",
+    "published": "Sat, 03 Oct 2026 07:02:39 GMT",
+    "summary": "In dit 112-blog houden we je deze zaterdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Bij de Eemshavenweg ter hoogte van Middelstum is zaterdagmorgen een auto in het water beland. Het ongeluk gebeurde tegen half zeven. De politie, een ambulance en de brandweer rukten uit. Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Op de A28 bij Eelde is in de nacht van vrijdag op zaterdag een auto van de weg geraakt en op de kop in de berm beland. De politie en een ambulance rukten uit. Een bergingsbedrijf heeft de auto weggesleept. Ook werd het Oppervlakte Redding Team van de brandweer ingezet. Dat is een team dat wordt opgeroepen als een slachtoffer in het water te ver van de kant is om te worden gered door een brandweerman in een waadpak.",
+    "scraped_at": "2026-10-03T09:01:36.842249Z",
+    "id": "a4a9cbd0e8e50a991f12ad8c76ebadbe4035a936ee75650a32f4220d2c20ead6",
+    "canonical_url": "https://www.rtvnoord.nl/112/1441801/112-nieuws-auto-belandt-op-de-kop-in-berm-bij-eelde-auto-te-water-bij-eemshavenweg-middelstum",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij de Eemshavenweg ter hoogte van Middelstum is zaterdagmorgen een auto in het water beland. Het ongeluk gebeurde tegen half zeven. De politie, een ambulance en de brandweer rukten uit. Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Op de A28 bij Eelde is in de nacht van vrijdag op zaterdag een auto van de weg geraakt en op de kop in de berm beland. De politie en een ambulance rukten uit. Een bergingsbedrijf heeft de auto weggesleept. Ook werd het Oppervlakte Redding Team van de brandweer ingezet. Dat is een team dat wordt opgeroepen als een slachtoffer in het water te ver van de kant is om te worden gered door een brandweerman in een waadpak.",
+    "locations": [
+      "Middelstum"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Middelstum",
+        "NL"
+      ],
+      [
+        "Eelde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "409749a17550d7dd0b5640a4c6d13c7b": {
+    "feed": "RTV Noord",
+    "title": "Veiligheidsregio Groningen nauwelijks betrokken bij onderzoek naar locatie voor kerncentrales",
+    "url": "https://www.rtvnoord.nl/politiek/1441714/veiligheidsregio-groningen-nauwelijks-betrokken-bij-onderzoek-naar-locatie-voor-kerncentrales",
+    "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "summary": "De Veiligheidsregio Groningen (VRG) vindt dat er onvoldoende onderzoek gedaan is naar de veiligheidsrisico's die kleven aan de komst van een kerncentrale. Dat schrijft de VRG in een lijst met 22 aandachtspunten aan het kabinet.",
+    "full_text": "De Veiligheidsregio Groningen (VRG) vindt dat er onvoldoende onderzoek gedaan is naar de veiligheidsrisico's die kleven aan de komst van een kerncentrale. Dat schrijft de VRG in een lijst met 22 aandachtspunten aan het kabinet. De aandachtspunten gaan onder andere over omgevingsveiligheid, aardbevingsrisico’s, transportroutes, crisisbeheersing, waterveiligheid en klimaatbestendigheid. De kerncentrales: waar en wanneer? Het Rijk is op zoek naar een locatie voor twee kerncentrales. Na onderzoek zijn er nog twee opties overgebleven: de Eemshaven en Terneuzen in Zeeland. Volgend jaar zal een voorkeursbeslissing worden gemaakt, pas daarna wordt de definitieve locatie bepaald. De VRG wijst bijvoorbeeld op de risico’s van het heropenen van het Groninger gasveld. Politieke discussies, mede in het licht van geopolitieke spanningen, roepen twijfel op over de hardheid van de sluiting van dat veld, aldus de VRG. 'Heropening van (een deel van) het Groninger gasveld heeft direct consequenties voor de aardbevingsrisico’s en is daarmee direct van invloed op de veiligheid van de kerncentrale.’ Over waterveiligheid schrijft de VRG: ‘Hoewel voor nieuwe kerncentrales doorgaans wordt uitgegaan van een operationele levensduur van ten minste zestig jaar, leert de praktijk dat exploitatieperioden aanzienlijk kunnen worden verlengd. Daardoor is het van belang dat waterveiligheidsmaatregelen niet alleen worden getoetst aan de omstandigheden bij ingebruikname, maar ook aan realistische scenario's voor zeespiegelstijging, bodemdaling en klimaatverandering gedurende de gehele exploitatieperiode.’ Ook provincie en gemeenten schreven brief Vorige maand schreven de provincie Groningen en de gemeenten Eemsdelta en Het Hogeland een brief aan het kabinet . Ze maken daarin bezwaar tegen de manier waarop het Rijk op zoek is naar een locatie voor de kerncentrales. De organisatie maakt zich ook zorgen over de gevolgen van de elektriciteitsvoorziening in Nederland als er iets gebeurt met een kerncentrale. Dertig procent van de elektriciteit in Nederland komt uit de Eemshaven. Bij een kernramp ligt alles in en rond de Eemshaven plat en ‘kan dit leiden tot een permanente onbruikbaarheid van deze energie-infrastructuur’, schrijft Omroep Het Hogeland op basis van de brief. Ook is het risico van schade aan de kerncentrales door aardbevingen onvoldoende onderzocht, vindt de VRG. Die organisatie wijst er verder op dat de Eemshaven een kwetsbaar gebied is: er wordt olie opgeslagen, er is een LNG-terminal, defensie slaat er munitie op en er zijn ferrydiensten naar Borkum en op termijn naar Noorwegen. De VRG stoort zich aan de genoemde betrokkenheid vanuit het kabinet: die zou veel te weinig zijn: ‘Er wordt gesteld dat de veiligheidsregio’s hebben meegewerkt aan het onderzoek. Er heeft één bijeenkomst van circa dertig minuten plaatsgevonden, waarbij de drie veiligheidsregio’s elk vijf tot tien minuten de gelegenheid kregen om knelpunten aan te dragen. Daarna is de Veiligheidsregio Groningen niet betrokken geweest bij het onderzoek. De gesuggereerde medewerking aan het onderzoek staat niet in verhouding tot de daadwerkelijke bijdrage.’ Een definitieve locatiekeuze kan volgens de VRG alleen worden gemaakt als aangetoond wordt dat de fysieke veiligheid van inwoners, werknemers, forensen, toeristen en recreanten niet afneemt door (de bouw van) deze kerncentrales. ‘Op basis van de huidige onderzoeken kan niet worden vastgesteld dat aan deze veiligheidsuitgangspunten wordt voldaan. Het locatie-onderzoek is daarmee niet compleet’, stelt de VRG.",
+    "scraped_at": "2026-10-03T09:01:37.890873Z",
+    "id": "1c9cf7eb17e9b8236eae8ef36ef7d6de26a3e4d322826fb3744678b300f3420d",
+    "canonical_url": "https://www.rtvnoord.nl/politiek/1441714/veiligheidsregio-groningen-nauwelijks-betrokken-bij-onderzoek-naar-locatie-voor-kerncentrales",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De Veiligheidsregio Groningen (VRG) vindt dat er onvoldoende onderzoek gedaan is naar de veiligheidsrisico's die kleven aan de komst van een kerncentrale. Dat schrijft de VRG in een lijst met 22 aandachtspunten aan het kabinet. De aandachtspunten gaan onder andere over omgevingsveiligheid, aardbevingsrisico’s, transportroutes, crisisbeheersing, waterveiligheid en klimaatbestendigheid. De kerncentrales: waar en wanneer? Het Rijk is op zoek naar een locatie voor twee kerncentrales. Na onderzoek zijn er nog twee opties overgebleven: de Eemshaven en Terneuzen in Zeeland. Volgend jaar zal een voorkeursbeslissing worden gemaakt, pas daarna wordt de definitieve locatie bepaald. De VRG wijst bijvoorbeeld op de risico’s van het heropenen van het Groninger gasveld. Politieke discussies, mede in het licht van geopolitieke spanningen, roepen twijfel op over de hardheid van de sluiting van dat veld, aldus de VRG. 'Heropening van (een deel van) het Groninger gasveld heeft direct consequenties voor de aardbevingsrisico’s en is daarmee direct van invloed op de veiligheid van de kerncentrale.’ Over waterveiligheid schrijft de VRG: ‘Hoewel voor nieuwe kerncentrales doorgaans wordt uitgegaan van een operationele levensduur van ten minste zestig jaar, leert de praktijk dat exploitatieperioden aanzienlijk kunnen worden verlengd. Daardoor is het van belang dat waterveiligheidsmaatregelen niet alleen worden getoetst aan de omstandigheden bij ingebruikname, maar ook aan realistische scenario's voor zeespiegelstijging, bodemdaling en klimaatverandering gedurende de gehele exploitatieperiode.’ Ook provincie en gemeenten schreven brief Vorige maand schreven de provincie Groningen en de gemeenten Eemsdelta en Het Hogeland een brief aan het kabinet . Ze maken daarin bezwaar tegen de manier waarop het Rijk op zoek is naar een locatie voor de kerncentrales. De organisatie maakt zich ook zorgen over de gevolgen van de elektriciteitsvoorziening in Nederland als er iets gebeurt met een kerncentrale. Dertig procent van de elektriciteit in Nederland komt uit de Eemshaven. Bij een kernramp ligt alles in en rond de Eemshaven plat en ‘kan dit leiden tot een permanente onbruikbaarheid van deze energie-infrastructuur’, schrijft Omroep Het Hogeland op basis van de brief. Ook is het risico van schade aan de kerncentrales door aardbevingen onvoldoende onderzocht, vindt de VRG. Die organisatie wijst er verder op dat de Eemshaven een kwetsbaar gebied is: er wordt olie opgeslagen, er is een LNG-terminal, defensie slaat er munitie op en er zijn ferrydiensten naar Borkum en op termijn naar Noorwegen. De VRG stoort zich aan de genoemde betrokkenheid vanuit het kabinet: die zou veel te weinig zijn: ‘Er wordt gesteld dat de veiligheidsregio’s hebben meegewerkt aan het onderzoek. Er heeft één bijeenkomst van circa dertig minuten plaatsgevonden, waarbij de drie veiligheidsregio’s elk vijf tot tien minuten de gelegenheid kregen om knelpunten aan te dragen. Daarna is de Veiligheidsregio Groningen niet betrokken geweest bij het onderzoek. De gesuggereerde medewerking aan het onderzoek staat niet in verhouding tot de daadwerkelijke bijdrage.’ Een definitieve locatiekeuze kan volgens de VRG alleen worden gemaakt als aangetoond wordt dat de fysieke veiligheid van inwoners, werknemers, forensen, toeristen en recreanten niet afneemt door (de bouw van) deze kerncentrales. ‘Op basis van de huidige onderzoeken kan niet worden vastgesteld dat aan deze veiligheidsuitgangspunten wordt voldaan. Het locatie-onderzoek is daarmee niet compleet’, stelt de VRG.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Zeeland",
+        "NL"
+      ],
+      [
+        "provincie Groningen",
+        "NL"
+      ],
+      [
+        "Hogeland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Hogeland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "VRG",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG.",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Borkum",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "VRG.",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "dbb541ff0445fe8112a742d9715c6326": {
+    "feed": "Politie.nl",
+    "title": "Man loopt met mes over straat en bedreigt automobilist in Tilburg",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/3/08-man-loopt-met-mes-over-straat-en-bedreigt-automobilist-in-tilburg.html",
+    "published": "Sat, 03 Oct 2026 09:15:00 GMT",
+    "summary": "In de Laarstraat hield de politie zaterdagochtend 3 oktober 2026 een 49-jarige man uit Tilburg aan. De man liep midden op straat en bedreigde korte tijd later een automobilist met een mes.",
+    "full_text": "Agenten zagen de man rond 05.15 uur op de weg lopen. Zij spraken hem aan en vroegen hem op de stoep te gaan lopen. Kort daarna kwam een automobilist aanrijden. De bestuurder probeerde de man veilig te passeren. Plotseling sprong de man voor de auto en trok hij een mes. Via het openstaande raam aan de bestuurderskant bedreigde hij de automobilist met het mes. De agenten grepen direct in. De man richtte zich daarna met het mes op de agenten. Zij gebruikten hun stroomstootwapen om de man onder controle te krijgen. Daarna brachten zij hem naar het politiebureau. De 49-jarige man uit Tilburg zit vast voor verder onderzoek. De automobilist deed aangifte. Waarom de man de automobilist bedreigde, is nog niet bekend.",
+    "scraped_at": "2026-10-03T09:00:38.640667Z",
+    "id": "5a2af67f279cdfea32168ffebf962070413d01ea47c0ed5206fdeecde901ca81",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/3/08-man-loopt-met-mes-over-straat-en-bedreigt-automobilist-in-tilburg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Agenten zagen de man rond 05.15 uur op de weg lopen. Zij spraken hem aan en vroegen hem op de stoep te gaan lopen. Kort daarna kwam een automobilist aanrijden. De bestuurder probeerde de man veilig te passeren. Plotseling sprong de man voor de auto en trok hij een mes. Via het openstaande raam aan de bestuurderskant bedreigde hij de automobilist met het mes. De agenten grepen direct in. De man richtte zich daarna met het mes op de agenten. Zij gebruikten hun stroomstootwapen om de man onder controle te krijgen. Daarna brachten zij hem naar het politiebureau. De 49-jarige man uit Tilburg zit vast voor verder onderzoek. De automobilist deed aangifte. Waarom de man de automobilist bedreigde, is nog niet bekend.",
+    "locations": [
+      "Tilburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Tilburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "76cb9b3427ee36124cb06d44e065ce98": {
+    "feed": "Politie.nl",
+    "title": "Ondermijningsactie in haven Moerdijk",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/2/08-ondermijningsactie-in-haven-moerdijk.html",
+    "published": "Fri, 02 Oct 2026 15:44:00 GMT",
+    "summary": "Een integrale ondermijningsactie in de haven van Moerdijk leidde tot een aantal processen-verbaal en het innen van bijna 11.000 euro aan belastingschuld.",
+    "full_text": "De (Zeehaven)politie hield op donderdag 01 oktober samen met de Douane, de Koninklijke Marechaussee en de Belastingdienst een ondermijningsactie in het havengebied van Moerdijk. Het ging om een dynamische controle, dat betekent dat er niet vanaf één vaste plaats gecontroleerd werd. Verzamelen van informatie Naast het handhaven en repressief optreden, met andere woorden: het aanpakken van overtredingen en misstanden, was de controle ook gericht op het verzamelen van informatie over ondermijnende criminaliteit. Met iedere bestuurder werd, door de verschillende disciplines, een gesprek gevoerd over het doel van het bezoek aan de haven. Ook werden eventuele kwetsbaarheden besproken en er werd duidelijkheid gegeven over de verschillende manieren om melding te maken van bijvoorbeeld verdachte situaties bij de politie. Samenwerkende overheid Als overheid werken we intensief samen om ondermijning in de havens aan te pakken. Tijdens de actie werden er diverse overtredingen en misstanden geconstateerd: Eén bestuurder reed in een voertuig, zonder dat hij in het bezit was van een rijbewijs. Hiervoor kreeg hij een bekeuring. Eén bestuurder vertoonde dusdanig gevaarlijk rijgedrag dat hiervoor proces-verbaal is opgemaakt en er is een vordering gedaan voor het volgen van een rijvaardigheidscursus bij het CBR; Daarnaast zijn er nog 8 processen-verbaal opgemaakt voor uiteenlopende feiten, zoals het vasthouden van een mobiele telefoon tijdens het rijden; In totaal werd er voor 10.780,00 euro aan openstaande belastingschuld betaald; En er werd beslag gelegd op een auto, in verband met een openstaande belastingschuld.",
+    "scraped_at": "2026-10-03T09:00:38.662233Z",
+    "id": "d34d1c6b975c722a1773b53f4707b8ff47b8feb1762de351f9f49d15b16246c7",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/2/08-ondermijningsactie-in-haven-moerdijk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De (Zeehaven)politie hield op donderdag 01 oktober samen met de Douane, de Koninklijke Marechaussee en de Belastingdienst een ondermijningsactie in het havengebied van Moerdijk. Het ging om een dynamische controle, dat betekent dat er niet vanaf één vaste plaats gecontroleerd werd. Verzamelen van informatie Naast het handhaven en repressief optreden, met andere woorden: het aanpakken van overtredingen en misstanden, was de controle ook gericht op het verzamelen van informatie over ondermijnende criminaliteit. Met iedere bestuurder werd, door de verschillende disciplines, een gesprek gevoerd over het doel van het bezoek aan de haven. Ook werden eventuele kwetsbaarheden besproken en er werd duidelijkheid gegeven over de verschillende manieren om melding te maken van bijvoorbeeld verdachte situaties bij de politie. Samenwerkende overheid Als overheid werken we intensief samen om ondermijning in de havens aan te pakken. Tijdens de actie werden er diverse overtredingen en misstanden geconstateerd: Eén bestuurder reed in een voertuig, zonder dat hij in het bezit was van een rijbewijs. Hiervoor kreeg hij een bekeuring. Eén bestuurder vertoonde dusdanig gevaarlijk rijgedrag dat hiervoor proces-verbaal is opgemaakt en er is een vordering gedaan voor het volgen van een rijvaardigheidscursus bij het CBR; Daarnaast zijn er nog 8 processen-verbaal opgemaakt voor uiteenlopende feiten, zoals het vasthouden van een mobiele telefoon tijdens het rijden; In totaal werd er voor 10.780,00 euro aan openstaande belastingschuld betaald; En er werd beslag gelegd op een auto, in verband met een openstaande belastingschuld.",
+    "locations": [
+      "Moerdijk"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Moerdijk",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "69-82",
+      "sector_name": "Business services"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Koninklijke Marechaussee en de",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      },
+      {
+        "company_name": "CBR",
+        "sector_code": "69-82",
+        "sector_name": "Business services",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "69-82"
+    ]
+  },
+  "0f15ed7b60ecee81f6709a4abf52dd48": {
+    "feed": "Politie.nl",
+    "title": "Twee mannen aangehouden voor steekpartij Emmeloord",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/2/03-twee-mannen-aangehouden-voor-steekpartij-emmeloord.html",
+    "published": "Fri, 02 Oct 2026 13:27:00 GMT",
+    "summary": "De politie heeft twee mannen aangehouden voor een steekincident dat plaatsvond op zaterdagnacht 15 augustus in Emmeloord.",
+    "full_text": "In de nacht van vrijdag 14 op zaterdag 15 augustus kreeg de politie rond 00.45 uur een melding van een steekincident op de Lange Nering in Emmeloord. Toen de agenten ter plaatse kwamen, troffen zij een man met verwondingen aan. Het slachtoffer werd door ambulancepersoneel naar het ziekenhuis gebracht. De politie deed onderzoek naar het incident. Uit het onderzoek blijkt dat het slachtoffer al eerder die avond verwond is door mogelijk twee mannen op een andere plek dan waar hij is aangetroffen door de agenten. Het incident heeft zich dus buiten het zomerfeest van Emmeloord afgespeeld dat gaande was die avond. Een man van 26 jaar uit Emmeloord en een man van 23 jaar uit de Noordoostpolder zijn aangehouden. De man van 26 is inmiddels voorgeleid aan  rechter-commissaris. De andere man wordt nog voorgeleid. De politie verwacht niet meer aanhoudingen te doen in dit onderzoek.",
+    "scraped_at": "2026-10-03T09:00:38.663152Z",
+    "id": "0fb2e35d318c19551b0f86dac03993fb6cabd4f5fa56729edfde03488a5834d0",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/2/03-twee-mannen-aangehouden-voor-steekpartij-emmeloord.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In de nacht van vrijdag 14 op zaterdag 15 augustus kreeg de politie rond 00.45 uur een melding van een steekincident op de Lange Nering in Emmeloord. Toen de agenten ter plaatse kwamen, troffen zij een man met verwondingen aan. Het slachtoffer werd door ambulancepersoneel naar het ziekenhuis gebracht. De politie deed onderzoek naar het incident. Uit het onderzoek blijkt dat het slachtoffer al eerder die avond verwond is door mogelijk twee mannen op een andere plek dan waar hij is aangetroffen door de agenten. Het incident heeft zich dus buiten het zomerfeest van Emmeloord afgespeeld dat gaande was die avond. Een man van 26 jaar uit Emmeloord en een man van 23 jaar uit de Noordoostpolder zijn aangehouden. De man van 26 is inmiddels voorgeleid aan  rechter-commissaris. De andere man wordt nog voorgeleid. De politie verwacht niet meer aanhoudingen te doen in dit onderzoek.",
+    "locations": [
+      "Lange"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Lange",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Emmeloord",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Emmeloord",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
   }
 }
