@@ -80868,5 +80868,77 @@
       "00",
       "not_affected"
     ]
+  },
+  "c54aa6c7dc49fa6dacdd0e559b29b7b4": {
+    "feed": "RTV Noord",
+    "title": "Schip uit Delfzijl betrokken bij aanvaring in Noorwegen (update)",
+    "url": "https://www.rtvnoord.nl/112/1441928/schip-uit-delfzijl-betrokken-bij-aanvaring-in-noorwegen-update",
+    "published": "Sun, 04 Oct 2026 07:15:25 GMT",
+    "summary": "Het schip Bergfjord van Royal Wagenborg uit Delfzijl is in de nacht van zaterdag op zondag betrokken geraakt bij een aanvaring in het Valderhaugfjord bij Ålesund in Noorwegen. Er zijn geen slachtoffers gevallen.",
+    "full_text": "Het schip Bergfjord van Royal Wagenborg uit Delfzijl is in de nacht van zaterdag op zondag betrokken geraakt bij een aanvaring in het Valderhaugfjord bij Ålesund in Noorwegen. Er zijn geen slachtoffers gevallen. Op een foto van de Noorse publieke omroep NRK is te zien dat het schip Bergfjord inmiddels is aangemeerd in de haven. De exacte schade aan de Bergfjord moet nog worden vastgesteld, zegt een woordvoerder van Royal Wagenborg tegen het ANP. 'Dat gebeurt in de haven. Er is in elk geval geen sprake van lekkage of schade aan de lading.' Om 01.37 uur kwam het noodsignaal binnen. Een tanker en twee vrachtschepen waren op elkaar gebotst. Onder meer een reddingshelikopter en de Noorse reddingsdienst rukten uit. De bemanning hoefde niet te worden geëvacueerd. Alle drie de schepen zijn volgens de politie beschadigd en een heeft water gemaakt. Update : Dit bericht is in de loop van zondagochtend aangevuld met de reactie van een woordvoerder van Royal Wagenborg.",
+    "scraped_at": "2026-10-05T10:12:11.486018Z",
+    "id": "280784a7b0befed247492b85f786fc87c80904366fa35888c7d100429d246439",
+    "canonical_url": "https://www.rtvnoord.nl/112/1441928/schip-uit-delfzijl-betrokken-bij-aanvaring-in-noorwegen-update",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het schip Bergfjord van Royal Wagenborg uit Delfzijl is in de nacht van zaterdag op zondag betrokken geraakt bij een aanvaring in het Valderhaugfjord bij Ålesund in Noorwegen. Er zijn geen slachtoffers gevallen. Op een foto van de Noorse publieke omroep NRK is te zien dat het schip Bergfjord inmiddels is aangemeerd in de haven. De exacte schade aan de Bergfjord moet nog worden vastgesteld, zegt een woordvoerder van Royal Wagenborg tegen het ANP. 'Dat gebeurt in de haven. Er is in elk geval geen sprake van lekkage of schade aan de lading.' Om 01.37 uur kwam het noodsignaal binnen. Een tanker en twee vrachtschepen waren op elkaar gebotst. Onder meer een reddingshelikopter en de Noorse reddingsdienst rukten uit. De bemanning hoefde niet te worden geëvacueerd. Alle drie de schepen zijn volgens de politie beschadigd en een heeft water gemaakt. Update : Dit bericht is in de loop van zondagochtend aangevuld met de reactie van een woordvoerder van Royal Wagenborg.",
+    "locations": [
+      "Delfzijl"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Delfzijl",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NRK",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bergfjord",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bergfjord",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Royal Wagenborg",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "ANP",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Royal Wagenborg",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
