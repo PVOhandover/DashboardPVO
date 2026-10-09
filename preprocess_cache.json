@@ -81833,5 +81833,268 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "15eb9ecbcf43b4881e7c8deee5b8e676": {
+    "feed": "L1 Nieuws",
+    "title": "Nepagent pint 4700 euro met bankpas van 62-jarig slachtoffer uit Heerlen",
+    "url": "https://www.l1nieuws.nl/nieuws/3253069/nepagent-pint-4700-euro-met-bankpas-van-62-jarig-slachtoffer-uit-heerlen",
+    "published": "Thu, 08 Oct 2026 10:05:40 GMT",
+    "summary": "Een 62-jarige man uit Heerlen is vorige maand slachtoffer geworden van een oplichter. Een jongeman deed zich voor als agent en wist onder meer de pinpas van de man te ontfutselen. Hij pinde bij verschillende geldautomaten in totaal 4700 euro.",
+    "full_text": "Een 62-jarige man uit Heerlen is vorige maand slachtoffer geworden van een oplichter. Een jongeman deed zich voor als agent en wist onder meer de pinpas van de man te ontfutselen. Hij pinde bij verschillende geldautomaten in totaal 4700 euro. De verdachte nam daarnaast een gouden ketting en een telefoon mee. Het slachtoffer werd op 11 september gebeld door iemand die zich voordeed als politieagent. Met deze babbeltruc willen criminelen het vertrouwen van mensen winnen. Ze proberen zo waardevolle spullen, geld of bankgegevens te stelen. Kort na het telefoontje stond de verdachte voor de deur. Hij kreeg onder meer de bankpas met pincode mee. Bij geldautomaten in Heerlen, Brunssum en Sittard pinde hij in totaal 4700 euro van de rekening van het slachtoffer. Bij de pinautomaten is het gezicht van de verdachte goed herkenbaar op beeld gezet. De politie toont nu geblurde foto's van de man. Hij krijgt twee weken de tijd om zichzelf te melden. \"Doet hij dat niet, dan tonen we het gezicht binnenkort herkenbaar\", belooft de politie. Het gaat om een jongeman van zo'n 18 tot 20 jaar, 1.60 meter lang, lichte huidskleur en halflang haar. De laatste tijd zijn er vaker jonge mannen opgepakt die als nepagent langs de deuren gingen. Zo liepen de afgelopen tijd twee 16-jarige jongens tegen de lamp. Eentje meldde zichzelf bij de politie nadat zijn foto's waren gepubliceerd. Deze jongen uit Duivendrecht had een 72-jarige vrouw uit Geleen opgelicht. Eind september werd eveneens een 16-jarige jongen aangehouden. Hij zou betrokken zijn bij meerdere zaken in Limburg. De politie heeft in de zomermaanden 31 nepagenten aangehouden.",
+    "scraped_at": "2026-10-09T10:16:38.120316Z",
+    "id": "036185fb8743148448cc24ceaa72a779dafa738ab50eed6a12a8e4db48d668c5",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3253069/nepagent-pint-4700-euro-met-bankpas-van-62-jarig-slachtoffer-uit-heerlen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een 62-jarige man uit Heerlen is vorige maand slachtoffer geworden van een oplichter. Een jongeman deed zich voor als agent en wist onder meer de pinpas van de man te ontfutselen. Hij pinde bij verschillende geldautomaten in totaal 4700 euro. De verdachte nam daarnaast een gouden ketting en een telefoon mee. Het slachtoffer werd op 11 september gebeld door iemand die zich voordeed als politieagent. Met deze babbeltruc willen criminelen het vertrouwen van mensen winnen. Ze proberen zo waardevolle spullen, geld of bankgegevens te stelen. Kort na het telefoontje stond de verdachte voor de deur. Hij kreeg onder meer de bankpas met pincode mee. Bij geldautomaten in Heerlen, Brunssum en Sittard pinde hij in totaal 4700 euro van de rekening van het slachtoffer. Bij de pinautomaten is het gezicht van de verdachte goed herkenbaar op beeld gezet. De politie toont nu geblurde foto's van de man. Hij krijgt twee weken de tijd om zichzelf te melden. \"Doet hij dat niet, dan tonen we het gezicht binnenkort herkenbaar\", belooft de politie. Het gaat om een jongeman van zo'n 18 tot 20 jaar, 1.60 meter lang, lichte huidskleur en halflang haar. De laatste tijd zijn er vaker jonge mannen opgepakt die als nepagent langs de deuren gingen. Zo liepen de afgelopen tijd twee 16-jarige jongens tegen de lamp. Eentje meldde zichzelf bij de politie nadat zijn foto's waren gepubliceerd. Deze jongen uit Duivendrecht had een 72-jarige vrouw uit Geleen opgelicht. Eind september werd eveneens een 16-jarige jongen aangehouden. Hij zou betrokken zijn bij meerdere zaken in Limburg. De politie heeft in de zomermaanden 31 nepagenten aangehouden.",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Heerlen",
+        "NL"
+      ],
+      [
+        "Brunssum",
+        "NL"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Eentje",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "19f84920b2a8a06a720ba8cfcbf8085a": {
+    "feed": "RTV Noord",
+    "title": "Oogfonds meet 50.000 kinderogen in strijd tegen bijziendheid, Groningen trapt af",
+    "url": "https://www.rtvnoord.nl/zorg/1443018/oogfonds-meet-50000-kinderogen-in-strijd-tegen-bijziendheid-groningen-trapt-af",
+    "published": "Thu, 08 Oct 2026 15:16:14 GMT",
+    "summary": "Het Oogfonds slaat alarm: steeds meer Nederlandse kinderen zijn bijziend. Daarom gaat het fonds de komende jaren voorlichting geven op scholen en de ogen van 50.000 kinderen meten. Donderdagochtend beten leerlingen van basisschool De Sterrensteen in Stad het spits af.",
+    "full_text": "Het Oogfonds slaat alarm: steeds meer Nederlandse kinderen zijn bijziend. Daarom gaat het fonds de komende jaren voorlichting geven op scholen en de ogen van 50.000 kinderen meten. Donderdagochtend beten leerlingen van basisschool De Sterrensteen in Stad het spits af. Kort na de bel was de officiële aftrap van de Oogfonds Schooltour bij groep 5 van De Sterrensteen. 'Het is een tour waarin we de komende jaren naar zoveel mogelijk basisscholen in Nederland gaan om kinderogen te meten en voorlichting te geven over de 20-20-2-regel', vertelt Meta Neeleman van het Oogfonds. 'Dat is een regel die helpt om bijziendheid te voorkomen', legt Neeleman uit. 'De 20-20-2-regel is dat het verstandig is dat je na iedere 20 minuten dichtbij kijken even 20 seconden in de verte kijkt.' En de 2? 'Die staat voor twee uur per dag naar buiten.' De regel is bedacht omdat het niet gezond is voor je ogen om lange tijd dichtbij te kijken, vervolgt Neeleman, zoals op mobiele telefoons of tablets. 'Maar ook heel lang in een boek lezen zonder pauze is vermoeiend voor je ogen en kan bijziendheid bevorderen.' Bij bijziendheid zie je dichtbij scherp, maar in de verte wazig. Daardoor zie je bijvoorbeeld verkeersborden of ondertitels op tv niet scherp. Naast slechter zien op afstand zijn bijvoorbeeld vermoeidheid en hoofdpijn andere klachten die door bijziendheid veroorzaakt kunnen worden. Het Oogfonds maakt zich zorgen over de toename van bijziendheid onder kinderen. Volgens Neeleman heeft dat de toename onder andere te maken met beeldschermgebruik, maar ook met te weinig buitenspelen. 'Want daglicht is enorm belangrijk voor gezonde ogen.' Hoewel de klachten ogenschijnlijk eenvoudig zijn op te lossen met een bril, benadrukt Neeleman de gevolgen op de langere termijn. 'Je kunt een bril opzetten en dan ziet het kind weer scherp, maar het oog blijft bijziend. En op latere leeftijd, zeker als bijziendheid toeneemt, kan dat tot enorme klachten leiden, zelfs tot blindheid en slechtziendheid.' En dus reist het Oogfonds het hele land door om de bewustwording te vergroten. De data uit de oogmetingen wordt gebruikt voor wetenschappelijk onderzoek naar bijziendheid onder kinderen. Directeur Robin Beugelink van De Sterrensteen is dan ook blij dat de school in Vinkhuizen zijn steentje bij kan dragen. Volgens hem kunnen de ogen een bepalende rol spelen in de klas, bijvoorbeeld bij problemen met lezen. 'Soms constateer je gewoon dat een kind iets niet kan zien', zegt hij. 'Dan kunnen we heel hoog of laag springen met elkaar, maar dan hebben we wat met de ogen te doen.' Ondertussen wordt er druk gemeten op school. Jeffrey uit groep 5 vond het maar een rare ervaring met het meetapparaat. 'Ik zag wat, en daar moest ik de hele tijd naar blijven kijken zonder te knipperen', zegt hij. Dat doe ik bijna nooit, ik knipper heel vaak.' Waarvoor hij precies gemeten moest worden is hij even vergeten, maar de 20-20-2-regel heeft hij (bijna) goed onthouden. 'Twintig minuten achter je beeld, dan twintig seconden ergens anders kijken en daarna twee uur buiten spelen!'",
+    "scraped_at": "2026-10-09T10:18:17.819057Z",
+    "id": "9282e932152aaab36bbf68c71fda7d2fe2e66abafa6b54b195efa277321dd035",
+    "canonical_url": "https://www.rtvnoord.nl/zorg/1443018/oogfonds-meet-50000-kinderogen-in-strijd-tegen-bijziendheid-groningen-trapt-af",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het Oogfonds slaat alarm: steeds meer Nederlandse kinderen zijn bijziend. Daarom gaat het fonds de komende jaren voorlichting geven op scholen en de ogen van 50.000 kinderen meten. Donderdagochtend beten leerlingen van basisschool De Sterrensteen in Stad het spits af. Kort na de bel was de officiële aftrap van de Oogfonds Schooltour bij groep 5 van De Sterrensteen. 'Het is een tour waarin we de komende jaren naar zoveel mogelijk basisscholen in Nederland gaan om kinderogen te meten en voorlichting te geven over de 20-20-2-regel', vertelt Meta Neeleman van het Oogfonds. 'Dat is een regel die helpt om bijziendheid te voorkomen', legt Neeleman uit. 'De 20-20-2-regel is dat het verstandig is dat je na iedere 20 minuten dichtbij kijken even 20 seconden in de verte kijkt.' En de 2? 'Die staat voor twee uur per dag naar buiten.' De regel is bedacht omdat het niet gezond is voor je ogen om lange tijd dichtbij te kijken, vervolgt Neeleman, zoals op mobiele telefoons of tablets. 'Maar ook heel lang in een boek lezen zonder pauze is vermoeiend voor je ogen en kan bijziendheid bevorderen.' Bij bijziendheid zie je dichtbij scherp, maar in de verte wazig. Daardoor zie je bijvoorbeeld verkeersborden of ondertitels op tv niet scherp. Naast slechter zien op afstand zijn bijvoorbeeld vermoeidheid en hoofdpijn andere klachten die door bijziendheid veroorzaakt kunnen worden. Het Oogfonds maakt zich zorgen over de toename van bijziendheid onder kinderen. Volgens Neeleman heeft dat de toename onder andere te maken met beeldschermgebruik, maar ook met te weinig buitenspelen. 'Want daglicht is enorm belangrijk voor gezonde ogen.' Hoewel de klachten ogenschijnlijk eenvoudig zijn op te lossen met een bril, benadrukt Neeleman de gevolgen op de langere termijn. 'Je kunt een bril opzetten en dan ziet het kind weer scherp, maar het oog blijft bijziend. En op latere leeftijd, zeker als bijziendheid toeneemt, kan dat tot enorme klachten leiden, zelfs tot blindheid en slechtziendheid.' En dus reist het Oogfonds het hele land door om de bewustwording te vergroten. De data uit de oogmetingen wordt gebruikt voor wetenschappelijk onderzoek naar bijziendheid onder kinderen. Directeur Robin Beugelink van De Sterrensteen is dan ook blij dat de school in Vinkhuizen zijn steentje bij kan dragen. Volgens hem kunnen de ogen een bepalende rol spelen in de klas, bijvoorbeeld bij problemen met lezen. 'Soms constateer je gewoon dat een kind iets niet kan zien', zegt hij. 'Dan kunnen we heel hoog of laag springen met elkaar, maar dan hebben we wat met de ogen te doen.' Ondertussen wordt er druk gemeten op school. Jeffrey uit groep 5 vond het maar een rare ervaring met het meetapparaat. 'Ik zag wat, en daar moest ik de hele tijd naar blijven kijken zonder te knipperen', zegt hij. Dat doe ik bijna nooit, ik knipper heel vaak.' Waarvoor hij precies gemeten moest worden is hij even vergeten, maar de 20-20-2-regel heeft hij (bijna) goed onthouden. 'Twintig minuten achter je beeld, dan twintig seconden ergens anders kijken en daarna twee uur buiten spelen!'",
+    "locations": [
+      "Vinkhuizen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Vinkhuizen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Donderdagochtend",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Oogfonds Schooltour",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meta Neeleman",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Neeleman",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Neeleman",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Neeleman",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Robin Beugelink van De Sterrensteen",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Jeffrey",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Twintig",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62",
+      "not_affected"
+    ]
+  },
+  "fdc4df4022b1a88f27db48df3a2f9ecd": {
+    "feed": "Politie.nl",
+    "title": "Politie lanceert campagne om te voorkomen dat jongeren cybercrime plegen",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/8/11-politie-lanceert-campagne-om-te-voorkomen-dat-jongeren-cybercrime-plegen.html",
+    "published": "Thu, 08 Oct 2026 15:00:00 GMT",
+    "summary": "Voor jongeren met digitale skills is de drempel laag om in de wereld van cybercrime te stappen. Om te waarschuwen voor de gevaren en gevolgen, heeft de politie een daderpreventiecampagne gelanceerd. De campagnevideo’s worden in maar liefst zestien landen getoond op YouTube, Instagram en Snapchat.",
+    "full_text": "Twee jongens kijken fanatiek naar hun beeldscherm. Vanuit hun eigen slaapkamer spelen ze een shooter game tegen elkaar. De een steekt op een gegeven moment zijn vuist in de lucht om de overwinning te vieren. De andere baalt als een stekker van het verlies. Vol frustratie voert hij vervolgens een DDoS aanval uit. Zijn cyberaanval legt vervolgens winkels, grote bedrijven en ziekenhuizen plat. Niet veel later ziet hij door de gordijnen de zwaailichten van een politieauto oplichten. De boodschap: ‘DDOS-aanvallen zijn illegaal en hebben consequenties. Kies het juiste pad’. Het is een scene uit een van de twee video’s die wereldwijd zijn gelanceerd om te voorkomen dat jongeren online de verkeerde afslag nemen naar cybercriminaliteit. Van Finland tot Brazilië en van Hongarije tot Australië worden jongeren op deze manier gewaarschuwd. ‘Dit gebeurt online veel te weinig’, zegt projectleider Maurice van der Stoel. Hij is interventiespecialist bij de Cyber Offender Prevention Squad van de Eenheid Landelijke Opsporing en Interventies. ‘Offline wordt bij jongeren continu een norm gesteld. Als een kind iemand duwt, krijgt diegene te horen dat het niet mag en dat er een straf volgt als het nog een keer gebeurt. In de online wereld vindt dit zelden plaats, dus weten jongeren niet wat de norm is en al helemaal niet wat de consequenties zijn.’ Minder cyberaanvallen De drempel is dus erg laag om het verkeerde pad op te gaan. Van der Stoel: ‘Op Google kun je eenvoudig vinden wat ervoor nodig is om een DDOS-aanval uit te voeren. Het is onze taak als politie om jongeren niet alleen te waarschuwen voor de gevolgen als ze slachtoffer worden van cybercrime, maar ook als ze zelf de dader zijn. Deze preventiecampagne moet zorgen voor minder cyberaanvallen door jongeren.’ In het Verenigd Koninkrijk hebben ze daar ervaring mee. Na een vergelijkbare advertentiecampagne in 2018 deed de Universiteit van Cambridge onderzoek naar het effect daarvan. De uitkomst: er was een correlatie tussen de preventieve video voor jongeren en het dalende aantal DDOS-aanvallen in Engeland. ‘Ook wij voeren een wetenschappelijke data-analyse uit’, aldus Van der Stoel. ‘Daarbij kijken we niet alleen naar het effect in de landen die meedoen, maar ook naar de cijfers in landen die niet bij dit initiatief zijn aangesloten.’ InterCOP Omdat cybercrime geen landsgrenzen kent, heeft de Nederlandse politie InterCOP, het International Cyber Offender Prevention Network, opgericht, dat inmiddels 44 leden telt. Binnen het netwerk zijn zo veel mogelijk andere landen benaderd om mee te doen. ‘We hebben gebruikgemaakt van AI om het project schaalbaar te maken. De video’s zijn gemaakt met behulp van kunstmatige intelligentie. De basis is Engels, maar in elk land worden de video’s in hun eigen taal afgespeeld. Op die manier kunnen we de interventie veel breder en effectiever inzetten.’ De campagne wordt medegefinancierd door de Europese Unie. Naast de preventieve boodschap voor jongeren heeft de campagne nog een ander doel. Van der Stoel: ‘Big tech-bedrijven hebben de verantwoordelijkheid om hun platforms te screenen op illegale content. Het is nu veel te gemakkelijk om informatie te vinden over hoe je cybercriminaliteit kunt plegen. Die barrière moet veel hoger worden. We willen nogmaals in gesprek met bedrijven zoals Google om dergelijke informatie te verwijderen. In onze strijd tegen cybercrime hebben we hen hard nodig, net als gemeentes, scholen, ouders, opa’s en oma’s, noem maar op. Alleen samen kunnen we onze jongeren beschermen.’",
+    "scraped_at": "2026-10-09T10:16:09.831171Z",
+    "id": "3d3193ce392529baba1c6691f99396356ce55828787f52601c94acdd3219c7e5",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/8/11-politie-lanceert-campagne-om-te-voorkomen-dat-jongeren-cybercrime-plegen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Twee jongens kijken fanatiek naar hun beeldscherm. Vanuit hun eigen slaapkamer spelen ze een shooter game tegen elkaar. De een steekt op een gegeven moment zijn vuist in de lucht om de overwinning te vieren. De andere baalt als een stekker van het verlies. Vol frustratie voert hij vervolgens een DDoS aanval uit. Zijn cyberaanval legt vervolgens winkels, grote bedrijven en ziekenhuizen plat. Niet veel later ziet hij door de gordijnen de zwaailichten van een politieauto oplichten. De boodschap: ‘DDOS-aanvallen zijn illegaal en hebben consequenties. Kies het juiste pad’. Het is een scene uit een van de twee video’s die wereldwijd zijn gelanceerd om te voorkomen dat jongeren online de verkeerde afslag nemen naar cybercriminaliteit. Van Finland tot Brazilië en van Hongarije tot Australië worden jongeren op deze manier gewaarschuwd. ‘Dit gebeurt online veel te weinig’, zegt projectleider Maurice van der Stoel. Hij is interventiespecialist bij de Cyber Offender Prevention Squad van de Eenheid Landelijke Opsporing en Interventies. ‘Offline wordt bij jongeren continu een norm gesteld. Als een kind iemand duwt, krijgt diegene te horen dat het niet mag en dat er een straf volgt als het nog een keer gebeurt. In de online wereld vindt dit zelden plaats, dus weten jongeren niet wat de norm is en al helemaal niet wat de consequenties zijn.’ Minder cyberaanvallen De drempel is dus erg laag om het verkeerde pad op te gaan. Van der Stoel: ‘Op Google kun je eenvoudig vinden wat ervoor nodig is om een DDOS-aanval uit te voeren. Het is onze taak als politie om jongeren niet alleen te waarschuwen voor de gevolgen als ze slachtoffer worden van cybercrime, maar ook als ze zelf de dader zijn. Deze preventiecampagne moet zorgen voor minder cyberaanvallen door jongeren.’ In het Verenigd Koninkrijk hebben ze daar ervaring mee. Na een vergelijkbare advertentiecampagne in 2018 deed de Universiteit van Cambridge onderzoek naar het effect daarvan. De uitkomst: er was een correlatie tussen de preventieve video voor jongeren en het dalende aantal DDOS-aanvallen in Engeland. ‘Ook wij voeren een wetenschappelijke data-analyse uit’, aldus Van der Stoel. ‘Daarbij kijken we niet alleen naar het effect in de landen die meedoen, maar ook naar de cijfers in landen die niet bij dit initiatief zijn aangesloten.’ InterCOP Omdat cybercrime geen landsgrenzen kent, heeft de Nederlandse politie InterCOP, het International Cyber Offender Prevention Network, opgericht, dat inmiddels 44 leden telt. Binnen het netwerk zijn zo veel mogelijk andere landen benaderd om mee te doen. ‘We hebben gebruikgemaakt van AI om het project schaalbaar te maken. De video’s zijn gemaakt met behulp van kunstmatige intelligentie. De basis is Engels, maar in elk land worden de video’s in hun eigen taal afgespeeld. Op die manier kunnen we de interventie veel breder en effectiever inzetten.’ De campagne wordt medegefinancierd door de Europese Unie. Naast de preventieve boodschap voor jongeren heeft de campagne nog een ander doel. Van der Stoel: ‘Big tech-bedrijven hebben de verantwoordelijkheid om hun platforms te screenen op illegale content. Het is nu veel te gemakkelijk om informatie te vinden over hoe je cybercriminaliteit kunt plegen. Die barrière moet veel hoger worden. We willen nogmaals in gesprek met bedrijven zoals Google om dergelijke informatie te verwijderen. In onze strijd tegen cybercrime hebben we hen hard nodig, net als gemeentes, scholen, ouders, opa’s en oma’s, noem maar op. Alleen samen kunnen we onze jongeren beschermen.’",
+    "locations": [
+      "Verenigd Koninkrijk hebben ze"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Engeland",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Vol",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Van Finland",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Maurice van der Stoel",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Universiteit van Cambridge",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Van der Stoel",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Van der Stoel",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "8902c1bf39fe24290ad08ab1a7290fd2": {
+    "feed": "Politie.nl",
+    "title": "Politie haalt malafide proxydienst offline",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/8/04-politie-haalt-malafide-proxydienst-offline.html",
+    "published": "Thu, 08 Oct 2026 13:06:00 GMT",
+    "summary": "Deze week heeft de politie servers offline gehaald waarop een malafide proxydienst draaide. Door middel van deze dienst konden criminelen misbruik maken van de IP-adressen van onschuldige burgers en bedrijven.",
+    "full_text": "Wat is een proxydienst? Met een proxydienst kun je het internet opgaan via een ander IP-adres dan jouw eigen IP-adres. Dat is handig als je waarde hecht aan je privacy. Criminelen kunnen zich op die manier afschermen en niet-herleidbaar met online criminaliteit bezighouden. Honderden Nederlandse computers Het onderzoek van Team Cybercrime Noord-Holland richtte zich op een proxydienst die bestond uit een wereldwijd netwerk van bijna 178.000 met malware geïnfecteerde apparaten. Honderden daarvan bevonden zich in Nederland. Gebruikers van de dienst konden via deze apparaten verbinding maken met het internet, zonder dat de eigenaar zich daarvan bewust was. Dit betekent dat als criminelen de dienst zouden gebruiken bij het plegen van online criminaliteit, de IP-adressen van onschuldige burgers en bedrijven onterecht als verdacht zouden kunnen worden aangemerkt in opsporingsonderzoeken. Om dit te voorkomen heeft de politie deze week bij diverse hostingpartijen - servers offline gehaald. De komende tijd volgen er mogelijk meer. Brede bestrijding Cybercrime wordt niet alleen bestreden door opsporing en vervolging. Door data bij elkaar te brengen en te analyseren en door (inter)nationaal samen te werken, verstoort de politie de werkprocessen van cybercriminelen om slachtoffers te voorkomen.",
+    "scraped_at": "2026-10-09T10:16:09.831877Z",
+    "id": "8eb5ff901b0d480d1f483d659e6efa743a5683ecd8ef4a9554134de5ba486b82",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/8/04-politie-haalt-malafide-proxydienst-offline.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Wat is een proxydienst? Met een proxydienst kun je het internet opgaan via een ander IP-adres dan jouw eigen IP-adres. Dat is handig als je waarde hecht aan je privacy. Criminelen kunnen zich op die manier afschermen en niet-herleidbaar met online criminaliteit bezighouden. Honderden Nederlandse computers Het onderzoek van Team Cybercrime Noord-Holland richtte zich op een proxydienst die bestond uit een wereldwijd netwerk van bijna 178.000 met malware geïnfecteerde apparaten. Honderden daarvan bevonden zich in Nederland. Gebruikers van de dienst konden via deze apparaten verbinding maken met het internet, zonder dat de eigenaar zich daarvan bewust was. Dit betekent dat als criminelen de dienst zouden gebruiken bij het plegen van online criminaliteit, de IP-adressen van onschuldige burgers en bedrijven onterecht als verdacht zouden kunnen worden aangemerkt in opsporingsonderzoeken. Om dit te voorkomen heeft de politie deze week bij diverse hostingpartijen - servers offline gehaald. De komende tijd volgen er mogelijk meer. Brede bestrijding Cybercrime wordt niet alleen bestreden door opsporing en vervolging. Door data bij elkaar te brengen en te analyseren en door (inter)nationaal samen te werken, verstoort de politie de werkprocessen van cybercriminelen om slachtoffers te voorkomen.",
+    "locations": [
+      "Noord-Holland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Noord-Holland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Team Cybercrime",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
