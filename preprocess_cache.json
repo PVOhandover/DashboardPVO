@@ -82300,5 +82300,109 @@
     "all_sectors_in_article": [
       "56.3"
     ]
+  },
+  "b1868d6cfc7a8920f7f2d4d0bc5eb77d": {
+    "feed": "L1 Nieuws",
+    "title": "Politie en Discriminatie.nl Limburg: 'Verharding tegen LHBTIQA+ in onze provincie'",
+    "url": "https://www.l1nieuws.nl/nieuws/3254055/politie-en-discriminatienl-limburg-verharding-tegen-lhbtiqa-in-onze-provincie",
+    "published": "Sun, 11 Oct 2026 05:00:00 GMT",
+    "summary": "Discriminatie tegen de LHBTIQA+-gemeenschap in Limburg lijkt steeds verder te verharden. Dat melden de Limburgse politie en Discriminatie.nl Limburg.",
+    "full_text": "Meldingen in Limburg Bovenstaande cijfers hebben betrekking tot het totaal aantal meldingen door inwoners van de bij Discriminatie.nl Limburg aangesloten gemeenten. Die meldingen gaan over discriminatie waar zij mee te maken kregen in Limburg of elders in het land. Er zijn ook cijfers van voorvallen die juist alleen binnen de Limburgse provinciegrenzen plaatsvonden. Die meldingen kunnen gemaakt zijn door inwoners van de aangesloten Limburgse gemeenten, of door mensen die van buiten de provincie komen. In dit geval gaat het om 63 meldingen in 2024 en 82 in 2025. In 2026 zijn er tot 6 oktober 49 meldingen van discriminatie richting LHBTIQA+ in Limburg. In Limburg zijn alleen de volgende gemeenten niet aangesloten bij Discriminatie.nl Limburg: Gennep, Horst aan de Maas, Mook en Middelaar en Venray. Die gemeenten hebben zelf een meldpunt voor discriminatie. Ook de politie ontvangt meldingen van discriminatie. Hoewel de organisaties samenwerken, zijn de cijfers van Discriminatie.nl en de politie gebaseerd op verschillende registratiebronnen en werkwijzen en daarom niet rechtstreeks met elkaar te vergelijken. Volgens de politie is er de afgelopen maanden geen directe stijging te zien in het aantal meldingen van discriminatie van LHBTIQA+ in Limburg. 💬 WhatsApp ons! Heb jij een tip of opmerking voor de redactie? Stuur ons een bericht via WhatsApp of stuur een mail naar redactie@l1.nl !",
+    "scraped_at": "2026-10-11T09:49:58.106251Z",
+    "id": "68333fda10da1a017d74a9bd22b825fd47acbb5a78ec76a2201dd3dbb3ef3c3b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3254055/politie-en-discriminatienl-limburg-verharding-tegen-lhbtiqa-in-onze-provincie",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Meldingen in Limburg Bovenstaande cijfers hebben betrekking tot het totaal aantal meldingen door inwoners van de bij Discriminatie.nl Limburg aangesloten gemeenten. Die meldingen gaan over discriminatie waar zij mee te maken kregen in Limburg of elders in het land. Er zijn ook cijfers van voorvallen die juist alleen binnen de Limburgse provinciegrenzen plaatsvonden. Die meldingen kunnen gemaakt zijn door inwoners van de aangesloten Limburgse gemeenten, of door mensen die van buiten de provincie komen. In dit geval gaat het om 63 meldingen in 2024 en 82 in 2025. In 2026 zijn er tot 6 oktober 49 meldingen van discriminatie richting LHBTIQA+ in Limburg. In Limburg zijn alleen de volgende gemeenten niet aangesloten bij Discriminatie.nl Limburg: Gennep, Horst aan de Maas, Mook en Middelaar en Venray. Die gemeenten hebben zelf een meldpunt voor discriminatie. Ook de politie ontvangt meldingen van discriminatie. Hoewel de organisaties samenwerken, zijn de cijfers van Discriminatie.nl en de politie gebaseerd op verschillende registratiebronnen en werkwijzen en daarom niet rechtstreeks met elkaar te vergelijken. Volgens de politie is er de afgelopen maanden geen directe stijging te zien in het aantal meldingen van discriminatie van LHBTIQA+ in Limburg. 💬 WhatsApp ons! Heb jij een tip of opmerking voor de redactie? Stuur ons een bericht via WhatsApp of stuur een mail naar redactie@l1.nl !",
+    "locations": [
+      "Limburg"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ],
+      [
+        "Limburg",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Mook",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Discriminatie.nl",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "10058b2f69c61b4048d982dfb46d0e53": {
+    "feed": "Politie.nl",
+    "title": "Politie zoekt getuigen na brandstichting spoor Schuttevaerweg",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/10/07-politie-zoekt-getuigen-na-brandstichting-schuttevaerweg.html",
+    "published": "Sat, 10 Oct 2026 11:27:00 GMT",
+    "summary": "Vannacht is er brand geweest aan het spoor bij de Schuttevaerweg. Er is een onderzoek gestart en de politie roept getuigen op om beelden of andere informatie met ons te delen.",
+    "full_text": "Het was in de nacht van vrijdag op zaterdag iets voor 4.00 uur dat de brand aan electriciteitsdraden in een ondergrondse ruimte werd ontdekt. De brandweer bluste de brand. Er is een onderzoek gestart door de recherche en de Forensische Opsporing van de politie. Er worden onder andere camerabeelden veiliggesteld en bekeken. Er is niemand gewond geraakt. De NS en ProRail geven aan dat het herstel enige tijd gaat duren. Het treinverkeer van Rotterdam richting Delft (campus) en viceversa ligt sowieso vandaag stil.",
+    "scraped_at": "2026-10-11T09:49:52.961861Z",
+    "id": "e82107f0d3c32bf7bf5b87e5672179804e46c2b2fb4443705615ac6fab7f1cf2",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/10/07-politie-zoekt-getuigen-na-brandstichting-schuttevaerweg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het was in de nacht van vrijdag op zaterdag iets voor 4.00 uur dat de brand aan electriciteitsdraden in een ondergrondse ruimte werd ontdekt. De brandweer bluste de brand. Er is een onderzoek gestart door de recherche en de Forensische Opsporing van de politie. Er worden onder andere camerabeelden veiliggesteld en bekeken. Er is niemand gewond geraakt. De NS en ProRail geven aan dat het herstel enige tijd gaat duren. Het treinverkeer van Rotterdam richting Delft (campus) en viceversa ligt sowieso vandaag stil.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Delft",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
