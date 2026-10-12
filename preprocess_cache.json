@@ -82404,5 +82404,60 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "233e4406c6b75a5fab84c5d9c1facc01": {
+    "feed": "Politie.nl",
+    "title": "Twee mannen aangehouden voor betrokkenheid dodelijk schietincident in Nijmegen",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/12/twee-mannen-aangehouden-voor-betrokkenheid-dodelijk-schietincident-in-nijmegen.html",
+    "published": "Mon, 12 Oct 2026 12:10:00 GMT",
+    "summary": "De politie heeft op maandag 12 oktober twee mannen aangehouden voor betrokkenheid bij het dodelijke schietincident aan de Graafseweg in Nijmegen op dinsdag 21 juli. Hierbij kwam een 18-jarige man uit Rotterdam om het leven. De verdachten zijn mannen van 19 jaar uit Amsterdam en 21 jaar uit Hoorn.",
+    "full_text": "Op dinsdag 21 juli kwam er om 22.00 uur een melding van een schietincident binnen bij de meldkamer van de politie. Ter plaatse troffen collega’s een gewond slachtoffer. Er is eerste hulpverleend en het slachtoffer is overgebracht naar het ziekenhuis. Daar is hij helaas overleden. Wat doet het Team Grootschalig Opsporing? Een Team Grootschalige Opsporing van de politie deed onderzoek naar het schietincident en wat hieraan vooraf is gegaan. Dit heeft nu geresulteerd in twee aanhoudingen. De verdachten zullen worden verhoord. De aanleiding van het schietincident is nog steeds onderdeel van het onderzoek en dat maakt dat we hier op dit moment niet meer over kunnen delen. Eerdere aanhouding Op de avond van het schietincident werd een 18-jarige man uit Rotterdam aangehouden. Hij werd een dag later, op 22 juli, heengezonden. Hij is geen verdachte meer in dit onderzoek. Heb je informatie over het schietincident? De afgelopen maanden heeft het onderzoek naar het schietincident niet stilgelegen. Ondanks dat de politie nu twee verdachten heeft aangehouden, gaat het onderzoek verder. Dat betekent dat de politie uw hulp nog goed kan gebruiken. Heeft u informatie over deze zaak en heeft u nog niet met ons gesproken? Neem dan contact met ons op. Dat kan via 0800 6070. Wilt u liever anoniem blijven? Bel dan met Meld Misdaad Anoniem via 0800 7000.",
+    "scraped_at": "2026-10-12T10:28:19.348762Z",
+    "id": "5cd8943a60ee426a18234f64ef243b0e899067c09fa85c03ff744131c6ec0f11",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/12/twee-mannen-aangehouden-voor-betrokkenheid-dodelijk-schietincident-in-nijmegen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op dinsdag 21 juli kwam er om 22.00 uur een melding van een schietincident binnen bij de meldkamer van de politie. Ter plaatse troffen collega’s een gewond slachtoffer. Er is eerste hulpverleend en het slachtoffer is overgebracht naar het ziekenhuis. Daar is hij helaas overleden. Wat doet het Team Grootschalig Opsporing? Een Team Grootschalige Opsporing van de politie deed onderzoek naar het schietincident en wat hieraan vooraf is gegaan. Dit heeft nu geresulteerd in twee aanhoudingen. De verdachten zullen worden verhoord. De aanleiding van het schietincident is nog steeds onderdeel van het onderzoek en dat maakt dat we hier op dit moment niet meer over kunnen delen. Eerdere aanhouding Op de avond van het schietincident werd een 18-jarige man uit Rotterdam aangehouden. Hij werd een dag later, op 22 juli, heengezonden. Hij is geen verdachte meer in dit onderzoek. Heb je informatie over het schietincident? De afgelopen maanden heeft het onderzoek naar het schietincident niet stilgelegen. Ondanks dat de politie nu twee verdachten heeft aangehouden, gaat het onderzoek verder. Dat betekent dat de politie uw hulp nog goed kan gebruiken. Heeft u informatie over deze zaak en heeft u nog niet met ons gesproken? Neem dan contact met ons op. Dat kan via 0800 6070. Wilt u liever anoniem blijven? Bel dan met Meld Misdaad Anoniem via 0800 7000.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Team Grootschalig",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Team Grootschalige",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86",
+      "not_affected"
+    ]
   }
 }
