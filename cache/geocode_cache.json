@@ -1786,5 +1786,9 @@
   "Vinkhuizen": {
     "lat": 53.226659,
     "lon": 6.5274003
+  },
+  "Gemeente Utrecht": {
+    "lat": 52.0892814,
+    "lon": 5.0242494
   }
 }
