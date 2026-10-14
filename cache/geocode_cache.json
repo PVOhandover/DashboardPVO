@@ -1790,5 +1790,13 @@
   "Gemeente Utrecht": {
     "lat": 52.0892814,
     "lon": 5.0242494
+  },
+  "Noorbeek": {
+    "lat": 50.7687986,
+    "lon": 5.8121291
+  },
+  "gemeente Roermond": {
+    "lat": 51.1958873,
+    "lon": 5.9858119
   }
 }
