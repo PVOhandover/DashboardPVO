@@ -82985,5 +82985,356 @@
     "all_sectors_in_article": [
       "69-82"
     ]
+  },
+  "6babf35fcce0adc8cd849833e7e17b5a": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws woensdag 14 oktober: Twee motorrijders naar ziekenhuis na val op N366 bij Veendam",
+    "url": "https://www.rtvnoord.nl/112/1444325/112-nieuws-woensdag-14-oktober-twee-motorrijders-naar-ziekenhuis-na-val-op-n366-bij-veendam",
+    "published": "Wed, 14 Oct 2026 18:20:26 GMT",
+    "summary": "In dit 112-blog houden we je deze woensdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Op de kruising van de Prinsesseweg en de Wilhelminakade in Stad zijn een fietser en een scooterrijder met elkaar in botsing gekomen. Ambulance en politie kwamen ter plaatse. Niemand is gewond geraakt. Op de N366 bij Veendam zijn woensdagavond twee motorrijders ten val gekomen. Hulpdiensten, waaronder een traumahelikopter, kwamen ter plaatse. Beide motorrijders zijn per ambulance overgebracht naar het ziekenhuis. De politie onderzoekt de oorzaak van het incident. De weg is afgesloten. Het Grensoverschrijdend Politieteam (GPT) Bad Nieuweschans, bestaande uit de Marechaussee Noord, de Duitse Bundespolizei en Landespolizei, heeft een overzicht van verschillende aanhoudingen gepubliceerd op Instagram. Het gaat om voorvallen van vorige week. Een 18-jarige man uit Stad is gisteravond gewond geraakt een vechtpartij op het Stationsplein in Groningen. De verdacht is een 18-jarige man uit Leeuwarden. Hij werd kort na het incident aangehouden. Bij de vechtpartij werd mogelijk gestoken. Het is nog niet duidelijk of dat daadwerkelijk is gebeurd. Aan de Feldwerderweg in Holwierde is een automobilist van de weg geraakt en in een greppel belandt. Het voertuig is vervolgens door een trekker uit de greppel getrokken. De politie rukte uit naar de plek van het ongeval. Er is niemand gewond geraakt. Zo werd vorige week dinsdag bij de grens bij Bellingwolde een Oekraïener aangehouden die met een vervalst rijbewijs reed. Woensdag werd daar een persoon met een openstaande straf van de weg geplukt. Donderdag werden twee bestuurders zonder geldig rijbewijs onderschept. Afgelopen zaterdag hield de grenspolitie aan de Duitse kant een bestuurder aan met zo'n 50 gram cannabis en 45 gram THC-gummies. De bestuurder was zelf ook onder invloed. Ook zondag werd een automobilist aangehouden die met drugs op achter het stuur zat.",
+    "scraped_at": "2026-10-15T08:07:42.408335Z",
+    "id": "1650945c0bd8d06ace04b8ebff8c4230cdb1d4efc686621cf9005a3f498248e4",
+    "canonical_url": "https://www.rtvnoord.nl/112/1444325/112-nieuws-woensdag-14-oktober-twee-motorrijders-naar-ziekenhuis-na-val-op-n366-bij-veendam",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Op de kruising van de Prinsesseweg en de Wilhelminakade in Stad zijn een fietser en een scooterrijder met elkaar in botsing gekomen. Ambulance en politie kwamen ter plaatse. Niemand is gewond geraakt. Op de N366 bij Veendam zijn woensdagavond twee motorrijders ten val gekomen. Hulpdiensten, waaronder een traumahelikopter, kwamen ter plaatse. Beide motorrijders zijn per ambulance overgebracht naar het ziekenhuis. De politie onderzoekt de oorzaak van het incident. De weg is afgesloten. Het Grensoverschrijdend Politieteam (GPT) Bad Nieuweschans, bestaande uit de Marechaussee Noord, de Duitse Bundespolizei en Landespolizei, heeft een overzicht van verschillende aanhoudingen gepubliceerd op Instagram. Het gaat om voorvallen van vorige week. Een 18-jarige man uit Stad is gisteravond gewond geraakt een vechtpartij op het Stationsplein in Groningen. De verdacht is een 18-jarige man uit Leeuwarden. Hij werd kort na het incident aangehouden. Bij de vechtpartij werd mogelijk gestoken. Het is nog niet duidelijk of dat daadwerkelijk is gebeurd. Aan de Feldwerderweg in Holwierde is een automobilist van de weg geraakt en in een greppel belandt. Het voertuig is vervolgens door een trekker uit de greppel getrokken. De politie rukte uit naar de plek van het ongeval. Er is niemand gewond geraakt. Zo werd vorige week dinsdag bij de grens bij Bellingwolde een Oekraïener aangehouden die met een vervalst rijbewijs reed. Woensdag werd daar een persoon met een openstaande straf van de weg geplukt. Donderdag werden twee bestuurders zonder geldig rijbewijs onderschept. Afgelopen zaterdag hield de grenspolitie aan de Duitse kant een bestuurder aan met zo'n 50 gram cannabis en 45 gram THC-gummies. De bestuurder was zelf ook onder invloed. Ook zondag werd een automobilist aangehouden die met drugs op achter het stuur zat.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "NL",
+    "country_score": 0.75,
+    "country_evidence": [
+      [
+        "Veendam",
+        "NL"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Holwierde",
+        "NL"
+      ],
+      [
+        "Bellingwolde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "N366",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Politieteam",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "GPT",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Bad Nieuweschans",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Duitse Bundespolizei",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Landespolizei",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3",
+      "not_affected"
+    ]
+  },
+  "815acd1e5855ddd213d3f5ad4ed509c9": {
+    "feed": "RTV Noord",
+    "title": "Lees terug: Oud-burgemeester Koen Schuiling ook in hoger beroep veroordeeld",
+    "url": "https://www.rtvnoord.nl/politiek/1444358/lees-terug-oud-burgemeester-koen-schuiling-ook-in-hoger-beroep-veroordeeld",
+    "published": "Wed, 14 Oct 2026 12:56:56 GMT",
+    "summary": "Oud-burgemeester Koen Schuiling van Groningen is vanmiddag ook in hoger beroep veroordeeld voor 'schennis van de eerbaarheid'. In dit blog lees je alles rond de uitspraak terug.",
+    "full_text": "'Het hof komt tot een bewezenverklaring', zegt de voorzitter. Dat betekent dat Schuiling ook in hoger beroep wordt veroordeeld. Het gerechtshof doet dat op basis van verschillende verhoren en gesprekken, en de video-opname die is gemaakt door de chauffeur van de melkwagen. Het hof stelt vast dat de getuige vanuit zijn melkwagen goed zicht had op de verdachte, en in de auto van Schuiling kon kijken. Hij was duidelijk waarneembaar omdat Schuiling zijn binnenverlichting aan had gedaan. Bovendien hebben ze enige tijd naast elkaar gereden. ‘We blijven als advocaten pontificaal achter hem staan’, zegt advocaat Koops. ‘We weten nog niet of we in cassatie gaan, daar moeten we over nadenken. Daar moet Schuiling ook de energie voor hebben.’ Koops ziet er aanleiding voor: 'Ik zie voldoende aanknopingspunten om in cassatie te gaan. Er staan hier twee verhalen tegenover elkaar, en je gelooft óf het één, of het ander.' Het is volgens advocaat Koops 'onmogelijk' om te masturberen achter het stuur. 'Ik heb zelf gekeken hoe dat dan zou moeten, in een stilstaande auto. Het is onmogelijk’, zegt Koops. 'In aanloop naar een strafzaak toe bekijk ik alle hoeken en kieren om te kijken of iets kan, of niet.' Hij vervolgt: 'Het lijkt erop dat de rechtbank gewoon heeft besloten om het verhaal van de vrachtwagenchauffeur te geloven, en dat van Schuiling niet.' De uitspraak is 'als een mokerslag' aangekomen bij Schuiling, zeggen zijn advocaten. Die hebben de oud-burgemeester zojuist telefonisch ingelicht. 'Zoals hij tijdens de inhoudelijke zitting al zei: er is een bodem, en er is altijd een laag daaronder. Die is nu bereikt', zegt advocaat Peter Koops. 'Het komt hard aan. We hebben gevraagd om vrijspraak. Dat is het niet geworden. Het is moeilijk om zo'n klap te moeten verwerken.' Zo kwam de rechter tot de veroordeling. Rechter acht oud-burgemeester Schuiling ook in hoger beroep schuldig De advocaten van Schuiling lichten hun cliënt nu in over de nieuwe veroordeling. Schuiling was niet aanwezig bij de uitspraak. Koen Schuiling heeft, net als in de eerdere rechtszaak, een boete van 250 euro opgelegd gekregen voor schennis van de eerbaarheid. Hieronder lees je waarom het gerechtshof daar in hoger beroep voor gekozen heeft. 'De verdachte heeft willens en wetens de eerbaarheid geschonden', zegt de rechter. 'De verdachte heeft gezegd dat hij zichzelf moest masseren om pijnklachten te verminderen, maar daar denkt het gerechtshof anders over.' Het hof gaat niet mee in Schuilings woorden, omdat de verklaring van de chauffeur van een melkwagen daar haaks op staat. Bovendien vindt de rechter het bijzonder dat Schuiling ondanks de pijn die hij zegt te hebben gehad, de melkwagen toch ging inhalen. 'Het feit wordt bewezen verklaard. Dergelijk gedrag is aanstootgevend en kan schrik aanjagen bij andere verkeersdeelnemers. De ingehaalde chauffeur werd ongevraagd deelgenoot gemaakt van de seksuele handeling van de verdachte (Koen Schuiling, red.).' 'Ik zie een deel van het stuur, en van borsthoogte tot de bovenbenen', heeft de chauffeur gezegd. De getuige heeft goede ogen, zegt het hof: die waren kort voor de gebeurtenis nog getest, en bovendien droeg hij geen bril of lenzen. 'Bovendien had de getuige geen belang bij het afleggen van een belastende verklaring. Hij wilde aanvankelijk geen melding van het voorval doen bij de politie, maar is door collega's overtuigd dat toch te doen. Wel heeft hij Schuiling, die hij niet herkende als burgemeester van Groningen, meteen aangesproken', zegt de rechter. De rechters en de advocaten zitten er klaar voor. De uitspraak gaat beginnen. De zitting is nog altijd niet begonnen. Er is eerst nog een uitspraak in een andere zaak. Zodra de uitspraak in de zaak-Schuiling van start gaat, melden we dat in dit blog. De uitspraak was gepland voor 13.45 uur, maar begint iets later. In de zaal waar de uitspraak wordt gedaan, is nog een andere zaak bezig. Koen Schuiling is vanmiddag niet aanwezig bij de uitspraak, hebben zijn advocaten laten weten. Advocaten Peter Koops en Sven Brinkhoff zijn er wel en brengen Schuiling achteraf op de hoogte van de uitspraak. Twee weken geleden, op woensdag 30 september, was de inhoudelijke zitting van de zaak tegen Koen Schuiling. Hierin werd onder meer gesproken over de verklaring van de vrachtwagenchauffeur die Schuiling in 2024 aansprak toen hij achter het stuur zou hebben gemasturbeerd. Het Openbaar Ministerie is ervan overtuigd dat dat is gebeurd, de advocaten van Schuiling weerspreken dat. Schuiling nam op 30 september gebruik van zijn recht op het laatste woord tijdens een zitting. Hij uitte daarbij kritiek op de gang van zaken in de afgelopen jaren. De oud-burgemeester vertelde dat hij fysiek en mentaal last heeft van de zitting en zei dat 'het vertrouwen dat hij in mensen had, is weggeslagen'. 'Zoals dat gebeurt als er mensen achter je rug lijken samen te spannen.' Wil je hier meer over lezen? Dat kan in dit artikel: De getuige heeft ook gezegd 'zeker te zijn dat hij de penis van de verdachte heeft gezien', zegt de rechter. 'Over zoiets ga je niet liegen', zou de chauffeur hebben gezegd. 'Het hof heeft geen reden om te twijfelen aan de verklaringen', zegt de rechter. Niet alleen op hoofdlijnen maar ook op essentiële punten zijn er overeenkomsten met andere bewijsmiddelen. 'De chauffeur heeft op een video waarin hij Schuiling confronteerde gesproken over onder meer de binnenverlichting die aan stond.'",
+    "scraped_at": "2026-10-15T08:07:49.197585Z",
+    "id": "cd3a5899462ba2c361ca04fc1856c85350bc6e92180fb81e29ad450fa25f951f",
+    "canonical_url": "https://www.rtvnoord.nl/politiek/1444358/lees-terug-oud-burgemeester-koen-schuiling-ook-in-hoger-beroep-veroordeeld",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "'Het hof komt tot een bewezenverklaring', zegt de voorzitter. Dat betekent dat Schuiling ook in hoger beroep wordt veroordeeld. Het gerechtshof doet dat op basis van verschillende verhoren en gesprekken, en de video-opname die is gemaakt door de chauffeur van de melkwagen. Het hof stelt vast dat de getuige vanuit zijn melkwagen goed zicht had op de verdachte, en in de auto van Schuiling kon kijken. Hij was duidelijk waarneembaar omdat Schuiling zijn binnenverlichting aan had gedaan. Bovendien hebben ze enige tijd naast elkaar gereden. ‘We blijven als advocaten pontificaal achter hem staan’, zegt advocaat Koops. ‘We weten nog niet of we in cassatie gaan, daar moeten we over nadenken. Daar moet Schuiling ook de energie voor hebben.’ Koops ziet er aanleiding voor: 'Ik zie voldoende aanknopingspunten om in cassatie te gaan. Er staan hier twee verhalen tegenover elkaar, en je gelooft óf het één, of het ander.' Het is volgens advocaat Koops 'onmogelijk' om te masturberen achter het stuur. 'Ik heb zelf gekeken hoe dat dan zou moeten, in een stilstaande auto. Het is onmogelijk’, zegt Koops. 'In aanloop naar een strafzaak toe bekijk ik alle hoeken en kieren om te kijken of iets kan, of niet.' Hij vervolgt: 'Het lijkt erop dat de rechtbank gewoon heeft besloten om het verhaal van de vrachtwagenchauffeur te geloven, en dat van Schuiling niet.' De uitspraak is 'als een mokerslag' aangekomen bij Schuiling, zeggen zijn advocaten. Die hebben de oud-burgemeester zojuist telefonisch ingelicht. 'Zoals hij tijdens de inhoudelijke zitting al zei: er is een bodem, en er is altijd een laag daaronder. Die is nu bereikt', zegt advocaat Peter Koops. 'Het komt hard aan. We hebben gevraagd om vrijspraak. Dat is het niet geworden. Het is moeilijk om zo'n klap te moeten verwerken.' Zo kwam de rechter tot de veroordeling. Rechter acht oud-burgemeester Schuiling ook in hoger beroep schuldig De advocaten van Schuiling lichten hun cliënt nu in over de nieuwe veroordeling. Schuiling was niet aanwezig bij de uitspraak. Koen Schuiling heeft, net als in de eerdere rechtszaak, een boete van 250 euro opgelegd gekregen voor schennis van de eerbaarheid. Hieronder lees je waarom het gerechtshof daar in hoger beroep voor gekozen heeft. 'De verdachte heeft willens en wetens de eerbaarheid geschonden', zegt de rechter. 'De verdachte heeft gezegd dat hij zichzelf moest masseren om pijnklachten te verminderen, maar daar denkt het gerechtshof anders over.' Het hof gaat niet mee in Schuilings woorden, omdat de verklaring van de chauffeur van een melkwagen daar haaks op staat. Bovendien vindt de rechter het bijzonder dat Schuiling ondanks de pijn die hij zegt te hebben gehad, de melkwagen toch ging inhalen. 'Het feit wordt bewezen verklaard. Dergelijk gedrag is aanstootgevend en kan schrik aanjagen bij andere verkeersdeelnemers. De ingehaalde chauffeur werd ongevraagd deelgenoot gemaakt van de seksuele handeling van de verdachte (Koen Schuiling, red.).' 'Ik zie een deel van het stuur, en van borsthoogte tot de bovenbenen', heeft de chauffeur gezegd. De getuige heeft goede ogen, zegt het hof: die waren kort voor de gebeurtenis nog getest, en bovendien droeg hij geen bril of lenzen. 'Bovendien had de getuige geen belang bij het afleggen van een belastende verklaring. Hij wilde aanvankelijk geen melding van het voorval doen bij de politie, maar is door collega's overtuigd dat toch te doen. Wel heeft hij Schuiling, die hij niet herkende als burgemeester van Groningen, meteen aangesproken', zegt de rechter. De rechters en de advocaten zitten er klaar voor. De uitspraak gaat beginnen. De zitting is nog altijd niet begonnen. Er is eerst nog een uitspraak in een andere zaak. Zodra de uitspraak in de zaak-Schuiling van start gaat, melden we dat in dit blog. De uitspraak was gepland voor 13.45 uur, maar begint iets later. In de zaal waar de uitspraak wordt gedaan, is nog een andere zaak bezig. Koen Schuiling is vanmiddag niet aanwezig bij de uitspraak, hebben zijn advocaten laten weten. Advocaten Peter Koops en Sven Brinkhoff zijn er wel en brengen Schuiling achteraf op de hoogte van de uitspraak. Twee weken geleden, op woensdag 30 september, was de inhoudelijke zitting van de zaak tegen Koen Schuiling. Hierin werd onder meer gesproken over de verklaring van de vrachtwagenchauffeur die Schuiling in 2024 aansprak toen hij achter het stuur zou hebben gemasturbeerd. Het Openbaar Ministerie is ervan overtuigd dat dat is gebeurd, de advocaten van Schuiling weerspreken dat. Schuiling nam op 30 september gebruik van zijn recht op het laatste woord tijdens een zitting. Hij uitte daarbij kritiek op de gang van zaken in de afgelopen jaren. De oud-burgemeester vertelde dat hij fysiek en mentaal last heeft van de zitting en zei dat 'het vertrouwen dat hij in mensen had, is weggeslagen'. 'Zoals dat gebeurt als er mensen achter je rug lijken samen te spannen.' Wil je hier meer over lezen? Dat kan in dit artikel: De getuige heeft ook gezegd 'zeker te zijn dat hij de penis van de verdachte heeft gezien', zegt de rechter. 'Over zoiets ga je niet liegen', zou de chauffeur hebben gezegd. 'Het hof heeft geen reden om te twijfelen aan de verklaringen', zegt de rechter. Niet alleen op hoofdlijnen maar ook op essentiële punten zijn er overeenkomsten met andere bewijsmiddelen. 'De chauffeur heeft op een video waarin hij Schuiling confronteerde gesproken over onder meer de binnenverlichting die aan stond.'",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Koops",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koops",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Peter Koops",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koen Schuiling",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koen Schuiling",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koen Schuiling",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Peter Koops",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Sven Brinkhoff",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Koen Schuiling",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
+  },
+  "76966cd0042e85f6ddcafa33db520f4a": {
+    "feed": "Politie.nl",
+    "title": "Politie-onderzoek na uitslaande brand Noordeindseweg Berkel",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/15/07-politie-onderzoek-naar-uitslaande-brand-noordeindseweg.html",
+    "published": "Thu, 15 Oct 2026 07:44:00 GMT",
+    "summary": "Even na 3.00 uur donderdagochtend brak brand uit bij een autobedrijf op de Noordeindseweg in Berkel en Rodenrijs. De politie onderzoekt of er mogelijk sprake is van brandstichting. Heeft u iets verdachts gezien of gehoord dan vraagt de politie u zich te melden.",
+    "full_text": "De brand werd al snel uitslaand en zorgde voor veel rook, die richting het noorden trok. Er hoefde geen woningen ontruimd te worden. De brandweer heeft de brand snel ‘ingeboxt’ zodat deze niet over kon slaan naar omliggende panden. Rond 5.30 uur was de brand brandmeester. Niemand raakte gewond. De loods is volledig uitgebrand. In de loods zijn geen bijzonderheden aangetroffen. Getuigen gezocht De politie onderzoekt of er sprake is van brandstichting. Hiervoor zal, nadat het pand is afgekoeld, sporenonderzoek plaats vinden. Voor het onderzoek naar een mogelijke oorzaak is de politie ook benieuwd of mensen iets verdachts hebben gezien of gehoord. In dat geval komt de politie graag met u in contact. Eerdere brand April 2024 heeft in hetzelfde pand ook een brand gewoed. Toen werden in de schuur spullen aangetroffen voor het produceren van verdovende middelen. Een dag later werd in een auto een overleden persoon aangetroffen. Bij de brand van vandaag zijn in de schuur geen bijzonderheden aangetroffen. Ook is vooralsnog geen verband gevonden tussen de huidige brand en die van 2024, maar de mogelijkheid van een verband zal in het onderzoek worden meegenomen. Explosies In de afgelopen nacht vonden twee explosies plaats in Rotterdam en één in Berkel en Rodenrijs. Vooralsnog zijn er geen aanwijzingen dat deze explosies verband houden met de brand, maar ook hier zal in het onderzoek nader naar gekeken worden. Contact Heeft u informatie die van belang kan zijn voor het onderzoek of beschikt u over camerabeelden uit de omgeving waar iets verdachts op te zien is, dan vragen wij u contact op te nemen via 0900-8844 of via onderstaand tipformulier. Als u liever anoniem blijft, kunt u bellen met 0800-7000 of uw informatie achterlaten via www.meldmisdaadanoniem.nl .",
+    "scraped_at": "2026-10-15T08:06:21.264674Z",
+    "id": "b98ddf837ed62db61bd52abb5b6409cb206ae2eb82ec66b5a478df83a2ff01cb",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/15/07-politie-onderzoek-naar-uitslaande-brand-noordeindseweg.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De brand werd al snel uitslaand en zorgde voor veel rook, die richting het noorden trok. Er hoefde geen woningen ontruimd te worden. De brandweer heeft de brand snel ‘ingeboxt’ zodat deze niet over kon slaan naar omliggende panden. Rond 5.30 uur was de brand brandmeester. Niemand raakte gewond. De loods is volledig uitgebrand. In de loods zijn geen bijzonderheden aangetroffen. Getuigen gezocht De politie onderzoekt of er sprake is van brandstichting. Hiervoor zal, nadat het pand is afgekoeld, sporenonderzoek plaats vinden. Voor het onderzoek naar een mogelijke oorzaak is de politie ook benieuwd of mensen iets verdachts hebben gezien of gehoord. In dat geval komt de politie graag met u in contact. Eerdere brand April 2024 heeft in hetzelfde pand ook een brand gewoed. Toen werden in de schuur spullen aangetroffen voor het produceren van verdovende middelen. Een dag later werd in een auto een overleden persoon aangetroffen. Bij de brand van vandaag zijn in de schuur geen bijzonderheden aangetroffen. Ook is vooralsnog geen verband gevonden tussen de huidige brand en die van 2024, maar de mogelijkheid van een verband zal in het onderzoek worden meegenomen. Explosies In de afgelopen nacht vonden twee explosies plaats in Rotterdam en één in Berkel en Rodenrijs. Vooralsnog zijn er geen aanwijzingen dat deze explosies verband houden met de brand, maar ook hier zal in het onderzoek nader naar gekeken worden. Contact Heeft u informatie die van belang kan zijn voor het onderzoek of beschikt u over camerabeelden uit de omgeving waar iets verdachts op te zien is, dan vragen wij u contact op te nemen via 0900-8844 of via onderstaand tipformulier. Als u liever anoniem blijft, kunt u bellen met 0800-7000 of uw informatie achterlaten via www.meldmisdaadanoniem.nl .",
+    "locations": [
+      "Rodenrijs"
+    ],
+    "country": "NL",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Berkel",
+        "DE"
+      ],
+      [
+        "Rodenrijs",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.707135453814594,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Niemand",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Contact Heeft u informatie",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "f217c6713d1b8c9e3255d3548d608acc": {
+    "feed": "Politie.nl",
+    "title": "Succesvolle actie op drugsbezit in Flevoland",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/14/03-succesvolle-actie-op-drugsbezit-in-flevoland.html",
+    "published": "Wed, 14 Oct 2026 13:47:00 GMT",
+    "summary": "Met de aanhouding van een 43-jarige verdachte uit Rozenburg (ZH) wist de politie een grote partij harddrugs uit de handel te halen. Agenten namen  ruim 20 kilo cocaïne in beslag.",
+    "full_text": "De actie op het drugsbezit vond donderdag 8 oktober in Flevoland tijdens een ondermijningsactie plaats. De 43-jarige man uit Rozenburg werd door de politie in zijn auto in Emmeloord gecontroleerd. Toen agenten de man staande hielden, bleek dat in zijn auto ongeveer 10 kilo harddrugs (cocaïne) was verstopt. Agenten troffen onder meer enkele pakketten met drugs in de tussenruimte van de autoportieren aan. Bij een latere doorzoeking van de woning van de verdachte in Rozenburg, werd nog eens 10 kilo vermoedelijk harddrugs (cocaïne) aangetroffen. De auto van de verdachte en de drugs werd in beslag genomen. Voorgeleiding De 43-jarige verdachte is dinsdag 13 oktober geleid voor de rechter-commissaris, die de hechtenis van de man met 14 dagen verlengde. Drugs is ondermijnend Drugsproductie en -handel hebben grote gevolgen voor onze maatschappij en zijn vaak de oorzaak van ondermijnende criminaliteit. De aanpak van ondermijning is gericht op het duurzaam verstoren van criminele activiteiten, netwerken en structuren. Er gaan op jaarbasis in Nederland vele miljarden euro’s om in de drugsindustrie. De illegale inkomsten uit drugsactiviteiten worden in de legale economie witgewassen. Kwetsbare jongeren en volwassenen worden benaderd om mee te werken aan de georganiseerde drugscriminaliteit.  Zij worden misbruikt als straatdealer, uithaler en aanslagpleger op mensen of woningen. Het gaat samen met bedreiging, afpersing, corruptie, geweld en liquidaties.  Criminelen dumpen bovendien het chemische afval uit drugslabs vaak in onze natuur, en dat is schadelijk voor mens en milieu. Criminelen profiteren van miljoenenwinsten, terwijl de maatschappij voor de kosten van de gevolgen, de schade en het herstel opdraait. Houd misdaad uit je buurt Iedereen kan meehelpen om ondermijnende criminaliteit te bestrijden en onze buurten en straten veiliger maken. Door verdachte signalen te herkennen én erop te reageren. Check de signalen op www.houdmisdaaduitjebuurt.nl en ontdek wat vreemd of verdacht is. Bel ons bij verdachte situaties direct via 112 of achteraf via tel. 0900-8844. Je online melding kan op www.politie.nl . Anoniem melden kan ook, via tel. 0800-7000. Zo kunnen we samen georganiseerde misdaad in jouw straat, school, werk of buurt bestrijden.",
+    "scraped_at": "2026-10-15T08:06:21.265868Z",
+    "id": "54c389818983776dea003f51435a3b006bf2adf2393f9992e7ee5671f546b62b",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/14/03-succesvolle-actie-op-drugsbezit-in-flevoland.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De actie op het drugsbezit vond donderdag 8 oktober in Flevoland tijdens een ondermijningsactie plaats. De 43-jarige man uit Rozenburg werd door de politie in zijn auto in Emmeloord gecontroleerd. Toen agenten de man staande hielden, bleek dat in zijn auto ongeveer 10 kilo harddrugs (cocaïne) was verstopt. Agenten troffen onder meer enkele pakketten met drugs in de tussenruimte van de autoportieren aan. Bij een latere doorzoeking van de woning van de verdachte in Rozenburg, werd nog eens 10 kilo vermoedelijk harddrugs (cocaïne) aangetroffen. De auto van de verdachte en de drugs werd in beslag genomen. Voorgeleiding De 43-jarige verdachte is dinsdag 13 oktober geleid voor de rechter-commissaris, die de hechtenis van de man met 14 dagen verlengde. Drugs is ondermijnend Drugsproductie en -handel hebben grote gevolgen voor onze maatschappij en zijn vaak de oorzaak van ondermijnende criminaliteit. De aanpak van ondermijning is gericht op het duurzaam verstoren van criminele activiteiten, netwerken en structuren. Er gaan op jaarbasis in Nederland vele miljarden euro’s om in de drugsindustrie. De illegale inkomsten uit drugsactiviteiten worden in de legale economie witgewassen. Kwetsbare jongeren en volwassenen worden benaderd om mee te werken aan de georganiseerde drugscriminaliteit.  Zij worden misbruikt als straatdealer, uithaler en aanslagpleger op mensen of woningen. Het gaat samen met bedreiging, afpersing, corruptie, geweld en liquidaties.  Criminelen dumpen bovendien het chemische afval uit drugslabs vaak in onze natuur, en dat is schadelijk voor mens en milieu. Criminelen profiteren van miljoenenwinsten, terwijl de maatschappij voor de kosten van de gevolgen, de schade en het herstel opdraait. Houd misdaad uit je buurt Iedereen kan meehelpen om ondermijnende criminaliteit te bestrijden en onze buurten en straten veiliger maken. Door verdachte signalen te herkennen én erop te reageren. Check de signalen op www.houdmisdaaduitjebuurt.nl en ontdek wat vreemd of verdacht is. Bel ons bij verdachte situaties direct via 112 of achteraf via tel. 0900-8844. Je online melding kan op www.politie.nl . Anoniem melden kan ook, via tel. 0800-7000. Zo kunnen we samen georganiseerde misdaad in jouw straat, school, werk of buurt bestrijden.",
+    "locations": [
+      "Rozenburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Flevoland",
+        "NL"
+      ],
+      [
+        "Rozenburg",
+        "NL"
+      ],
+      [
+        "Rozenburg",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.7609770012736969,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Kwetsbare jongeren",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Anoniem",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "62",
+      "not_affected"
+    ]
+  },
+  "d2e97f5effc2edb54e9a3540fbc000ff": {
+    "feed": "Politie.nl",
+    "title": "Opnieuw aanhoudingen voor dodelijk schietincident in Nijmegen",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/14/02-opnieuw-aanhoudingen-voor-dodelijk-schietincident-in-nijmegen.html",
+    "published": "Wed, 14 Oct 2026 11:38:00 GMT",
+    "summary": "De politie heeft op woensdag 14 oktober opnieuw aanhoudingen verricht in het onderzoek naar het dodelijk schietincident aan de Graafseweg in Nijmegen op 21 juli. Er zijn drie mannen aangehouden. Het betreft een 18-jarige uit Zwaag, een minderjarige uit Hoorn en een 19-jarige uit Avenhorn.",
+    "full_text": "Op dinsdag 21 juli kwam er om 22.00 uur een melding van een schietincident binnen bij de meldkamer van de politie. Ter plaatse troffen collega’s een gewond slachtoffer. Er is eerste hulpverleend en het slachtoffer is overgebracht naar het ziekenhuis. Daar is hij, een 18-jarige man uit Rotterdam, helaas overleden. Eerdere aanhoudingen De afgelopen tijd is het onderzoeksteam druk bezig geweest met het onderzoek. Afgelopen maandag werden er twee mannen aangehouden voor betrokkenheid bij het dodelijk schietincident in Nijmegen. Zij zitten nog vast. De aanleiding van het schietincident is nog steeds onderdeel van het onderzoek. We begrijpen dat er veel vragen zijn over de aanleiding van dit incident, maar aangezien het onderzoek nog volop bezig is kunnen we daar op dit moment niet meer over delen. Lees hier het bericht over de aanhoudingen van maandag 12 oktober. Tips Ondanks dat de politie nu meerdere verdachten heeft aangehouden, gaat het onderzoek nog steeds verder. Dat betekent dat de politie uw hulp nog goed kan gebruiken. Heeft u informatie over deze zaak en heeft u nog niet met ons gesproken? Neem dan contact met ons op. Dat kan via 0800 6070. Wilt u liever anoniem blijven? Bel dan met Meld Misdaad Anoniem via 0800 7000.",
+    "scraped_at": "2026-10-15T08:06:21.266489Z",
+    "id": "6e3fcf01a58932724bf820a299a799f20e61afb823913219a914f9d8d9452b1c",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/14/02-opnieuw-aanhoudingen-voor-dodelijk-schietincident-in-nijmegen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Op dinsdag 21 juli kwam er om 22.00 uur een melding van een schietincident binnen bij de meldkamer van de politie. Ter plaatse troffen collega’s een gewond slachtoffer. Er is eerste hulpverleend en het slachtoffer is overgebracht naar het ziekenhuis. Daar is hij, een 18-jarige man uit Rotterdam, helaas overleden. Eerdere aanhoudingen De afgelopen tijd is het onderzoeksteam druk bezig geweest met het onderzoek. Afgelopen maandag werden er twee mannen aangehouden voor betrokkenheid bij het dodelijk schietincident in Nijmegen. Zij zitten nog vast. De aanleiding van het schietincident is nog steeds onderdeel van het onderzoek. We begrijpen dat er veel vragen zijn over de aanleiding van dit incident, maar aangezien het onderzoek nog volop bezig is kunnen we daar op dit moment niet meer over delen. Lees hier het bericht over de aanhoudingen van maandag 12 oktober. Tips Ondanks dat de politie nu meerdere verdachten heeft aangehouden, gaat het onderzoek nog steeds verder. Dat betekent dat de politie uw hulp nog goed kan gebruiken. Heeft u informatie over deze zaak en heeft u nog niet met ons gesproken? Neem dan contact met ons op. Dat kan via 0800 6070. Wilt u liever anoniem blijven? Bel dan met Meld Misdaad Anoniem via 0800 7000.",
+    "locations": [
+      "Nijmegen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ],
+      [
+        "Nijmegen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Tips",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86",
+      "not_affected"
+    ]
   }
 }
