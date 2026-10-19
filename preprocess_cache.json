@@ -84171,5 +84171,57 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "5fffa2894957ff39205f4fc609836788": {
+    "feed": "Politie.nl",
+    "title": "Rijksrecherche onderzoekt schietincident in Barendrecht",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/18/07-rijksrecherche-onderzoekt-schietincident-in-barendrecht.html",
+    "published": "Sun, 18 Oct 2026 20:35:00 GMT",
+    "summary": "De Rijksrecherche is een onderzoek gestart naar een schietincident op zondagavond 18 oktober aan de Achterzeekdijk in Barendrecht.",
+    "full_text": "Rond 18.00 uur ontving de politie een melding van een suïcidaal persoon aan de Achterzeedijk in Barendrecht met een vuurwapen. Rond 19.35 uur is er door de politie geschoten waarbij het slachtoffer gewond is geraakt. Het slachtoffer is naar het ziekenhuis gebracht. Rijksrecherche De Rijksrecherche is direct na het incident ingeschakeld en doet onderzoek. Dit is een standaardprocedure wanneer agenten betrokken zijn bij incidenten met ernstig letsel of dodelijke afloop. De Rijksrecherche is onderdeel van het Openbaar Ministerie en het onderzoek staat onder leiding van een officier van justitie. Als het onderzoek is afgerond, beoordeelt het OM of het optreden door de politie rechtmatig was. De woordvoering in deze zaak ligt bij het Openbaar Ministerie in Rotterdam.",
+    "scraped_at": "2026-10-19T08:37:46.728041Z",
+    "id": "9582c49dc0326c16ddfe9e43ed21e13392d2fe2112e32ead51792971094ee2cf",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/18/07-rijksrecherche-onderzoekt-schietincident-in-barendrecht.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Rond 18.00 uur ontving de politie een melding van een suïcidaal persoon aan de Achterzeedijk in Barendrecht met een vuurwapen. Rond 19.35 uur is er door de politie geschoten waarbij het slachtoffer gewond is geraakt. Het slachtoffer is naar het ziekenhuis gebracht. Rijksrecherche De Rijksrecherche is direct na het incident ingeschakeld en doet onderzoek. Dit is een standaardprocedure wanneer agenten betrokken zijn bij incidenten met ernstig letsel of dodelijke afloop. De Rijksrecherche is onderdeel van het Openbaar Ministerie en het onderzoek staat onder leiding van een officier van justitie. Als het onderzoek is afgerond, beoordeelt het OM of het optreden door de politie rechtmatig was. De woordvoering in deze zaak ligt bij het Openbaar Ministerie in Rotterdam.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Barendrecht",
+        "NL"
+      ],
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie en het",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "56.3",
+        "sector_name": "Beverage serving activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
   }
 }
