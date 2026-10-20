@@ -84223,5 +84223,47 @@
     "all_sectors_in_article": [
       "56.3"
     ]
+  },
+  "7409a4dd44ae2dc7ddba3c5ab3b16fe7": {
+    "feed": "RTV Noord",
+    "title": "Fraudeurs leiden luxe leven door verzekering op te lichten met plaksnorren en valse id's",
+    "url": "https://www.rtvnoord.nl/misdaad/1446323/fraudeurs-leiden-luxe-leven-door-verzekering-op-te-lichten-met-plaksnorren-en-valse-ids",
+    "published": "Mon, 19 Oct 2026 14:49:11 GMT",
+    "summary": "Het Openbaar Ministerie eist twee jaar celstraf tegen twee mannen uit Stad van 28 en 29 jaar. Zij lichtten ruim drie jaar lang verzekeraars op met valse claims. Met het gestolen geld leefden de verdachten een luxe leven.",
+    "full_text": "Het Openbaar Ministerie eist twee jaar celstraf tegen twee mannen uit Stad van 28 en 29 jaar. Zij lichtten ruim drie jaar lang verzekeraars op met valse claims. Met het gestolen geld leefden de verdachten een luxe leven. De zaak kwam aan het licht na een melding van het Verbond van Verzekeraars. Volgens de officier van justitie ging het om een 'slinkse en georganiseerde oplichting'. De mannen maakten valse identiteitskaarten met een speciale printer, een plaksnor, AI-foto's en echte BSN-nummers van willekeurige mensen. Met deze nepprofielen openden ze bankrekeningen en sloten ze kortlopende reisverzekeringen af. Daarna deden ze alsof ze slachtoffer waren van een diefstal. Ze claimden telkens bedragen onder de 1.500 euro om niet op te vallen. Het uitgekeerde geld sluisden ze door naar andere rekeningen of zetten ze om in cryptomunten. Via tientallen valse claims maakten ze bijna 150.000 euro buit. Van de opbrengst leefden de verdachten op grote voet. Ze woonden mooi, reden in een prima auto en gingen vaak op reis. Ook dronken ze cocktails op kantoor, terwijl een luxe robotstofzuiger de vloer dweilde. Ondertussen stonden de overhemden in een stoomkast op te frissen. Het OM beschuldigt de mannen van oplichting, witwassen en het vervalsen van documenten. Omdat ze heel bewust veel stappen moesten zetten voor hun fraude, eist de officier van justitie een celstraf. Ook moeten de mannen de volledige schade van bijna 150.000 euro terugbetalen. De rechtbank in Groningen doet op 1 december 2026 uitspraak.",
+    "scraped_at": "2026-10-20T08:21:22.115706Z",
+    "id": "7fd1a57cf9d6c5d87af8ca8d76e5c8248ef429b8aef303edb3c7d3993201edab",
+    "canonical_url": "https://www.rtvnoord.nl/misdaad/1446323/fraudeurs-leiden-luxe-leven-door-verzekering-op-te-lichten-met-plaksnorren-en-valse-ids",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het Openbaar Ministerie eist twee jaar celstraf tegen twee mannen uit Stad van 28 en 29 jaar. Zij lichtten ruim drie jaar lang verzekeraars op met valse claims. Met het gestolen geld leefden de verdachten een luxe leven. De zaak kwam aan het licht na een melding van het Verbond van Verzekeraars. Volgens de officier van justitie ging het om een 'slinkse en georganiseerde oplichting'. De mannen maakten valse identiteitskaarten met een speciale printer, een plaksnor, AI-foto's en echte BSN-nummers van willekeurige mensen. Met deze nepprofielen openden ze bankrekeningen en sloten ze kortlopende reisverzekeringen af. Daarna deden ze alsof ze slachtoffer waren van een diefstal. Ze claimden telkens bedragen onder de 1.500 euro om niet op te vallen. Het uitgekeerde geld sluisden ze door naar andere rekeningen of zetten ze om in cryptomunten. Via tientallen valse claims maakten ze bijna 150.000 euro buit. Van de opbrengst leefden de verdachten op grote voet. Ze woonden mooi, reden in een prima auto en gingen vaak op reis. Ook dronken ze cocktails op kantoor, terwijl een luxe robotstofzuiger de vloer dweilde. Ondertussen stonden de overhemden in een stoomkast op te frissen. Het OM beschuldigt de mannen van oplichting, witwassen en het vervalsen van documenten. Omdat ze heel bewust veel stappen moesten zetten voor hun fraude, eist de officier van justitie een celstraf. Ook moeten de mannen de volledige schade van bijna 150.000 euro terugbetalen. De rechtbank in Groningen doet op 1 december 2026 uitspraak.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.7071353920954992,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
