@@ -84691,5 +84691,40 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "be54c4873c60812994369077880ceeda": {
+    "feed": "RTV Noord",
+    "title": "Politie: oorzaak overlijden meisje in jeugdzorginstelling is nog onduidelijk",
+    "url": "https://www.rtvnoord.nl/112/1447573/politie-oorzaak-overlijden-meisje-in-jeugdzorginstelling-is-nog-onduidelijk",
+    "published": "Thu, 22 Oct 2026 13:25:59 GMT",
+    "summary": "Het minderjarige meisje dat op maandag 19 oktober overleden is aangetroffen in een jeugdzorginstelling aan de Plutolaan in Stad, is niet overleden aan verwondingen die zijn opgelopen bij een vechtpartij. Dat meldt de politie.",
+    "full_text": "Het minderjarige meisje dat op maandag 19 oktober overleden is aangetroffen in een jeugdzorginstelling aan de Plutolaan in Stad, is niet overleden aan verwondingen die zijn opgelopen bij een vechtpartij. Dat meldt de politie. De afgelopen dagen is uitgebreid onderzoek gedaan naar de doodsoorzaak. In dit onderzoek heeft de recherche een vechtpartij met meerdere personen in een pand aan de Hippocrateslaan in Groningen meegenomen. Het meisje was hierbij aanwezig en zou gewond zijn geraakt. Het onderzoek heeft uitgewezen dat het meisje bij het incident aan de Hippocrateslaan geen letsel heeft opgelopen dat tot haar dood heeft geleid. Waar het meisje wel aan is overleden, is nog onduidelijk. 'We willen natuurlijk graag weten hoe het kan dat een minderjarig meisje niet meer wakker is geworden', zegt een woordvoerder van de politie. 'Het onderzoek naar de toedracht van haar overlijden is dan ook nog niet afgerond. We zijn daar verder terughoudend in, omdat verschillende scenario’s nog open staan.' Ook de vechtpartij in het pand aan de Hippocrateslaan wordt verder onderzocht. 'We willen weten wat daar is gebeurd en wie daarbij betrokken zijn geweest.' Beschermd wonen Het pand aan de Plutolaan is onderdeel van La Hacienda, een Groningse jeugdzorginstelling. De organisatie biedt ambulante zorg en beschermd wonen, verspreid over elf kleinschalige locaties in de stad en provincie. In het pand aan de Plutolaan wonen acht jongeren tussen de twaalf en achttien jaar. Zij kunnen intern doorstromen naar een studio waar ze zelfstandigheid kunnen oefenen. In het pand aan de Hippocrateslaan wonen jongvolwassenen vanaf achttien jaar. Het gaat om jongeren die niet zelfstandig kunnen wonen en die begeleiding nodig hebben.",
+    "scraped_at": "2026-10-23T08:24:34.698442Z",
+    "id": "3eafba75bff91b9df8f235f3baa91fa81f873dda11bed9b6d71b3554fd72d2cb",
+    "canonical_url": "https://www.rtvnoord.nl/112/1447573/politie-oorzaak-overlijden-meisje-in-jeugdzorginstelling-is-nog-onduidelijk",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het minderjarige meisje dat op maandag 19 oktober overleden is aangetroffen in een jeugdzorginstelling aan de Plutolaan in Stad, is niet overleden aan verwondingen die zijn opgelopen bij een vechtpartij. Dat meldt de politie. De afgelopen dagen is uitgebreid onderzoek gedaan naar de doodsoorzaak. In dit onderzoek heeft de recherche een vechtpartij met meerdere personen in een pand aan de Hippocrateslaan in Groningen meegenomen. Het meisje was hierbij aanwezig en zou gewond zijn geraakt. Het onderzoek heeft uitgewezen dat het meisje bij het incident aan de Hippocrateslaan geen letsel heeft opgelopen dat tot haar dood heeft geleid. Waar het meisje wel aan is overleden, is nog onduidelijk. 'We willen natuurlijk graag weten hoe het kan dat een minderjarig meisje niet meer wakker is geworden', zegt een woordvoerder van de politie. 'Het onderzoek naar de toedracht van haar overlijden is dan ook nog niet afgerond. We zijn daar verder terughoudend in, omdat verschillende scenario’s nog open staan.' Ook de vechtpartij in het pand aan de Hippocrateslaan wordt verder onderzocht. 'We willen weten wat daar is gebeurd en wie daarbij betrokken zijn geweest.' Beschermd wonen Het pand aan de Plutolaan is onderdeel van La Hacienda, een Groningse jeugdzorginstelling. De organisatie biedt ambulante zorg en beschermd wonen, verspreid over elf kleinschalige locaties in de stad en provincie. In het pand aan de Plutolaan wonen acht jongeren tussen de twaalf en achttien jaar. Zij kunnen intern doorstromen naar een studio waar ze zelfstandigheid kunnen oefenen. In het pand aan de Hippocrateslaan wonen jongvolwassenen vanaf achttien jaar. Het gaat om jongeren die niet zelfstandig kunnen wonen en die begeleiding nodig hebben.",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6304617553614768,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
