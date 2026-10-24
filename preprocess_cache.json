@@ -84726,5 +84726,110 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "bcbbe028f33e6a31ae3cbf044ed15549": {
+    "feed": "RTV Noord",
+    "title": "Zeehondencentrum stelt faillissementsaanvraag week uit na golf aan donaties",
+    "url": "https://www.rtvnoord.nl/economie/1447864/zeehondencentrum-stelt-faillissementsaanvraag-week-uit-na-golf-aan-donaties",
+    "published": "Fri, 23 Oct 2026 16:59:41 GMT",
+    "summary": "Het Werelderfgoedcentrum Waddenzee (WEC) stelt de voorgenomen faillissementsaanvraag met een week uit. De raad van toezicht onderzoekt in die tijd of het zeehondencentrum in Lauwersoog behouden kan blijven. Aanleidingen zijn de massale steun van donateurs en nieuwe gesprekken met betrokken partijen. Er is echter nog geen zekerheid over een definitieve oplossing.",
+    "full_text": "Het Werelderfgoedcentrum Waddenzee (WEC) stelt de voorgenomen faillissementsaanvraag met een week uit. De raad van toezicht onderzoekt in die tijd of het zeehondencentrum in Lauwersoog behouden kan blijven. Aanleidingen zijn de massale steun van donateurs en nieuwe gesprekken met betrokken partijen. Er is echter nog geen zekerheid over een definitieve oplossing. Op 12 oktober maakte de raad van toezicht bekend dat er onvoldoende financieel perspectief was. Het centrum kon niet meer aan de verplichtingen voldoen en de exploitatie niet duurzaam sluitend krijgen. De leiding kondigde aan binnen veertien dagen faillissement aan te vragen, tenzij er snel zicht zou komen op een oplossing. Het bericht zorgde voor veel reacties. Eerder deze week was er 1,25 miljoen euro aan donaties binnengekomen. Daarnaast is de petitie voor het behoud van het centrum meer dan 100.000 keer ondertekend. Afgelopen donderdag werden de eerste 91.026 handtekeningen overhandigd aan Robert de Wit, vicevoorzitter van de Provinciale Staten van Groningen. De grote betrokkenheid en de gesprekken achter de schermen zijn aanleiding om het faillissement een week uit te stellen. Het WEC laat weten bijzonder dankbaar te zijn voor iedereen die doneert, tekent of actie voert. Bij betrokken overheden is ruimte ontstaan om verder te praten over de toekomst. Ook lopen er gesprekken met fondsen over mogelijke bijdragen. Dit heeft echter nog niet geleid tot definitieve afspraken over extra geld. Daarnaast hebben partijen uit de haven van Lauwersoog zich gemeld om te praten over samenwerking. Met crediteuren wordt gesproken over een regeling voor de openstaande schulden. De komende week wordt onderzocht of er genoeg middelen komen om de verplichtingen na te komen. Ook wordt gekeken of een gezonde exploitatie haalbaar is. Dat onderzoek is nu al gaande, maar de financiële situatie blijft kwetsbaar. Op vrijdag 30 oktober wordt de balans opnieuw opgemaakt. Dan volgt ook de beslissing of er genoeg concreet perspectief is om door te gaan. De petitie blijft in ieder geval tot en met woensdag open. Die dag spreekt de gemeenteraad van Het Hogeland over de toekomst van het centrum. Het team van het WEC zal de petitie die dag ook aanbieden aan de gemeente Het Hogeland.",
+    "scraped_at": "2026-10-24T08:00:56.901358Z",
+    "id": "a941d7301683d64f8a221cf887e1637d6cbeef11ad1345c7d42cc3b0c1de741f",
+    "canonical_url": "https://www.rtvnoord.nl/economie/1447864/zeehondencentrum-stelt-faillissementsaanvraag-week-uit-na-golf-aan-donaties",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het Werelderfgoedcentrum Waddenzee (WEC) stelt de voorgenomen faillissementsaanvraag met een week uit. De raad van toezicht onderzoekt in die tijd of het zeehondencentrum in Lauwersoog behouden kan blijven. Aanleidingen zijn de massale steun van donateurs en nieuwe gesprekken met betrokken partijen. Er is echter nog geen zekerheid over een definitieve oplossing. Op 12 oktober maakte de raad van toezicht bekend dat er onvoldoende financieel perspectief was. Het centrum kon niet meer aan de verplichtingen voldoen en de exploitatie niet duurzaam sluitend krijgen. De leiding kondigde aan binnen veertien dagen faillissement aan te vragen, tenzij er snel zicht zou komen op een oplossing. Het bericht zorgde voor veel reacties. Eerder deze week was er 1,25 miljoen euro aan donaties binnengekomen. Daarnaast is de petitie voor het behoud van het centrum meer dan 100.000 keer ondertekend. Afgelopen donderdag werden de eerste 91.026 handtekeningen overhandigd aan Robert de Wit, vicevoorzitter van de Provinciale Staten van Groningen. De grote betrokkenheid en de gesprekken achter de schermen zijn aanleiding om het faillissement een week uit te stellen. Het WEC laat weten bijzonder dankbaar te zijn voor iedereen die doneert, tekent of actie voert. Bij betrokken overheden is ruimte ontstaan om verder te praten over de toekomst. Ook lopen er gesprekken met fondsen over mogelijke bijdragen. Dit heeft echter nog niet geleid tot definitieve afspraken over extra geld. Daarnaast hebben partijen uit de haven van Lauwersoog zich gemeld om te praten over samenwerking. Met crediteuren wordt gesproken over een regeling voor de openstaande schulden. De komende week wordt onderzocht of er genoeg middelen komen om de verplichtingen na te komen. Ook wordt gekeken of een gezonde exploitatie haalbaar is. Dat onderzoek is nu al gaande, maar de financiële situatie blijft kwetsbaar. Op vrijdag 30 oktober wordt de balans opnieuw opgemaakt. Dan volgt ook de beslissing of er genoeg concreet perspectief is om door te gaan. De petitie blijft in ieder geval tot en met woensdag open. Die dag spreekt de gemeenteraad van Het Hogeland over de toekomst van het centrum. Het team van het WEC zal de petitie die dag ook aanbieden aan de gemeente Het Hogeland.",
+    "locations": [
+      "Hogeland",
+      "Hogeland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hogeland",
+        "NL"
+      ],
+      [
+        "Hogeland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "WEC",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lauwersoog",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Robert de Wit",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      },
+      {
+        "company_name": "Provinciale Staten van Groningen",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected"
+    ]
+  },
+  "58238ef08bc9393ca6d6a46a024f0fc8": {
+    "feed": "Politie.nl",
+    "title": "Alerte buren zorgen voor aanhouding nepagent in Nijkerk",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/23/02-alerte-buren-zorgen-voor-aanhouding-nepagent-in-nijkerk.html",
+    "published": "Fri, 23 Oct 2026 14:17:00 GMT",
+    "summary": "Een 87-jarige vrouw en een 88-jarige man uit Nijkerk kregen op woensdag 21 oktober een nepagent voor hun deur. Een buurvrouw vertrouwde het niet, schakelde haar man in en belde 112. Daarop kon de politie de nepagent aanhouden.",
+    "full_text": "De slachtoffers werden die dag rond 16.45 uur gebeld door een zogenaamde rechercheur. Hij vertelde dat er een collega aan de deur zou komen om wat te controleren. Een half uur later stond er een nepagent aan de deur. Een alerte buurvrouw zag de jongeman voor de deur staan en vertrouwde de situatie niet. Ze schakelde haar man in om naar binnen te gaan en de jongeman aan te spreken. Ook werd gelijktijdig 112 gebeld. Agenten hebben de jongeman aangehouden. Het gaat om een minderjarige jongen uit Voorburg. Daarmee houdt het onderzoek van de politie niet op. Er wordt verder onderzoek gedaan naar de rol van de minderjarige verdachte en eventuele handlangers. Is het oké? Check het via 112 Het aantal incidenten met nepagenten is groot. De politie zal nooit bellen of aan de deur komen om bijvoorbeeld sieraden, geld of een pinpas op te halen. De politie adviseert om altijd 112 te bellen als er door een (vermoedelijke) oplichter wordt gebeld of als er een (vermoedelijke) oplichter aan de deur staat. De politie kan dan controleren of het gaat om een babbeltruc. Het allerbelangrijkste is: praat erover. Bij voorkeur met mensen op leeftijd, omdat juist zij vaak slachtoffer worden.",
+    "scraped_at": "2026-10-24T07:59:47.252210Z",
+    "id": "30246f503c384a275f2655e31781de7e90b57a09b2a8880e1b08c4aa09f77d84",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/23/02-alerte-buren-zorgen-voor-aanhouding-nepagent-in-nijkerk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De slachtoffers werden die dag rond 16.45 uur gebeld door een zogenaamde rechercheur. Hij vertelde dat er een collega aan de deur zou komen om wat te controleren. Een half uur later stond er een nepagent aan de deur. Een alerte buurvrouw zag de jongeman voor de deur staan en vertrouwde de situatie niet. Ze schakelde haar man in om naar binnen te gaan en de jongeman aan te spreken. Ook werd gelijktijdig 112 gebeld. Agenten hebben de jongeman aangehouden. Het gaat om een minderjarige jongen uit Voorburg. Daarmee houdt het onderzoek van de politie niet op. Er wordt verder onderzoek gedaan naar de rol van de minderjarige verdachte en eventuele handlangers. Is het oké? Check het via 112 Het aantal incidenten met nepagenten is groot. De politie zal nooit bellen of aan de deur komen om bijvoorbeeld sieraden, geld of een pinpas op te halen. De politie adviseert om altijd 112 te bellen als er door een (vermoedelijke) oplichter wordt gebeld of als er een (vermoedelijke) oplichter aan de deur staat. De politie kan dan controleren of het gaat om een babbeltruc. Het allerbelangrijkste is: praat erover. Bij voorkeur met mensen op leeftijd, omdat juist zij vaak slachtoffer worden.",
+    "locations": [
+      "Voorburg"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Voorburg",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "jongeman",
+        "sector_code": "unknown",
+        "sector_name": "Unclassified",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": []
   }
 }
