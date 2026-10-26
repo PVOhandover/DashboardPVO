@@ -84831,5 +84831,106 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "af00ec62b3f7b1a8cda56ca822a138bd": {
+    "feed": "Omroep West - Economie",
+    "title": "Bezorger van spullen van webshop krijgt niet betaald, eigenaar spoorloos",
+    "url": "https://www.omroepwest.nl/economie/5166211/bezorger-van-spullen-van-webshop-krijgt-niet-betaald-eigenaar-spoorloos",
+    "published": "Mon, 26 Oct 2026 05:15:00 GMT",
+    "summary": "De curator van de failliete Haagse webwinkel ASTOS Statue krijgt geen contact met de bestuurder. De webwinkel, die horloges en sieraden verkocht, betaalde de facturen niet meer waarna het failliet werd verklaard. Maar inmiddels is de eigenaar onvindbaar.",
+    "full_text": "DEN HAAG - De curator van de failliete Haagse webwinkel ASTOS Statue krijgt geen contact met de bestuurder. De webwinkel, die horloges en sieraden verkocht, betaalde de facturen niet meer waarna het failliet werd verklaard. Maar inmiddels is de eigenaar onvindbaar. ASTOS Statue verkocht online horloges, sieraden, brillen en aanverwante artikelen. Het bedrijf werd op 22 september failliet verklaard, nadat een bezorgdienst naar de rechter was gestapt vanwege onbetaalde rekeningen. De bezorgdienst verzorgde de verzending van bestellingen uit de webshop. Toen facturen onbetaald bleven, haalde de dienst een vonnis bij de rechter. Ook daarna werd niet betaald. Daarop vroeg de bezorgdienst het faillissement aan. De curator probeert sinds het faillissement contact te krijgen met de bestuurder, maar dat is tot nu toe niet gelukt, staat in het eerste faillissementenverslag. De curator onderzoekt de oorzaak van het faillissement en probeert de administratie boven water te krijgen. Ook is nog niet duidelijk hoeveel schuldeisers het bedrijf heeft. De curator beschikt niet over een lijst met schuldeisers en heeft daardoor nog niet iedereen kunnen aanschrijven. In de komende periode wil hij onder meer op basis van bankafschriften achterhalen welke partijen nog geld tegoed hebben. De curator tast behoorlijk in het duister. Zo heeft hij ook nog geen voorraden, bedrijfsmiddelen of andere bezittingen gevonden die hij kan verkopen om schuldeisers terug te betalen. Ook zijn er geen jaarrekeningen ingediend bij de Kamer van Koophandel. Het is daardoor nog onduidelijk of het bedrijf aan zijn wettelijke boekhoudverplichtingen heeft voldaan. ASTOS Statue werd in februari 2023 opgericht en stond ingeschreven op een adres in Den Haag. De curator ziet op dit moment geen mogelijkheden om het bedrijf voort te zetten. Hoeveel schulden er uiteindelijk blijken te zijn en of schuldeisers nog geld terugkrijgen, is nog niet bekend. De curator gaat verder met onderzoek doen.",
+    "scraped_at": "2026-10-26T08:40:54.222610Z",
+    "id": "e6c88df4f08fedf66332015d4a4cbc213a87ee483ea5dee864795b645422ae2d",
+    "canonical_url": "https://www.omroepwest.nl/economie/5166211/bezorger-van-spullen-van-webshop-krijgt-niet-betaald-eigenaar-spoorloos",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "DEN HAAG - De curator van de failliete Haagse webwinkel ASTOS Statue krijgt geen contact met de bestuurder. De webwinkel, die horloges en sieraden verkocht, betaalde de facturen niet meer waarna het failliet werd verklaard. Maar inmiddels is de eigenaar onvindbaar. ASTOS Statue verkocht online horloges, sieraden, brillen en aanverwante artikelen. Het bedrijf werd op 22 september failliet verklaard, nadat een bezorgdienst naar de rechter was gestapt vanwege onbetaalde rekeningen. De bezorgdienst verzorgde de verzending van bestellingen uit de webshop. Toen facturen onbetaald bleven, haalde de dienst een vonnis bij de rechter. Ook daarna werd niet betaald. Daarop vroeg de bezorgdienst het faillissement aan. De curator probeert sinds het faillissement contact te krijgen met de bestuurder, maar dat is tot nu toe niet gelukt, staat in het eerste faillissementenverslag. De curator onderzoekt de oorzaak van het faillissement en probeert de administratie boven water te krijgen. Ook is nog niet duidelijk hoeveel schuldeisers het bedrijf heeft. De curator beschikt niet over een lijst met schuldeisers en heeft daardoor nog niet iedereen kunnen aanschrijven. In de komende periode wil hij onder meer op basis van bankafschriften achterhalen welke partijen nog geld tegoed hebben. De curator tast behoorlijk in het duister. Zo heeft hij ook nog geen voorraden, bedrijfsmiddelen of andere bezittingen gevonden die hij kan verkopen om schuldeisers terug te betalen. Ook zijn er geen jaarrekeningen ingediend bij de Kamer van Koophandel. Het is daardoor nog onduidelijk of het bedrijf aan zijn wettelijke boekhoudverplichtingen heeft voldaan. ASTOS Statue werd in februari 2023 opgericht en stond ingeschreven op een adres in Den Haag. De curator ziet op dit moment geen mogelijkheden om het bedrijf voort te zetten. Hoeveel schulden er uiteindelijk blijken te zijn en of schuldeisers nog geld terugkrijgen, is nog niet bekend. De curator gaat verder met onderzoek doen.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "DEN HAAG",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "ASTOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "ASTOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Kamer van Koophandel",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "ASTOS",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "aa08b06cfb7618140091cbafb93162a0": {
+    "feed": "Politie.nl",
+    "title": "Drie verdachten aangehouden bij bedrijf in Raamsdonksveer",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/25/08-drie-verdachten-aangehouden-bij-bedrijf-in-raamsdonksveer.html",
+    "published": "Sun, 25 Oct 2026 11:36:00 GMT",
+    "summary": "Drie mannen zijn zaterdagavond 24 oktober aangehouden bij een bedrijf aan de Lissenveld. In hun auto werden inbrekerswerktuigen aangetroffen.",
+    "full_text": "Het bedrijf produceert pneumatische apparatuur. Dit is apparatuur die werkt op perslucht en onder andere door de brandweer wordt gebruikt bij hulpverleningswerkzaamheden. De laatste tijd wordt op verschillende plekken in Nederland ingebroken bij brandweerkazernes, waarbij dergelijke apparatuur wordt gestolen. Daarom wordt er extra gesurveilleerd in de omgeving van het bedrijf. Rond 19.50 uur zag een surveillerende agent drie personen bij het bedrijf staan, achter de beveiligingshekken. Omdat het bedrijf op dat moment gesloten was, vond de agent de situatie verdacht. Bij een controle van hun auto werden inbrekerswerktuigen aangetroffen. De drie mannen van 23, 25 en 40 jaar oud, zonder vaste woon- of verblijfplaats, zijn aangehouden op verdenking van diefstal door middel van inbraak.",
+    "scraped_at": "2026-10-26T08:40:19.752004Z",
+    "id": "ad0218428288713e4cda8879654b53a1a7465d4ab3d627876bd99d6f8b81370d",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/25/08-drie-verdachten-aangehouden-bij-bedrijf-in-raamsdonksveer.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het bedrijf produceert pneumatische apparatuur. Dit is apparatuur die werkt op perslucht en onder andere door de brandweer wordt gebruikt bij hulpverleningswerkzaamheden. De laatste tijd wordt op verschillende plekken in Nederland ingebroken bij brandweerkazernes, waarbij dergelijke apparatuur wordt gestolen. Daarom wordt er extra gesurveilleerd in de omgeving van het bedrijf. Rond 19.50 uur zag een surveillerende agent drie personen bij het bedrijf staan, achter de beveiligingshekken. Omdat het bedrijf op dat moment gesloten was, vond de agent de situatie verdacht. Bij een controle van hun auto werden inbrekerswerktuigen aangetroffen. De drie mannen van 23, 25 en 40 jaar oud, zonder vaste woon- of verblijfplaats, zijn aangehouden op verdenking van diefstal door middel van inbraak.",
+    "locations": [
+      "Nederland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Nederland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
