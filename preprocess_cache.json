@@ -84932,5 +84932,82 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "2e60c960408ef21ef2a4a438a5bd4618": {
+    "feed": "Politie.nl",
+    "title": "Getuigen gezocht na explosie bij bedrijfspand Noordwijk",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/26/06-getuigen-gezocht-na-explosie-bij-bedrijfspand-in-noordwijk.html",
+    "published": "Mon, 26 Oct 2026 14:39:00 GMT",
+    "summary": "Bij een bedrijfspand aan de De Scheysloot heeft zondagavond 25 oktober een explosie plaatsgevonden. Het onderzoek naar de toedracht is in volle gang en de politie roept getuigen op om zich te melden.",
+    "full_text": "De explosie werd aan het eind van de avond, omstreeks 23.40 uur, meerdere keren bij de politie gemeld. Voorafgaand aan de melding was in de omgeving een flinke knal gehoord. Het pand raakte als gevolg van de explosie beschadigd. Voor zover bekend raakte niemand gewond. Agenten maakten direct een zoekslag in de omgeving en konden daarbij een verdachte aanhouden. Het gaat om een 15-jarige jongen uit Zoetermeer. De politie sluit meer aanhoudingen niet uit. Getuigen Het onderzoek naar de toedracht van de explosie is in volle gang en de politie komt graag in contact met getuigen. Heeft u iets opvallends gezien zondagavond 25 oktober in de omgeving van het bedrijfspand aan de De Scheysloot? Of heeft u op een andere manier informatie die in dit onderzoek van belang kan zijn? Laat het dan alstublieft weten. Dat kan via onderstaande mogelijkheden. Gevaarzetting Het plaatsen van explosieven is gevaarlijk, de gevaarzetting voor omwonenden, voorbijgangers, ondernemers én hulpverleners is vanzelfsprekend groot. Zwaar, voor consumenten verboden vuurwerk, jerrycans met brandbare vloeistoffen en zelfgemaakte explosieven zorgen voor levensgevaarlijke situaties en horen niet thuis in de openbare ruimte. Melden helpt! Ziet u verdachte situaties, bel dan altijd 112. Heeft u informatie over (de achtergronden van) een explosie of andere vormen van criminaliteit? Meld het dan ook. Dat kan via de opsporingstiplijn (0800-6070). Tippen kan ook via Meld Misdaad Anoniem (0800-7000) of via onderstaand tipformulier.",
+    "scraped_at": "2026-10-27T08:48:55.781654Z",
+    "id": "8850edac5dfb72f78a0df2b2d7b6760ca228f36e86ab8ee4c631253152d7e453",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/26/06-getuigen-gezocht-na-explosie-bij-bedrijfspand-in-noordwijk.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De explosie werd aan het eind van de avond, omstreeks 23.40 uur, meerdere keren bij de politie gemeld. Voorafgaand aan de melding was in de omgeving een flinke knal gehoord. Het pand raakte als gevolg van de explosie beschadigd. Voor zover bekend raakte niemand gewond. Agenten maakten direct een zoekslag in de omgeving en konden daarbij een verdachte aanhouden. Het gaat om een 15-jarige jongen uit Zoetermeer. De politie sluit meer aanhoudingen niet uit. Getuigen Het onderzoek naar de toedracht van de explosie is in volle gang en de politie komt graag in contact met getuigen. Heeft u iets opvallends gezien zondagavond 25 oktober in de omgeving van het bedrijfspand aan de De Scheysloot? Of heeft u op een andere manier informatie die in dit onderzoek van belang kan zijn? Laat het dan alstublieft weten. Dat kan via onderstaande mogelijkheden. Gevaarzetting Het plaatsen van explosieven is gevaarlijk, de gevaarzetting voor omwonenden, voorbijgangers, ondernemers én hulpverleners is vanzelfsprekend groot. Zwaar, voor consumenten verboden vuurwerk, jerrycans met brandbare vloeistoffen en zelfgemaakte explosieven zorgen voor levensgevaarlijke situaties en horen niet thuis in de openbare ruimte. Melden helpt! Ziet u verdachte situaties, bel dan altijd 112. Heeft u informatie over (de achtergronden van) een explosie of andere vormen van criminaliteit? Meld het dan ook. Dat kan via de opsporingstiplijn (0800-6070). Tippen kan ook via Meld Misdaad Anoniem (0800-7000) of via onderstaand tipformulier.",
+    "locations": [
+      "Melden"
+    ],
+    "country": "BE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Melden",
+        "BE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "5feec92c57616b87ec30a3cd1207cb7c": {
+    "feed": "Politie.nl",
+    "title": "38-jarige man overleden door omgevallen boom",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/26/38-jarige-man-overleden-na-omgevallen-boom.html",
+    "published": "Mon, 26 Oct 2026 09:52:00 GMT",
+    "summary": "Bij een noodlottig ongeval op de Sloterweg in Nieuw-West is zondag 25 oktober een fietser overleden nadat een boom op hem is gevallen.",
+    "full_text": "Eind van de middag ontving de politie een melding van iemand die onder een omgevallen boom zou liggen. Hulpdiensten worden massaal ingezet, maar al snel blijkt de persoon helaas overleden. Het slachtoffer is een 38-jarige man uit Amsterdam. Hoe het ongeval precies heeft kunnen gebeuren is nog in onderzoek. We wensen de nabestaanden veel sterkte toe. Slachtofferhulp Het zien of meemaken van zo’n heftige gebeurtenis kan zeer ingrijpend zijn. Je kunt hiervoor altijd terecht bij Slachtofferhulp voor steun. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp een bericht met verzoek tot contact achter.",
+    "scraped_at": "2026-10-27T08:48:55.783252Z",
+    "id": "a1789e384fc41ad8d180292445cb6e81747d3b3f36e0098c1c0833fee5694131",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/26/38-jarige-man-overleden-na-omgevallen-boom.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Eind van de middag ontving de politie een melding van iemand die onder een omgevallen boom zou liggen. Hulpdiensten worden massaal ingezet, maar al snel blijkt de persoon helaas overleden. Het slachtoffer is een 38-jarige man uit Amsterdam. Hoe het ongeval precies heeft kunnen gebeuren is nog in onderzoek. We wensen de nabestaanden veel sterkte toe. Slachtofferhulp Het zien of meemaken van zo’n heftige gebeurtenis kan zeer ingrijpend zijn. Je kunt hiervoor altijd terecht bij Slachtofferhulp voor steun. De ondersteuning die Slachtofferhulp biedt is altijd gratis. Bel 0900-0101 of laat op de website van Slachtofferhulp een bericht met verzoek tot contact achter.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
