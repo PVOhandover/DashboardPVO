@@ -86048,5 +86048,289 @@
     "all_sectors_in_article": [
       "47.7"
     ]
+  },
+  "fa69710a936b8efb10f270b76231017e": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws zaterdag 31 oktober: Sloopwoning met rieten dak in Harkstede volledig afgebrand",
+    "url": "https://www.rtvnoord.nl/112/1449398/112-nieuws-zaterdag-31-oktober-sloopwoning-met-rieten-dak-in-harkstede-volledig-afgebrand",
+    "published": "Sat, 31 Oct 2026 18:59:19 GMT",
+    "summary": "In dit 112-blog houden we je deze zaterdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "In een sloopwoning aan de Kooilaan in Harkstede is brand ontstaan. De brandweer merkt dat de brand zich snel verspreidt, omdat er veel riet in de woning ligt. Om genoeg bluswater te hebben heeft de brandweer opgeschaald naar middelbrand. Daarvoor komt onder andere een grootwatertransport. Een mobiele kraan helpt om delen uit elkaar te halen. Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. De brand in een sloopwoning in Harkstede is onder controle. De brandweer gaat nog wel door met nablussen. Het pand zal verder gesloopt worden om bij alle brandhaarden te kunnen. De politie gaat onderzoek doen naar de oorzaak van de brand. Update: Het oude pand is volledig afgebrand. Omdat het in een afgelegen omgeving stond, is er volgens de brandweer weinig overlast voor de omgeving. Ook het gebrek aan wind helpt, daardoor kan de rook opstijgen. De brandweer is uitgerukt voor een gaslek aan de Wolveschans in Leek. Brandweermannen zijn een woning binnengegaan. Of er daadwerkelijk gas is gemeten, is nog onduidelijk. Een auto is afgelopen nacht bij het strand aan Hoogwatum in Bierum in een sloot beland. De brandweer, een ambulance en de politie rukten uit. Volgens een aanwezige persfotograaf hebben hulpverleners de bestuurder uit de auto gehaald. Over zijn toestand is niets bekend. De auto is uit het water getakeld. Een automobilist is afgelopen nacht achterop een geparkeerde auto gereden op de Damsterweg in Siddeburen. De stilstaande auto stond niet in een parkeervak. Beide auto’s raakten flink beschadigd en moesten worden weggesleept. Een motorrijder en een fietser zijn zaterdagmorgen op elkaar gebotst op de Hogelandsterweg in Delfzijl. De fietser is behandeld door ambulancepersoneel. De weg is enige tijd deels afgesloten geweest.",
+    "scraped_at": "2026-11-01T10:17:56.024207Z",
+    "id": "aca1a7a970721e81e9cee07d834903bcbefab694bacfd88c1981e94f3023288e",
+    "canonical_url": "https://www.rtvnoord.nl/112/1449398/112-nieuws-zaterdag-31-oktober-sloopwoning-met-rieten-dak-in-harkstede-volledig-afgebrand",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In een sloopwoning aan de Kooilaan in Harkstede is brand ontstaan. De brandweer merkt dat de brand zich snel verspreidt, omdat er veel riet in de woning ligt. Om genoeg bluswater te hebben heeft de brandweer opgeschaald naar middelbrand. Daarvoor komt onder andere een grootwatertransport. Een mobiele kraan helpt om delen uit elkaar te halen. Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. De brand in een sloopwoning in Harkstede is onder controle. De brandweer gaat nog wel door met nablussen. Het pand zal verder gesloopt worden om bij alle brandhaarden te kunnen. De politie gaat onderzoek doen naar de oorzaak van de brand. Update: Het oude pand is volledig afgebrand. Omdat het in een afgelegen omgeving stond, is er volgens de brandweer weinig overlast voor de omgeving. Ook het gebrek aan wind helpt, daardoor kan de rook opstijgen. De brandweer is uitgerukt voor een gaslek aan de Wolveschans in Leek. Brandweermannen zijn een woning binnengegaan. Of er daadwerkelijk gas is gemeten, is nog onduidelijk. Een auto is afgelopen nacht bij het strand aan Hoogwatum in Bierum in een sloot beland. De brandweer, een ambulance en de politie rukten uit. Volgens een aanwezige persfotograaf hebben hulpverleners de bestuurder uit de auto gehaald. Over zijn toestand is niets bekend. De auto is uit het water getakeld. Een automobilist is afgelopen nacht achterop een geparkeerde auto gereden op de Damsterweg in Siddeburen. De stilstaande auto stond niet in een parkeervak. Beide auto’s raakten flink beschadigd en moesten worden weggesleept. Een motorrijder en een fietser zijn zaterdagmorgen op elkaar gebotst op de Hogelandsterweg in Delfzijl. De fietser is behandeld door ambulancepersoneel. De weg is enige tijd deels afgesloten geweest.",
+    "locations": [
+      "Harkstede"
+    ],
+    "country": "NL",
+    "country_score": 0.8,
+    "country_evidence": [
+      [
+        "Harkstede",
+        "NL"
+      ],
+      [
+        "Harkstede",
+        "NL"
+      ],
+      [
+        "Leek",
+        "DE"
+      ],
+      [
+        "Siddeburen",
+        "NL"
+      ],
+      [
+        "Delfzijl",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615852497031,
+    "sme_probability": 0.7071355649089452,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Hoogwatum",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "6384ad289f650a1290d8c9d5c7aaadfa": {
+    "feed": "L1 Nieuws",
+    "title": "Politie massaal aanwezig voor aangekondigde rellen, maar dat bleek niet nodig",
+    "url": "https://www.l1nieuws.nl/nieuws/3265178/politie-massaal-aanwezig-voor-aangekondigde-rellen-maar-dat-bleek-niet-nodig",
+    "published": "Sat, 31 Oct 2026 21:18:51 GMT",
+    "summary": "Het is zaterdag rustig gebleven in het centrum van Maastricht. De politie was massaal op de been vanwege de aangekondigde rellen en ook ondernemers en winkeliers bereidden zich goed voor.",
+    "full_text": "Het is zaterdag rustig gebleven in het centrum van Maastricht. De politie was massaal op de been vanwege de aangekondigde rellen en ook ondernemers en winkeliers bereidden zich goed voor. Maar dat bleek niet nodig. Het bleef de hele dag rustig in de binnenstad van Maastricht, op het gebruikelijk winkelend publiek en toeristen na. De politie was zichtbaar aanwezig en enkele winkels hadden de ruiten uit voorzorg afgedekt. Maar op het Vrijthof hing een gemoedelijke sfeer. De protesten die rond 14:00 uur werden aangekondigd, liepen af met een sisser. Er zat alleen een groepje MVV-fans op het terras op het Vrijthof en rond 16:00 uur werden mensen om hun identiteitsbewijs gevraagd. Maar er vonden geen ontregelende acties plaats. Mogelijk omdat vooraf bekend was dat er veel politie aanwezig zou zijn. Dat er meer agenten op de been waren dan normaal, dat was duidelijk. Hoeveel agenten daadwerkelijk in het centrum liepen, is niet duidelijk. Enkele jongeren werd naar een identiteitsbewijs gevraagd, maar de angst voor ongeregeldheden, vernielingen en plunderingen bleek onnodig.",
+    "scraped_at": "2026-11-01T10:16:13.569745Z",
+    "id": "b2746b21c6f537f8205fc8529fec4542ff2aa7040ba108035cccc12d57d074f3",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3265178/politie-massaal-aanwezig-voor-aangekondigde-rellen-maar-dat-bleek-niet-nodig",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het is zaterdag rustig gebleven in het centrum van Maastricht. De politie was massaal op de been vanwege de aangekondigde rellen en ook ondernemers en winkeliers bereidden zich goed voor. Maar dat bleek niet nodig. Het bleef de hele dag rustig in de binnenstad van Maastricht, op het gebruikelijk winkelend publiek en toeristen na. De politie was zichtbaar aanwezig en enkele winkels hadden de ruiten uit voorzorg afgedekt. Maar op het Vrijthof hing een gemoedelijke sfeer. De protesten die rond 14:00 uur werden aangekondigd, liepen af met een sisser. Er zat alleen een groepje MVV-fans op het terras op het Vrijthof en rond 16:00 uur werden mensen om hun identiteitsbewijs gevraagd. Maar er vonden geen ontregelende acties plaats. Mogelijk omdat vooraf bekend was dat er veel politie aanwezig zou zijn. Dat er meer agenten op de been waren dan normaal, dat was duidelijk. Hoeveel agenten daadwerkelijk in het centrum liepen, is niet duidelijk. Enkele jongeren werd naar een identiteitsbewijs gevraagd, maar de angst voor ongeregeldheden, vernielingen en plunderingen bleek onnodig.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "56.3",
+      "sector_name": "Beverage serving activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "56.3"
+    ]
+  },
+  "e51a7e274fc4a6bdb385badaaf56fc64": {
+    "feed": "L1 Nieuws",
+    "title": "Maastricht bereidt zich voor op mogelijke rellen: politie en handhaving zichtbaar aanwezig",
+    "url": "https://www.l1nieuws.nl/nieuws/3264879/maastricht-bereidt-zich-voor-op-mogelijke-rellen-politie-en-handhaving-zichtbaar-aanwezig",
+    "published": "Fri, 30 Oct 2026 16:56:39 GMT",
+    "summary": "Maastricht bereidt zich voor op mogelijke ongeregeldheden zaterdag. De politie en handhaving zullen zichtbaar aanwezig zijn in de stad. Dat schrijft burgemeester Wim Hillenaar in een open brief aan ondernemers, die zich zorgen maken over de oproepen op sociale media om te gaan rellen.",
+    "full_text": "Maastricht bereidt zich voor op mogelijke ongeregeldheden zaterdag. De politie en handhaving zullen zichtbaar aanwezig zijn in de stad. Dat schrijft burgemeester Wim Hillenaar in een open brief aan ondernemers, die zich zorgen maken over de oproepen op sociale media om te gaan rellen. De brief is gericht aan ondernemers die zich zorgen maken over wat er zaterdag kan gebeuren. Via sociale media worden jongeren opgeroepen om in verschillende Nederlandse steden, waaronder Maastricht, samen te komen. In sommige berichten wordt gesproken over rellen, vernielingen en plunderingen. De burgemeester benadrukt dat de stad zich zo goed mogelijk voorbereidt op de mogelijke onrust. De lokale driehoek (bestaande uit de burgemeester, de politie en het Openbaar Ministerie) is nauw betrokken. Zo werd er bijvoorbeeld een Staf Grootschalig en Bijzonder Optreden (SGBO) ingericht. Die moet ervoor zorgen dat de politie de situatie nauwlettend kan volgen, de inzet goed kan coördineren en snel kan handelen als dat nodig is. \"Ik realiseer mij dat dit de onzekerheid niet volledig wegneemt. Maar we zijn voorbereid om te handelen als de situatie daarom vraagt\", schrijft Hillenaar. \"We zijn er om bezoekers, ondernemers en medewerkers zo goed mogelijk te beschermen.\" Hillenaar erkent dat de onzekerheid voor ondernemers groot kan zijn, omdat vooraf niet precies te voorspellen is wat er gaat gebeuren. \"We weten simpelweg niet exact wat we kunnen verwachten. Of u aanvullende maatregelen voor uw eigen onderneming nodig vindt, blijft daarom een afweging die u zelf het beste kunt maken\", vertelt de burgemeester. De gemeente en de politie volgen de situatie en bereiden zich voor op mogelijke ongeregeldheden. Of de oproepen op sociale media daadwerkelijk tot onrust leiden, is nog niet duidelijk. \"Samen met u hoop ik bovenal dat het rustig blijft\", besluit de burgemeester in zijn brief.",
+    "scraped_at": "2026-11-01T10:16:33.105594Z",
+    "id": "6b0138f25f63e51524132f94abc5273a895ef9acb1308e290feb8ee6edbcb6f5",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3264879/maastricht-bereidt-zich-voor-op-mogelijke-rellen-politie-en-handhaving-zichtbaar-aanwezig",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Maastricht bereidt zich voor op mogelijke ongeregeldheden zaterdag. De politie en handhaving zullen zichtbaar aanwezig zijn in de stad. Dat schrijft burgemeester Wim Hillenaar in een open brief aan ondernemers, die zich zorgen maken over de oproepen op sociale media om te gaan rellen. De brief is gericht aan ondernemers die zich zorgen maken over wat er zaterdag kan gebeuren. Via sociale media worden jongeren opgeroepen om in verschillende Nederlandse steden, waaronder Maastricht, samen te komen. In sommige berichten wordt gesproken over rellen, vernielingen en plunderingen. De burgemeester benadrukt dat de stad zich zo goed mogelijk voorbereidt op de mogelijke onrust. De lokale driehoek (bestaande uit de burgemeester, de politie en het Openbaar Ministerie) is nauw betrokken. Zo werd er bijvoorbeeld een Staf Grootschalig en Bijzonder Optreden (SGBO) ingericht. Die moet ervoor zorgen dat de politie de situatie nauwlettend kan volgen, de inzet goed kan coördineren en snel kan handelen als dat nodig is. \"Ik realiseer mij dat dit de onzekerheid niet volledig wegneemt. Maar we zijn voorbereid om te handelen als de situatie daarom vraagt\", schrijft Hillenaar. \"We zijn er om bezoekers, ondernemers en medewerkers zo goed mogelijk te beschermen.\" Hillenaar erkent dat de onzekerheid voor ondernemers groot kan zijn, omdat vooraf niet precies te voorspellen is wat er gaat gebeuren. \"We weten simpelweg niet exact wat we kunnen verwachten. Of u aanvullende maatregelen voor uw eigen onderneming nodig vindt, blijft daarom een afweging die u zelf het beste kunt maken\", vertelt de burgemeester. De gemeente en de politie volgen de situatie en bereiden zich voor op mogelijke ongeregeldheden. Of de oproepen op sociale media daadwerkelijk tot onrust leiden, is nog niet duidelijk. \"Samen met u hoop ik bovenal dat het rustig blijft\", besluit de burgemeester in zijn brief.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "not_affected",
+      "sector_name": "Not affected by incident"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Wim Hillenaar",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "SGBO",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "00"
+    ]
+  },
+  "4b435aff857a6c69db0d87098d666ac3": {
+    "feed": "Omroep West - Economie",
+    "title": "Wethouder wil onderzoeken of schade winkeliers verhaald kan worden na oproepen tot plundering",
+    "url": "https://www.omroepwest.nl/economie/5168959/wethouder-wil-onderzoeken-of-schade-winkeliers-verhaald-kan-worden-na-oproepen-tot-plundering",
+    "published": "Sun, 01 Nov 2026 08:32:40 GMT",
+    "summary": "De Haagse wethouder Richard de Mos (Economie en Binnenstad) wil onderzoeken hoe personen die de voorbije dagen via sociale media hebben opgeroepen tot plunderingen en geweld financieel aansprakelijk kunnen worden gesteld voor de schade die Haagse ondernemers hierdoor hebben geleden. Dat heeft hij zondag laten weten, schrijft persbureau ANP.",
+    "full_text": "DEN HAAG - De Haagse wethouder Richard de Mos (Economie en Binnenstad) wil onderzoeken hoe personen die de voorbije dagen via sociale media hebben opgeroepen tot plunderingen en geweld financieel aansprakelijk kunnen worden gesteld voor de schade die Haagse ondernemers hierdoor hebben geleden. Dat heeft hij zondag laten weten, schrijft persbureau ANP. Na oproepen via sociale media werd zaterdag rekening gehouden met hevige protesten in Den Haag. In de binnenstad besloten veel winkels uit voorzorg hun puien dicht te timmeren . Plunderingen bleven uiteindelijk uit, maar de economische schade lijkt toch aanzienlijk. Ondernemers in de binnenstad spreken van vele duizenden euro's, vooral omdat zij omzet misliepen door de gesloten winkels en het wegblijven van klandizie. 'Het is een enorme opluchting dat de gevreesde plunderingen zijn uitgebleven ', aldus De Mos. 'Maar daarmee is de kous niet af. Het is toch van de zotte dat hardwerkende ondernemers hun winkels moeten barricaderen omdat figuren op internet oproepen om de boel kort en klein te slaan?' Hij vervolgt: 'Die ondernemers betalen voor houten platen, beveiligers en verloren omzet. Waarom zou die rekening bij hen moeten blijven liggen?' De Mos wil samen met ondernemersorganisaties en juridische deskundigen eerst gaan kijken welke mogelijkheden er zijn om schade te verhalen. Op sociale media zijn de afgelopen dagen meerdere oproepen gedeeld voor zogenoemde Gen Z-protesten. Onduidelijk is echter wie die oproepen hebben geplaatst. De politie heeft zaterdag wel 34 mensen aangehouden tijdens de onrust in Den Haag. Het overgrote deel van hen is minderjarig. Ze werden aangehouden voor zaken als openlijke geweldpleging, het dragen van gezichtsbedekkende kleding en het bezit van verboden middelen, zoals illegaal vuurwerk.",
+    "scraped_at": "2026-11-01T10:16:51.997005Z",
+    "id": "de845e2ab6fc444bde1c90e44a2544e0250a6fdfe7405cd549d673d082fbbe7d",
+    "canonical_url": "https://www.omroepwest.nl/economie/5168959/wethouder-wil-onderzoeken-of-schade-winkeliers-verhaald-kan-worden-na-oproepen-tot-plundering",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "DEN HAAG - De Haagse wethouder Richard de Mos (Economie en Binnenstad) wil onderzoeken hoe personen die de voorbije dagen via sociale media hebben opgeroepen tot plunderingen en geweld financieel aansprakelijk kunnen worden gesteld voor de schade die Haagse ondernemers hierdoor hebben geleden. Dat heeft hij zondag laten weten, schrijft persbureau ANP. Na oproepen via sociale media werd zaterdag rekening gehouden met hevige protesten in Den Haag. In de binnenstad besloten veel winkels uit voorzorg hun puien dicht te timmeren . Plunderingen bleven uiteindelijk uit, maar de economische schade lijkt toch aanzienlijk. Ondernemers in de binnenstad spreken van vele duizenden euro's, vooral omdat zij omzet misliepen door de gesloten winkels en het wegblijven van klandizie. 'Het is een enorme opluchting dat de gevreesde plunderingen zijn uitgebleven ', aldus De Mos. 'Maar daarmee is de kous niet af. Het is toch van de zotte dat hardwerkende ondernemers hun winkels moeten barricaderen omdat figuren op internet oproepen om de boel kort en klein te slaan?' Hij vervolgt: 'Die ondernemers betalen voor houten platen, beveiligers en verloren omzet. Waarom zou die rekening bij hen moeten blijven liggen?' De Mos wil samen met ondernemersorganisaties en juridische deskundigen eerst gaan kijken welke mogelijkheden er zijn om schade te verhalen. Op sociale media zijn de afgelopen dagen meerdere oproepen gedeeld voor zogenoemde Gen Z-protesten. Onduidelijk is echter wie die oproepen hebben geplaatst. De politie heeft zaterdag wel 34 mensen aangehouden tijdens de onrust in Den Haag. Het overgrote deel van hen is minderjarig. Ze werden aangehouden voor zaken als openlijke geweldpleging, het dragen van gezichtsbedekkende kleding en het bezit van verboden middelen, zoals illegaal vuurwerk.",
+    "locations": [
+      "Den Haag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Den Haag",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "DEN HAAG",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Richard de Mos",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "ANP",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "5a2f2897de85a8187a68cf01b196027f": {
+    "feed": "Politie.nl",
+    "title": "Schietincident Karel Doormanstraat",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/31/07-schietincident-karel-doormanlaan.html",
+    "published": "Sat, 31 Oct 2026 11:46:00 GMT",
+    "summary": "Vannacht rond 05.00 heeft er een schietincident plaatsgevonden op de Karel Doormanstraat in Rotterdam. Daarbij is een man (27) gewond geraakt. Hij is met de ambulance naar het ziekenhuis gebracht en verkeerd buiten levensgevaar.",
+    "full_text": "Er zijn een vuurwapen en meerdere hulzen aangetroffen. Wat er aan het incident voorafging wordt nog onderzocht. Het lijkt erop dat er buiten een uitgaansgelegenheid een conflict is geweest waarna er is geschoten. Er zijn twee mannelijke verdachten uit Rotterdam aangehouden van 24 en 28 jaar oud. De politie doet onderzoek. Heb je iets gezien of gehoord? Bel 0900-8844.",
+    "scraped_at": "2026-11-01T10:16:08.451170Z",
+    "id": "560bc9e321c96f2bc0af6283e9bbaaa75f956f80c059a4aac73514efbed0b2fd",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/31/07-schietincident-karel-doormanlaan.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Er zijn een vuurwapen en meerdere hulzen aangetroffen. Wat er aan het incident voorafging wordt nog onderzocht. Het lijkt erop dat er buiten een uitgaansgelegenheid een conflict is geweest waarna er is geschoten. Er zijn twee mannelijke verdachten uit Rotterdam aangehouden van 24 en 28 jaar oud. De politie doet onderzoek. Heb je iets gezien of gehoord? Bel 0900-8844.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "42156cd5436e6939fa3d7590aca2f5b4": {
+    "feed": "Politie.nl",
+    "title": "Twee vrouwen aangehouden voor oplichting door nepagenten",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/31/twee-vrouwen-aangehouden-voor-oplichting-door-nepagenten.html",
+    "published": "Sat, 31 Oct 2026 10:34:00 GMT",
+    "summary": "Dankzij de alertheid van een 89-jarige vrouw en haar buurvrouw heeft de politie gistermiddag twee vrouwen aangehouden op verdenking van oplichting door nepagenten. De vrouwen, 20 en 23 jaar oud en beiden afkomstig uit Landgraaf, deden zich voor als rechercheurs en wilden bij de bewoonster aan de Houbiersstraat in Simpelveld waardevolle bezittingen komen taxeren.",
+    "full_text": "De 89-jarige vrouw werd telefonisch benaderd door iemand die zich voordeed als rechercheur. De beller vertelde dat hij bezig was met een onderzoek en dat er personen bij haar langs zouden komen om haar waardevolle spullen te taxeren en te verzekeren. De vrouw vertrouwde het telefoontje niet en nam contact op met haar buurvrouw. Die nam vervolgens het telefoongesprek over, maar de persoon aan de andere kant van de lijn gaf aan uitsluitend met de bewoonster te willen spreken. Ondanks de argwaan van de bewoonster en haar buurvrouw, en een bijna twee uur durend telefoongesprek, verschenen de verdachten uiteindelijk toch bij de woning. De politie kwam ter plaatse en hield één verdachte direct aan. De tweede verdachte reed weg, maar werd later alsnog aangehouden. Mogelijk betrokken bij eerdere oplichting Gisteren heeft de politie aanvullend onderzoek verricht in woningen aan de Abdissenlaan en de Dominicus Werdenstraat in Landgraaf. Uit het onderzoek kwam naar voren dat één van de aangehouden vrouwen ook betrokken is geweest bij een soortgelijke oplichtingszaak die drie dagen eerder plaatsvond. De politie onderzoekt nog of de verdachten ook bij andere oplichtingszaken in de regio betrokken zijn geweest. Voorkom dat u slachtoffer wordt De politie waarschuwt voor oplichters die zich voordoen als politieagent of rechercheur. Zij proberen op deze manier het vertrouwen van bewoners te winnen om vervolgens waardevolle spullen in handen te krijgen. De politie komt nooit aan de deur om waardevolle spullen, zoals sieraden of geld, te taxeren of mee te nemen om deze zogenaamd veilig te stellen. Vertrouwt u een telefoontje of bezoek niet? Geef dan geen persoonlijke gegevens of waardevolle spullen af. Bel bij twijfel zelf de politie via 0900-8844. Is er sprake van een verdachte situatie waarbij direct politie nodig is? Bel dan 112.",
+    "scraped_at": "2026-11-01T10:16:08.451987Z",
+    "id": "d27086f4dad96f91e8cd688aecb4b151a56775b61115508a0363165a2293e4d9",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/oktober/31/twee-vrouwen-aangehouden-voor-oplichting-door-nepagenten.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De 89-jarige vrouw werd telefonisch benaderd door iemand die zich voordeed als rechercheur. De beller vertelde dat hij bezig was met een onderzoek en dat er personen bij haar langs zouden komen om haar waardevolle spullen te taxeren en te verzekeren. De vrouw vertrouwde het telefoontje niet en nam contact op met haar buurvrouw. Die nam vervolgens het telefoongesprek over, maar de persoon aan de andere kant van de lijn gaf aan uitsluitend met de bewoonster te willen spreken. Ondanks de argwaan van de bewoonster en haar buurvrouw, en een bijna twee uur durend telefoongesprek, verschenen de verdachten uiteindelijk toch bij de woning. De politie kwam ter plaatse en hield één verdachte direct aan. De tweede verdachte reed weg, maar werd later alsnog aangehouden. Mogelijk betrokken bij eerdere oplichting Gisteren heeft de politie aanvullend onderzoek verricht in woningen aan de Abdissenlaan en de Dominicus Werdenstraat in Landgraaf. Uit het onderzoek kwam naar voren dat één van de aangehouden vrouwen ook betrokken is geweest bij een soortgelijke oplichtingszaak die drie dagen eerder plaatsvond. De politie onderzoekt nog of de verdachten ook bij andere oplichtingszaken in de regio betrokken zijn geweest. Voorkom dat u slachtoffer wordt De politie waarschuwt voor oplichters die zich voordoen als politieagent of rechercheur. Zij proberen op deze manier het vertrouwen van bewoners te winnen om vervolgens waardevolle spullen in handen te krijgen. De politie komt nooit aan de deur om waardevolle spullen, zoals sieraden of geld, te taxeren of mee te nemen om deze zogenaamd veilig te stellen. Vertrouwt u een telefoontje of bezoek niet? Geef dan geen persoonlijke gegevens of waardevolle spullen af. Bel bij twijfel zelf de politie via 0900-8844. Is er sprake van een verdachte situatie waarbij direct politie nodig is? Bel dan 112.",
+    "locations": [
+      "Landgraaf"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Landgraaf",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615609480185,
+    "sme_probability": 0.7071355340494057,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
