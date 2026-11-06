@@ -87377,5 +87377,277 @@
       }
     ],
     "all_sectors_in_article": []
+  },
+  "33cea923c6bc40953ab87fca2783d188": {
+    "feed": "RTV Noord",
+    "title": "Marechaussee vanaf maandag in Ter Apel door aanhoudende overlast asielzoekers",
+    "url": "https://www.rtvnoord.nl/politiek/1450558/marechaussee-vanaf-maandag-in-ter-apel-door-aanhoudende-overlast-asielzoekers",
+    "published": "Thu, 05 Nov 2026 14:56:49 GMT",
+    "summary": "Van winkeldiefstal tot steekpartijen: de overlast van kansarme asielzoekers ('veiligelanders') in het centrum van Ter Apel is een aanhoudend probleem. Vanaf maandag rijdt de Koninklijke Marechaussee door het dorp om de politie te ondersteunen.",
+    "full_text": "Van winkeldiefstal tot steekpartijen: de overlast van kansarme asielzoekers ('veiligelanders') in het centrum van Ter Apel is een aanhoudend probleem. Vanaf maandag rijdt de Koninklijke Marechaussee door het dorp om de politie te ondersteunen. Burgemeester Jaap Velema van Westerwolde kondige vorige maand de komst van de marechaussee aan. De gemeente vroeg om hulp vanwege het grote aantal incidenten met deze groep asielzoekers. Er zijn gemiddeld twintig winkeldiefstallen per week in het centrum van Ter Apel. In Ter Apel verblijven relatief veel jonge mannen uit landen als Marokko en Algerije. Zij starten hun asielprocedure in het aanmeldcentrum, maar maken vrijwel geen kans op een verblijfsvergunning. Door een tekort aan opvangplekken stromen ze niet door naar andere azc’s. Sommigen weigeren mee te werken aan hun uitzetting als blijkt dat ze geen asiel kunnen krijgen. Burgemeester Velema wil dat het aantal asielzoekers uit deze landen sterk wordt teruggedrongen. De gemeente werkt samen met het Centraal Orgaan opvang asielzoekers (COA) en het ministerie van Justitie en Veiligheid aan een nieuwe werkwijze om de overlast van deze groep in te perken. Volgende week moet duidelijk worden wat die werkwijze inhoudt.",
+    "scraped_at": "2026-11-06T10:34:54.727383Z",
+    "id": "dad5bedeecf020df3dbaab63bc3518a625e9947dd897a72a853b65b31b356ad0",
+    "canonical_url": "https://www.rtvnoord.nl/politiek/1450558/marechaussee-vanaf-maandag-in-ter-apel-door-aanhoudende-overlast-asielzoekers",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Van winkeldiefstal tot steekpartijen: de overlast van kansarme asielzoekers ('veiligelanders') in het centrum van Ter Apel is een aanhoudend probleem. Vanaf maandag rijdt de Koninklijke Marechaussee door het dorp om de politie te ondersteunen. Burgemeester Jaap Velema van Westerwolde kondige vorige maand de komst van de marechaussee aan. De gemeente vroeg om hulp vanwege het grote aantal incidenten met deze groep asielzoekers. Er zijn gemiddeld twintig winkeldiefstallen per week in het centrum van Ter Apel. In Ter Apel verblijven relatief veel jonge mannen uit landen als Marokko en Algerije. Zij starten hun asielprocedure in het aanmeldcentrum, maar maken vrijwel geen kans op een verblijfsvergunning. Door een tekort aan opvangplekken stromen ze niet door naar andere azc’s. Sommigen weigeren mee te werken aan hun uitzetting als blijkt dat ze geen asiel kunnen krijgen. Burgemeester Velema wil dat het aantal asielzoekers uit deze landen sterk wordt teruggedrongen. De gemeente werkt samen met het Centraal Orgaan opvang asielzoekers (COA) en het ministerie van Justitie en Veiligheid aan een nieuwe werkwijze om de overlast van deze groep in te perken. Volgende week moet duidelijk worden wat die werkwijze inhoudt.",
+    "locations": [
+      "Ter Apel"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ],
+      [
+        "Ter Apel",
+        "NL"
+      ],
+      [
+        "Ter Apel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "47",
+      "sector_name": "Retail trade"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Koninklijke Marechaussee",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Jaap Velema van Westerwolde",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Marokko",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "Centraal Orgaan",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      },
+      {
+        "company_name": "COA",
+        "sector_code": "47",
+        "sector_name": "Retail trade",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "47",
+      "not_affected"
+    ]
+  },
+  "69ae5617cb96b73a1e8ce7a5b2932b85": {
+    "feed": "Politie.nl",
+    "title": "Campagne tegen ondermijnende criminaliteit van start",
+    "url": "https://www.politie.nl/nieuws/2026/november/6/06-campagne-tegen-ondermijnende-criminaliteit-van-start-in-zoetermeer.html",
+    "published": "Fri, 06 Nov 2026 10:48:00 GMT",
+    "summary": "De politie ziet onder de verdachten van criminele activiteiten ook heel jonge mensen, die soms zelfs nog maar elf jaar oud zijn. Via een speciale campagneweek in Zoetermeer vraagt de politie hier in de week van 9 tot en met 13 november voor het derde jaar op rij aandacht voor. ",
+    "full_text": "Ondermijning is een veelomvattende term, waar allerlei criminele activiteiten toe behoren. Denk aan ‘klussen’ zoals het verhandelen of uithalen van drugs, het plaatsen van een explosief bij iemands voordeur of het witwassen van misdaadgeld. De politie ziet dat jonge kinderen zich al laten lenen om opdrachten voor criminelen uit te voeren. Sommigen zijn zelfs pas elf jaar oud. Met het geld dat ze hiervoor krijgen, kunnen ze vervolgens allerlei dure spullen kopen, waar ze anders lang voor hadden moeten sparen. Voor veel jongeren kan het heel verleidelijk zijn om op deze manier snel geld te verdienen. Maar de risico’s en gevolgen zijn vaak groot en, zeker op een jonge leeftijd, soms niet te overzien. Het snelle geld heeft een keerzijde Het snelle geld dat verdiend kan worden, bijvoorbeeld door ergens drugs naartoe te brengen of een explosief neer te leggen, heeft ook een keerzijde. Het gevaar van een zelfgemaakt explosief en de druk die criminelen op daders en hun families kunnen gaan uitoefenen bijvoorbeeld. Maar ook de gevolgen op de langere termijn: een strafblad, een gevangenisstraf, geen bankrekening meer kunnen openen en geen mogelijkheid om die droombaan te krijgen. Campagne Via een speciale campagne vragen de politie-eenheid Den Haag en de gemeente Zoetermeer hier in de week van 9 november aandacht voor. Dit gebeurt op deze manier voor het derde jaar op rij. Leerlingen van verschillende scholen in Zoetermeer krijgen een programma aangeboden waarmee zij bewust worden gemaakt van de risico’s en gevolgen van ondermijnende criminaliteit. Ze krijgen daarbij handvatten om in bepaalde situaties juist te kunnen handelen en hulp te kunnen vragen. Hiervoor komen de politie, de gemeente Zoetermeer en Gro-Up jongerenwerk met het Mobiel Media Lab, een VR-experience en een speciale escaperoom naar de leerlingen in Zoetermeer toe. Daarbij wordt ook ingegaan op online criminaliteit. Toegankelijk voor alle geïnteresseerden De campagne wordt voor het derde jaar op rij gehouden en behalve scholieren zijn ook geïnteresseerde inwoners welkom om zich over thema’s als ondermijning, online criminaliteit zoals phishing en babbeltrucs door nepagenten te laten informeren. Geïnteresseerde mensen kunnen daarvoor op de volgende momenten langskomen: dinsdagmiddag 10 november op het Zanzibarplein (aan de kant van de rotonde) en donderdagmiddag 12 november op de Markt. Hulp Jongeren en/of hun ouders/verzorgers die problemen hebben die te maken hebben met ondermijnende criminaliteit, kunnen op verschillende manieren hulp krijgen. Criminele uitbuiting is vaak lastig te herkennen doordat mensen zich schamen of onder druk worden gezet. Ouders en verzorgers, docenten of sportcoaches bijvoorbeeld kunnen alert zijn op signalen die op ondermijnende criminaliteit kunnen wijzen, zodat vroegtijdig gerichte hulp gevraagd kan worden. Gemeenten hebben hulp op verschillende manieren georganiseerd en door contact op te nemen met de wijkagent of politie via 0900-8844 kun je naar de juiste instanties worden doorverwezen. Daarnaast kun je ook anoniem je verhaal doen via Meld Misdaad Anoniem (0800-7000). Dit geldt overigens niet alleen als het jouzelf betreft, maar ook als je je zorgen maakt om iemand uit je omgeving. Ondermijning Ondermijning is een veelomvattende term waar allerlei criminele activiteiten toe behoren. Alle vormen van criminaliteit die een bedreiging vormen voor de integriteit van onze maatschappij vallen onder ondermijning. Voorbeelden zijn de handel in verdovende middelen en criminele uitbuiting. Bij ondermijning vervagen de grenzen tussen de bovenwereld (de ‘gewone’ maatschappij) en de onderwereld (criminaliteit). Deze vorm van criminaliteit vindt georganiseerd plaats en onschuldige mensen kunnen betrokken raken en zelfs slachtoffer worden zonder dat zij zich daarvan bewust zijn. Criminelen betrekken hier bovendien steeds jongere kinderen bij en om deze zogenoemde jonge aanwas maakt de politie zich zorgen. In de aanpak van deze vorm van criminaliteit, die de maatschappij verzwakt en ontregelt, werkt de politie samen met verschillende partners zoals het Openbaar Ministerie en gemeenten. Maar ook de hulp van de burger is essentieel. Ziet, hoort of ruikt u onraad? Heeft u het gevoel dat iets mogelijk wijst op een vorm van ondermijnende criminaliteit? Meld dit dan altijd, ook bij twijfel. Dat kan via onderstaande mogelijkheden (geen spoed, wel politie: 0800-8844, spoed: 112, anoniem melden: Meld Misdaad Anoniem). Daarnaast kun je via vraaghetdepolitie meer informatie vinden.",
+    "scraped_at": "2026-11-06T10:33:36.566875Z",
+    "id": "2e68d38ef60d83e789afd7d29cfb03ad24ca9abc0113b4a561f2ca3b63164ea3",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/november/6/06-campagne-tegen-ondermijnende-criminaliteit-van-start-in-zoetermeer.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Ondermijning is een veelomvattende term, waar allerlei criminele activiteiten toe behoren. Denk aan ‘klussen’ zoals het verhandelen of uithalen van drugs, het plaatsen van een explosief bij iemands voordeur of het witwassen van misdaadgeld. De politie ziet dat jonge kinderen zich al laten lenen om opdrachten voor criminelen uit te voeren. Sommigen zijn zelfs pas elf jaar oud. Met het geld dat ze hiervoor krijgen, kunnen ze vervolgens allerlei dure spullen kopen, waar ze anders lang voor hadden moeten sparen. Voor veel jongeren kan het heel verleidelijk zijn om op deze manier snel geld te verdienen. Maar de risico’s en gevolgen zijn vaak groot en, zeker op een jonge leeftijd, soms niet te overzien. Het snelle geld heeft een keerzijde Het snelle geld dat verdiend kan worden, bijvoorbeeld door ergens drugs naartoe te brengen of een explosief neer te leggen, heeft ook een keerzijde. Het gevaar van een zelfgemaakt explosief en de druk die criminelen op daders en hun families kunnen gaan uitoefenen bijvoorbeeld. Maar ook de gevolgen op de langere termijn: een strafblad, een gevangenisstraf, geen bankrekening meer kunnen openen en geen mogelijkheid om die droombaan te krijgen. Campagne Via een speciale campagne vragen de politie-eenheid Den Haag en de gemeente Zoetermeer hier in de week van 9 november aandacht voor. Dit gebeurt op deze manier voor het derde jaar op rij. Leerlingen van verschillende scholen in Zoetermeer krijgen een programma aangeboden waarmee zij bewust worden gemaakt van de risico’s en gevolgen van ondermijnende criminaliteit. Ze krijgen daarbij handvatten om in bepaalde situaties juist te kunnen handelen en hulp te kunnen vragen. Hiervoor komen de politie, de gemeente Zoetermeer en Gro-Up jongerenwerk met het Mobiel Media Lab, een VR-experience en een speciale escaperoom naar de leerlingen in Zoetermeer toe. Daarbij wordt ook ingegaan op online criminaliteit. Toegankelijk voor alle geïnteresseerden De campagne wordt voor het derde jaar op rij gehouden en behalve scholieren zijn ook geïnteresseerde inwoners welkom om zich over thema’s als ondermijning, online criminaliteit zoals phishing en babbeltrucs door nepagenten te laten informeren. Geïnteresseerde mensen kunnen daarvoor op de volgende momenten langskomen: dinsdagmiddag 10 november op het Zanzibarplein (aan de kant van de rotonde) en donderdagmiddag 12 november op de Markt. Hulp Jongeren en/of hun ouders/verzorgers die problemen hebben die te maken hebben met ondermijnende criminaliteit, kunnen op verschillende manieren hulp krijgen. Criminele uitbuiting is vaak lastig te herkennen doordat mensen zich schamen of onder druk worden gezet. Ouders en verzorgers, docenten of sportcoaches bijvoorbeeld kunnen alert zijn op signalen die op ondermijnende criminaliteit kunnen wijzen, zodat vroegtijdig gerichte hulp gevraagd kan worden. Gemeenten hebben hulp op verschillende manieren georganiseerd en door contact op te nemen met de wijkagent of politie via 0900-8844 kun je naar de juiste instanties worden doorverwezen. Daarnaast kun je ook anoniem je verhaal doen via Meld Misdaad Anoniem (0800-7000). Dit geldt overigens niet alleen als het jouzelf betreft, maar ook als je je zorgen maakt om iemand uit je omgeving. Ondermijning Ondermijning is een veelomvattende term waar allerlei criminele activiteiten toe behoren. Alle vormen van criminaliteit die een bedreiging vormen voor de integriteit van onze maatschappij vallen onder ondermijning. Voorbeelden zijn de handel in verdovende middelen en criminele uitbuiting. Bij ondermijning vervagen de grenzen tussen de bovenwereld (de ‘gewone’ maatschappij) en de onderwereld (criminaliteit). Deze vorm van criminaliteit vindt georganiseerd plaats en onschuldige mensen kunnen betrokken raken en zelfs slachtoffer worden zonder dat zij zich daarvan bewust zijn. Criminelen betrekken hier bovendien steeds jongere kinderen bij en om deze zogenoemde jonge aanwas maakt de politie zich zorgen. In de aanpak van deze vorm van criminaliteit, die de maatschappij verzwakt en ontregelt, werkt de politie samen met verschillende partners zoals het Openbaar Ministerie en gemeenten. Maar ook de hulp van de burger is essentieel. Ziet, hoort of ruikt u onraad? Heeft u het gevoel dat iets mogelijk wijst op een vorm van ondermijnende criminaliteit? Meld dit dan altijd, ook bij twijfel. Dat kan via onderstaande mogelijkheden (geen spoed, wel politie: 0800-8844, spoed: 112, anoniem melden: Meld Misdaad Anoniem). Daarnaast kun je via vraaghetdepolitie meer informatie vinden.",
+    "locations": [
+      "Zoetermeer"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Den Haag",
+        "NL"
+      ],
+      [
+        "Zoetermeer",
+        "NL"
+      ],
+      [
+        "gemeente Zoetermeer",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.7071355618229913,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Mobiel Media",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Hulp Jongeren",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie en gemeenten.",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Meld Misdaad Anoniem",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "6e8ab6421a88058bf6bf1c49f629d860": {
+    "feed": "Politie.nl",
+    "title": "Vijf nieuwe aanhoudingen na grootschalige vechtpartij tijdens Sneekweek",
+    "url": "https://www.politie.nl/nieuws/2026/november/5/01-vijf-nieuwe-aanhoudingen-na-grootschalige-vechtpartij-tijdens-sneekweek.html",
+    "published": "Thu, 05 Nov 2026 16:08:00 GMT",
+    "summary": "De politie heeft afgelopen week vijf nieuwe verdachten aangehouden in het onderzoek naar een grootschalige vechtpartij tijdens de Sneekweek. Het incident vond plaats op woensdag 5 augustus 2026 op het Starteiland in Sneek. Hier waren tientallen personen bij betrokken. Met deze aanhoudingen staat het totaal aantal aanhoudingen in deze zaak nu op zeven.",
+    "full_text": "Het politieonderzoek naar de vechtpartij en de betrokkenheid van de verschillende personen is de afgelopen periode voortgezet. Dit heeft deze week geleid tot de aanhouding van vijf nieuwe verdachten. Het gaat om drie mannen van 19, 20 en 23 jaar uit Sneek. En om twee mannen van 22 en 34 jaar uit Leeuwarden. Zij worden verdacht van openlijke geweldpleging. Het politieonderzoek gaat verder. Meerdere aanhoudingen worden niet uitgesloten. Gewonden en eerdere aanhoudingen Tijdens het incident op 5 augustus raakten twee personen dusdanig gewond dat zij voor behandeling naar het ziekenhuis moesten. Eén van de slachtoffers, een 36-jarige man, werd toen ook aangehouden op verdenking van mishandeling. Mishandeling beveiliger Ook een beveiliger werd tijdens de vechtpartij mishandeld. Een 33-jarige man uit de gemeente Achtkarspelen raakte daarbij ernstig gewond. In verband met deze mishandeling hielden we op 22 september 2026 al een 22-jarige man uit de gemeente Tytsjerksteradiel aan.",
+    "scraped_at": "2026-11-06T10:33:36.567982Z",
+    "id": "1e3e7c4efacb785de640b39cd5e630afba52ebbe2e70de31f2d2784be0c5355a",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/november/5/01-vijf-nieuwe-aanhoudingen-na-grootschalige-vechtpartij-tijdens-sneekweek.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het politieonderzoek naar de vechtpartij en de betrokkenheid van de verschillende personen is de afgelopen periode voortgezet. Dit heeft deze week geleid tot de aanhouding van vijf nieuwe verdachten. Het gaat om drie mannen van 19, 20 en 23 jaar uit Sneek. En om twee mannen van 22 en 34 jaar uit Leeuwarden. Zij worden verdacht van openlijke geweldpleging. Het politieonderzoek gaat verder. Meerdere aanhoudingen worden niet uitgesloten. Gewonden en eerdere aanhoudingen Tijdens het incident op 5 augustus raakten twee personen dusdanig gewond dat zij voor behandeling naar het ziekenhuis moesten. Eén van de slachtoffers, een 36-jarige man, werd toen ook aangehouden op verdenking van mishandeling. Mishandeling beveiliger Ook een beveiliger werd tijdens de vechtpartij mishandeld. Een 33-jarige man uit de gemeente Achtkarspelen raakte daarbij ernstig gewond. In verband met deze mishandeling hielden we op 22 september 2026 al een 22-jarige man uit de gemeente Tytsjerksteradiel aan.",
+    "locations": [
+      "Leeuwarden"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Sneek",
+        "NL"
+      ],
+      [
+        "Leeuwarden",
+        "NL"
+      ],
+      [
+        "gemeente Tytsjerksteradiel",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "8a33f07ff40d9797b4e90a1a44676833": {
+    "feed": "Politie.nl",
+    "title": "Drie verdachten aangehouden voor diefstal met geweld in Hilversum",
+    "url": "https://www.politie.nl/nieuws/2026/november/5/03-drie-verdachten-aangehouden-voor-diefstal-met-geweld-in-hilversum.html",
+    "published": "Thu, 05 Nov 2026 14:30:00 GMT",
+    "summary": "In de nacht van zondag 7 op maandag 8 juni werd een man met geweld bestolen in zijn woning in Hilversum. De politie heeft de drie verdachten kunnen aanhouden. Het gaat om een 21-jarige man uit Haarlem, 21-jarige man uit Amsterdam en een 23-jarige man uit Amsterdam.",
+    "full_text": "Diefstal met geweld Het slachtoffer had via een datingapp een afspraak geregeld met een man. De afspraak zou plaatsvinden in de nacht van 7 op maandag 8 juni bij het slachtoffer thuis in Hilversum. Rond 02.00 uur stond de man voor de deur van het slachtoffer en hij had nog twee mannen meegenomen. De bewoner ontving de drie mannen in zijn woning. In zijn eigen woning werd het slachtoffer vervolgens mishandeld, vernederd en bestolen. Rond 03.00 uur gingen de drie mannen naar buiten. Ze stapten een auto in en reden weg. Het slachtoffer had lichte verwondingen en bleef erg geschrokken achter. Drie verdachten aangehouden na onderzoek recherche Gooi en Vechtstreek De recherche van de Gooi en Vechtstreek startte direct een onderzoek. Eind september konden zij de eerste verdachte aanhouden: een 21-jarige man uit Haarlem. Verder onderzoek leidde naar de tweede verdachte, die begin oktober werd aangehouden. Dit is een 21-jarige man uit Amsterdam. Ook de derde verdachte kon door de recherche worden geïdentificeerd. De 23-jarige man uit Amsterdam werd eind oktober eveneens aangehouden. Alle drie de verdachten zitten nog vast. In Amsterdam speelde een soortgelijke zaak zich af. Twee van de verdachten (de 21-jarige en 23-jarige man uit Amsterdam) die door de recherche van de Gooi en Vechtstreek werden aangehouden, worden door de Amsterdamse politie ook verhoord voor de zaak in hun eenheid. Let op bij het maken van afspraken via datingapps Het gebeurt helaas vaker dat contact via een datingapp uiteindelijk uitloopt in strafbare feiten. Denk daarbij aan mensen die worden beroofd of bijvoorbeeld slachtoffer worden van seksueel geweld. Niet altijd durven deze slachtoffers naar de politie te stappen. Aan die mensen willen wij meegeven: weet dat wat je is overkomen niet jouw schuld is en dat we jou en je verhaal serieus nemen. Neem in een noodsituatie altijd contact op via 112. Wil je in contact komen met de politie, maar is er geen sprake van spoed? Bel dan 0900-8844. En in het geval van alle nare seksuele ervaringen kan je ook dag en nacht terecht bij Centrum Seksueel Geweld via 0800-0188.",
+    "scraped_at": "2026-11-06T10:33:36.569281Z",
+    "id": "3e8f5351506840feae007864a67c52e4da80c47ab106f024c4c115b9f72b90d6",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/november/5/03-drie-verdachten-aangehouden-voor-diefstal-met-geweld-in-hilversum.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Diefstal met geweld Het slachtoffer had via een datingapp een afspraak geregeld met een man. De afspraak zou plaatsvinden in de nacht van 7 op maandag 8 juni bij het slachtoffer thuis in Hilversum. Rond 02.00 uur stond de man voor de deur van het slachtoffer en hij had nog twee mannen meegenomen. De bewoner ontving de drie mannen in zijn woning. In zijn eigen woning werd het slachtoffer vervolgens mishandeld, vernederd en bestolen. Rond 03.00 uur gingen de drie mannen naar buiten. Ze stapten een auto in en reden weg. Het slachtoffer had lichte verwondingen en bleef erg geschrokken achter. Drie verdachten aangehouden na onderzoek recherche Gooi en Vechtstreek De recherche van de Gooi en Vechtstreek startte direct een onderzoek. Eind september konden zij de eerste verdachte aanhouden: een 21-jarige man uit Haarlem. Verder onderzoek leidde naar de tweede verdachte, die begin oktober werd aangehouden. Dit is een 21-jarige man uit Amsterdam. Ook de derde verdachte kon door de recherche worden geïdentificeerd. De 23-jarige man uit Amsterdam werd eind oktober eveneens aangehouden. Alle drie de verdachten zitten nog vast. In Amsterdam speelde een soortgelijke zaak zich af. Twee van de verdachten (de 21-jarige en 23-jarige man uit Amsterdam) die door de recherche van de Gooi en Vechtstreek werden aangehouden, worden door de Amsterdamse politie ook verhoord voor de zaak in hun eenheid. Let op bij het maken van afspraken via datingapps Het gebeurt helaas vaker dat contact via een datingapp uiteindelijk uitloopt in strafbare feiten. Denk daarbij aan mensen die worden beroofd of bijvoorbeeld slachtoffer worden van seksueel geweld. Niet altijd durven deze slachtoffers naar de politie te stappen. Aan die mensen willen wij meegeven: weet dat wat je is overkomen niet jouw schuld is en dat we jou en je verhaal serieus nemen. Neem in een noodsituatie altijd contact op via 112. Wil je in contact komen met de politie, maar is er geen sprake van spoed? Bel dan 0900-8844. En in het geval van alle nare seksuele ervaringen kan je ook dag en nacht terecht bij Centrum Seksueel Geweld via 0800-0188.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Hilversum",
+        "NL"
+      ],
+      [
+        "Gooi",
+        "NL"
+      ],
+      [
+        "Gooi",
+        "NL"
+      ],
+      [
+        "Haarlem",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Gooi",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.7609770012736969,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Centrum",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Seksueel Geweld",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
