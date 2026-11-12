@@ -89108,5 +89108,183 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "9b8a78ab5530db4374c38537db109e1f": {
+    "feed": "NOS.nl (Economie)",
+    "title": "'Nvidia neemt snel besluit over ontslag topman Huang na nieuws over tweede affaire'",
+    "url": "https://nos.nl/l/2639095",
+    "published": "Thu, 12 Nov 2026 05:37:35 +0100",
+    "summary": "<p>De raad van bestuur van chipbedrijf Nvidia beslist op zeer korte termijn of de in opspraak geraakte topman Jensen Huang ontslagen wordt of niet. Dat melden onder meer de persbureaus Bloomberg en Reuters na berichtgeving door The Wall Street Journal.</p>\n        <p>Aanleiding is een nieuwe affaire die aan het licht is gekomen. Volgens Amerikaanse media gaat het deze keer om een werknemer van Nvidia. Eerder bleek Huang een affaire te hebben gehad met een vrouw die volgens de Amerikaanse inlichtingendiensten spioneerde voor China.</p>\n        <p>Nvidia kondigde eerder een onafhankelijk onderzoek aan naar mogelijke spionage. Het bestuur van het Amerikaanse chipbedrijf zei toen geen aanwijzingen te hebben dat gevoelige bedrijfsgeheimen zijn gestolen.</p>\n        <p><em>Over topman Jensen Huang en Nvidia schreven we eerder dit profiel: </em></p>\n        <p>De Verenigde Staten zijn bezorgd over de mogelijkheid dat geavanceerde chips in Chinese handen komen, waardoor China zijn leger sneller zou kunnen moderniseren en AI-modellen beter zou kunnen ontwikkelen.</p>\n        <h2>AI-datacenters</h2>\n        <p>Het bedrijf in Californië is een van de belangrijkste spelers op het gebied van kunstmatige intelligentie en maakt onder meer chips die gebruikt worden voor AI-datacenters. De afgelopen jaren worden die met hoog tempo uit de grond gestampt en dat leidt tot grote winsten voor bedrijven zoals Nvidia.</p>\n        <p>Na de bekendmaking van het schandaal kreeg het aandeel Nvidia harde klappen op de Amerikaanse techbeurs Nasdaq.</p>",
+    "full_text": "NOS Nieuws • vandaag, 05:37 • Aangepast vandaag, 09:17 De raad van bestuur van chipbedrijf Nvidia beslist op zeer korte termijn of de in opspraak geraakte topman Jensen Huang ontslagen wordt of niet. Dat melden onder meer de persbureaus Bloomberg en Reuters na berichtgeving door The Wall Street Journal. Aanleiding is een nieuwe affaire die aan het licht is gekomen. Volgens Amerikaanse media gaat het deze keer om een werknemer van Nvidia. Eerder bleek Huang een affaire te hebben gehad met een vrouw die volgens de Amerikaanse inlichtingendiensten spioneerde voor China. Nvidia kondigde eerder een onafhankelijk onderzoek aan naar mogelijke spionage. Het bestuur van het Amerikaanse chipbedrijf zei toen geen aanwijzingen te hebben dat gevoelige bedrijfsgeheimen zijn gestolen. Over topman Jensen Huang en Nvidia schreven we eerder dit profiel: De Verenigde Staten zijn bezorgd over de mogelijkheid dat geavanceerde chips in Chinese handen komen, waardoor China zijn leger sneller zou kunnen moderniseren en AI-modellen beter zou kunnen ontwikkelen. AI-datacenters Het bedrijf in Californië is een van de belangrijkste spelers op het gebied van kunstmatige intelligentie en maakt onder meer chips die gebruikt worden voor AI-datacenters. De afgelopen jaren worden die met hoog tempo uit de grond gestampt en dat leidt tot grote winsten voor bedrijven zoals Nvidia. Na de bekendmaking van het schandaal kreeg het aandeel Nvidia harde klappen op de Amerikaanse techbeurs Nasdaq.",
+    "scraped_at": "2026-11-12T10:46:05.096371Z",
+    "id": "74344eee859947482acae5de1c924a7ba078d0dd168d356abacb2e4d0ac607aa",
+    "canonical_url": "https://nos.nl/l/2639095",
+    "published_ts": "2026-11-12T04:37:35Z",
+    "source_type": "rss",
+    "clean_geo": "NOS Nieuws • vandaag, 05:37 • Aangepast vandaag, 09:17 De raad van bestuur van chipbedrijf Nvidia beslist op zeer korte termijn of de in opspraak geraakte topman Jensen Huang ontslagen wordt of niet. Dat melden onder meer de persbureaus Bloomberg en Reuters na berichtgeving door The Wall Street Journal. Aanleiding is een nieuwe affaire die aan het licht is gekomen. Volgens Amerikaanse media gaat het deze keer om een werknemer van Nvidia. Eerder bleek Huang een affaire te hebben gehad met een vrouw die volgens de Amerikaanse inlichtingendiensten spioneerde voor China. Nvidia kondigde eerder een onafhankelijk onderzoek aan naar mogelijke spionage. Het bestuur van het Amerikaanse chipbedrijf zei toen geen aanwijzingen te hebben dat gevoelige bedrijfsgeheimen zijn gestolen. Over topman Jensen Huang en Nvidia schreven we eerder dit profiel: De Verenigde Staten zijn bezorgd over de mogelijkheid dat geavanceerde chips in Chinese handen komen, waardoor China zijn leger sneller zou kunnen moderniseren en AI-modellen beter zou kunnen ontwikkelen. AI-datacenters Het bedrijf in Californië is een van de belangrijkste spelers op het gebied van kunstmatige intelligentie en maakt onder meer chips die gebruikt worden voor AI-datacenters. De afgelopen jaren worden die met hoog tempo uit de grond gestampt en dat leidt tot grote winsten voor bedrijven zoals Nvidia. Na de bekendmaking van het schandaal kreeg het aandeel Nvidia harde klappen op de Amerikaanse techbeurs Nasdaq.",
+    "locations": [
+      "Californië"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Californië",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Huang",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Reuters",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "The Wall Street Journal",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Huang",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Huang",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "d98d8216b35c964d6fb628521a0bbaa9": {
+    "feed": "L1 Nieuws",
+    "title": "Man uit Herten zou 245 meisjes online hebben misbruikt met zelfgemaakt spel: twaalf jaar cel geëist",
+    "url": "https://www.l1nieuws.nl/nieuws/3271305/man-uit-herten-zou-245-meisjes-online-hebben-misbruikt-met-zelfgemaakt-spel-twaalf-jaar-cel-geeist",
+    "published": "Thu, 12 Nov 2026 10:07:29 GMT",
+    "summary": "Het Openbaar Ministerie (OM) heeft twaalf jaar cel en tbs met dwangverpleging geëist tegen Bas P. uit Herten. De 41-jarige wordt ervan verdacht online 245 meisjes te hebben misbruikt.",
+    "full_text": "Het Openbaar Ministerie (OM) heeft twaalf jaar cel en tbs met dwangverpleging geëist tegen Bas P. uit Herten. De 41-jarige wordt ervan verdacht online 245 meisjes te hebben misbruikt. Ook zijn er duizenden beelden van kindermisbruik in zijn bezit aangetroffen. Dat zou hij hebben gedaan via een deels zelf ontwikkeld computerspel, de 'highscoregame'. Bij dat spel draait het om het verzamelen van punten met opdrachten om naar een volgend level te gaan. Dat zou beginnen met onschuldig zwaaien naar de camera, maar gaat uiteindelijk veel verder. Volgens het OM zou hij sommige slachtoffers ertoe hebben gedwongen 'vergaande seksuele handelingen' voor de camera uit te voeren, en die beelden daarna hebben verspreid. Volgens de Officier van Justitie zou hij bijvoorbeeld twee jonge Amerikaanse kinderen ertoe hebben gezet seksuele handelingen te verrichten met een broer en zusje. Twaalf Nederlandse en acht Vlaamse meisjes zijn geïdentificeerd. Ook zouden er slachtoffers uit Amerika, Australië en Duitsland tussen zitten. De jongste is acht jaar oud. Op zijn computer zijn ten minste 255 video's van meisjes gevonden. De man wordt er ook van verdacht een aantal kinderen te hebben gechanteerd met de beelden, om ze zo nog meer handelingen uit te laten voeren. Dat ontkent de verdachte echter. De man uit Herten staat ook terecht voor het bezit, vervaardigen en verspreiden van kinderpornografisch materiaal en het voorhanden hebben van instructiemateriaal voor seksueel kindermisbruik (een 'pedohandboek'). Daarnaast wordt hij verdacht van deelname aan een criminele organisatie, omdat hij als gebruiker actief was op een platform waar op grote schaal beeldmateriaal van seksueel kindermisbruik is gedeeld. De man kwam in beeld bij de politie door Amerikaanse informatie, hij zou namelijk op een forum op het darkweb actief zijn. Op dat forum delen gebruikers onder andere beeldmateriaal van seksueel kindermisbruik.",
+    "scraped_at": "2026-11-12T10:49:31.341257Z",
+    "id": "a9013ff4bd325c3ea72230d68c7f28eaf490b00dc820217d24566ccc0d52a78b",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3271305/man-uit-herten-zou-245-meisjes-online-hebben-misbruikt-met-zelfgemaakt-spel-twaalf-jaar-cel-geeist",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Het Openbaar Ministerie (OM) heeft twaalf jaar cel en tbs met dwangverpleging geëist tegen Bas P. uit Herten. De 41-jarige wordt ervan verdacht online 245 meisjes te hebben misbruikt. Ook zijn er duizenden beelden van kindermisbruik in zijn bezit aangetroffen. Dat zou hij hebben gedaan via een deels zelf ontwikkeld computerspel, de 'highscoregame'. Bij dat spel draait het om het verzamelen van punten met opdrachten om naar een volgend level te gaan. Dat zou beginnen met onschuldig zwaaien naar de camera, maar gaat uiteindelijk veel verder. Volgens het OM zou hij sommige slachtoffers ertoe hebben gedwongen 'vergaande seksuele handelingen' voor de camera uit te voeren, en die beelden daarna hebben verspreid. Volgens de Officier van Justitie zou hij bijvoorbeeld twee jonge Amerikaanse kinderen ertoe hebben gezet seksuele handelingen te verrichten met een broer en zusje. Twaalf Nederlandse en acht Vlaamse meisjes zijn geïdentificeerd. Ook zouden er slachtoffers uit Amerika, Australië en Duitsland tussen zitten. De jongste is acht jaar oud. Op zijn computer zijn ten minste 255 video's van meisjes gevonden. De man wordt er ook van verdacht een aantal kinderen te hebben gechanteerd met de beelden, om ze zo nog meer handelingen uit te laten voeren. Dat ontkent de verdachte echter. De man uit Herten staat ook terecht voor het bezit, vervaardigen en verspreiden van kinderpornografisch materiaal en het voorhanden hebben van instructiemateriaal voor seksueel kindermisbruik (een 'pedohandboek'). Daarnaast wordt hij verdacht van deelname aan een criminele organisatie, omdat hij als gebruiker actief was op een platform waar op grote schaal beeldmateriaal van seksueel kindermisbruik is gedeeld. De man kwam in beeld bij de politie door Amerikaanse informatie, hij zou namelijk op een forum op het darkweb actief zijn. Op dat forum delen gebruikers onder andere beeldmateriaal van seksueel kindermisbruik.",
+    "locations": [
+      "Amerika"
+    ],
+    "country": "DE",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amerika",
+        "DE"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "939ac69a440b6ca0a574bb8ba74155fc": {
+    "feed": "L1 Nieuws",
+    "title": "Verdachte (40) ontkent dwang bij seksueel misbruik van ruim 220 meisjes",
+    "url": "https://www.l1nieuws.nl/nieuws/3270460/verdachte-40-ontkent-dwang-bij-seksueel-misbruik-van-ruim-220-meisjes",
+    "published": "Wed, 11 Nov 2026 10:29:52 GMT",
+    "summary": "Bas P. zegt dat hij nooit meisjes heeft gedwongen online seksuele handelingen te verrichten. Dat zegt de uit Herten afkomstige verdachte tijdens de rechtszaak woensdag in Rotterdam.",
+    "full_text": "Bas P. zegt dat hij nooit meisjes heeft gedwongen online seksuele handelingen te verrichten. Dat zegt de uit Herten afkomstige verdachte tijdens de rechtszaak woensdag in Rotterdam. De 40-jarige man uit Herten staat terecht voor het op grote schaal misbruiken van minderjarige meisjes. Hij zou dat alleen online hebben gedaan. Volgens het Openbaar Ministerie (OM) heeft de man jarenlang zijn gang kunnen gaan en heeft hij meer dan 220 slachtoffers gemaakt. Om contact te maken met zijn slachtoffers gebruikte hij een spel, de 'Higscoregame'. Dat begon met onschuldige handelingen, maar ging steeds verder. De meisjes gingen allerlei seksuele handelingen verrichten. P. maakte daar stiekem opnames van. Zo zijn er meer dan 300 video's gevonden. In de rechtbank ontkende hij dat hij de meisjes heeft gedwongen. Ook zegt hij dat hij niet zelf alle video's heeft gemaakt. \"Ik kwam online meerdere mensen tegen die hetzelfde deden. Je raakt aan de praat en wisselt informatie uit\", zegt P. in de rechtbank. Ook de opnamesoftware werd uitgewisseld met anderen. \"Bij iemand dwingen ligt wel de grens. Maar ik ben wel een grens overgegaan door opnames te maken.\" Met die opnames werden sommige slachtoffers volgens de politie onder druk gezet om verdergaande seksuele handelingen bij zichzelf te verrichten. Als ze weigerden, dreigden de beelden online te worden gezet of naar hun ouders te worden gestuurd. Op beelden die bij de verdachte zijn gevonden, zijn meerdere meisjes huilend te zien. \"Dat deed me wel wat, maar ik dwong ze niet\". Bas P. wordt er ook van verdacht onderdeel te zijn van 'Alice in Wonderland'. Dat is een netwerk op het darkweb waarop kinderporno wordt aangeboden. P. had een account op dat netwerk. Hij zegt dat hij geen opnames heeft verspreid, die hij zelf heeft gemaakt, \"Voor mij was dit een digitale fantasiewereld. Die stond los van de echte wereld.\" Bas P. was werkzaam in de ICT en had een gezin met kinderen. P. zei woensdag dat hij in scheiding ligt en dat er geen contact meer is met de kinderen. \"Dat is een gevolg van mijn handelen en begrijp dat ook. Voor hun is het ook vreselijk. In het dorp weet iedereen het.\" Ook zei P. dat hij 'ergens wel blij is dat hij is gepakt'. \"Als de politie me niet had gestopt zou er waarschijnlijk niks veranderd zijn. Je zakt er steeds dieper in totdat je er niet meer uitkomt\". Deskundigen hebben bij de verdachte een stoornis vastgesteld. Ook zeggen ze dat hij behandeld moet worden. P. is het daarmee eens. \"Ik wil hier niet mee in verzeild raken\". P. zit sinds oktober 2025 vast. In de cel is hij een keer in elkaar geslagen toen medegevangenen erachter kwamen waardoor hij vastzat. Van die mishandeling heeft hij twee maanden moeten herstellen. P. is na de bedreigingen en mishandeling overgeplaatst naar een andere gevangenis Later komt het Openbaar Ministerie (OM ) met een strafeis. Ook komen slachtoffers aan het woord.",
+    "scraped_at": "2026-11-12T10:49:56.193762Z",
+    "id": "623da9b7311f3c7902c7484b7f2379f53d4e788ad7bafe8f9c47deea9624335a",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3270460/verdachte-40-ontkent-dwang-bij-seksueel-misbruik-van-ruim-220-meisjes",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bas P. zegt dat hij nooit meisjes heeft gedwongen online seksuele handelingen te verrichten. Dat zegt de uit Herten afkomstige verdachte tijdens de rechtszaak woensdag in Rotterdam. De 40-jarige man uit Herten staat terecht voor het op grote schaal misbruiken van minderjarige meisjes. Hij zou dat alleen online hebben gedaan. Volgens het Openbaar Ministerie (OM) heeft de man jarenlang zijn gang kunnen gaan en heeft hij meer dan 220 slachtoffers gemaakt. Om contact te maken met zijn slachtoffers gebruikte hij een spel, de 'Higscoregame'. Dat begon met onschuldige handelingen, maar ging steeds verder. De meisjes gingen allerlei seksuele handelingen verrichten. P. maakte daar stiekem opnames van. Zo zijn er meer dan 300 video's gevonden. In de rechtbank ontkende hij dat hij de meisjes heeft gedwongen. Ook zegt hij dat hij niet zelf alle video's heeft gemaakt. \"Ik kwam online meerdere mensen tegen die hetzelfde deden. Je raakt aan de praat en wisselt informatie uit\", zegt P. in de rechtbank. Ook de opnamesoftware werd uitgewisseld met anderen. \"Bij iemand dwingen ligt wel de grens. Maar ik ben wel een grens overgegaan door opnames te maken.\" Met die opnames werden sommige slachtoffers volgens de politie onder druk gezet om verdergaande seksuele handelingen bij zichzelf te verrichten. Als ze weigerden, dreigden de beelden online te worden gezet of naar hun ouders te worden gestuurd. Op beelden die bij de verdachte zijn gevonden, zijn meerdere meisjes huilend te zien. \"Dat deed me wel wat, maar ik dwong ze niet\". Bas P. wordt er ook van verdacht onderdeel te zijn van 'Alice in Wonderland'. Dat is een netwerk op het darkweb waarop kinderporno wordt aangeboden. P. had een account op dat netwerk. Hij zegt dat hij geen opnames heeft verspreid, die hij zelf heeft gemaakt, \"Voor mij was dit een digitale fantasiewereld. Die stond los van de echte wereld.\" Bas P. was werkzaam in de ICT en had een gezin met kinderen. P. zei woensdag dat hij in scheiding ligt en dat er geen contact meer is met de kinderen. \"Dat is een gevolg van mijn handelen en begrijp dat ook. Voor hun is het ook vreselijk. In het dorp weet iedereen het.\" Ook zei P. dat hij 'ergens wel blij is dat hij is gepakt'. \"Als de politie me niet had gestopt zou er waarschijnlijk niks veranderd zijn. Je zakt er steeds dieper in totdat je er niet meer uitkomt\". Deskundigen hebben bij de verdachte een stoornis vastgesteld. Ook zeggen ze dat hij behandeld moet worden. P. is het daarmee eens. \"Ik wil hier niet mee in verzeild raken\". P. zit sinds oktober 2025 vast. In de cel is hij een keer in elkaar geslagen toen medegevangenen erachter kwamen waardoor hij vastzat. Van die mishandeling heeft hij twee maanden moeten herstellen. P. is na de bedreigingen en mishandeling overgeplaatst naar een andere gevangenis Later komt het Openbaar Ministerie (OM ) met een strafeis. Ook komen slachtoffers aan het woord.",
+    "locations": [
+      "Rotterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Rotterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.729085593901911,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Alice in Wonderland",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "ICT",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
