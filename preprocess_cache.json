@@ -89286,5 +89286,398 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "9385f106f54c45d7f659fd78af2c67a4": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws: IKEA korte tijd ontruimd door technische storing • Storing Microsoft raakt gemeenten en provincie",
+    "url": "https://www.rtvnoord.nl/112/1452307/112-nieuws-ikea-korte-tijd-ontruimd-door-technische-storing-storing-microsoft-raakt-gemeenten-en-provincie",
+    "published": "Fri, 13 Nov 2026 10:02:02 GMT",
+    "summary": "In dit 112-blog houden we je deze vrijdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Het pand van IKEA aan de Sontweg is korte tijd ontruimd vanwege een storing. Alle klanten werden opgeroepen de winkel te verlaten. Volgens een woordvoerder van het bedrijf ging het ontruimingsalarm af door een techische storing. Uit onderzoek moet blijken door welke storing het bedrijf getroffen is. Er is geen verband met de wereldwijde Microsoft-storing, zegt de woordvoerder. Bij het bedrijf Mobacc BV Aerosols aan de Demeterlaan in Veendam is vanochtend brand uitgebroken. Het pand werd ontruimd. De brandweer had het vuur snel onder controle. Wat er precies in brand heeft gestaan, is nog onbekend. Mobacc is gespecialiseerd in de productie en het afvullen van spuitbussen, waaronder verf, smeermiddelen en reinigingsmiddelen. Bij het bedrijf wordt gewerkt met gevaarlijke en brandbare stoffen. Of deze stoffen bij de brand betrokken waren, is niet bekend. Door een storing bij Microsoft zijn ook de provincie Groningen en gemeenten Oldambt en Het Hogeland momenteel minder goed bereikbaar. 'Hierdoor kan het langer duren voordat u antwoord van ons krijgt', meldt de provincie. Microsoft kampt sinds donderdagmiddag met een wereldwijde storing, meldt de NOS . Verschillende diensten, waaronder Outlook en Microsoft Teams, zijn hierdoor moeilijk bereikbaar of werken helemaal niet. Gebruikers hebben problemen met hun e-mail en kunnen niet online vergaderen. De gemeente Pekela heeft last van een storing, waardoor de afdeling burgerzaken niet open kan. De gemeente meldt dat het daardoor momenteel niet lukt om bijvoorbeeld nieuwe rijbewijzen of reisdocumenten af te halen. Mogelijk houdt de storing verband met de wereldwijde problemen bij Microsoft, waaronder bijvoorbeeld e-maildienst Outlook en vergaderapp Teams uitvallen.",
+    "scraped_at": "2026-11-13T10:45:55.620144Z",
+    "id": "34bf33fdd20f8dce9fbe895cab9d1e9f132fa41bf134ec0e40f044ed28c19522",
+    "canonical_url": "https://www.rtvnoord.nl/112/1452307/112-nieuws-ikea-korte-tijd-ontruimd-door-technische-storing-storing-microsoft-raakt-gemeenten-en-provincie",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Het pand van IKEA aan de Sontweg is korte tijd ontruimd vanwege een storing. Alle klanten werden opgeroepen de winkel te verlaten. Volgens een woordvoerder van het bedrijf ging het ontruimingsalarm af door een techische storing. Uit onderzoek moet blijken door welke storing het bedrijf getroffen is. Er is geen verband met de wereldwijde Microsoft-storing, zegt de woordvoerder. Bij het bedrijf Mobacc BV Aerosols aan de Demeterlaan in Veendam is vanochtend brand uitgebroken. Het pand werd ontruimd. De brandweer had het vuur snel onder controle. Wat er precies in brand heeft gestaan, is nog onbekend. Mobacc is gespecialiseerd in de productie en het afvullen van spuitbussen, waaronder verf, smeermiddelen en reinigingsmiddelen. Bij het bedrijf wordt gewerkt met gevaarlijke en brandbare stoffen. Of deze stoffen bij de brand betrokken waren, is niet bekend. Door een storing bij Microsoft zijn ook de provincie Groningen en gemeenten Oldambt en Het Hogeland momenteel minder goed bereikbaar. 'Hierdoor kan het langer duren voordat u antwoord van ons krijgt', meldt de provincie. Microsoft kampt sinds donderdagmiddag met een wereldwijde storing, meldt de NOS . Verschillende diensten, waaronder Outlook en Microsoft Teams, zijn hierdoor moeilijk bereikbaar of werken helemaal niet. Gebruikers hebben problemen met hun e-mail en kunnen niet online vergaderen. De gemeente Pekela heeft last van een storing, waardoor de afdeling burgerzaken niet open kan. De gemeente meldt dat het daardoor momenteel niet lukt om bijvoorbeeld nieuwe rijbewijzen of reisdocumenten af te halen. Mogelijk houdt de storing verband met de wereldwijde problemen bij Microsoft, waaronder bijvoorbeeld e-maildienst Outlook en vergaderapp Teams uitvallen.",
+    "locations": [
+      "Veendam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Veendam",
+        "NL"
+      ],
+      [
+        "provincie Groningen",
+        "NL"
+      ],
+      [
+        "Hogeland",
+        "NL"
+      ],
+      [
+        "gemeente Pekela",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "IKEA",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mobacc BV Aerosols",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Oldambt",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Microsoft Teams",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "65235a79c5f449238c5689c98335f83a": {
+    "feed": "RTV Noord",
+    "title": "'Eerlijke AI' moet Groningen onderscheiden van rest van Nederland",
+    "url": "https://www.rtvnoord.nl/economie/1451672/eerlijke-ai-moet-groningen-onderscheiden-van-rest-van-nederland",
+    "published": "Fri, 13 Nov 2026 06:00:00 GMT",
+    "summary": "De regio Noord-Nederland moet zich nadrukkelijker profileren als AI-regio. Dat zegt ondernemer Berco Beute van AI-bedrijf Stekz uit Groningen in aanloop naar aiGrunn, het congres van het Noorden over AI dat vrijdag begint.",
+    "full_text": "De regio Noord-Nederland moet zich nadrukkelijker profileren als AI-regio. Dat zegt ondernemer Berco Beute van AI-bedrijf Stekz uit Groningen in aanloop naar aiGrunn, het congres van het Noorden over AI dat vrijdag begint. Volgens Beute heeft Noord-Nederland alles in huis om een belangrijke rol te spelen in de ontwikkeling van een nieuwe generatie bedrijven. ‘De regio Eindhoven/Veldhoven is de regio van de software, in de regio Amsterdam richten ze zich meer op big tech. In het Noorden willen we AI op een eerlijke manier. Wij noemen dat fair tech .' Zelf definieert hij fair tech als technologische oplossingen die niet alleen economisch interessant zijn, maar ook rekening houden met de maatschappelijke gevolgen en oog hebben voor zaken zoals privacy en transparantie. Voor de gebruiker moet duidelijk zijn wat er met zijn of haar gegevens gebeurt. Het congres aiGrunn staat in het teken van kennis delen op het gebied van kunstmatige intelligentie. Het is een conferentie waar thema’s als onderwijs, gezondheidszorg en bedrijfsleven in combinatie met AI aan bod komen. In onder meer Forum, Tumult en Niemeyer zullen sprekers deze onderwerpen voor het voetlicht brengen. Er worden 1.000 bezoekers verwacht. Volgens Beute is dat een goede gelegenheid om te vertellen wat er in het Noorden gebeurt op het gebied van kunstmatige intelligentie. ‘We hebben innovatieve bedrijven, sterke onderwijsinstellingen en allerlei soorten onderzoek. Dat is niet iets van vandaag, dat gebeurt al meer dan dertig jaar.’ Zo heeft de Rijksuniversiteit Groningen al decennialang een opleiding op het gebied van kunstmatige intelligentie. Beute is samen met een compagnon eigenaar van Stekz, een bedrijf dat andere ondernemingen helpt bij het toepassen van AI. Daarbij gaat het volgens hem niet simpelweg om het introduceren van een chatbot of een losstaande toepassing. Bedrijven moeten veel breder kijken naar de mogelijkheden. Zo bouwt Beute met zijn team aan digitale oplossingen voor bedrijven in bijvoorbeeld de maakindustrie. ‘Dat zijn AI-toepassingen die worden ingezet voor voorraadbeheer, magazijnbeheer, planning of het optimaliseren van transportroutes.’ Waar Eindhoven zich volgens Beute vooral onderscheidt met investeringen in en ontwikkelingen van een nieuwe AI-chip en Amsterdam zich richt op grote technologiebedrijven, moet Noord-Nederland een eigen positie innemen met fair tech. ‘We willen nieuwe typen bedrijven bouwen, maar dat niet doen ten koste van allerlei andere maatschappelijke aspecten. Het moet op een eerlijke manier gebeuren. Daar kunnen we ons mee onderscheiden van het Westen en het zuiden.’ De invloed van AI op bedrijven zal volgens Beute de komende jaren groot zijn. Organisaties gaan er anders uitzien en kunnen met aanzienlijk minder personeel meer werk verzetten. ‘Ik voorzie dat er straks geen verzekeringskantoren zijn met duizenden werknemers, maar verzekeraars die hooguit enkele tientallen mensen in dienst hebben en waarbij AI een groot deel van het werk doet.’ Volgens Beute is er bovendien nog veel meer mogelijk dan nu al wordt benut. ‘Er gebeurt hier veel meer dan mensen soms denken. Er ligt een enorme potentie om echt een verschil te maken. Ik hoop dat mensen na deze week denken: wow, we kunnen hier veel en we doen hier veel. Dit is het nieuwe geluid van het Noorden.’",
+    "scraped_at": "2026-11-13T10:45:57.008027Z",
+    "id": "0d2dd98cfdb6975986c28b06feb1a6a2dc71f9623d89f0b29fffc5ec2ecab134",
+    "canonical_url": "https://www.rtvnoord.nl/economie/1451672/eerlijke-ai-moet-groningen-onderscheiden-van-rest-van-nederland",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De regio Noord-Nederland moet zich nadrukkelijker profileren als AI-regio. Dat zegt ondernemer Berco Beute van AI-bedrijf Stekz uit Groningen in aanloop naar aiGrunn, het congres van het Noorden over AI dat vrijdag begint. Volgens Beute heeft Noord-Nederland alles in huis om een belangrijke rol te spelen in de ontwikkeling van een nieuwe generatie bedrijven. ‘De regio Eindhoven/Veldhoven is de regio van de software, in de regio Amsterdam richten ze zich meer op big tech. In het Noorden willen we AI op een eerlijke manier. Wij noemen dat fair tech .' Zelf definieert hij fair tech als technologische oplossingen die niet alleen economisch interessant zijn, maar ook rekening houden met de maatschappelijke gevolgen en oog hebben voor zaken zoals privacy en transparantie. Voor de gebruiker moet duidelijk zijn wat er met zijn of haar gegevens gebeurt. Het congres aiGrunn staat in het teken van kennis delen op het gebied van kunstmatige intelligentie. Het is een conferentie waar thema’s als onderwijs, gezondheidszorg en bedrijfsleven in combinatie met AI aan bod komen. In onder meer Forum, Tumult en Niemeyer zullen sprekers deze onderwerpen voor het voetlicht brengen. Er worden 1.000 bezoekers verwacht. Volgens Beute is dat een goede gelegenheid om te vertellen wat er in het Noorden gebeurt op het gebied van kunstmatige intelligentie. ‘We hebben innovatieve bedrijven, sterke onderwijsinstellingen en allerlei soorten onderzoek. Dat is niet iets van vandaag, dat gebeurt al meer dan dertig jaar.’ Zo heeft de Rijksuniversiteit Groningen al decennialang een opleiding op het gebied van kunstmatige intelligentie. Beute is samen met een compagnon eigenaar van Stekz, een bedrijf dat andere ondernemingen helpt bij het toepassen van AI. Daarbij gaat het volgens hem niet simpelweg om het introduceren van een chatbot of een losstaande toepassing. Bedrijven moeten veel breder kijken naar de mogelijkheden. Zo bouwt Beute met zijn team aan digitale oplossingen voor bedrijven in bijvoorbeeld de maakindustrie. ‘Dat zijn AI-toepassingen die worden ingezet voor voorraadbeheer, magazijnbeheer, planning of het optimaliseren van transportroutes.’ Waar Eindhoven zich volgens Beute vooral onderscheidt met investeringen in en ontwikkelingen van een nieuwe AI-chip en Amsterdam zich richt op grote technologiebedrijven, moet Noord-Nederland een eigen positie innemen met fair tech. ‘We willen nieuwe typen bedrijven bouwen, maar dat niet doen ten koste van allerlei andere maatschappelijke aspecten. Het moet op een eerlijke manier gebeuren. Daar kunnen we ons mee onderscheiden van het Westen en het zuiden.’ De invloed van AI op bedrijven zal volgens Beute de komende jaren groot zijn. Organisaties gaan er anders uitzien en kunnen met aanzienlijk minder personeel meer werk verzetten. ‘Ik voorzie dat er straks geen verzekeringskantoren zijn met duizenden werknemers, maar verzekeraars die hooguit enkele tientallen mensen in dienst hebben en waarbij AI een groot deel van het werk doet.’ Volgens Beute is er bovendien nog veel meer mogelijk dan nu al wordt benut. ‘Er gebeurt hier veel meer dan mensen soms denken. Er ligt een enorme potentie om echt een verschil te maken. Ik hoop dat mensen na deze week denken: wow, we kunnen hier veel en we doen hier veel. Dit is het nieuwe geluid van het Noorden.’",
+    "locations": [
+      "Groningen"
+    ],
+    "country": "NL",
+    "country_score": 0.875,
+    "country_evidence": [
+      [
+        "Groningen",
+        "DE"
+      ],
+      [
+        "Noorden",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Noorden",
+        "NL"
+      ],
+      [
+        "Noorden",
+        "NL"
+      ],
+      [
+        "Eindhoven",
+        "NL"
+      ],
+      [
+        "Amsterdam",
+        "NL"
+      ],
+      [
+        "Noorden",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6304617553614768,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Berco Beute",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "aiGrunn",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "aiGrunn",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Forum",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Tumult",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Stekz",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "transportroutes",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "4bfc5df9f0a2620fecac3920ef082b8c": {
+    "feed": "RTV Noord",
+    "title": "Onderzoek: kerncentrale botst met waterstofplannen in Eemshaven",
+    "url": "https://www.rtvnoord.nl/economie/1452194/onderzoek-kerncentrale-botst-met-waterstofplannen-in-eemshaven",
+    "published": "Fri, 13 Nov 2026 05:24:58 GMT",
+    "summary": "De bouw van één of twee kerncentrales is onverenigbaar met de andere activiteiten in de Eemshaven. Dat is de conclusie van een onderzoek dat Groningen Seaports door een extern bureau heeft laten uitvoeren.",
+    "full_text": "'Verrast dat de Eemshaven ineens in beeld kwam' Lang werd gedacht dat de mogelijke komst van een kerncentrale naar de Eemshaven puur een theoretische optie was. 'Wij werden verrast dat we toch ineens in beeld kwamen en dachten: daar moeten we onderzoek naar doen', zegt Bart Jan Hoevers, directeur van Groningen Seaports op Radio Noord over het rapport. 'Als je nu inzet op een kerncentrale, betekent dat vijftien jaar volop bouwontwikkeling. Terwijl de overheid op het moment volop inzet op wind op zee, daar werken wij ook hard aan mee. Daar blijven wij liever op doorgaan en er vol gas op geven.' In juni dit jaar werd de Eemshaven in een rapport van netbeheerder TenneT genoemd als 'technisch heel geschikt' voor een kerncentrale. 'Zij hebben gekeken of het hoogspanningsnet het aankan, dat is één aspect. Wij hebben breder gekeken', zegt Hoevers. 'Al die aspecten zullen wat ons betreft in een goede afweging aan de orde moeten komen.' Mocht het kabinet kiezen voor Zeeland dan is de Eemshaven niet volledig uit beeld voor mogelijk een volgende kercentrale, verwacht Hoevers. 'Daarom draagt deze studie er ook aan bij om hier voor de lange termijn het gesprek over voeren",
+    "scraped_at": "2026-11-13T10:45:58.745967Z",
+    "id": "c979236b0a2755ba68a06284bc722dbbec08c4a8304f8b97e1ed87e345fd3706",
+    "canonical_url": "https://www.rtvnoord.nl/economie/1452194/onderzoek-kerncentrale-botst-met-waterstofplannen-in-eemshaven",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "'Verrast dat de Eemshaven ineens in beeld kwam' Lang werd gedacht dat de mogelijke komst van een kerncentrale naar de Eemshaven puur een theoretische optie was. 'Wij werden verrast dat we toch ineens in beeld kwamen en dachten: daar moeten we onderzoek naar doen', zegt Bart Jan Hoevers, directeur van Groningen Seaports op Radio Noord over het rapport. 'Als je nu inzet op een kerncentrale, betekent dat vijftien jaar volop bouwontwikkeling. Terwijl de overheid op het moment volop inzet op wind op zee, daar werken wij ook hard aan mee. Daar blijven wij liever op doorgaan en er vol gas op geven.' In juni dit jaar werd de Eemshaven in een rapport van netbeheerder TenneT genoemd als 'technisch heel geschikt' voor een kerncentrale. 'Zij hebben gekeken of het hoogspanningsnet het aankan, dat is één aspect. Wij hebben breder gekeken', zegt Hoevers. 'Al die aspecten zullen wat ons betreft in een goede afweging aan de orde moeten komen.' Mocht het kabinet kiezen voor Zeeland dan is de Eemshaven niet volledig uit beeld voor mogelijk een volgende kercentrale, verwacht Hoevers. 'Daarom draagt deze studie er ook aan bij om hier voor de lange termijn het gesprek over voeren",
+    "locations": [
+      "Zeeland"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Zeeland",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Lang",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Bart Jan Hoevers",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Groningen Seaports",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Radio Noord",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Hoevers",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "2059bacfb24a0ed408f8ab12afec6947": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws donderdag 12 november: Fietser gewond na ongeval in Grootegast • Botsing tussen scootmobiel en auto in Surhuisterveen",
+    "url": "https://www.rtvnoord.nl/112/1452060/112-nieuws-donderdag-12-november-fietser-gewond-na-ongeval-in-grootegast-botsing-tussen-scootmobiel-en-auto-in-surhuisterveen",
+    "published": "Thu, 12 Nov 2026 21:41:46 GMT",
+    "summary": "In dit 112-blog houden we je deze donderdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Op de A7 staat een file in de richting van Leek. Ter hoogte van Oostwold heeft een ongeluk tussen twee auto's plaatsgevonden. Hulpdiensten zijn uitgerukt naar de plek van het ongeluk. Het is onduidelijk hoe het gaat met de inzittenden van de auto's. In Grootegast is een fietser gewond geraakt na een val. Het is onduidelijk of er andere personen bij het ongeluk betrokken zijn. Hulpdiensten zijn ter plaatse.. Het is onduidelijk wat er precies gebeurd is. Een gedeelte van het fietspad is afgesloten voor onderzoek. In Surhuisterveen, op de grens met Friesland, is een scootmobiel in botsing gekomen met een auto. Het ongeluk gebeurde bij de rotonde van de N358 en de Scheiding. Het is onduidelijk hoe het met de bestuurder van de scootmobiel gaat. Op de kruising van de Regulusstraat met de Pleiadenlaan in stadswijk Paddepoel zijn een automobilist en een scooterrijder met elkaar in botsing gekomen. De hulpdiensten werden rond 13.20 uur gealarmeerd, waarna politie en ambulance ter plaatse kwamen. De scooterrijder is door ambulancepersoneel behandeld op verwondingen. Op de kruising van de Paterswoldseweg en de Muntinglaan in stadswijk Grunobuurt zijn een automobilist en een scooterrijder aan het begin van de middag in botsing gekomen. Hierbij raakte de bestuurder van de scooter gewond en was medische hulp van ambulancepersoneel noodzakelijk. De politie onderzoekt hoe het ongeluk kon gebeuren. De politie heeft gemeentemedewerkers en woningcorporatie Nijestee donderdagochtend ondersteund bij het sluiten van een woning aan de Grote Beerstraat in de Groningse stadwijk Paddepoel. In de woning was volgens de politie al enige tijd sprake van drugsoverlast. Door de woning te sluiten, is het de bedoeling dat de rust in de wijk terugkeert. Op de A7 bij Marum - in de richting van Groningen naar Drachten - zijn net na 08.00 uur een auto en een bedrijfsbusje in botsing gekomen. Hierdoor ontstond al snel een kilometerslange file. Volgens Rijkswaterstaat stond er rond 08.25 uur ongeveer zes kilometer file en liep de vertraging op tot bijna drie kwartier. Beide voertuigen zijn inmiddels weggesleept en de file is verdwenen. De automobilist raakte lichtgewond door het ongeluk, maar hoefde niet mee naar het ziekenhuis.",
+    "scraped_at": "2026-11-13T10:46:00.608493Z",
+    "id": "27a89bc4d560f5b57752f0b5f7d04a0fb8ec1d4c261fd2faf53def195f39d1a6",
+    "canonical_url": "https://www.rtvnoord.nl/112/1452060/112-nieuws-donderdag-12-november-fietser-gewond-na-ongeval-in-grootegast-botsing-tussen-scootmobiel-en-auto-in-surhuisterveen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Op de A7 staat een file in de richting van Leek. Ter hoogte van Oostwold heeft een ongeluk tussen twee auto's plaatsgevonden. Hulpdiensten zijn uitgerukt naar de plek van het ongeluk. Het is onduidelijk hoe het gaat met de inzittenden van de auto's. In Grootegast is een fietser gewond geraakt na een val. Het is onduidelijk of er andere personen bij het ongeluk betrokken zijn. Hulpdiensten zijn ter plaatse.. Het is onduidelijk wat er precies gebeurd is. Een gedeelte van het fietspad is afgesloten voor onderzoek. In Surhuisterveen, op de grens met Friesland, is een scootmobiel in botsing gekomen met een auto. Het ongeluk gebeurde bij de rotonde van de N358 en de Scheiding. Het is onduidelijk hoe het met de bestuurder van de scootmobiel gaat. Op de kruising van de Regulusstraat met de Pleiadenlaan in stadswijk Paddepoel zijn een automobilist en een scooterrijder met elkaar in botsing gekomen. De hulpdiensten werden rond 13.20 uur gealarmeerd, waarna politie en ambulance ter plaatse kwamen. De scooterrijder is door ambulancepersoneel behandeld op verwondingen. Op de kruising van de Paterswoldseweg en de Muntinglaan in stadswijk Grunobuurt zijn een automobilist en een scooterrijder aan het begin van de middag in botsing gekomen. Hierbij raakte de bestuurder van de scooter gewond en was medische hulp van ambulancepersoneel noodzakelijk. De politie onderzoekt hoe het ongeluk kon gebeuren. De politie heeft gemeentemedewerkers en woningcorporatie Nijestee donderdagochtend ondersteund bij het sluiten van een woning aan de Grote Beerstraat in de Groningse stadwijk Paddepoel. In de woning was volgens de politie al enige tijd sprake van drugsoverlast. Door de woning te sluiten, is het de bedoeling dat de rust in de wijk terugkeert. Op de A7 bij Marum - in de richting van Groningen naar Drachten - zijn net na 08.00 uur een auto en een bedrijfsbusje in botsing gekomen. Hierdoor ontstond al snel een kilometerslange file. Volgens Rijkswaterstaat stond er rond 08.25 uur ongeveer zes kilometer file en liep de vertraging op tot bijna drie kwartier. Beide voertuigen zijn inmiddels weggesleept en de file is verdwenen. De automobilist raakte lichtgewond door het ongeluk, maar hoefde niet mee naar het ziekenhuis.",
+    "locations": [
+      "Leek"
+    ],
+    "country": "DE",
+    "country_score": 0.6,
+    "country_evidence": [
+      [
+        "Leek",
+        "DE"
+      ],
+      [
+        "Grootegast",
+        "NL"
+      ],
+      [
+        "Friesland",
+        "DE"
+      ],
+      [
+        "Marum",
+        "NL"
+      ],
+      [
+        "Groningen",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6304614602696039,
+    "sme_probability": 0.7071355618229913,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Oostwold",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Grunobuurt",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
+  },
+  "08bc91ec56c9eeb01299dcf485088788": {
+    "feed": "L1 Nieuws",
+    "title": "Achtervolging met gestolen motoren eindigt in Roosteren: vier mannen aangehouden",
+    "url": "https://www.l1nieuws.nl/nieuws/3271395/achtervolging-met-gestolen-motoren-eindigt-in-roosteren-vier-mannen-aangehouden",
+    "published": "Thu, 12 Nov 2026 12:09:07 GMT",
+    "summary": "Een nachtelijke achtervolging van Sint Joost naar Roosteren heeft woensdagochtend geleid tot de aanhouding van vier mannen. De politie achtervolgde een auto met aanhanger, waarop meerdere motoren stonden. Bij de arrestatie in Roosteren werd een taser gebruikt.",
+    "full_text": "Een nachtelijke achtervolging van Sint Joost naar Roosteren heeft woensdagochtend geleid tot de aanhouding van vier mannen. De politie achtervolgde een auto met aanhanger, waarop meerdere motoren stonden. Bij de arrestatie in Roosteren werd een taser gebruikt. Dat bevestigt de politie na berichtgeving door VML . Er vielen geen gewonden. De politie kreeg in de nacht van dinsdag op woensdag rond 3:00 uur een auto met aanhanger in het vizier bij knooppunt Het Vonderen in Sint Joost. Het voertuig reed zonder verlichting en vervoerde meerdere motoren. Toen agenten de bestuurder wilden controleren, negeerde die het stopteken en sloeg op de vlucht. De achtervolging voerde onder meer door Roosteren en duurde ruim een kwartier. Tijdens de achtervolging raakten verschillende motoren van de aanhanger. Door de hoge snelheid vielen ze bij verkeersdrempels op de weg. Op het Steenakkerwegske ging het uiteindelijk mis voor de bestuurder: de auto vloog uit de bocht en kon niet meer verder. De vier inzittenden werden daarop aangehouden. Een van hen verzette zich daarbij zo hevig, dat agenten een taser moesten inzetten om hem onder controle te krijgen. Het gaat om mannen van 17, 21, 26 en 40 jaar oud, afkomstig uit Geleen, Sittard en Maastricht. Ze worden verdacht van diefstal van meerdere motoren. De motoren op de aanhanger zijn namelijk vermoedelijk gestolen. De politie onderzoekt de zaak. De politieactie bleef ook in Roosteren niet onopgemerkt. Een ooggetuige zag naar eigen zeggen zeven politiewagens en hoorde een of meerdere politiehonden. De achtervolging zou volgens de getuige meerdere keren door het dorp zijn gegaan.",
+    "scraped_at": "2026-11-13T10:44:48.724765Z",
+    "id": "a373a934dfa47dbdd6fa64da78bfa9ab21c507233c44a7f82d3a549610e8eb38",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3271395/achtervolging-met-gestolen-motoren-eindigt-in-roosteren-vier-mannen-aangehouden",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Een nachtelijke achtervolging van Sint Joost naar Roosteren heeft woensdagochtend geleid tot de aanhouding van vier mannen. De politie achtervolgde een auto met aanhanger, waarop meerdere motoren stonden. Bij de arrestatie in Roosteren werd een taser gebruikt. Dat bevestigt de politie na berichtgeving door VML . Er vielen geen gewonden. De politie kreeg in de nacht van dinsdag op woensdag rond 3:00 uur een auto met aanhanger in het vizier bij knooppunt Het Vonderen in Sint Joost. Het voertuig reed zonder verlichting en vervoerde meerdere motoren. Toen agenten de bestuurder wilden controleren, negeerde die het stopteken en sloeg op de vlucht. De achtervolging voerde onder meer door Roosteren en duurde ruim een kwartier. Tijdens de achtervolging raakten verschillende motoren van de aanhanger. Door de hoge snelheid vielen ze bij verkeersdrempels op de weg. Op het Steenakkerwegske ging het uiteindelijk mis voor de bestuurder: de auto vloog uit de bocht en kon niet meer verder. De vier inzittenden werden daarop aangehouden. Een van hen verzette zich daarbij zo hevig, dat agenten een taser moesten inzetten om hem onder controle te krijgen. Het gaat om mannen van 17, 21, 26 en 40 jaar oud, afkomstig uit Geleen, Sittard en Maastricht. Ze worden verdacht van diefstal van meerdere motoren. De motoren op de aanhanger zijn namelijk vermoedelijk gestolen. De politie onderzoekt de zaak. De politieactie bleef ook in Roosteren niet onopgemerkt. Een ooggetuige zag naar eigen zeggen zeven politiewagens en hoorde een of meerdere politiehonden. De achtervolging zou volgens de getuige meerdere keren door het dorp zijn gegaan.",
+    "locations": [
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "Roosteren",
+        "NL"
+      ],
+      [
+        "Roosteren",
+        "NL"
+      ],
+      [
+        "Sint Joost",
+        "NL"
+      ],
+      [
+        "Roosteren",
+        "NL"
+      ],
+      [
+        "Sittard",
+        "DE"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ],
+      [
+        "Roosteren",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Sint Joost",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "VML",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "Steenakkerwegske",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "49-53"
+    ]
   }
 }
