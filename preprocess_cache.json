@@ -89679,5 +89679,298 @@
       "not_affected",
       "49-53"
     ]
+  },
+  "03902e314b12260cb4c40cf8e2cf5b07": {
+    "feed": "Politie.nl",
+    "title": "24-jarige man aangehouden na incident met waarschuwingsschoten in Vlissingen",
+    "url": "https://www.politie.nl/nieuws/2026/november/13/08-24-jarige-man-aangehouden-na-incident-met-waarschuwingsschoten-in-vlissingen.html",
+    "published": "Fri, 13 Nov 2026 19:16:00 GMT",
+    "summary": "De politie heeft vrijdag 13 november rond 16.30 uur een 24-jarige man uit Vlissingen aangehouden. De man wordt verdacht van betrokkenheid bij het incident op donderdag 12 november aan de Prins Hendriksweg in Vlissingen, waarbij de politie waarschuwingsschoten loste.",
+    "full_text": "De politie hield de verdachte aan in Vlissingen. De man was een van de inzittenden van het voertuig dat betrokken was bij het incident. Hij wordt onder meer verdacht van het medeplegen van poging tot doodslag. Onderzoek gaat verder De aanhouding maakt deel uit van het lopende onderzoek naar het incident. De politie zet het onderzoek voort. Meer informatie over het incident is te lezen in het eerdere bericht.",
+    "scraped_at": "2026-11-14T09:57:11.329923Z",
+    "id": "8ae202f80d4673a6bc76697584ed950a34facfed299bd7b69fd861be681a81ae",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/november/13/08-24-jarige-man-aangehouden-na-incident-met-waarschuwingsschoten-in-vlissingen.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De politie hield de verdachte aan in Vlissingen. De man was een van de inzittenden van het voertuig dat betrokken was bij het incident. Hij wordt onder meer verdacht van het medeplegen van poging tot doodslag. Onderzoek gaat verder De aanhouding maakt deel uit van het lopende onderzoek naar het incident. De politie zet het onderzoek voort. Meer informatie over het incident is te lezen in het eerdere bericht.",
+    "locations": [
+      "Vlissingen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Vlissingen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "unknown",
+      "sector_name": "Unclassified"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": []
+  },
+  "eb63897cdd4f5e9c3ade53c1c383d777": {
+    "feed": "Politie.nl",
+    "title": "Doorzoeking in autobedrijf",
+    "url": "https://www.politie.nl/nieuws/2026/november/13/03-doorzoeking-in-autobedrijf.html",
+    "published": "Fri, 13 Nov 2026 16:45:00 GMT",
+    "summary": "De recherche heeft onderzoek gedaan naar een bedrijf dat stelselmatig verborgen ruimtes in auto’s inbouwt. Twee verdachten zijn aangehouden.",
+    "full_text": "Dinsdag 10 november heeft de recherche een doorzoeking gedaan in een autobedrijf in Amersfoort. De verdenking is dat in het bedrijf auto’s worden voorzien van verborgen ruimtes. Geprepareerde auto’s worden vaak gebruikt door criminelen die bijvoorbeeld drugs of verboden wapens ongezien willen vervoeren. Naast het autobedrijf zijn ook twee woningen in Amersfoort en Hilversum doorzocht. De politie heeft een aantal auto’s in beslag genomen. Een man van 28 jaar oud uit Hilversum en een 49-jarige man uit Amersfoort zijn aangehouden. De 49-jarige man is na verhoor in vrijheid gesteld. De 28-jarige man zit nog vast en wordt vandaag, vrijdag 13 november, voorgeleid aan de Rechter-Commissaris.",
+    "scraped_at": "2026-11-14T09:57:11.330002Z",
+    "id": "086ff72595f7ff7c0c07d152c87b35132229c32c521da2f2b24cab9e9b759e98",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/november/13/03-doorzoeking-in-autobedrijf.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Dinsdag 10 november heeft de recherche een doorzoeking gedaan in een autobedrijf in Amersfoort. De verdenking is dat in het bedrijf auto’s worden voorzien van verborgen ruimtes. Geprepareerde auto’s worden vaak gebruikt door criminelen die bijvoorbeeld drugs of verboden wapens ongezien willen vervoeren. Naast het autobedrijf zijn ook twee woningen in Amersfoort en Hilversum doorzocht. De politie heeft een aantal auto’s in beslag genomen. Een man van 28 jaar oud uit Hilversum en een 49-jarige man uit Amersfoort zijn aangehouden. De 49-jarige man is na verhoor in vrijheid gesteld. De 28-jarige man zit nog vast en wordt vandaag, vrijdag 13 november, voorgeleid aan de Rechter-Commissaris.",
+    "locations": [
+      "Amersfoort"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amersfoort",
+        "NL"
+      ],
+      [
+        "Amersfoort",
+        "NL"
+      ],
+      [
+        "Hilversum",
+        "NL"
+      ],
+      [
+        "Amersfoort",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6304615609480185,
+    "sector_info": {
+      "sector_code": "45",
+      "sector_name": "Wholesale and retail trade and repair of motor vehicles"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "45"
+    ]
+  },
+  "fad7fb066ae8a90edf5dbbb489bd006b": {
+    "feed": "Politie.nl",
+    "title": "Drie mannen aangehouden na ernstige mishandeling",
+    "url": "https://www.politie.nl/nieuws/2026/november/13/drie-mannen-aangehouden-na-ernstige-mishandeling-in-hamstraat.html",
+    "published": "Fri, 13 Nov 2026 12:45:00 GMT",
+    "summary": "De politie heeft donderdag 12 november drie mannen aangehouden op verdenking van betrokkenheid bij een ernstige mishandeling in de Hamstraat in Roermond. Het incident vond plaats op vrijdagavond 6 november. Het slachtoffer, een 34-jarige man uit Roermond, raakte hierbij ernstig gewond.",
+    "full_text": "De openlijke geweldpleging ontstond onverwacht. Een groep mannen rende op een persoon af met wie eerder conflicten waren geweest. Toen het latere slachtoffer tussenbeide kwam om zijn vriend te helpen, keerde de groep zich tegen hem. Zijn vriend wist weg te rennen. De politie hield donderdag drie mannen aan op verdenking van betrokkenheid bij de openlijke geweldpleging. Het onderzoek richt zich op een grotere groep personen die bij het geweld betrokken was. Het gaat om drie mannen van 41 jaar uit Elsloo, 33 jaar uit Sittard en 38 jaar uit Sittard. De verdachten zijn na verhoor heengezonden. Zij hebben een dagvaarding ontvangen en moeten zich op een later moment voor de rechter verantwoorden.",
+    "scraped_at": "2026-11-14T09:57:11.343604Z",
+    "id": "f89d5d0393e2b3b14819a81b5379ab404ac1eaafff3c518fccb243776d896454",
+    "canonical_url": "https://www.politie.nl/nieuws/2026/november/13/drie-mannen-aangehouden-na-ernstige-mishandeling-in-hamstraat.html",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De openlijke geweldpleging ontstond onverwacht. Een groep mannen rende op een persoon af met wie eerder conflicten waren geweest. Toen het latere slachtoffer tussenbeide kwam om zijn vriend te helpen, keerde de groep zich tegen hem. Zijn vriend wist weg te rennen. De politie hield donderdag drie mannen aan op verdenking van betrokkenheid bij de openlijke geweldpleging. Het onderzoek richt zich op een grotere groep personen die bij het geweld betrokken was. Het gaat om drie mannen van 41 jaar uit Elsloo, 33 jaar uit Sittard en 38 jaar uit Sittard. De verdachten zijn na verhoor heengezonden. Zij hebben een dagvaarding ontvangen en moeten zich op een later moment voor de rechter verantwoorden.",
+    "locations": [
+      "Elsloo",
+      "Sittard",
+      "Sittard"
+    ],
+    "country": "DE",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Elsloo",
+        "BE"
+      ],
+      [
+        "Sittard",
+        "DE"
+      ],
+      [
+        "Sittard",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "578d975d2e1c34373fd6670b32beabfa": {
+    "feed": "RTV Noord",
+    "title": "112-nieuws vrijdag 13 november: Fietsers aangereden in Leek en Stad • Minderjarige opgepakt na babbeltruc in Uithuizen",
+    "url": "https://www.rtvnoord.nl/112/1452307/112-nieuws-vrijdag-13-november-fietsers-aangereden-in-leek-en-stad-minderjarige-opgepakt-na-babbeltruc-in-uithuizen",
+    "published": "Fri, 13 Nov 2026 21:54:10 GMT",
+    "summary": "In dit 112-blog houden we je deze vrijdag op de hoogte van het laatste 112-nieuws. Je vindt hier een overzicht van ongelukken, branden, storingen en misdrijven.",
+    "full_text": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Een auto is van de weg geraakt op de Stadsweg bij Lauwerzijl. De auto kwam tot stilstand tegen een aantal takken. De hulpdiensten troffen niemand aan bij de auto. Enkele weken geleden vloog er op deze plek ook al een auto uit de bocht. Op de kruising van het Sontplein en de Sontweg in Stad heeft een aanrijding plaatsgevonden tussen een auto en een fietser. De auto reed na het ongeval door. De fietser raakte gewond en moest behandeld worden in de ambulance, maar hoefde niet mee naar het ziekenhuis. De brandweer kreeg aan het einde van de middag een melding van een schoorsteenbrand in een woning aan de Sellingerstraat in Ter Apel. Bij de woning was geen vuur zichtbaar, maar de brandweer heeft wel een controle uitgevoerd. Vervolgens is de schoorsteen geveegd. Een fietser is gewond geraakt bij een aanrijding op de Diepswal in Leek. De fietser werd door een auto aangereden ter hoogte van een oversteekplaats. Het slachtoffer is overgebracht naar het ziekenhuis. Een minderjarige jongen uit Lelystad is aangehouden in Uithuizen, nadat hij op heterdaad betrapt werd toen hij met een babbeltruc waardevolle spullen probeerde buit te maken. De bewoner van een woning aan de J.F. Kennedylaan belde de politie, nadat iemand telefonisch had gemeld medewerker van een bank te zijn en wilde beoordelen of er waardevolle spullen in huis waren. De minderjarige werd aangehouden, toen hij bij het adres verscheen. Het pand van IKEA aan de Sontweg is korte tijd ontruimd vanwege een storing. Alle klanten werden opgeroepen de winkel te verlaten. Volgens een woordvoerder van het bedrijf ging het ontruimingsalarm af door een technische storing. Uit onderzoek moet blijken door welke storing het bedrijf getroffen is. Er is geen verband met de wereldwijde Microsoft-storing, zegt de woordvoerder. Bij het bedrijf Mobacc BV Aerosols aan de Demeterlaan in Veendam is vanochtend brand uitgebroken. Het pand werd ontruimd. De brandweer had het vuur snel onder controle. Wat er precies in brand heeft gestaan, is nog onbekend. Mobacc is gespecialiseerd in de productie en het afvullen van spuitbussen, waaronder verf, smeermiddelen en reinigingsmiddelen. Bij het bedrijf wordt gewerkt met gevaarlijke en brandbare stoffen. Of deze stoffen bij de brand betrokken waren, is niet bekend. Door een storing bij Microsoft zijn ook de provincie Groningen en gemeenten Oldambt en Het Hogeland momenteel minder goed bereikbaar. 'Hierdoor kan het langer duren voordat u antwoord van ons krijgt', meldt de provincie. Microsoft kampt sinds donderdagmiddag met een wereldwijde storing, meldt de NOS . Verschillende diensten, waaronder Outlook en Microsoft Teams, zijn hierdoor moeilijk bereikbaar of werken helemaal niet. Gebruikers hebben problemen met hun e-mail en kunnen niet online vergaderen. De gemeente Pekela heeft last van een storing, waardoor de afdeling burgerzaken niet open kan. De gemeente meldt dat het daardoor momenteel niet lukt om bijvoorbeeld nieuwe rijbewijzen of reisdocumenten af te halen. Mogelijk houdt de storing verband met de wereldwijde problemen bij Microsoft, waaronder bijvoorbeeld e-maildienst Outlook en vergaderapp Teams uitvallen.",
+    "scraped_at": "2026-11-14T09:58:16.001276Z",
+    "id": "49c22df8b112322fd71e2aded5f8e0c77b1c8abf3af7bfdaff4db76a777b0885",
+    "canonical_url": "https://www.rtvnoord.nl/112/1452307/112-nieuws-vrijdag-13-november-fietsers-aangereden-in-leek-en-stad-minderjarige-opgepakt-na-babbeltruc-in-uithuizen",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Heb je meer informatie over een incident of heb je een andere 112-tip die je met ons wilt bespreken? Mail ons of app naar 050-3199999. Een auto is van de weg geraakt op de Stadsweg bij Lauwerzijl. De auto kwam tot stilstand tegen een aantal takken. De hulpdiensten troffen niemand aan bij de auto. Enkele weken geleden vloog er op deze plek ook al een auto uit de bocht. Op de kruising van het Sontplein en de Sontweg in Stad heeft een aanrijding plaatsgevonden tussen een auto en een fietser. De auto reed na het ongeval door. De fietser raakte gewond en moest behandeld worden in de ambulance, maar hoefde niet mee naar het ziekenhuis. De brandweer kreeg aan het einde van de middag een melding van een schoorsteenbrand in een woning aan de Sellingerstraat in Ter Apel. Bij de woning was geen vuur zichtbaar, maar de brandweer heeft wel een controle uitgevoerd. Vervolgens is de schoorsteen geveegd. Een fietser is gewond geraakt bij een aanrijding op de Diepswal in Leek. De fietser werd door een auto aangereden ter hoogte van een oversteekplaats. Het slachtoffer is overgebracht naar het ziekenhuis. Een minderjarige jongen uit Lelystad is aangehouden in Uithuizen, nadat hij op heterdaad betrapt werd toen hij met een babbeltruc waardevolle spullen probeerde buit te maken. De bewoner van een woning aan de J.F. Kennedylaan belde de politie, nadat iemand telefonisch had gemeld medewerker van een bank te zijn en wilde beoordelen of er waardevolle spullen in huis waren. De minderjarige werd aangehouden, toen hij bij het adres verscheen. Het pand van IKEA aan de Sontweg is korte tijd ontruimd vanwege een storing. Alle klanten werden opgeroepen de winkel te verlaten. Volgens een woordvoerder van het bedrijf ging het ontruimingsalarm af door een technische storing. Uit onderzoek moet blijken door welke storing het bedrijf getroffen is. Er is geen verband met de wereldwijde Microsoft-storing, zegt de woordvoerder. Bij het bedrijf Mobacc BV Aerosols aan de Demeterlaan in Veendam is vanochtend brand uitgebroken. Het pand werd ontruimd. De brandweer had het vuur snel onder controle. Wat er precies in brand heeft gestaan, is nog onbekend. Mobacc is gespecialiseerd in de productie en het afvullen van spuitbussen, waaronder verf, smeermiddelen en reinigingsmiddelen. Bij het bedrijf wordt gewerkt met gevaarlijke en brandbare stoffen. Of deze stoffen bij de brand betrokken waren, is niet bekend. Door een storing bij Microsoft zijn ook de provincie Groningen en gemeenten Oldambt en Het Hogeland momenteel minder goed bereikbaar. 'Hierdoor kan het langer duren voordat u antwoord van ons krijgt', meldt de provincie. Microsoft kampt sinds donderdagmiddag met een wereldwijde storing, meldt de NOS . Verschillende diensten, waaronder Outlook en Microsoft Teams, zijn hierdoor moeilijk bereikbaar of werken helemaal niet. Gebruikers hebben problemen met hun e-mail en kunnen niet online vergaderen. De gemeente Pekela heeft last van een storing, waardoor de afdeling burgerzaken niet open kan. De gemeente meldt dat het daardoor momenteel niet lukt om bijvoorbeeld nieuwe rijbewijzen of reisdocumenten af te halen. Mogelijk houdt de storing verband met de wereldwijde problemen bij Microsoft, waaronder bijvoorbeeld e-maildienst Outlook en vergaderapp Teams uitvallen.",
+    "locations": [
+      "Veendam"
+    ],
+    "country": "NL",
+    "country_score": 0.8571428571428571,
+    "country_evidence": [
+      [
+        "Ter Apel",
+        "NL"
+      ],
+      [
+        "Leek",
+        "DE"
+      ],
+      [
+        "Uithuizen",
+        "NL"
+      ],
+      [
+        "Veendam",
+        "NL"
+      ],
+      [
+        "provincie Groningen",
+        "NL"
+      ],
+      [
+        "Hogeland",
+        "NL"
+      ],
+      [
+        "gemeente Pekela",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6304615852497031,
+    "sme_probability": 0.7071355649089452,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Stadsweg",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Lelystad",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "IKEA",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Mobacc BV Aerosols",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Oldambt",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "NOS",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Microsoft Teams",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
+  },
+  "237384aa3561dea4560010da181243c5": {
+    "feed": "RTV Noord",
+    "title": "Student bezorgt menstruatieproducten gratis dankzij reclame op verpakking",
+    "url": "https://www.rtvnoord.nl/zorg/1452330/student-bezorgt-menstruatieproducten-gratis-dankzij-reclame-op-verpakking",
+    "published": "Fri, 13 Nov 2026 18:00:00 GMT",
+    "summary": "De Groningse start-up 'Something for Nothing' bezorgt vanaf deze week duizenden gratis doosjes tampons en maandverband in de gemeente Groningen. Student en oprichter Jesper Smit betaalt de producten door reclame op de verpakkingen. 'Ik wil zo min mogelijk vrouwen laten betalen voor producten die ze echt nodig hebben.'",
+    "full_text": "De Groningse start-up 'Something for Nothing' bezorgt vanaf deze week duizenden gratis doosjes tampons en maandverband in de gemeente Groningen. Student en oprichter Jesper Smit betaalt de producten door reclame op de verpakkingen. 'Ik wil zo min mogelijk vrouwen laten betalen voor producten die ze echt nodig hebben.' Smit runt het bedrijf vanuit zijn studentenkamer in Stad. Hij kwam op het idee door een Amerikaans bedrijf dat gratis flessen water uitdeelt dankzij reclame op het etiket. 'Dat vond ik zo'n sterk idee dat ik dit naar Nederland wilde halen. 'Water kan je heel makkelijk uit de kraan halen, maar ik wilde dit doen met een product dat eigenlijk gratis zou moeten zijn.' Door gesprekken met vrienden en familie kwam hij uit op tampons en maandverband. 'Waarom betalen vrouwen hier überhaupt voor? Zij kunnen er niks aan doen dat ze ongesteld zijn.' Eén op de acht vrouwen heeft te weinig geld om tampons of maandverband te kopen, blijkt uit onderzoek van het Armoedefonds. Smit: 'Ik wilde hier een oplossing voor bedenken en heb het vorig jaar helemaal uitgerold. In juni zijn we begonnen met een eerste testfase.' Dat bleek een succes: duizend doosjes met menstruatieproducten waren in negen dagen op. De doosjes tampons zelfs binnen 48 uur. Via de site van het bedrijf kon iedereen maximaal twee exemplaren bestellen. Een doosje bevat tien maandverbandjes of zestien tampons. 'Er was heel veel vraag naar', zegt Smit. Dat blijkt: inmiddels staan er 330 mensen op de wachtlijst voor de volgende ronde. Na de eerste proef ontving Smit veel positieve reacties van vrouwen. 'Hier krijg je energie van en daar doe je het uiteindelijk voor', zegt hij. 'Dat geeft ook motivatie om hier elke dag mee bezig te zijn.' Hij wordt er in het dagelijks leven zelfs al op aangesproken. 'Mensen roepen vaak naar mij: hey, tof idee, wanneer komt weer de volgende ronde? Dat is een geweldig gevoel.' Zijn menstruatieproducten inderdaad te duur? Op straat lopen de reacties uiteen. Sommige vrouwen vinden ze duur en willen dat ze gratis worden, anderen vinden het terecht dat ze geld kosten en hebben er geen moeite mee. 'Ik vind het wel duur, maar vergeleken met andere landen valt Nederland wel mee', zegt een vrouw. 'Ik ben in Thailand geweest en daar was het nog veel duurder.' 'Ik besteed er liever mijn geld niet aan', zegt een andere vrouw. 'Iedereen wordt ongesteld, maar niet iedereen verdient genoeg.' Mannen die we op straat spreken, vinden dat vrouwen menstruatieproducten gratis moeten kunnen krijgen. 'Ik denk dat het gratis zou zijn als mannen ook ongesteld zouden worden', zegt een man. Een ander vult aan: 'Vrouwen kunnen er niks aan doen, dus waarom moeten ze ervoor betalen?' Smit houdt zelf ook iets over aan zijn bedrijf. 'Omdat ik het echt als een commercieel model zie dat ik wil laten groeien. Ik denk namelijk dat bedrijven echt de waarde gaan zien van een andere manier adverteren.' 'Zij gaan meer kijken naar een maatschappelijke manier van waarde creëren, zodat je een win-winsituatie hebt. Bedrijven doen iets goeds en dragen hun steentje bij aan de wereld.' Vandaag start de tweede proef. Deze keer zijn er meer producten beschikbaar: in totaal 2000 doosjes, waarvan 1500 met tampons en 500 met maandverband. 'Iedereen die in de gemeente Groningen woont, kan deze producten bestellen. Het wordt dan anoniem in de brievenbus bezorgd.' Inmiddels heeft Smit hulp ingeschakeld om alles te verpakken en te verzenden. Dat gebeurt bij de sociale werkplaats van iederz. Bij de eerste zendingen deed hij dit allemaal zelf op zijn studentenkamer. Het doel van Smit is helder: 'Ik wil zo min mogelijk vrouwen laten betalen voor producten die ze echt nodig hebben.'",
+    "scraped_at": "2026-11-14T09:58:18.155535Z",
+    "id": "9bb83281e71aaa0d7c8a77464133e1f022535947da3ace3ef8d5905827677246",
+    "canonical_url": "https://www.rtvnoord.nl/zorg/1452330/student-bezorgt-menstruatieproducten-gratis-dankzij-reclame-op-verpakking",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "De Groningse start-up 'Something for Nothing' bezorgt vanaf deze week duizenden gratis doosjes tampons en maandverband in de gemeente Groningen. Student en oprichter Jesper Smit betaalt de producten door reclame op de verpakkingen. 'Ik wil zo min mogelijk vrouwen laten betalen voor producten die ze echt nodig hebben.' Smit runt het bedrijf vanuit zijn studentenkamer in Stad. Hij kwam op het idee door een Amerikaans bedrijf dat gratis flessen water uitdeelt dankzij reclame op het etiket. 'Dat vond ik zo'n sterk idee dat ik dit naar Nederland wilde halen. 'Water kan je heel makkelijk uit de kraan halen, maar ik wilde dit doen met een product dat eigenlijk gratis zou moeten zijn.' Door gesprekken met vrienden en familie kwam hij uit op tampons en maandverband. 'Waarom betalen vrouwen hier überhaupt voor? Zij kunnen er niks aan doen dat ze ongesteld zijn.' Eén op de acht vrouwen heeft te weinig geld om tampons of maandverband te kopen, blijkt uit onderzoek van het Armoedefonds. Smit: 'Ik wilde hier een oplossing voor bedenken en heb het vorig jaar helemaal uitgerold. In juni zijn we begonnen met een eerste testfase.' Dat bleek een succes: duizend doosjes met menstruatieproducten waren in negen dagen op. De doosjes tampons zelfs binnen 48 uur. Via de site van het bedrijf kon iedereen maximaal twee exemplaren bestellen. Een doosje bevat tien maandverbandjes of zestien tampons. 'Er was heel veel vraag naar', zegt Smit. Dat blijkt: inmiddels staan er 330 mensen op de wachtlijst voor de volgende ronde. Na de eerste proef ontving Smit veel positieve reacties van vrouwen. 'Hier krijg je energie van en daar doe je het uiteindelijk voor', zegt hij. 'Dat geeft ook motivatie om hier elke dag mee bezig te zijn.' Hij wordt er in het dagelijks leven zelfs al op aangesproken. 'Mensen roepen vaak naar mij: hey, tof idee, wanneer komt weer de volgende ronde? Dat is een geweldig gevoel.' Zijn menstruatieproducten inderdaad te duur? Op straat lopen de reacties uiteen. Sommige vrouwen vinden ze duur en willen dat ze gratis worden, anderen vinden het terecht dat ze geld kosten en hebben er geen moeite mee. 'Ik vind het wel duur, maar vergeleken met andere landen valt Nederland wel mee', zegt een vrouw. 'Ik ben in Thailand geweest en daar was het nog veel duurder.' 'Ik besteed er liever mijn geld niet aan', zegt een andere vrouw. 'Iedereen wordt ongesteld, maar niet iedereen verdient genoeg.' Mannen die we op straat spreken, vinden dat vrouwen menstruatieproducten gratis moeten kunnen krijgen. 'Ik denk dat het gratis zou zijn als mannen ook ongesteld zouden worden', zegt een man. Een ander vult aan: 'Vrouwen kunnen er niks aan doen, dus waarom moeten ze ervoor betalen?' Smit houdt zelf ook iets over aan zijn bedrijf. 'Omdat ik het echt als een commercieel model zie dat ik wil laten groeien. Ik denk namelijk dat bedrijven echt de waarde gaan zien van een andere manier adverteren.' 'Zij gaan meer kijken naar een maatschappelijke manier van waarde creëren, zodat je een win-winsituatie hebt. Bedrijven doen iets goeds en dragen hun steentje bij aan de wereld.' Vandaag start de tweede proef. Deze keer zijn er meer producten beschikbaar: in totaal 2000 doosjes, waarvan 1500 met tampons en 500 met maandverband. 'Iedereen die in de gemeente Groningen woont, kan deze producten bestellen. Het wordt dan anoniem in de brievenbus bezorgd.' Inmiddels heeft Smit hulp ingeschakeld om alles te verpakken en te verzenden. Dat gebeurt bij de sociale werkplaats van iederz. Bij de eerste zendingen deed hij dit allemaal zelf op zijn studentenkamer. Het doel van Smit is helder: 'Ik wil zo min mogelijk vrouwen laten betalen voor producten die ze echt nodig hebben.'",
+    "locations": [
+      "gemeente Groningen"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "gemeente Groningen",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "gemeente Groningen",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6515627117384039,
+    "sme_probability": 0.6809353327149118,
+    "sector_info": {
+      "sector_code": "00",
+      "sector_name": "General business"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Jesper Smit",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Waarom",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      },
+      {
+        "company_name": "Dat",
+        "sector_code": "00",
+        "sector_name": "General business",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "00"
+    ]
   }
 }
