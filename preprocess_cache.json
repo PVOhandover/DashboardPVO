@@ -89972,5 +89972,168 @@
     "all_sectors_in_article": [
       "00"
     ]
+  },
+  "c4e20c1b50ca17a797816476db5d6157": {
+    "feed": "L1 Nieuws",
+    "title": "Scooterrijder zwaargewond bij botsing in Roermond",
+    "url": "https://www.l1nieuws.nl/nieuws/3272334/scooterrijder-zwaargewond-bij-botsing-in-roermond",
+    "published": "Sat, 14 Nov 2026 10:42:42 GMT",
+    "summary": "Bij een verkeersongeval op de Wirosingel in Roermond is zaterdagochtend een scooterrijder zwaargewond geraakt. De bestuurder is met een ambulance naar het ziekenhuis gebracht.",
+    "full_text": "Bij een verkeersongeval op de Wirosingel in Roermond is zaterdagochtend een scooterrijder zwaargewond geraakt. De bestuurder is met een ambulance naar het ziekenhuis gebracht. Het ongeval gebeurde rond 10:45 uur. De scooterrijder reed vanuit het noorden over het fietspad. Een automobilist wilde rechtsaf slaan richting de N80, maar zag de scooter daarbij over het hoofd. De twee kwamen vervolgens met elkaar in botsing. Politie en ambulance kwamen ter plaatse om hulp te verlenen. De scooterrijder is zwaargewond naar het ziekenhuis in Maastricht vervoerd. De politie is een onderzoek gestart naar de omstandigheden van het ongeval.",
+    "scraped_at": "2026-11-15T10:33:53.159168Z",
+    "id": "fbad0ffa72816e8ceda9a3a8d0b1be00fd592cf4d22de58c9aa74e69e87995db",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3272334/scooterrijder-zwaargewond-bij-botsing-in-roermond",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij een verkeersongeval op de Wirosingel in Roermond is zaterdagochtend een scooterrijder zwaargewond geraakt. De bestuurder is met een ambulance naar het ziekenhuis gebracht. Het ongeval gebeurde rond 10:45 uur. De scooterrijder reed vanuit het noorden over het fietspad. Een automobilist wilde rechtsaf slaan richting de N80, maar zag de scooter daarbij over het hoofd. De twee kwamen vervolgens met elkaar in botsing. Politie en ambulance kwamen ter plaatse om hulp te verlenen. De scooterrijder is zwaargewond naar het ziekenhuis in Maastricht vervoerd. De politie is een onderzoek gestart naar de omstandigheden van het ongeval.",
+    "locations": [
+      "Roermond",
+      "Maastricht"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Roermond",
+        "NL"
+      ],
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6300548038123391,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "86",
+      "sector_name": "Human health activities"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "N80",
+        "sector_code": "86",
+        "sector_name": "Human health activities",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "86"
+    ]
+  },
+  "17d3fa20dcf40adbf784a2a2f704faf4": {
+    "feed": "L1 Nieuws",
+    "title": "Grafveld, loopgraaf en harnas gevonden bij nieuwbouw school Maastricht",
+    "url": "https://www.l1nieuws.nl/nieuws/3272303/grafveld-loopgraaf-en-harnas-gevonden-bij-nieuwbouw-school-maastricht",
+    "published": "Sat, 14 Nov 2026 10:09:14 GMT",
+    "summary": "Bij archeologisch onderzoek op het terrein van het nieuwe Sint-Maartenscollege en de sporthal aan de Eenhoornsingel in Maastricht zijn resten gevonden die waarschijnlijk samenhangen met een belegering van de stad in de zestiende of zeventiende eeuw.",
+    "full_text": "Bij archeologisch onderzoek op het terrein van het nieuwe Sint-Maartenscollege en de sporthal aan de Eenhoornsingel in Maastricht zijn resten gevonden die waarschijnlijk samenhangen met een belegering van de stad in de zestiende of zeventiende eeuw. Archeologen vonden volgens Zuidlimburgvandaag onder meer een grafveld, een vermoedelijke belegeringsloopgraaf, een veldoven en delen van militaire uitrusting. In oktober werden op het terrein elf proefopgravingen uitgevoerd van ieder ongeveer honderd vierkante meter. Daarbij kwamen naast het grafveld en de loopgraaf ook een kuil en oude karrensporen aan het licht. Verder werden een helm en een deel van een harnas gevonden. Volgens de gemeente geven de vondsten voldoende aanleiding om het terrein uitgebreider te onderzoeken. De aanvullende opgravingen beginnen medio november en moeten voor kerst zijn afgerond. Daarna worden de aangetroffen resten van het terrein verwijderd. Het onderzoeksgebied wordt tijdens de werkzaamheden met hekken afgesloten. De vondsten hebben ook gevolgen voor de planning van de nieuwbouw. De gemeente verwacht op dit moment een vertraging van ongeveer twee weken. Vooralsnog kan de verdere projectplanning volgens het stadsbestuur wel worden gehaald. Als het vervolgonderzoek nieuwe vondsten oplevert die meer tijd vragen, kan de planning opnieuw worden aangepast.",
+    "scraped_at": "2026-11-15T10:33:54.885067Z",
+    "id": "4d7b9c29ea61d403493df67cb7876f8efe6de090b617a12ad6dc3cf1447bd95a",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3272303/grafveld-loopgraaf-en-harnas-gevonden-bij-nieuwbouw-school-maastricht",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Bij archeologisch onderzoek op het terrein van het nieuwe Sint-Maartenscollege en de sporthal aan de Eenhoornsingel in Maastricht zijn resten gevonden die waarschijnlijk samenhangen met een belegering van de stad in de zestiende of zeventiende eeuw. Archeologen vonden volgens Zuidlimburgvandaag onder meer een grafveld, een vermoedelijke belegeringsloopgraaf, een veldoven en delen van militaire uitrusting. In oktober werden op het terrein elf proefopgravingen uitgevoerd van ieder ongeveer honderd vierkante meter. Daarbij kwamen naast het grafveld en de loopgraaf ook een kuil en oude karrensporen aan het licht. Verder werden een helm en een deel van een harnas gevonden. Volgens de gemeente geven de vondsten voldoende aanleiding om het terrein uitgebreider te onderzoeken. De aanvullende opgravingen beginnen medio november en moeten voor kerst zijn afgerond. Daarna worden de aangetroffen resten van het terrein verwijderd. Het onderzoeksgebied wordt tijdens de werkzaamheden met hekken afgesloten. De vondsten hebben ook gevolgen voor de planning van de nieuwbouw. De gemeente verwacht op dit moment een vertraging van ongeveer twee weken. Vooralsnog kan de verdere projectplanning volgens het stadsbestuur wel worden gehaald. Als het vervolgonderzoek nieuwe vondsten oplevert die meer tijd vragen, kan de planning opnieuw worden aangepast.",
+    "locations": [
+      "Maastricht",
+      "Zuidlimburgvandaag"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Maastricht",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6030084814007092,
+    "sector_info": {
+      "sector_code": "41-43",
+      "sector_name": "Construction"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Archeologen",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      },
+      {
+        "company_name": "Vooralsnog",
+        "sector_code": "41-43",
+        "sector_name": "Construction",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "41-43"
+    ]
+  },
+  "d44f2c1182eef2df2a155daf7ac09e0d": {
+    "feed": "L1 Nieuws",
+    "title": "KLM doet aangifte na powerbankincident Camiel Eurlings",
+    "url": "https://www.l1nieuws.nl/nieuws/3272055/klm-doet-aangifte-na-powerbankincident-camiel-eurlings",
+    "published": "Fri, 13 Nov 2026 14:43:52 GMT",
+    "summary": "KLM heeft aangifte gedaan vanwege het incident waarbij in september een powerbank tijdens een vlucht in brand was gevlogen.",
+    "full_text": "KLM heeft aangifte gedaan vanwege het incident waarbij in september een powerbank tijdens een vlucht in brand was gevlogen. Door die brand kwam de veiligheid in het geding, stelt de luchtvaartmaatschappij. Hoewel KLM niets wil zeggen over de identiteit van de passagier, is bekend dat het gaat om de powerbank van de voormalige KLM-topman en politicus Camiel Eurlings. \"Het is gebruikelijk dat KLM aangifte doet bij grove overtredingen van de veiligheidsregels door passagiers waarbij de veiligheid van een vlucht, passagiers en bemanning in het geding is\", meldt KLM. De brand zou zijn ontstaan tijdens het opladen van de powerbank. Het is tijdens vluchten van KLM verboden om powerbanks op te laden of te gebruiken om het brandgevaar. De luchtvaartmaatschappij zegt aangifte tegen de passagier te hebben gedaan na intern onderzoek naar de gang van zaken. Een woordvoerder van het Openbaar Ministerie zegt dat het OM de aangifte in behandeling neemt. Het OM doet strafrechtelijk onderzoek. Dat wordt uitgevoerd door de luchtvaartpolitie. Eerder werd bekend dat de Onderzoeksraad voor Veiligheid (OVV) ook onderzoek doet naar de brand. Het incident gebeurde tijdens een vlucht van Amsterdam naar Curaçao. Het vliegtuig moest door de brand terugkeren naar Schiphol.",
+    "scraped_at": "2026-11-15T10:34:12.399327Z",
+    "id": "fa0ba996c634ea89e01dc6529185048c592450f96a53f332f5acd517129e09cb",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3272055/klm-doet-aangifte-na-powerbankincident-camiel-eurlings",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "KLM heeft aangifte gedaan vanwege het incident waarbij in september een powerbank tijdens een vlucht in brand was gevlogen. Door die brand kwam de veiligheid in het geding, stelt de luchtvaartmaatschappij. Hoewel KLM niets wil zeggen over de identiteit van de passagier, is bekend dat het gaat om de powerbank van de voormalige KLM-topman en politicus Camiel Eurlings. \"Het is gebruikelijk dat KLM aangifte doet bij grove overtredingen van de veiligheidsregels door passagiers waarbij de veiligheid van een vlucht, passagiers en bemanning in het geding is\", meldt KLM. De brand zou zijn ontstaan tijdens het opladen van de powerbank. Het is tijdens vluchten van KLM verboden om powerbanks op te laden of te gebruiken om het brandgevaar. De luchtvaartmaatschappij zegt aangifte tegen de passagier te hebben gedaan na intern onderzoek naar de gang van zaken. Een woordvoerder van het Openbaar Ministerie zegt dat het OM de aangifte in behandeling neemt. Het OM doet strafrechtelijk onderzoek. Dat wordt uitgevoerd door de luchtvaartpolitie. Eerder werd bekend dat de Onderzoeksraad voor Veiligheid (OVV) ook onderzoek doet naar de brand. Het incident gebeurde tijdens een vlucht van Amsterdam naar Curaçao. Het vliegtuig moest door de brand terugkeren naar Schiphol.",
+    "locations": [
+      "Amsterdam"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Amsterdam",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Camiel Eurlings",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "KLM",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Openbaar Ministerie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Onderzoeksraad voor Veiligheid",
+        "sector_code": "not_affected",
+        "sector_name": "Not affected by incident",
+        "is_victim": false
+      },
+      {
+        "company_name": "OVV",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "not_affected",
+      "62"
+    ]
   }
 }
