@@ -1866,5 +1866,9 @@
   "stad Groningen": {
     "lat": 53.2190652,
     "lon": 6.5680077
+  },
+  "Zaanstreek-Waterland": {
+    "lat": 52.5013977,
+    "lon": 4.9240941
   }
 }
