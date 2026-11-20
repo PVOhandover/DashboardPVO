@@ -1870,5 +1870,21 @@
   "Zaanstreek-Waterland": {
     "lat": 52.5013977,
     "lon": 4.9240941
+  },
+  "Finsterwolde": {
+    "lat": 53.1983282,
+    "lon": 7.083378
+  },
+  "Kessel": {
+    "lat": 51.2912483,
+    "lon": 6.05734
+  },
+  "Oost-Souburg": {
+    "lat": 51.4645556,
+    "lon": 3.6042063
+  },
+  "provincie Noord-Holland": {
+    "lat": 52.3720373,
+    "lon": 4.6304086
   }
 }
