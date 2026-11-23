@@ -92661,5 +92661,178 @@
     "all_sectors_in_article": [
       "62"
     ]
+  },
+  "02d2de06e54f1503631e029aefec7402": {
+    "feed": "L1 Nieuws",
+    "title": "Opnieuw zoektocht naar vermiste Teresa Krug",
+    "url": "https://www.l1nieuws.nl/nieuws/3276385/opnieuw-zoektocht-naar-vermiste-teresa-krug",
+    "published": "Sun, 22 Nov 2026 20:34:59 GMT",
+    "summary": "In het Duitse Haaren, vlak over de Limburgse grens, is opnieuw gezocht naar de vermiste Teresa Krug. Zij is de moeder van Daniel B., die wordt verdacht van de moord op Paul Vossen in Herkenbosch. B. wordt ook in verband gebracht met de vermissing van zijn moeder.",
+    "full_text": "In het Duitse Haaren, vlak over de Limburgse grens, is opnieuw gezocht naar de vermiste Teresa Krug. Zij is de moeder van Daniel B., die wordt verdacht van de moord op Paul Vossen in Herkenbosch. B. wordt ook in verband gebracht met de vermissing van zijn moeder. Volgens Duitse media heeft de zoektocht in een bosgebied niet geleid tot de vondst van de vrouw. De vrouw is al ruim twee jaar niet meer gezien; ze zou nu 71 jaar zijn. Politie en justitie in Nederland en Duitsland gaan ervan uit dat ze niet meer in leven is. Maar verschillende zoektochten hebben nog niets opgeleverd. Vanaf donderdag zou er opnieuw naar de vrouw zijn gezocht. In maart van dit jaar was er ook al een zoekactie, niet ver van het bosgebied waar nu onderzoek is gedaan. Daniel B. zegt met de verdwijning en eventuele dood van zijn moeder niks te maken te hebben. Ook de moord op Vossen ontkent hij. B. zit al een jaar vast. Volgend jaar is de rechtszaak tegen hem. Hoewel zijn moeder nog niet is gevonden, wordt hij ook daarvoor vervolgd. Volgens het onderzoeksteam zijn er genoeg redenen om aan te nemen dat B. ook zijn moeder om het leven heeft gebracht. Dat concludeert het onderzoeksteam onder meer uit spullen die zijn gevonden in een opslagruimte in het Duitse Kirchhoven. Daarin vond de politie plastic zakken en een koffer. In die koffer zaten een laken, een kussen, een T-shirt en delen van een matras. De spullen zaten onder het bloed. Dat bloed bleek van Teresa te zijn. In een andere opslagruimte, die op naam stond van de vrouw zelf, lagen scheppen en een hark. Krug had zelf geen tuin. Mogelijk zijn die spullen gebruikt om het lichaam van Teresa te begraven, aldus de politie.",
+    "scraped_at": "2026-11-23T12:01:49.631102Z",
+    "id": "8e327a79a36b38fc4b1f81db6a692fb259ac2dfbb3bb010d0fb195e502069e25",
+    "canonical_url": "https://www.l1nieuws.nl/nieuws/3276385/opnieuw-zoektocht-naar-vermiste-teresa-krug",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "In het Duitse Haaren, vlak over de Limburgse grens, is opnieuw gezocht naar de vermiste Teresa Krug. Zij is de moeder van Daniel B., die wordt verdacht van de moord op Paul Vossen in Herkenbosch. B. wordt ook in verband gebracht met de vermissing van zijn moeder. Volgens Duitse media heeft de zoektocht in een bosgebied niet geleid tot de vondst van de vrouw. De vrouw is al ruim twee jaar niet meer gezien; ze zou nu 71 jaar zijn. Politie en justitie in Nederland en Duitsland gaan ervan uit dat ze niet meer in leven is. Maar verschillende zoektochten hebben nog niets opgeleverd. Vanaf donderdag zou er opnieuw naar de vrouw zijn gezocht. In maart van dit jaar was er ook al een zoekactie, niet ver van het bosgebied waar nu onderzoek is gedaan. Daniel B. zegt met de verdwijning en eventuele dood van zijn moeder niks te maken te hebben. Ook de moord op Vossen ontkent hij. B. zit al een jaar vast. Volgend jaar is de rechtszaak tegen hem. Hoewel zijn moeder nog niet is gevonden, wordt hij ook daarvoor vervolgd. Volgens het onderzoeksteam zijn er genoeg redenen om aan te nemen dat B. ook zijn moeder om het leven heeft gebracht. Dat concludeert het onderzoeksteam onder meer uit spullen die zijn gevonden in een opslagruimte in het Duitse Kirchhoven. Daarin vond de politie plastic zakken en een koffer. In die koffer zaten een laken, een kussen, een T-shirt en delen van een matras. De spullen zaten onder het bloed. Dat bloed bleek van Teresa te zijn. In een andere opslagruimte, die op naam stond van de vrouw zelf, lagen scheppen en een hark. Krug had zelf geen tuin. Mogelijk zijn die spullen gebruikt om het lichaam van Teresa te begraven, aldus de politie.",
+    "locations": [
+      "Haaren"
+    ],
+    "country": "DE",
+    "country_score": 0.6666666666666666,
+    "country_evidence": [
+      [
+        "Haaren",
+        "DE"
+      ],
+      [
+        "Nederland",
+        "NL"
+      ],
+      [
+        "Duitsland",
+        "DE"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "49-53",
+      "sector_name": "Transportation and storage"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Krug",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Daniel B.",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Paul Vossen",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Duitse media",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      },
+      {
+        "company_name": "Daniel B.",
+        "sector_code": "49-53",
+        "sector_name": "Transportation and storage",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "49-53"
+    ]
+  },
+  "0641faec1e1225e4d45b9f5df35ac227": {
+    "feed": "RTV Noord",
+    "title": "Ook pand in Winschoten dicht na kooigevechten neonazi's in Finsterwolde",
+    "url": "https://www.rtvnoord.nl/112/1454803/ook-pand-in-winschoten-dicht-na-kooigevechten-neonazis-in-finsterwolde",
+    "published": "Sun, 22 Nov 2026 15:33:57 GMT",
+    "summary": "Burgemeester Cora-Yfke Sikkema van de gemeente Oldambt heeft naar aanleiding van de kooigevechten met neonazi's in Finsterwolde een tweede pand voor zes maanden gesloten. Het gaat om een gebouw aan de Parallelweg in Winschoten, waar betrokkenen na afloop van de 'Fight Night' samenkwamen.",
+    "full_text": "Burgemeester Cora-Yfke Sikkema van de gemeente Oldambt heeft naar aanleiding van de kooigevechten met neonazi's in Finsterwolde een tweede pand voor zes maanden gesloten. Het gaat om een gebouw aan de Parallelweg in Winschoten, waar betrokkenen na afloop van de 'Fight Night' samenkwamen. Eerder werd het dorpshuis van Finsterwolde al gesloten. In de kelderzaal van dat pand vonden de gevechten plaats. Televisieprogramma Zembla liet deze week zien hoe tientalen neonazi's samenkwamen om met elkaar op de vuist te gaan . Het gesloten pand in Winschoten was ten tijde van de kooigevechten eigendom van Harm Jan S. Hij is de leider van de Nederlandse tak van de Hammerskins. Deze internationale extreemrechtse, neonazistische groepering organiseerde de kooigevechten in Finsterwolde. S. woont vlak bij het dorpshuis en ging niet in op vragen van Zembla. De makers van het programma onthulden verregaande banden tussen een netwerk van neonazi's en Forum voor Democratie (FvD). Daarbij kwamen ook kooigevechten in Finsterwolde, het Drentse Zuidwolde en het Brabantse Oeffelt aan het licht. De partij heeft daarop zes leden geroyeerd. Op beelden van Zembla is ook te zien hoe betrokkenen bij het kooigevecht in het dorpshuis van Finsterwolde na afloop naar het pand van S. in Winschoten gaan. Sinds vrijdag is dit pand door de politie en gemeentehandhavers gesloten. Dat gebeurde 'op grond van artikel 125 van de Gemeentewet', staat op een papier aan het hek. Het is verboden om het pand te betreden en alle ingangen zijn verzegeld. Artikel 125 van de Gemeentewet geeft het gemeentebestuur de bevoegdheid om zelf in te grijpen. In de wet heet dat 'last onder bestuursdwang'. Het tijdelijk sluiten of verzegelen van een pand dat wordt gebruikt voor illegale activiteiten is daar een voorbeeld van. Een gemeentewoordvoerder bevestigt dat het om hetzelfde pand gaat waar Harm Jan S. na afloop van de kooigevechten met deelnemers en toeschouwers naartoe ging. 'Of het pand op dit moment nog steeds van hem is, is niet bekend', zegt de woordvoerder. 'Ook werd binnen een ontzettend grote hoeveelheid drank aangetroffen. Dat is in strijd met het bestemmingsplan voor deze locatie.' De sluiting geldt tot en met 20 mei 2027.",
+    "scraped_at": "2026-11-23T12:02:48.417751Z",
+    "id": "7d05be1a477c1674c6100aa9c7c9dccd0e16695bf81b0eb9d8caabdaac1ed829",
+    "canonical_url": "https://www.rtvnoord.nl/112/1454803/ook-pand-in-winschoten-dicht-na-kooigevechten-neonazis-in-finsterwolde",
+    "published_ts": null,
+    "source_type": "rss",
+    "clean_geo": "Burgemeester Cora-Yfke Sikkema van de gemeente Oldambt heeft naar aanleiding van de kooigevechten met neonazi's in Finsterwolde een tweede pand voor zes maanden gesloten. Het gaat om een gebouw aan de Parallelweg in Winschoten, waar betrokkenen na afloop van de 'Fight Night' samenkwamen. Eerder werd het dorpshuis van Finsterwolde al gesloten. In de kelderzaal van dat pand vonden de gevechten plaats. Televisieprogramma Zembla liet deze week zien hoe tientalen neonazi's samenkwamen om met elkaar op de vuist te gaan . Het gesloten pand in Winschoten was ten tijde van de kooigevechten eigendom van Harm Jan S. Hij is de leider van de Nederlandse tak van de Hammerskins. Deze internationale extreemrechtse, neonazistische groepering organiseerde de kooigevechten in Finsterwolde. S. woont vlak bij het dorpshuis en ging niet in op vragen van Zembla. De makers van het programma onthulden verregaande banden tussen een netwerk van neonazi's en Forum voor Democratie (FvD). Daarbij kwamen ook kooigevechten in Finsterwolde, het Drentse Zuidwolde en het Brabantse Oeffelt aan het licht. De partij heeft daarop zes leden geroyeerd. Op beelden van Zembla is ook te zien hoe betrokkenen bij het kooigevecht in het dorpshuis van Finsterwolde na afloop naar het pand van S. in Winschoten gaan. Sinds vrijdag is dit pand door de politie en gemeentehandhavers gesloten. Dat gebeurde 'op grond van artikel 125 van de Gemeentewet', staat op een papier aan het hek. Het is verboden om het pand te betreden en alle ingangen zijn verzegeld. Artikel 125 van de Gemeentewet geeft het gemeentebestuur de bevoegdheid om zelf in te grijpen. In de wet heet dat 'last onder bestuursdwang'. Het tijdelijk sluiten of verzegelen van een pand dat wordt gebruikt voor illegale activiteiten is daar een voorbeeld van. Een gemeentewoordvoerder bevestigt dat het om hetzelfde pand gaat waar Harm Jan S. na afloop van de kooigevechten met deelnemers en toeschouwers naartoe ging. 'Of het pand op dit moment nog steeds van hem is, is niet bekend', zegt de woordvoerder. 'Ook werd binnen een ontzettend grote hoeveelheid drank aangetroffen. Dat is in strijd met het bestemmingsplan voor deze locatie.' De sluiting geldt tot en met 20 mei 2027.",
+    "locations": [
+      "Finsterwolde",
+      "Finsterwolde",
+      "Finsterwolde",
+      "Zuidwolde"
+    ],
+    "country": "NL",
+    "country_score": 1.0,
+    "country_evidence": [
+      [
+        "Finsterwolde",
+        "NL"
+      ],
+      [
+        "Finsterwolde",
+        "NL"
+      ],
+      [
+        "Finsterwolde",
+        "NL"
+      ],
+      [
+        "Zuidwolde",
+        "NL"
+      ]
+    ],
+    "crime_prob": 0.6030084814007092,
+    "sme_probability": 0.6300548038123391,
+    "sector_info": {
+      "sector_code": "62",
+      "sector_name": "Computer programming and consultancy"
+    },
+    "companies_with_sectors": [
+      {
+        "company_name": "Cora-Yfke Sikkema van de gemeente Oldambt",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Night",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Televisieprogramma Zembla",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Harm Jan S.",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Forum voor Democratie",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Zembla",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Finsterwolde",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      },
+      {
+        "company_name": "Harm Jan S.",
+        "sector_code": "62",
+        "sector_name": "Computer programming and consultancy",
+        "is_victim": true
+      }
+    ],
+    "all_sectors_in_article": [
+      "62"
+    ]
   }
 }
